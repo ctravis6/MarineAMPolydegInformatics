@@ -1,0 +1,216 @@
+Tg, Index term
+
+lass - transition
+lass transition
+lass Transition
+Tg
+TG
+
+
+Tg, Stop word
+
+% TG
+(nm) RTg
+/Tg
+> Tg
+>Tg
+After Tg
+an δ (Tg)
+anδ (Tg)
+anδ Tg
+at Tg
+ATG
+atTg
+by TG
+Change in Tg
+CTG
+DTG
+dTG/
+dTg/
+E′ (Tg
+E′Tg
+efore Tg
+HTG
+J/
+MPa
+PETG
+R (Tg)
+R(Tg)
+range ofTg
+S/cm
+STG
+T > Tg(tan δ
+T Tg(tan δ
+Td,Tg
+Tf – Tg
+Tg (%)
+TG (0
+Tg (cm3
+Tg (eV)
+Tg (f)
+TG m
+Tg − T0
+Tg +
+Tg) (nm)
+Tg+
+TGA
+TGB
+TGD
+TGF
+TGN
+TGP
+TGS
+TTg
+UTG
+w Tg
+β–Tg
+Δ
+σdc at Tg
+
+
+Tm, Index term
+
+elt temp
+elt Temp
+elting p
+elting temp
+emperature of melt
+Fusion in the
+reezing p
+Tfus
+Tm
+TM (°C)
+TM (K)
+TM (PA11)
+TM (TPU)
+TMc (°C)
+TMp (°C)
+
+
+Tm, Stop word
+
+ – Tm
+%
+/Tm/
+∆
+BET
+DTm
+elting Peak Enthalpy
+FTm
+GPa
+HTm
+or T
+ormation
+−T
+T/T
+Tg/Td/Tm
+Tg/Tm
+Tm (J g−1)
+Tm area
+Tmax
+TMAX
+Tmid
+Tmin
+Tmix
+Tm-T
+TmTPU
+Δ
+
+
+Td, Index term
+
+5% weight loss
+Decomposition
+decomposition temperature
+degradation temperature
+DTGmax
+FDT
+IDT
+IPDT
+MDT
+Offset temperature
+onset [°C]
+Onset temperature
+Onset TGA curve
+Onsets of weight loss
+second onset [°C]
+T0 (°C)a
+T0 [°C]
+T10
+T2[°C]
+T20% [°C]
+T20(°C)
+T3 (K)
+T3[°C]
+T30
+T5
+T–5
+T85
+T95
+Td
+Tend
+Tf (°C)
+TGAc (°C)
+Thermal degradation
+Thermal stability
+Ti (°C)
+TI (°C)
+Tmax
+To (°C)
+TON (°C)
+Tonset
+TOnsetTGA
+Tp
+TP (°C)
+
+
+Td, Stop word
+
+%- T
+% Td
+(h)
+(s)
+4-DTd
+B17T
+B45T
+B51T10
+CM
+curing
+dewet
+Ex
+HT1000
+HT50
+IDT-2BR
+Ignition
+IN
+LCSTend
+LCSTonset
+m2/g
+nm
+NT-5
+ORTdedop
+PAA-T
+PBT-5%
+PFDT
+PNDI-T
+rate
+SBETd 
+T10-
+-T10
+T10 HB
+T100
+T10-75
+T1080
+T5 S1
+T500
+T54
+T560
+T5S
+Tc, onset
+Tdop
+Tendob
+Tmax (oC)
+Tpeak G
+Tpre
+ZT5
+Δ

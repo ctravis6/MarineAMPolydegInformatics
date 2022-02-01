@@ -1,0 +1,78 @@
+
+Marvin  11210611452D          
+
+  2  0  0  0  0  0            999 V2000
+   -0.4125    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+    0.4125    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
+M  CHG  2   1   1   2  -1
+M  END
+> <ID>
+CHEBI:26710
+
+> <NAME>
+sodium chloride
+
+> <DEFINITION>
+An inorganic chloride salt having sodium(1+) as the counterion.
+
+> <STAR>
+3
+
+> <SYNONYM>
+table salt; sodium chloride; salt; rock salt; Natriumchlorid; natrii chloridum; NaCl; Kochsalz; halite; common salt; cloruro sodico; chlorure de sodium
+
+> <IUPAC_NAME>
+sodium chloride
+
+> <FORMULA>
+ClNa
+
+> <MASS>
+58.44247
+
+> <MONOISOTOPIC_MASS>
+57.95862
+
+> <CHARGE>
+0
+
+> <SMILES>
+[Na+].[Cl-]
+
+> <INCHI>
+InChI=1S/ClH.Na/h1H;/q;+1/p-1
+
+> <INCHIKEY>
+FAPWRFPIFSIZLT-UHFFFAOYSA-M
+
+> <BEILSTEIN_REGISTRY_NUMBER>
+3534976
+
+> <CAS_REGISTRY_NUMBER>
+7647-14-5
+
+> <GMELIN_REGISTRY_NUMBER>
+13673
+
+> <REAXYS_REGISTRY_NUMBER>
+3534976
+
+> <CHEMIDPLUS>
+7647-14-5
+
+> <KEGG_COMPOUND_ACCESSION>
+C13563
+
+> <KEGG_DRUG_ACCESSION>
+D02056
+
+> <METACYC_ACCESSION>
+NACL
+
+> <NIST_CHEMISTRY_WEBBOOK>
+7647-14-5
+
+> <WIKIPEDIA_ACCESSION>
+Sodium_Chloride
+
+$$$$

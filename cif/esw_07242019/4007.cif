@@ -1,0 +1,43 @@
+#======================================================================
+
+# Note: Single chain of polyethylene
+# Common_name: Single chain
+
+#----------------------------------------------------------------------
+
+data_1
+_audit_creation_method   'vasp2cif'
+_cell_length_a    20.0
+_cell_length_b    20.0
+_cell_length_c    2.5638899803
+_cell_angle_alpha    90.0
+_cell_angle_beta    90.0
+_cell_angle_gamma    90.0
+
+_symmetry_space_group_name_H-M    'P 1'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+C1   C   0.400493696577101   0.515262140431837   0.750000027901450   1.0
+C2   C   0.429757746261053   0.484738431670330   0.249999993182335   1.0
+H3   H   0.409439306796656   0.569536798703012   0.750000006560072   1.0
+H4   H   0.345888036792019   0.508656565817624   0.749999976908519   1.0
+H5   H   0.420812919629242   0.430463291598656   0.249999987400138   1.0
+H6   H   0.484368238943936   0.491342723778530   0.250000008047479   1.0
+
+
+# Number_of_total_atoms: 6
+# Number_of_atom_type: 2
+# Name_of_each_atom: C H
+# Number_of_each_atom: 2 4
+# Created_by: Lihua Chen (lihua.chen@mse.gatech.edu)
+# Tool: VASP
+# K-points: 1 1 12
+# Pseudopotential: PBE-HSE06
+# Material_class: MC_Pol
+# Geometry_class: GC_PD
+# Bandgap_(eV): 6.94

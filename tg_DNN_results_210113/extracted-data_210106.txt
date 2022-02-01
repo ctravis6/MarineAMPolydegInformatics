@@ -1,0 +1,814 @@
+# All extracted data are not described here not to violate the publisher's text data mining policy for use of scientific articles.
+# True or false for the extracted datum is denoted by "1" in the TP or FP column (the 3rd or 2nd colmun from right), respectively.
+# The excluded polymer data (denoted by "1" in the FN column (the rightmost column)) are also described here.
+
+article-doi	table-label	polymer-name	property-sepcifier	property-value	property	TP	FP	FN
+10.1016/j.polymer.2014.09.021	Table 1	Closed-cell polyurethane foams	Glass transition [°C]	100–150	Tg	1	0	0
+10.1016/j.polymer.2014.11.021	Table 1	PEG-DA	Tg (°C)c	−55	Tg	1	0	0
+10.1016/j.polymer.2014.11.021	Table 1	PEG-DA + 1 phr CNTs	Tg (°C)c	−47	Tg	1	0	0
+10.1016/j.polymer.2014.11.021	Table 1	PEG-DA + 2 phr CNTs	Tg (°C)c	−25	Tg	1	0	0
+10.1016/j.polymer.2014.11.054	Table 1	UPR	Tg °C	94	Tg	1	0	0
+10.1016/j.polymer.2014.11.054	Table 1	2% CNC	Tg °C	97	Tg	0	0	1
+10.1016/j.polymer.2014.11.054	Table 1	4% CNC	Tg °C	98	Tg	0	0	1
+10.1016/j.polymer.2014.11.054	Table 1	6% CNC	Tg °C	96	Tg	0	0	1
+10.1016/j.polymer.2014.11.054	Table 1	2% STCNC	Tg °C	97	Tg	0	0	1
+10.1016/j.polymer.2014.11.054	Table 1	4% STCNC	Tg °C	98	Tg	0	0	1
+10.1016/j.polymer.2014.11.054	Table 1	6% STCNC	Tg °C	99	Tg	0	0	1
+10.1016/j.polymer.2014.11.057	Table 2	PRX1500Me-PU	Tg [°C]	−77	Tg	1	0	0
+10.1016/j.polymer.2014.11.057	Table 2	PRX4000Me-PU	Tg [°C]	−75	Tg	1	0	0
+10.1016/j.polymer.2014.11.057	Table 2	PRX6000Me-PU	Tg [°C]	−73	Tg	1	0	0
+10.1016/j.polymer.2014.11.057	Table 2	CDMe-PU	Tg [°C]	−73	Tg	1	0	0
+10.1016/j.polymer.2014.11.061	Table 2	RHBLPE-1	Tg (°C)	−51.6	Tg	1	0	0
+10.1016/j.polymer.2014.11.061	Table 2	RHBLPE-2	Tg (°C)	−54.4	Tg	1	0	0
+10.1016/j.polymer.2014.11.061	Table 2	RHBLPE-3	Tg (°C)	−62.0	Tg	1	0	0
+10.1016/j.polymer.2014.12.002	Table 2	PEO600-85% Li	Tg (K)	253	Tg	1	0	0
+10.1016/j.polymer.2014.12.002	Table 2	5% PEG600	Tg (K)	251	Tg	1	0	0
+10.1016/j.polymer.2014.12.002	Table 2	10% PEG600	Tg (K)	238	Tg	1	0	0
+10.1016/j.polymer.2014.12.002	Table 2	25% PEG600	Tg (K)	235	Tg	1	0	0
+10.1016/j.polymer.2014.12.002	Table 2	50% PEG600	Tg (K)	221	Tg	1	0	0
+10.1016/j.polymer.2014.12.005	Table 1	Poly(oAP-hda)	Tg (°C)	87	Tg	1	0	0
+10.1016/j.polymer.2014.12.005	Table 1	Poly(oAP-dds)	Tg (°C)	193	Tg	1	0	0
+10.1016/j.polymer.2014.12.009	Table 1	PEU-1	Tgc (°C)	64.1	Tg	1	0	0
+10.1016/j.polymer.2014.12.009	Table 1	PEU-2	Tgc (°C)	47.4	Tg	1	0	0
+10.1016/j.polymer.2014.12.009	Table 1	PEU-3	Tgc (°C)	5.43	Tg	1	0	0
+10.1016/j.polymer.2014.12.009	Table 1	PEU-4	Tgc (°C)	−36.2	Tg	1	0	0
+10.1016/j.polymer.2014.12.009	Table 1	PEU-5	Tgc (°C)	−38.3	Tg	1	0	0
+10.1016/j.polymer.2014.12.009	Table 1	PEU-6	Tgc (°C)	−30.9	Tg	1	0	0
+10.1016/j.polymer.2014.12.009	Table 1	PEU-7	Tgc (°C)	10.4	Tg	1	0	0
+10.1016/j.polymer.2014.12.009	Table 1	PEU-8	Tgc (°C)	25.2	Tg	1	0	0
+10.1016/j.polymer.2014.12.009	Table 1	PEU-9	Tgc (°C)	44.1	Tg	1	0	0
+10.1016/j.polymer.2014.12.009	Table 1	PDIBC	Tgc (°C)	121.8	Tg	1	0	0
+10.1016/j.polymer.2014.12.053	Table 1	PnBAX5	Tg (°C)	−49	Tg	1	0	0
+10.1016/j.polymer.2014.12.053	Table 1	PnBAX8	Tg (°C)	−47.5	Tg	1	0	0
+10.1016/j.polymer.2014.12.053	Table 1	PnBAX20	Tg (°C)	−48.7	Tg	1	0	0
+10.1016/j.polymer.2014.12.053	Table 1	PnBAX40	Tg (°C)	−46.6	Tg	1	0	0
+10.1016/j.polymer.2014.12.053	Table 1	PnBAX60	Tg (°C)	−48.7	Tg	1	0	0
+10.1016/j.polymer.2014.12.053	Table 1	PnBAX115	Tg (°C)	−49.4	Tg	1	0	0
+10.1016/j.polymer.2014.12.053	Table 1	PnBA107	Tg (°C)	−54.8	Tg	1	0	0
+10.1016/j.polymer.2014.12.069	Table 1	PVA	Tg (°C)b	80.9	Tg	1	0	0
+10.1016/j.polymer.2014.12.069	Table 1	S0.1P1	Tg (°C)b	79.9	Tg	1	0	0
+10.1016/j.polymer.2014.12.069	Table 1	S0.3P1	Tg (°C)b	80.4	Tg	1	0	0
+10.1016/j.polymer.2014.12.069	Table 1	S0.5P1	Tg (°C)b	81.5	Tg	1	0	0
+10.1016/j.polymer.2014.12.069	Table 1	S0.7P1	Tg (°C)b	80.6	Tg	1	0	0
+10.1016/j.polymer.2014.12.069	Table 1	S1P1	Tg (°C)b	80.1	Tg	1	0	0
+10.1016/j.polymer.2014.12.069	Table 1	S2P1	Tg (°C)b	81.1	Tg	1	0	0
+10.1016/j.polymer.2015.01.033	Table 1	BP-AZ-CA	Tg (°C)	160	Tg	1	0	0
+10.1016/j.polymer.2015.01.033	Table 1	CH-AZ-CF	Tg (°C)	68	Tg	0	0	1
+10.1016/j.polymer.2015.01.033	Table 1	CH-AZ-NT	Tg (°C)	76	Tg	0	0	1
+10.1016/j.polymer.2015.01.033	Table 1	CH-AZ-CN	Tg (°C)	75	Tg	0	0	1
+10.1016/j.polymer.2015.01.033	Table 1	CH-AZ-CA	Tg (°C)	90	Tg	0	0	1
+10.1016/j.polymer.2015.01.069	Table 1	DDDA	Tg (K)	305	Tg	0	1	0
+10.1016/j.polymer.2015.01.069	Table 1	NDDA	Tg (K)	308	Tg	0	1	0
+10.1016/j.polymer.2015.01.069	Table 1	HDDA	Tg (K)	308	Tg	0	1	0
+10.1016/j.polymer.2015.01.069	Table 1	BDDA	Tg (K)	309	Tg	0	1	0
+10.1016/j.polymer.2015.01.069	Table 1	NPGDA	Tg (K)	310	Tg	0	1	0
+10.1016/j.polymer.2015.01.069	Table 1	TMPTA	Tg (K)	310	Tg	0	1	0
+10.1016/j.polymer.2015.01.069	Table 1	PETA	Tg (K)	309	Tg	0	1	0
+10.1016/j.polymer.2015.01.069	Table 1	MNE-II-10	Tg (K)	305	Tg	0	0	1
+10.1016/j.polymer.2015.01.069	Table 1	MNE-II-9	Tg (K)	308	Tg	0	0	1
+10.1016/j.polymer.2015.01.069	Table 1	MNE-II-6	Tg (K)	308	Tg	0	0	1
+10.1016/j.polymer.2015.01.069	Table 1	MNE-II-4	Tg (K)	309	Tg	0	0	1
+10.1016/j.polymer.2015.01.069	Table 1	MNE-II-3	Tg (K)	310	Tg	0	0	1
+10.1016/j.polymer.2015.01.069	Table 1	MNE-III-3	Tg (K)	310	Tg	0	0	1
+10.1016/j.polymer.2015.01.069	Table 1	MNE-IV-3	Tg (K)	309	Tg	0	0	1
+10.1016/j.polymer.2015.02.016	Table 1	PU75	TgSD (k)	205	Tg	1	0	0
+10.1016/j.polymer.2015.02.016	Table 1	PU88	TgSD (k)	234	Tg	1	0	0
+10.1016/j.polymer.2015.02.016	Table 1	PU60	TgSD (k)	259	Tg	1	0	0
+10.1016/j.polymer.2015.02.029	Table 2	PTA1	Tg (°C)	71.8	Tg	1	0	0
+10.1016/j.polymer.2015.02.029	Table 2	PTA2	Tg (°C)	57.8	Tg	1	0	0
+10.1016/j.polymer.2015.02.029	Table 2	PTA3	Tg (°C)	79.7	Tg	1	0	0
+10.1016/j.polymer.2015.02.029	Table 2	PTA4	Tg (°C)	60.2	Tg	1	0	0
+10.1016/j.polymer.2015.02.029	Table 2	PTA5	Tg (°C)	113.4	Tg	1	0	0
+10.1016/j.polymer.2015.02.029	Table 2	PTA6	Tg (°C)	142.5	Tg	1	0	0
+10.1016/j.polymer.2015.02.036	Table 2	PEG200DA	Tg (°C) (DSC)	+28	Tg	1	0	0
+10.1016/j.polymer.2015.02.036	Table 2	PEG400DA	Tg (°C) (DSC)	- 27	Tg	1	0	0
+10.1016/j.polymer.2015.02.036	Table 2	PEG600DA	Tg (°C) (DSC)	- 41	Tg	1	0	0
+10.1016/j.polymer.2015.02.036	Table 2	PEG200DA-F	Tg (°C) (DSC)	+18	Tg	1	0	0
+10.1016/j.polymer.2015.02.036	Table 2	PEG400DA-F	Tg (°C) (DSC)	- 23	Tg	1	0	0
+10.1016/j.polymer.2015.02.036	Table 2	PEG600DA-F	Tg (°C) (DSC)	- 43	Tg	1	0	0
+10.1016/j.polymer.2015.02.040	Table 5	POSS0	Tg (°C)	112.5	Tg	1	0	0
+10.1016/j.polymer.2015.02.040	Table 5	POSS5	Tg (°C)	107.8	Tg	1	0	0
+10.1016/j.polymer.2015.02.040	Table 5	POSS10	Tg (°C)	102.2	Tg	1	0	0
+10.1016/j.polymer.2015.02.040	Table 5	POSS15	Tg (°C)	136.5	Tg	1	0	0
+10.1016/j.polymer.2015.02.040	Table 5	POSS25	Tg (°C)	134	Tg	1	0	0
+10.1016/j.polymer.2015.03.008	Table 1	PU75	TgSD (K)	209	Tg	1	0	0
+10.1016/j.polymer.2015.03.008	Table 1	PU88	TgSD (K)	228	Tg	1	0	0
+10.1016/j.polymer.2015.03.008	Table 1	PU60	TgSD (K)	253	Tg	1	0	0
+10.1016/j.polymer.2015.03.027	Table 3	P1	Tg [°C]	80	Tg	1	0	0
+10.1016/j.polymer.2015.03.027	Table 3	P2	Tg [°C]	50	Tg	1	0	0
+10.1016/j.polymer.2015.03.027	Table 3	P3	Tg [°C]	50	Tg	1	0	0
+10.1016/j.polymer.2015.03.027	Table 3	P4	Tg [°C]	25	Tg	1	0	0
+10.1016/j.polymer.2015.03.027	Table 3	P5	Tg [°C]	40	Tg	1	0	0
+10.1016/j.polymer.2015.03.027	Table 3	P6	Tg [°C]	35	Tg	1	0	0
+10.1016/j.polymer.2015.03.027	Table 3	P7	Tg [°C]	−10	Tg	1	0	0
+10.1016/j.polymer.2015.03.027	Table 3	P5*a	Tg [°C]	50	Tg	1	0	0
+10.1016/j.polymer.2015.03.027	Table 3	P7*a	Tg [°C]	−16	Tg	1	0	0
+10.1016/j.polymer.2015.03.027	Table 3	P5	Tg [°C]	60	Tg	0	0	1
+10.1016/j.polymer.2015.03.027	Table 3	P6	Tg [°C]	40	Tg	0	0	1
+10.1016/j.polymer.2015.03.027	Table 3	P7	Tg [°C]	−10	Tg	0	0	1
+10.1016/j.polymer.2015.03.056	Table 1	PS/BPO/70.7ka	Bulk Tgd (°C)	101	Tg	1	0	0
+10.1016/j.polymer.2015.03.056	Table 1	PS/AIBN/4.0ka	Bulk Tgd (°C)	86	Tg	1	0	0
+10.1016/j.polymer.2015.03.056	Table 1	PS/BPO/3.5ka	Bulk Tgd (°C)	79	Tg	1	0	0
+10.1016/j.polymer.2015.03.056	Table 1	PS/Anionic/3.6kb	Bulk Tgd (°C)	72	Tg	1	0	0
+10.1016/j.polymer.2015.03.056	Table 1	PMMA/AIBN/2.7ka	Bulk Tgd (°C)	89	Tg	1	0	0
+10.1016/j.polymer.2015.03.056	Table 1	PMMA/Anionic/1.9kb	Bulk Tgd (°C)	75	Tg	1	0	0
+10.1016/j.polymer.2015.03.071	Table 3	LPG	Tg (°C)a	−10	Tg	1	0	0
+10.1016/j.polymer.2015.03.071	Table 3	LPG1	Tg (°C)a	−10	Tg	1	0	0
+10.1016/j.polymer.2015.03.071	Table 3	LPG2	Tg (°C)a	−30	Tg	1	0	0
+10.1016/j.polymer.2015.03.071	Table 3	LPG3	Tg (°C)a	−32	Tg	1	0	0
+10.1016/j.polymer.2015.03.071	Table 3	LPG4	Tg (°C)a	−27	Tg	1	0	0
+10.1016/j.polymer.2015.03.071	Table 3	LPG5	Tg (°C)a	−16	Tg	1	0	0
+10.1016/j.polymer.2015.03.071	Table 3	LPG6	Tg (°C)a	−21	Tg	1	0	0
+10.1016/j.polymer.2015.03.071	Table 3	LPG7	Tg (°C)a	−13	Tg	1	0	0
+10.1016/j.polymer.2015.03.071	Table 3	LPG8	Tg (°C)a	−20	Tg	1	0	0
+10.1016/j.polymer.2015.04.040	Table 3	SBR41/19	Tg DSC/°C	−45	Tg	0	0	1
+10.1016/j.polymer.2015.04.040	Table 3	SBR20/60	Tg DSC/°C	−44	Tg	0	0	1
+10.1016/j.polymer.2015.04.040	Table 3	SBR48/19	Tg DSC/°C	−25	Tg	0	0	1
+10.1016/j.polymer.2015.04.040	Table 5	SBR41/19	Tg DSC	−45	Tg	1	0	0
+10.1016/j.polymer.2015.04.040	Table 5	SBR20/60	Tg DSC	−44	Tg	1	0	0
+10.1016/j.polymer.2015.04.040	Table 5	SBR48/19	Tg DSC	−25	Tg	1	0	0
+10.1016/j.polymer.2015.04.047	Table 1	hbP(GA70-co-5HDON30)	Tgd [°C]	8.9	Tg	1	0	0
+10.1016/j.polymer.2015.04.047	Table 1	hbP(GA65-co-5HDON35)	Tgd [°C]	1.7	Tg	1	0	0
+10.1016/j.polymer.2015.04.047	Table 1	hbP(GA57-co-5HDON43)	Tgd [°C]	0.4	Tg	1	0	0
+10.1016/j.polymer.2015.04.047	Table 1	hbP(GA56-co-5HDON44)	Tgd [°C]	−8.2	Tg	1	0	0
+10.1016/j.polymer.2015.04.047	Table 1	hbP(GA45-co-5HDON55)	Tgd [°C]	−9.4	Tg	1	0	0
+10.1016/j.polymer.2015.04.047	Table 1	hbP(GA36-co-5HDON64)	Tgd [°C]	−16.3	Tg	1	0	0
+10.1016/j.polymer.2015.05.025	Table 1	PBN	Tga	51	Tg	1	0	0
+10.1016/j.polymer.2015.05.025	Table 1	PBN-co(1)-20	Tga	68	Tg	1	0	0
+10.1016/j.polymer.2015.05.025	Table 1	PBN-co(1)-25	Tga	74	Tg	1	0	0
+10.1016/j.polymer.2015.05.050	Table 1	PLA	Tg	59.4	Tg	1	0	0
+10.1016/j.polymer.2015.05.050	Table 1	POM25	Tg	58.6	Tg	1	0	0
+10.1016/j.polymer.2015.05.050	Table 1	POM35	Tg	57.5	Tg	1	0	0
+10.1016/j.polymer.2015.05.050	Table 1	POM40	Tg	56.8	Tg	1	0	0
+10.1016/j.polymer.2015.06.045	Table 2	UPR	Tg (°C)	94.0	Tg	1	0	0
+10.1016/j.polymer.2015.06.045	Table 2	LNR–UPR	Tg (°C)	90.0	Tg	1	0	0
+10.1016/j.polymer.2015.06.045	Table 2	2% CNC–LNR–UPR	Tg (°C)	94.4	Tg	1	0	0
+10.1016/j.polymer.2015.06.045	Table 2	4% CNC–LNR–UPR	Tg (°C)	94.6	Tg	1	0	0
+10.1016/j.polymer.2015.06.045	Table 2	6% CNC–LNR–UPR	Tg (°C)	92.5	Tg	1	0	0
+10.1016/j.polymer.2015.06.045	Table 2	2% STCNC–LNR–UPR	Tg (°C)	91.0	Tg	1	0	0
+10.1016/j.polymer.2015.06.045	Table 2	4% STCNC–LNR–UPR	Tg (°C)	92.0	Tg	1	0	0
+10.1016/j.polymer.2015.06.045	Table 2	6% STCNC–LNR–UPR	Tg (°C)	92.6	Tg	1	0	0
+10.1016/j.polymer.2015.07.046	Table 1	PP2	Tg (K)	∼263c	Tg	1	0	0
+10.1016/j.polymer.2015.07.046	Table 1	HDPE	Tg (K)	∼163c	Tg	1	0	0
+10.1016/j.polymer.2015.09.024	Table 3	PES-NH	Tg (°C)	294	Tg	1	0	0
+10.1016/j.polymer.2015.09.024	Table 3	PES-g-PEO-20	Tg (°C)	232	Tg	1	0	0
+10.1016/j.polymer.2015.09.024	Table 3	PES-g-PEO-40	Tg (°C)	190	Tg	1	0	0
+10.1016/j.polymer.2015.09.024	Table 3	PES-g-PEO-60	Tg (°C)	178	Tg	1	0	0
+10.1016/j.polymer.2015.09.024	Table 3	PES-g-PEO-80	Tg (°C)	173	Tg	1	0	0
+10.1016/j.apsusc.2015.01.170	Table 1	PEG-PLA5	Tg (°C)	28.6	Tg	1	0	0
+10.1016/j.apsusc.2015.01.170	Table 1	PEG-PLA10	Tg (°C)	30.5	Tg	1	0	0
+10.1016/j.apsusc.2015.01.170	Table 1	PEG-PLA20	Tg (°C)	31.0	Tg	1	0	0
+10.1016/j.apsusc.2015.01.170	Table 1	PEG-PLA30	Tg (°C)	35.2	Tg	1	0	0
+10.1016/j.apsusc.2015.01.170	Table 1	PEG-PLA50	Tg (°C)	35.8	Tg	1	0	0
+10.1016/j.apsusc.2015.01.170	Table 1	PEG-PLA70	Tg (°C)	37.1	Tg	1	0	0
+10.1016/j.apsusc.2015.08.254	Table 4	PGMA	Tg (°C)	96	Tg	1	0	0
+10.1016/j.apsusc.2015.08.254	Table 4	PGMA/Cu nanohybrid (1%)	Tg (°C)	99	Tg	1	0	0
+10.1016/j.apsusc.2015.08.254	Table 4	PGMA/Cu nanohybrid (5%)	Tg (°C)	108	Tg	1	0	0
+10.1016/j.apsusc.2015.09.019	Table 3	Unmodified polyacrylic	Tg (°C)	−15	Tg	1	0	0
+10.1016/j.apsusc.2015.09.019	Table 3	Modified polyacrylic with	Tg (°C)	−20 to −14	Tg	1	0	0
+10.1016/j.apsusc.2015.09.019	Table 3	Modified polyacrylic with	Tg (°C)	−25 to −15	Tg	1	0	0
+10.1016/j.apsusc.2015.09.019	Table 3	Modified polyacrylic with	Tg (°C)	−56	Tg	1	0	0
+10.1016/j.apsusc.2015.10.066	Table 1	Polyethylene naphthalate (PEN)	Tg (°C)	121	Tg	1	0	0
+10.1016/j.apsusc.2015.10.066	Table 1	Polyethylene terephthalate (PET)	Tg (°C)	110	Tg	1	0	0
+10.1016/j.apsusc.2015.10.066	Table 1	PolyImide (Kapton)	Tg (°C)	400	Tg	1	0	0
+10.1016/j.apsusc.2016.02.247	Table 2	POM	Glass transition temperature [°C]	−60	Tg	1	0	0
+10.1016/j.apsusc.2016.02.247	Table 2	PEEK	Glass transition temperature [°C]	140	Tg	1	0	0
+10.1016/j.apsusc.2016.03.116	Table 1	PLA	Tg (°C)	55	Tg	1	0	0
+10.1016/j.apsusc.2016.03.116	Table 1	HDPE	Tg (°C)	−80	Tg	1	0	0
+10.1016/j.apsusc.2016.03.116	Table 1	Medical PVC	Tg (°C)	−40	Tg	1	0	0
+10.1016/j.apsusc.2016.03.125	Table 2	PET	Glass transition (°C)	78	Tg	1	0	0
+10.1016/j.apsusc.2016.03.125	Table 2	PMMA	Glass transition (°C)	105 (atactic)	Tg	1	0	0
+10.1016/j.apsusc.2016.03.125	Table 2	TAC	Glass transition (°C)	140–155	Tg	1	0	0
+10.1016/j.apsusc.2016.04.118	Table 4	TPU	Tg(°C)	−28.82	Tg	1	0	0
+10.1016/j.apsusc.2016.04.118	Table 4	TPU/CF(95/5)	Tg(°C)	−20.82	Tg	1	0	0
+10.1016/j.apsusc.2016.04.118	Table 4	TPU/CF(95/5)	Tg(°C)	−25.32	Tg	1	0	0
+10.1016/j.apsusc.2016.04.118	Table 4	TPU/CF(90/10)	Tg(°C)	−16.82	Tg	1	0	0
+10.1016/j.apsusc.2016.04.118	Table 4	TPU/CF(90/10)	Tg(°C)	−18.82	Tg	1	0	0
+10.1016/j.apsusc.2016.04.118	Table 4	TPU/CF(80/20)	Tg(°C)	−3.32	Tg	1	0	0
+10.1016/j.apsusc.2016.04.118	Table 4	TPU/CF(80/20)	Tg(°C)	−10.82	Tg	1	0	0
+10.1016/j.apsusc.2016.04.118	Table 4	TPU/CF(70/30)	Tg(°C)	−6.82	Tg	1	0	0
+10.1016/j.apsusc.2016.12.080	Table 1	P2	Tgc[°C]	168	Tg	1	0	0
+10.1016/j.apsusc.2016.12.080	Table 1	P4	Tgc[°C]	164	Tg	1	0	0
+10.1016/j.apsusc.2016.12.080	Table 1	P5	Tgc[°C]	174	Tg	1	0	0
+10.1016/j.apsusc.2016.12.080	Table 1	P6	Tgc[°C]	142	Tg	1	0	0
+10.1016/j.electacta.2015.01.067	Table 1	PEO	Tg (°C)	−57	Tg	1	0	0
+10.1016/j.electacta.2015.01.067	Table 1	PMMA	Tg (°C)	119	Tg	1	0	0
+10.1016/j.electacta.2015.01.067	Table 1	PBA	Tg (°C)	−53	Tg	1	0	0
+10.1016/j.electacta.2015.03.185	Table 2	LiFePO4/C	TG	2.54	Tg	0	1	0
+10.1016/j.electacta.2015.03.185	Table 2	LiFe0.99V0.01PO4/C	TG	2.53	Tg	0	1	0
+10.1016/j.electacta.2015.03.185	Table 2	LiFe0.97V0.03PO4/C	TG	2.49	Tg	0	1	0
+10.1016/j.electacta.2015.03.185	Table 2	LiFe0.95V0.05PO4/C	TG	2.43	Tg	0	1	0
+10.1016/j.electacta.2015.05.108	Table 2	PC	Tg/K	174	Tg	0	1	0
+10.1016/j.electacta.2015.07.132	Table 2	ET-GPE	Tg/°C	-81,6	Tg	1	0	0
+10.1016/j.electacta.2015.07.132	Table 2	ET-ZnTf2 GPE 1	Tg/°C	-67,5	Tg	1	0	0
+10.1016/j.electacta.2015.07.132	Table 2	ET-ZnTf2 GPE 2	Tg/°C	-58,5	Tg	1	0	0
+10.1016/j.electacta.2015.07.132	Table 2	ET-ZnTf2 GPE 3	Tg/°C	-57,3	Tg	1	0	0
+10.1016/j.electacta.2015.07.132	Table 2	ET-ZnTf2 GPE 4	Tg/°C	-56,9	Tg	1	0	0
+10.1016/j.electacta.2015.07.132	Table 2	ET-ZnTf2 GPE 5	Tg/°C	-53,3	Tg	1	0	0
+10.1016/j.electacta.2015.07.132	Table 2	ET-ZnTf2 GPE 6	Tg/°C	-49,4	Tg	1	0	0
+10.1016/j.electacta.2016.09.141	Table 1	PEO-LiClO4	Tg (°C)	−42.6	Tg	1	0	0
+10.1016/j.electacta.2016.09.141	Table 1	LAGP70-SN0	Tg (°C)	−55.2	Tg	1	0	0
+10.1016/j.electacta.2016.09.141	Table 1	LAGP70-SN3	Tg (°C)	−59.2	Tg	1	0	0
+10.1016/j.electacta.2016.09.141	Table 1	LAGP70-SN6	Tg (°C)	−61.7	Tg	1	0	0
+10.1016/j.electacta.2016.09.141	Table 1	LAGP70-SN9	Tg (°C)	−62.5	Tg	1	0	0
+10.1016/j.electacta.2017.01.142	Table 1	E (Whkg−1)/P (kWkg−1)	RTGH3-12b	6.22/1.60	Tg	0	1	0
+10.1016/j.matchemphys.2014.11.030	Table 2	PMO	WTg (Å)	18.5	Tg	0	1	0
+10.1016/j.matchemphys.2014.11.030	Table 2	1N10PMO	WTg (Å)	18.9	Tg	0	1	0
+10.1016/j.matchemphys.2014.11.030	Table 2	1N25PMO	WTg (Å)	19.4	Tg	0	1	0
+10.1016/j.matchemphys.2014.11.030	Table 2	1N40PMO	WTg (Å)	19.9	Tg	0	1	0
+10.1016/j.matchemphys.2014.11.030	Table 2	2N10PMO	WTg (Å)	18.7	Tg	0	1	0
+10.1016/j.matchemphys.2014.11.030	Table 2	2N25PMO	WTg (Å)	19.2	Tg	0	1	0
+10.1016/j.matchemphys.2014.11.030	Table 2	2N40PMO	WTg (Å)	21.1	Tg	0	1	0
+10.1016/j.matchemphys.2014.11.030	Table 2	3N10PMO	WTg (Å)	16.8	Tg	0	1	0
+10.1016/j.matchemphys.2014.11.030	Table 2	3N25PMO	WTg (Å)	20.3	Tg	0	1	0
+10.1016/j.matchemphys.2014.11.030	Table 2	3N40PMO	WTg (Å)	19.9	Tg	0	1	0
+10.1016/j.matchemphys.2015.02.035	Table 2	Azo-1	Tg, °C	78	Tg	0	1	0
+10.1016/j.matchemphys.2015.02.035	Table 2	Azo-2	Tg, °C	113	Tg	0	1	0
+10.1016/j.matchemphys.2015.02.035	Table 2	Pyr-1	Tg, °C	118	Tg	0	1	0
+10.1016/j.matchemphys.2015.02.035	Table 2	Pyr-2	Tg, °C	127	Tg	0	1	0
+10.1016/j.matchemphys.2015.02.035	Table 2	Pyr-3	Tg, °C	122	Tg	0	1	0
+10.1016/j.matchemphys.2015.02.035	Table 2	Iph-1	Tg, °C	91	Tg	0	1	0
+10.1016/j.matchemphys.2015.02.035	Table 2	Iph-2	Tg, °C	105	Tg	0	1	0
+10.1016/j.matchemphys.2015.05.006	Table 1	DGEBA–MHHPA	Tg (°C)a	155.3	Tg	1	0	0
+10.1016/j.matchemphys.2015.05.006	Table 1	DGEBA–PMSE-0.2	Tg (°C)a	95.4	Tg	1	0	0
+10.1016/j.matchemphys.2015.05.006	Table 1	DGEBA–PMSE-0.4	Tg (°C)a	55.6	Tg	1	0	0
+10.1016/j.matchemphys.2015.05.006	Table 1	PMSE–MHHPA	Tg (°C)a	15.6	Tg	1	0	0
+10.1016/j.matchemphys.2015.09.036	Table 1	Neat PLA	Tg (°C)	65.6	Tg	1	0	0
+10.1016/j.matchemphys.2015.09.036	Table 1	0.5% GO-g-PLA	Tg (°C)	68.6	Tg	1	0	0
+10.1016/j.matchemphys.2015.09.036	Table 1	2.0% GO-g-PLA	Tg (°C)	67.6	Tg	1	0	0
+10.1016/j.ssi.2015.07.002	Table 2	PVC/PEO	Tg (onset) (°C)	59.22	Tg	1	0	0
+10.1016/j.ssi.2015.07.002	Table 2	PVC/PEO:KI	Tg (onset) (°C)	57.15	Tg	1	0	0
+10.1016/j.ssi.2015.07.002	Table 2	PVC/PEO:KI	Tg (onset) (°C)	56.87	Tg	1	0	0
+10.1016/j.ssi.2015.12.001	Table 1	PMCA	Tg/K	299	Tg	1	0	0
+10.1016/j.ssi.2015.12.001	Table 1	(PMCA)1(LiTFSA)0.4	Tg/K	268	Tg	1	0	0
+10.1016/j.ssi.2015.12.001	Table 1	(PMCA)1(LiTFSA)0.6	Tg/K	276	Tg	1	0	0
+10.1016/j.ssi.2015.12.001	Table 1	(PMCA)1(LiTFSA)0.8	Tg/K	278	Tg	1	0	0
+10.1016/j.polymer.2014.10.070	Table 1	PP – cba	Melt temperature [°C]	230	Tm	0	1	0
+10.1016/j.polymer.2014.11.057	Table 2	PRX1500Me-PU	Tm [°C]	20	Tm	1	0	0
+10.1016/j.polymer.2014.11.057	Table 2	PRX4000Me-PU	Tm [°C]	0	Tm	1	0	0
+10.1016/j.polymer.2014.11.057	Table 2	PRX6000Me-PU	Tm [°C]	8	Tm	1	0	0
+10.1016/j.polymer.2014.11.057	Table 2	CDMe-PU	Tm [°C]	3	Tm	1	0	0
+10.1016/j.polymer.2014.11.061	Table 2	RHBLPE-1	Tm1 (°C)	47.5	Tm	1	0	0
+10.1016/j.polymer.2014.11.061	Table 2	RHBLPE-1	Tm2 (°C)	123.8	Tm	1	0	0
+10.1016/j.polymer.2014.11.061	Table 2	RHBLPE-2	Tm1 (°C)	21.7	Tm	1	0	0
+10.1016/j.polymer.2014.11.061	Table 2	RHBLPE-3	Tm1 (°C)	−24.0	Tm	1	0	0
+10.1016/j.polymer.2014.12.004	Table 1	F127	Tmc (°C)	51.9	Tm	1	0	0
+10.1016/j.polymer.2014.12.004	Table 1	PTMC-F127-PTMC	Tmc (°C)	49.4	Tm	1	0	0
+10.1016/j.polymer.2014.12.004	Table 1	PTMAc-F127-PTMAc	Tmc (°C)	47.8	Tm	1	0	0
+10.1016/j.polymer.2014.12.032	Table 2	Nylon 12	Tm (°C)	175.8	Tm	1	0	0
+10.1016/j.polymer.2014.12.032	Table 2	Nylon 12/0.4 wt % raw MWCNT	Tm (°C)	176.5	Tm	1	0	0
+10.1016/j.polymer.2014.12.032	Table 2	Nylon 12/0.4 wt % PL-MWCNT	Tm (°C)	177.5	Tm	1	0	0
+10.1016/j.polymer.2014.12.032	Table 2	Nylon 12/0.8 wt % PL-MWCNT	Tm (°C)	178.3	Tm	1	0	0
+10.1016/j.polymer.2014.12.032	Table 2	Nylon 12/1.2 wt % PL-MWCNT	Tm (°C)	178.7	Tm	1	0	0
+10.1016/j.polymer.2014.12.058	Table 1	PA66	aTm (°C)	257	Tm	1	0	0
+10.1016/j.polymer.2014.12.058	Table 1	PA610	aTm (°C)	213	Tm	1	0	0
+10.1016/j.polymer.2014.12.058	Table 1	PA612	aTm (°C)	216	Tm	1	0	0
+10.1016/j.polymer.2014.12.058	Table 1	PA1012	aTm (°C)	189	Tm	1	0	0
+10.1016/j.polymer.2015.01.046	Table 1	PP-H1	Melt temperature (°C)	220	Tm	1	0	0
+10.1016/j.polymer.2015.01.046	Table 1	PP-H2	Melt temperature (°C)	200	Tm	1	0	0
+10.1016/j.polymer.2015.02.011	Table 1	PN127-g-PTTEMA29	Tm.p.(°C)	124.4	Tm	1	0	0
+10.1016/j.polymer.2015.02.011	Table 1	PN127-g-PTTEMA38	Tm.p.(°C)	127.7	Tm	1	0	0
+10.1016/j.polymer.2015.02.016	Table 1	PU75	TmIIHD(K)	425	Tm	1	0	0
+10.1016/j.polymer.2015.02.016	Table 1	PU75	TmIIIHD(K)	447	Tm	1	0	0
+10.1016/j.polymer.2015.02.016	Table 1	PU88	TmIIHD(K)	418	Tm	1	0	0
+10.1016/j.polymer.2015.02.016	Table 1	PU88	TmIIIHD(K)	443	Tm	1	0	0
+10.1016/j.polymer.2015.02.016	Table 1	PU60	TmIIHD(K)	427	Tm	1	0	0
+10.1016/j.polymer.2015.02.016	Table 1	PU60	TmIIIHD(K)	451	Tm	1	0	0
+10.1016/j.polymer.2015.02.023	Table 1	Thiol crosslinked POA polymera	Tmc °C	56	Tm	1	0	0
+10.1016/j.polymer.2015.02.031	Table 1	PA12	Tm (°C)	183	Tm	1	0	0
+10.1016/j.polymer.2015.02.031	Table 1	PA6	Tm (°C)	222	Tm	1	0	0
+10.1016/j.polymer.2015.03.008	Table 1	PU75	Tm (K)	430–452	Tm	1	0	0
+10.1016/j.polymer.2015.03.008	Table 1	PU88	Tm (K)	420–444	Tm	1	0	0
+10.1016/j.polymer.2015.03.008	Table 1	PU60	Tm (K)	422–455	Tm	1	0	0
+10.1016/j.polymer.2015.03.015	Table 2	PLA	TM (°C)	173	Tm	1	0	0
+10.1016/j.polymer.2015.03.015	Table 2	PLA/0.3	TM (°C)	170	Tm	1	0	0
+10.1016/j.polymer.2015.03.015	Table 2	PLA/0.3/1	TM (°C)	169	Tm	1	0	0
+10.1016/j.polymer.2015.03.015	Table 2	PLA/PHO	TM (°C)	170	Tm	1	0	0
+10.1016/j.polymer.2015.03.015	Table 2	(PLA/PHO)/0.3	TM (°C)	170	Tm	1	0	0
+10.1016/j.polymer.2015.03.015	Table 2	(PLA/PHO)/0.3/1	TM (°C)	169	Tm	1	0	0
+10.1016/j.polymer.2015.03.061	Table 2	PLLA	Tm(α)a,c (°C)	174	Tm	1	0	0
+10.1016/j.polymer.2015.03.061	Table 2	PLLA-T	Tm(α)a,c (°C)	175	Tm	1	0	0
+10.1016/j.polymer.2015.03.061	Table 2	PLLA-D	Tm(α)a,c (°C)	174	Tm	1	0	0
+10.1016/j.polymer.2015.03.061	Table 2	PLLA-D	Tm(SC)a,c (°C)	235	Tm	1	0	0
+10.1016/j.polymer.2015.03.061	Table 2	PLLA-D/T	Tm(α)a,c (°C)	174	Tm	1	0	0
+10.1016/j.polymer.2015.03.061	Table 2	PLLA-D/T	Tm(SC)a,c (°C)	233	Tm	1	0	0
+10.1016/j.polymer.2015.04.036	Table 1	PEG-PDLA	Tmc (°C)	147 (hc)	Tm	1	0	0
+10.1016/j.polymer.2015.04.036	Table 1	PEG-PLLA	Tmc (°C)	144 (hc)	Tm	1	0	0
+10.1016/j.polymer.2015.04.036	Table 1	PEG-PDLA-PLLA	Tmc (°C)	152 (hc)/177 (sc)	Tm	1	0	0
+10.1016/j.polymer.2015.04.036	Table 1	PEG-PDLA-PLLA	Tmc (°C)	163 (sc)	Tm	1	0	0
+10.1016/j.polymer.2015.04.036	Table 1	PEG-PDLA-PLLA	Tmc (°C)	185 (sc)	Tm	1	0	0
+10.1016/j.polymer.2015.04.036	Table 1	non	Tmc (°C)	175 (sc)	Tm	0	0	1
+10.1016/j.polymer.2015.05.050	Table 1	POM25	Tmc	134.5	Tm	1	0	0
+10.1016/j.polymer.2015.05.050	Table 1	POM35	Tmc	136.5	Tm	1	0	0
+10.1016/j.polymer.2015.05.050	Table 1	POM40	Tmc	139.3	Tm	1	0	0
+10.1016/j.polymer.2015.05.050	Table 1	POM50	Tmc	140.0	Tm	1	0	0
+10.1016/j.polymer.2015.05.050	Table 1	POM60	Tmc	145.3	Tm	1	0	0
+10.1016/j.polymer.2015.05.050	Table 1	POM75	Tmc	145.6	Tm	1	0	0
+10.1016/j.polymer.2015.05.050	Table 1	POM	Tmc	146.8	Tm	1	0	0
+10.1016/j.polymer.2015.05.051	Table 1	LDPE 501l	Melting point (°C)	109	Tm	1	0	0
+10.1016/j.polymer.2015.05.051	Table 1	LDPE 5004l	Melting point (°C)	110	Tm	1	0	0
+10.1016/j.polymer.2015.05.051	Table 1	LDPE 722	Melting point (°C)	105	Tm	1	0	0
+10.1016/j.polymer.2015.07.001	Table 1	PBT	Tm (oC)	208.3/222.0	Tm	1	0	0
+10.1016/j.polymer.2015.07.001	Table 1	PTT	Tm (oC)	203.8/224.6	Tm	1	0	0
+10.1016/j.polymer.2015.07.001	Table 1	PET	Tm (oC)	206.1/255.2	Tm	1	0	0
+10.1016/j.polymer.2015.07.039	Table 2	PMAO	Tm (K)	412.7	Tm	0	1	0
+10.1016/j.polymer.2015.07.039	Table 2	PMAO + BHT	Tm (K)	411.9	Tm	0	1	0
+10.1016/j.polymer.2015.07.039	Table 2	1	Tm (K)	411.6	Tm	0	0	1
+10.1016/j.polymer.2015.07.039	Table 2	2	Tm (K)	413.3	Tm	0	0	1
+10.1016/j.polymer.2015.07.039	Table 2	3	Tm (K)	412.7	Tm	0	0	1
+10.1016/j.polymer.2015.07.039	Table 2	4	Tm (K)	411.9	Tm	0	0	1
+10.1016/j.polymer.2015.07.039	Table 2	5	Tm (K)	412.2	Tm	0	0	1
+10.1016/j.polymer.2015.07.039	Table 2	6	Tm (K)	412.2	Tm	0	0	1
+10.1016/j.polymer.2015.07.039	Table 2	7	Tm (K)	413.3	Tm	0	0	1
+10.1016/j.polymer.2015.07.039	Table 2	8	Tm (K)	412.3	Tm	0	0	1
+10.1016/j.polymer.2015.08.045	Table 2	Neat PCL	Tm (°C)	59.2	Tm	1	0	0
+10.1016/j.polymer.2015.08.045	Table 2	12 PCL/10% IC-4	Tm (°C)	62.2	Tm	1	0	0
+10.1016/j.polymer.2015.08.045	Table 2	12 PCL/5% IC-6	Tm (°C)	62.8	Tm	1	0	0
+10.1016/j.polymer.2015.08.045	Table 2	12 PCL/10% IC-6	Tm (°C)	64.6	Tm	1	0	0
+10.1016/j.polymer.2015.08.045	Table 2	12 PCL/15% IC-6	Tm (°C)	62.9	Tm	1	0	0
+10.1016/j.polymer.2015.08.055	Table 1	PVDF	Tm	164	Tm	1	0	0
+10.1016/j.polymer.2015.08.055	Table 1	PVDF/DB12.5	Tm	167	Tm	1	0	0
+10.1016/j.polymer.2015.08.055	Table 1	PVDF/DB25	Tm	161	Tm	1	0	0
+10.1016/j.polymer.2015.08.055	Table 1	PVDF/DB50	Tm	157	Tm	1	0	0
+10.1016/j.polymer.2015.08.055	Table 1	PVDF/DB70	Tm	152	Tm	1	0	0
+10.1016/j.polymer.2015.08.055	Table 1	PVDF/B6.25	Tm	165	Tm	1	0	0
+10.1016/j.polymer.2015.08.055	Table 1	PVDF/B9	Tm	165	Tm	1	0	0
+10.1016/j.polymer.2015.08.055	Table 1	PVDF/B25	Tm	165	Tm	1	0	0
+10.1016/j.polymer.2015.10.017	Table 1	HDPE	Tmb	132	Tm	1	0	0
+10.1016/j.polymer.2015.10.017	Table 1	EOC30	Tmb	96	Tm	0	0	1
+10.1016/j.polymer.2015.10.017	Table 1	EOC60	Tmb	59	Tm	0	0	1
+10.1016/j.polymer.2015.10.023	Table 3	P-1a	Tm in °C	4.8/171.6	Tm	1	0	0
+10.1016/j.polymer.2015.10.023	Table 3	P-1b	Tm in °C	3.5/175.3	Tm	1	0	0
+10.1016/j.polymer.2015.10.023	Table 3	P-2a	Tm in °C	170.0	Tm	1	0	0
+10.1016/j.polymer.2015.10.023	Table 3	P-2b	Tm in °C	8.4/169.8	Tm	1	0	0
+10.1016/j.polymer.2015.11.019	Table 1	PE	Tm (°C)	131	Tm	1	0	0
+10.1016/j.polymer.2015.11.019	Table 1	PEGO1	Tm (°C)	132	Tm	1	0	0
+10.1016/j.polymer.2015.11.019	Table 1	PEGO2	Tm (°C)	133	Tm	1	0	0
+10.1016/j.polymer.2015.11.019	Table 1	PEGO3	Tm (°C)	132	Tm	1	0	0
+10.1016/j.polymer.2015.11.019	Table 1	PEGO4	Tm (°C)	134	Tm	1	0	0
+10.1016/j.polymer.2015.11.019	Table 1	PERGO1	Tm (°C)	134	Tm	1	0	0
+10.1016/j.polymer.2015.11.019	Table 1	PERGO2	Tm (°C)	132	Tm	1	0	0
+10.1016/j.polymer.2015.11.019	Table 1	PEGNS1a	Tm (°C)	132	Tm	1	0	0
+10.1016/j.polymer.2015.11.019	Table 1	PEGNS2a	Tm (°C)	131	Tm	1	0	0
+10.1016/j.polymer.2015.11.019	Table 1	PEGNS3a	Tm (°C)	132	Tm	1	0	0
+10.1016/j.polymer.2015.11.040	Table 2	PH-0	Tm (DSC), °C	49.8	Tm	1	0	0
+10.1016/j.polymer.2015.11.040	Table 2	PH-AAm	Tm (DSC), °C	46.5	Tm	1	0	0
+10.1016/j.polymer.2015.11.040	Table 2	PH-HEMA	Tm (DSC), °C	47.2	Tm	1	0	0
+10.1016/j.polymer.2015.11.040	Table 2	PH-0	Tm (DMTA), °C	65	Tm	1	0	0
+10.1016/j.polymer.2015.11.040	Table 2	PH-AAm	Tm (DMTA), °C	61	Tm	1	0	0
+10.1016/j.polymer.2015.11.040	Table 2	PH-HEMA	Tm (DMTA), °C	58	Tm	1	0	0
+10.1016/j.polymer.2015.11.055	Table 1	PCL38-2MAL	Tm(°C)d	50	Tm	1	0	0
+10.1016/j.polymer.2015.11.055	Table 1	PCL76-4MAL	Tm(°C)d	50	Tm	1	0	0
+10.1016/j.polymer.2015.11.055	Table 1	PCL76-4FUR	Tm(°C)d	48	Tm	1	0	0
+10.1016/j.polymer.2016.01.005	Table 2	PCL	Tm (°C)	67.1	Tm	1	0	0
+10.1016/j.polymer.2016.01.005	Table 2	mPDAP-5wt%	Tm (°C)	65.1	Tm	1	0	0
+10.1016/j.polymer.2016.01.005	Table 2	mPDAP-10wt%	Tm (°C)	64.4	Tm	1	0	0
+10.1016/j.polymer.2016.01.005	Table 2	mPDAP-15wt%	Tm (°C)	66.2	Tm	1	0	0
+10.1016/j.polymer.2016.01.005	Table 2	PDAP-5wt%	Tm (°C)	67.5	Tm	1	0	0
+10.1016/j.polymer.2016.01.005	Table 2	PDAP-10wt%	Tm (°C)	63.9	Tm	1	0	0
+10.1016/j.polymer.2016.01.005	Table 2	PDAP-15wt%	Tm (°C)	65.3	Tm	1	0	0
+10.1016/j.polymer.2016.01.035	Table 1	HDPE	Tm (°C)a	129.3	Tm	1	0	0
+10.1016/j.polymer.2016.01.035	Table 1	LDPE	Tm (°C)a	113.3	Tm	1	0	0
+10.1016/j.polymer.2016.01.035	Table 1	PPDL	Tm (°C)a	95.2	Tm	1	0	0
+10.1016/j.polymer.2016.02.004	Table 2	PLA	Tm (°C)	170.2	Tm	1	0	0
+10.1016/j.polymer.2016.02.004	Table 2	PLAD	Tm (°C)	168.6	Tm	1	0	0
+10.1016/j.polymer.2016.02.004	Table 2	PLADCNC1	Tm (°C)	165.5	Tm	1	0	0
+10.1016/j.polymer.2016.02.004	Table 2	PLADCNC2	Tm (°C)	169.1	Tm	1	0	0
+10.1016/j.polymer.2016.02.004	Table 2	PLADCNC3	Tm (°C)	169.8	Tm	1	0	0
+10.1016/j.polymer.2016.02.004	Table 2	rPLA	Tm (°C)	169.0	Tm	1	0	0
+10.1016/j.polymer.2016.02.004	Table 2	rPLACNC1(1.35)	Tm (°C)	169.7	Tm	1	0	0
+10.1016/j.polymer.2016.02.004	Table 2	rPLACNC2(3.33)	Tm (°C)	167.7	Tm	1	0	0
+10.1016/j.polymer.2016.02.004	Table 2	rPLACNC3(5.15)	Tm (°C)	166.4	Tm	1	0	0
+10.1016/j.polymer.2016.02.010	Table 1	UPy	Tm	140	Tm	0	1	0
+10.1016/j.polymer.2016.02.010	Table 1	UPy	Tm	160	Tm	0	1	0
+10.1016/j.polymer.2016.02.010	Table 1	1	Tm	136	Tm	0	0	1
+10.1016/j.polymer.2016.02.010	Table 1	2	Tm	138	Tm	0	0	1
+10.1016/j.polymer.2016.02.010	Table 1	3	Tm	140	Tm	0	0	1
+10.1016/j.polymer.2016.02.010	Table 1	4	Tm	156	Tm	0	0	1
+10.1016/j.polymer.2016.02.010	Table 1	5	Tm	159	Tm	0	0	1
+10.1016/j.polymer.2016.02.010	Table 1	6	Tm	160	Tm	0	0	1
+10.1016/j.polymer.2016.02.010	Table 1	7	Tm	161	Tm	0	0	1
+10.1016/j.polymer.2016.02.010	Table 1	8	Tm	150	Tm	0	0	1
+10.1016/j.polymer.2016.02.023	Table 2	4A PCL	Tm (oC)	52.9	Tm	1	0	0
+10.1016/j.polymer.2016.02.023	Table 2	Linear PCL	Tm (oC)	60.7	Tm	0	0	1
+10.1016/j.polymer.2016.03.007	Table 5	PLA0	Tm (°C)	153.72	Tm	1	0	0
+10.1016/j.polymer.2016.03.007	Table 5	PLA3	Tm (°C)	152.73	Tm	1	0	0
+10.1016/j.polymer.2016.03.007	Table 5	PLA7	Tm (°C)	155.99	Tm	1	0	0
+10.1016/j.polymer.2016.03.007	Table 5	PLA8	Tm (°C)	156.22	Tm	1	0	0
+10.1016/j.polymer.2016.03.007	Table 5	PLA9	Tm (°C)	156.54	Tm	1	0	0
+10.1016/j.polymer.2016.03.007	Table 5	PLA10	Tm (°C)	156.97	Tm	1	0	0
+10.1016/j.polymer.2016.03.071	Table 1	PET	Tm/°C	254.1	Tm	1	0	0
+10.1016/j.polymer.2016.03.071	Table 1	PET1%	Tm/°C	251.6	Tm	1	0	0
+10.1016/j.polymer.2016.03.071	Table 1	PET2%	Tm/°C	251.8	Tm	1	0	0
+10.1016/j.polymer.2016.03.071	Table 4	Draw rate/s−1	Tm/°C	0.1	Tm	0	1	0
+10.1016/j.polymer.2016.03.071	Table 4	Draw rate/s−1	Tm/°C	0.2	Tm	0	1	0
+10.1016/j.polymer.2016.03.071	Table 4	PET	Tm/°C	253.6	Tm	1	0	0
+10.1016/j.polymer.2016.03.071	Table 4	PET	Tm/°C	251.8	Tm	1	0	0
+10.1016/j.polymer.2016.03.071	Table 4	PET1%	Tm/°C	255.3	Tm	1	0	0
+10.1016/j.polymer.2016.03.071	Table 4	PET1%	Tm/°C	254.8	Tm	1	0	0
+10.1016/j.polymer.2016.03.071	Table 4	PET2%	Tm/°C	256.1	Tm	1	0	0
+10.1016/j.polymer.2016.03.071	Table 4	PET2%	Tm/°C	256.0	Tm	1	0	0
+10.1016/j.polymer.2016.03.092	Table 2	P3HT	Tm1b(°C)	231	Tm	1	0	0
+10.1016/j.polymer.2016.03.092	Table 2	B1 (3.5)	Tm1b(°C)	228	Tm	0	0	1
+10.1016/j.polymer.2016.03.092	Table 2	B1 (3.5)	Tm2b(°C)	242	Tm	0	0	1
+10.1016/j.polymer.2016.03.092	Table 2	B2 (5.4)	Tm1b(°C)	226	Tm	0	0	1
+10.1016/j.polymer.2016.03.092	Table 2	B2 (5.4)	Tm2b(°C)	238	Tm	0	0	1
+10.1016/j.polymer.2016.03.092	Table 2	B3 (9.6)	Tm1b(°C)	227	Tm	0	0	1
+10.1016/j.polymer.2016.03.092	Table 2	B3 (9.6)	Tm2b(°C)	242	Tm	0	0	1
+10.1016/j.polymer.2016.04.001	Table 1	L-PDLA	Tmb (°C)	170.6	Tm	1	0	0
+10.1016/j.polymer.2016.04.001	Table 1	3PDLA	Tmb (°C)	164.2	Tm	1	0	0
+10.1016/j.polymer.2016.04.001	Table 1	4PDLA	Tmb (°C)	164.9	Tm	1	0	0
+10.1016/j.polymer.2016.04.001	Table 1	6PDLA	Tmb (°C)	163.7/151.9	Tm	1	0	0
+10.1016/j.polymer.2016.04.001	Table 2	PLLA	Tm (°C)	162.9/167.4	Tm	1	0	0
+10.1016/j.polymer.2016.04.001	Table 2	PLLA/L-PDLA	Tm (°C)	165.4	Tm	1	0	0
+10.1016/j.polymer.2016.04.001	Table 2	PLLA/3PDLA	Tm (°C)	166.1	Tm	1	0	0
+10.1016/j.polymer.2016.04.001	Table 2	PLLA/4PDLA	Tm (°C)	164.7	Tm	1	0	0
+10.1016/j.polymer.2016.04.001	Table 2	PLLA/6PDLA	Tm (°C)	116.1	Tm	1	0	0
+10.1016/j.polymer.2016.05.001	Table 1	1.5	Tm (°C)	172.2	Tm	0	1	0
+10.1016/j.polymer.2016.05.001	Table 1	13	Tm (°C)	155.3	Tm	0	1	0
+10.1016/j.polymer.2016.05.001	Table 1	13 + PEG 1 wt%	Tm (°C)	61.6, 157.2	Tm	0	1	0
+10.1016/j.polymer.2016.05.001	Table 1	A2003	Tm (°C)	172.2	Tm	0	0	1
+10.1016/j.polymer.2016.05.001	Table 1	V20HE	Tm (°C)	155.3	Tm	0	0	1
+10.1016/j.polymer.2016.05.001	Table 1	V20HT	Tm (°C)	61.6, 157.2	Tm	0	0	1
+10.1016/j.polymer.2016.05.029	Table 1	PE	Tm (°C)	139	Tm	1	0	0
+10.1016/j.polymer.2016.05.029	Table 1	PECNT	Tm (°C)	138	Tm	1	0	0
+10.1016/j.polymer.2016.05.029	Table 1	PECNT-Fe	Tm (°C)	141	Tm	1	0	0
+10.1016/j.polymer.2016.05.029	Table 1	PECNT-Fe	Tm (°C)	139	Tm	1	0	0
+10.1016/j.polymer.2016.05.029	Table 1	PECNT	Tm (°C)	138	Tm	0	0	1
+10.1016/j.polymer.2016.05.038	Table 1	PA1012	a Tm (°C)	189	Tm	1	0	0
+10.1016/j.apsusc.2015.01.147	Table 5	Control	Tm (°C)	167.9	Tm	1	0	0
+10.1016/j.apsusc.2015.01.147	Table 5	Control	Tm (°C)	152.4	Tm	1	0	0
+10.1016/j.apsusc.2015.01.147	Table 5	PP	Tm (°C)	146.6	Tm	1	0	0
+10.1016/j.apsusc.2015.01.147	Table 5	PP	Tm (°C)	136.0	Tm	1	0	0
+10.1016/j.apsusc.2015.01.147	Table 5	CL	Tm (°C)	161.5	Tm	1	0	0
+10.1016/j.apsusc.2015.01.147	Table 5	CL	Tm (°C)	133.7	Tm	1	0	0
+10.1016/j.apsusc.2015.01.147	Table 5	L1	Tm (°C)	147.1	Tm	1	0	0
+10.1016/j.apsusc.2015.01.147	Table 5	L1	Tm (°C)	132.3	Tm	1	0	0
+10.1016/j.apsusc.2015.01.147	Table 5	L2	Tm (°C)	147.3	Tm	1	0	0
+10.1016/j.apsusc.2015.01.147	Table 5	L2	Tm (°C)	134.4	Tm	1	0	0
+10.1016/j.apsusc.2015.01.147	Table 5	L3	Tm (°C)	148.3	Tm	1	0	0
+10.1016/j.apsusc.2015.01.147	Table 5	L3	Tm (°C)	134.3	Tm	1	0	0
+10.1016/j.apsusc.2015.02.134	Table 2	PFDA	Tm1 (°C)	75.2	Tm	1	0	0
+10.1016/j.apsusc.2015.02.134	Table 2	PFDA10-b-PCL20	Tm1 (°C)	67.0	Tm	1	0	0
+10.1016/j.apsusc.2015.02.134	Table 2	PFDA10-b-PCL20	Tm2 (°C)	44.8	Tm	1	0	0
+10.1016/j.apsusc.2015.02.134	Table 2	PFDA10-b-PCL40	Tm1 (°C)	70.6	Tm	1	0	0
+10.1016/j.apsusc.2015.02.134	Table 2	PFDA10-b-PCL40	Tm2 (°C)	50.0	Tm	1	0	0
+10.1016/j.apsusc.2015.02.134	Table 2	TMP-PCL10	Tm2 (°C)	50.8	Tm	1	0	0
+10.1016/j.apsusc.2015.02.134	Table 2	FPCL20	Tm2 (°C)	50.0	Tm	1	0	0
+10.1016/j.apsusc.2015.04.027	Table 3	PA-0	Tm (°C)	172.6	Tm	1	0	0
+10.1016/j.apsusc.2015.04.027	Table 3	PA-1	Tm (°C)	171.3	Tm	1	0	0
+10.1016/j.apsusc.2015.04.027	Table 3	PA-2	Tm (°C)	170.9	Tm	1	0	0
+10.1016/j.apsusc.2015.04.027	Table 3	PA-3	Tm (°C)	170.5	Tm	1	0	0
+10.1016/j.apsusc.2015.04.027	Table 3	PA-4	Tm (°C)	170.2	Tm	1	0	0
+10.1016/j.apsusc.2015.04.027	Table 3	PA-5	Tm (°C)	169.8	Tm	1	0	0
+10.1016/j.apsusc.2015.05.126	Table 2	1%Sm-VPO	Tm (K)	800	Tm	0	1	0
+10.1016/j.apsusc.2015.05.126	Table 2	3%Sm-VPO	Tm (K)	791	Tm	0	1	0
+10.1016/j.apsusc.2015.05.126	Table 2	5%Sm-VPO	Tm (K)	754	Tm	0	1	0
+10.1016/j.apsusc.2015.05.126	Table 2	10%Sm-VPO	Tm (K)	752	Tm	0	1	0
+10.1016/j.apsusc.2015.10.019	Table 2	PET	Melting Temperature, Tm	523K [32]	Tm	1	0	0
+10.1016/j.apsusc.2015.12.049	Table 1	PVDF	Tm, °C	168.9	Tm	1	0	0
+10.1016/j.apsusc.2015.12.049	Table 1	PVDF/ZnO	Tm, °C	168.9	Tm	1	0	0
+10.1016/j.apsusc.2015.12.049	Table 1	PVDF/5Cl8HQ	Tm, °C	166.7	Tm	1	0	0
+10.1016/j.apsusc.2015.12.049	Table 1	PVDF-HFP	Tm, °C	142.7	Tm	1	0	0
+10.1016/j.apsusc.2015.12.049	Table 1	PVDF-HFP/ZnO	Tm, °C	142.1	Tm	1	0	0
+10.1016/j.apsusc.2015.12.049	Table 1	PVDF-HFP/5Cl8HQ	Tm, °C	140.5	Tm	1	0	0
+10.1016/j.apsusc.2016.01.127	Table 1	[P444-12][Si111-2SO3]	Melting point	−6	Tm	0	1	0
+10.1016/j.apsusc.2016.01.127	Table 1	[P444-16][Si111-2SO3]	Melting point	5	Tm	0	1	0
+10.1016/j.apsusc.2016.01.127	Table 1	[P444-12][Si111-3SO3]	Melting point	2	Tm	0	1	0
+10.1016/j.apsusc.2016.01.127	Table 1	[P444-16][Si111-3SO3]	Melting point	−5	Tm	0	1	0
+10.1016/j.apsusc.2016.02.247	Table 2	POM	Crystalline melt temperature [°C]	178	Tm	1	0	0
+10.1016/j.apsusc.2016.02.247	Table 2	PEEK	Crystalline melt temperature [°C]	340	Tm	1	0	0
+10.1016/j.apsusc.2016.03.116	Table 1	PLA	Tm (°C)	150	Tm	1	0	0
+10.1016/j.apsusc.2016.03.116	Table 1	HDPE	Tm (°C)	140	Tm	1	0	0
+10.1016/j.apsusc.2016.03.159	Table 2	PEO	Tm (°C)	66.72	Tm	1	0	0
+10.1016/j.apsusc.2016.03.159	Table 2	2wt.% clay	Tm (°C)	69.89	Tm	0	0	1
+10.1016/j.apsusc.2016.03.159	Table 2	5wt.% clay	Tm (°C)	68.78	Tm	0	0	1
+10.1016/j.apsusc.2016.03.159	Table 2	8wt.% clay	Tm (°C)	69.19	Tm	0	0	1
+10.1016/j.apsusc.2016.03.159	Table 2	2wt.% clay	Tm (°C)	68.79	Tm	0	0	1
+10.1016/j.apsusc.2016.03.159	Table 2	5wt.% clay	Tm (°C)	72.10	Tm	0	0	1
+10.1016/j.apsusc.2016.03.159	Table 2	8wt.% clay	Tm (°C)	67.44	Tm	0	0	1
+10.1016/j.apsusc.2016.03.159	Table 2	2wt.% clay	Tm (°C)	72.61	Tm	0	0	1
+10.1016/j.apsusc.2016.03.159	Table 2	5wt.% clay	Tm (°C)	68.56	Tm	0	0	1
+10.1016/j.apsusc.2016.03.159	Table 2	8wt.% clay	Tm (°C)	72.69	Tm	0	0	1
+10.1016/j.apsusc.2016.03.159	Table 2	2wt.% clay	Tm (°C)	69.94	Tm	0	0	1
+10.1016/j.apsusc.2016.03.159	Table 2	5wt.% clay	Tm (°C)	70.52	Tm	0	0	1
+10.1016/j.apsusc.2016.03.159	Table 2	8wt.% clay	Tm (°C)	70.13	Tm	0	0	1
+10.1016/j.apsusc.2016.03.205	Table 1	High density polyethylene	Melting Point	90–140°C	Tm	0	0	1
+10.1016/j.apsusc.2016.03.205	Table 6	HDPE	Tm (°C)	136.02	Tm	1	0	0
+10.1016/j.apsusc.2016.03.205	Table 6	PE-C	Tm (°C)	134.57	Tm	1	0	0
+10.1016/j.apsusc.2016.03.205	Table 6	PE-C1	Tm (°C)	133.62	Tm	1	0	0
+10.1016/j.apsusc.2016.03.205	Table 6	PE-C2	Tm (°C)	133.33	Tm	1	0	0
+10.1016/j.apsusc.2016.03.205	Table 6	PE-C3	Tm (°C)	133.12	Tm	1	0	0
+10.1016/j.apsusc.2016.07.164	Table 4	HDPE	Tm (°C)	131.8	Tm	1	0	0
+10.1016/j.apsusc.2016.07.164	Table 4	HDPE/CNT-WT	Tm (°C)	132.4	Tm	1	0	0
+10.1016/j.apsusc.2016.07.164	Table 4	HDPE/CNT-H	Tm (°C)	131.5	Tm	1	0	0
+10.1016/j.apsusc.2016.07.164	Table 4	HDPE/CNT-Ac	Tm (°C)	131.5	Tm	1	0	0
+10.1016/j.apsusc.2016.12.080	Table 1	P2	Tmc[°C]	205	Tm	1	0	0
+10.1016/j.apsusc.2016.12.080	Table 1	P4	Tmc[°C]	205	Tm	1	0	0
+10.1016/j.apsusc.2016.12.080	Table 1	P5	Tmc[°C]	212	Tm	1	0	0
+10.1016/j.apsusc.2016.12.080	Table 1	P6	Tmc[°C]	234	Tm	1	0	0
+10.1016/j.apsusc.2017.03.243	Table 1	PP	Tm/°C	164.1	Tm	1	0	0
+10.1016/j.apsusc.2017.03.243	Table 1	CPP	Tm/°C	158.9	Tm	1	0	0
+10.1016/j.apsusc.2017.03.243	Table 1	CPP-cg-MMA	Tm/°C	160.5	Tm	1	0	0
+10.1016/j.apsusc.2017.03.243	Table 1	PP Power	Tm/°C	143.9	Tm	1	0	0
+10.1016/j.apsusc.2017.03.243	Table 1	CPP-cg-MMA Powder	Tm/°C	139.1	Tm	0	1	0
+10.1016/j.electacta.2015.04.034	Table 1	PVdF (0kGy)	Tm/ °C	169	Tm	1	0	0
+10.1016/j.electacta.2015.04.034	Table 1	PVdF (150kGy)	Tm/ °C	166.5	Tm	1	0	0
+10.1016/j.electacta.2015.04.034	Table 1	PVdF (PVdF 300kGy)	Tm/ °C	163	Tm	1	0	0
+10.1016/j.electacta.2016.03.089	Table 1	NaClO4	Tm [°C]	468	Tm	1	0	0
+10.1016/j.electacta.2016.03.089	Table 1	NaPF6	Tm [°C]	300	Tm	1	0	0
+10.1016/j.electacta.2016.03.089	Table 2	Propylene carbonate (PC)	Tm [°C]	−48.8	Tm	0	1	0
+10.1016/j.electacta.2016.03.089	Table 2	Ethylene carbonate (EC)	Tm [°C]	36.4	Tm	0	1	0
+10.1016/j.electacta.2016.03.089	Table 2	Dimethyl-carbonate (DMC)	Tm [°C]	4.6	Tm	0	1	0
+10.1016/j.electacta.2016.08.020	Table 2	PVdF-0D	Tm (°C)	169	Tm	1	0	0
+10.1016/j.electacta.2016.08.020	Table 2	PVdF-6D	Tm (°C)	169	Tm	1	0	0
+10.1016/j.electacta.2016.08.020	Table 2	PVdF-12D	Tm (°C)	168	Tm	1	0	0
+10.1016/j.electacta.2016.08.020	Table 2	PVdF-20D	Tm (°C)	167	Tm	1	0	0
+10.1016/j.electacta.2016.08.020	Table 2	PVdF-0P	Tm (°C)	169	Tm	1	0	0
+10.1016/j.electacta.2016.08.020	Table 2	PVdF-6P	Tm (°C)	170	Tm	1	0	0
+10.1016/j.electacta.2016.08.020	Table 2	PVdF-12P	Tm (°C)	169	Tm	1	0	0
+10.1016/j.electacta.2016.08.020	Table 2	PVdF-20P	Tm (°C)	170	Tm	1	0	0
+10.1016/j.electacta.2016.11.176	Table 1	MPIm-FSI	Melting temperature (°C)	–22.9	Tm	0	1	0
+10.1016/j.electacta.2016.11.176	Table 1	MPPyr-FSI	Melting temperature (°C)	–10.2	Tm	0	1	0
+10.1016/j.electacta.2016.11.176	Table 1	MeoMPyr-FSI	Melting temperature (°C)	–30.3	Tm	0	1	0
+10.1016/j.matchemphys.2014.11.024	Table 2	Pd55	Tm/K	821 (1828)	Tm	0	1	0
+10.1016/j.matchemphys.2014.11.024	Table 2	Pd13(Pd29Ni13)	Tm/K	806	Tm	0	1	0
+10.1016/j.matchemphys.2014.11.024	Table 2	Ni13Pd42	Tm/K	876	Tm	0	1	0
+10.1016/j.matchemphys.2014.11.024	Table 2	Pd13Ni42	Tm/K	752	Tm	0	1	0
+10.1016/j.matchemphys.2014.11.024	Table 2	Ni13(Ni29Pd13)	Tm/K	754	Tm	0	1	0
+10.1016/j.matchemphys.2014.11.024	Table 2	Ni55	Tm/K	700 (1728)	Tm	0	1	0
+10.1016/j.matchemphys.2014.12.004	Table 5	LDPE	Tm (oC)	135.58	Tm	1	0	0
+10.1016/j.matchemphys.2014.12.004	Table 5	R-LDPE	Tm (oC)	135.01	Tm	1	0	0
+10.1016/j.matchemphys.2014.12.004	Table 5	R-LDPE	Tm (oC)	126.45	Tm	1	0	0
+10.1016/j.matchemphys.2014.12.004	Table 5	R-LDPE	Tm (oC)	127.63	Tm	1	0	0
+10.1016/j.matchemphys.2014.12.004	Table 5	R-LDPE	Tm (oC)	128.04	Tm	1	0	0
+10.1016/j.matchemphys.2015.03.025	Table 1	PMN-PT28	Tm [°C]	132	Tm	0	1	0
+10.1016/j.matchemphys.2015.03.025	Table 1	PMN-PT37	Tm [°C]	187	Tm	0	1	0
+10.1016/j.matchemphys.2015.03.025	Table 1	PP28-F	Tm [°C]	123	Tm	0	1	0
+10.1016/j.matchemphys.2015.03.025	Table 1	PP37-F	Tm [°C]	182	Tm	0	1	0
+10.1016/j.matchemphys.2015.03.025	Table 1	PMN-PT28	tanδ at Tm	0.024	Tm	0	1	0
+10.1016/j.matchemphys.2015.03.025	Table 1	PMN-PT37	tanδ at Tm	0.032	Tm	0	1	0
+10.1016/j.matchemphys.2015.03.025	Table 1	PP28-F	tanδ at Tm	0.095	Tm	0	1	0
+10.1016/j.matchemphys.2015.03.025	Table 1	PP37-F	tanδ at Tm	0.063	Tm	0	1	0
+10.1016/j.matchemphys.2015.05.058	Table 1	ICP	Fe48Cr15Mo14C15B6Tm2	χ-Fe36Cr12Mo10	Tm	0	1	0
+10.1016/j.matchemphys.2015.05.058	Table 1	ICP	Co48Cr15Mo14C15B6Tm2	(Cr,Co)23C6 + Co6Mo6C	Tm	0	1	0
+10.1016/j.matchemphys.2015.09.036	Table 1	Neat PLA	Tm (°C)	174.8	Tm	1	0	0
+10.1016/j.matchemphys.2015.09.036	Table 1	0.5% GO-g-PLA	Tm (°C)	175.2	Tm	1	0	0
+10.1016/j.matchemphys.2015.09.036	Table 1	2.0% GO-g-PLA	Tm (°C)	175.0	Tm	1	0	0
+10.1016/j.matchemphys.2016.02.074	Table 2	Ag55	Tm/K	662 (1234)	Tm	0	1	0
+10.1016/j.matchemphys.2016.02.074	Table 2	Ag13(Ag29Pd13)	Tm/K	∼700	Tm	0	1	0
+10.1016/j.matchemphys.2016.02.074	Table 2	Pd13Ag42	Tm/K	736	Tm	0	1	0
+10.1016/j.matchemphys.2016.02.074	Table 2	Ag13Pd42	Tm/K	∼800	Tm	0	1	0
+10.1016/j.matchemphys.2016.02.074	Table 2	Pd13(Pd29Ag13)	Tm/K	826	Tm	0	1	0
+10.1016/j.matchemphys.2016.02.074	Table 2	Pd55	Tm/K	821 (1828)	Tm	0	1	0
+10.1016/j.matchemphys.2016.12.008	Table 2	HSPI	Melting point [˚C]	250.4	Tm	0	1	0
+10.1016/j.msea.2015.10.071	Table 1	HCP	Tm [˚C]	1539	Tm	0	1	0
+10.1016/j.msea.2015.10.071	Table 1	HCP	Tm [˚C]	1670	Tm	0	1	0
+10.1016/j.msea.2015.10.071	Table 1	HCP	Tm [˚C]	1850	Tm	0	1	0
+10.1016/j.msea.2015.10.071	Table 1	BCC	Tm [˚C]	2477	Tm	0	1	0
+10.1016/j.ssi.2015.02.006	Table 1	PC	Tm/°C	−48.8	Tm	0	1	0
+10.1016/j.ssi.2015.03.024	Table 1	PVA	Tm (°C)	223	Tm	1	0	0
+10.1016/j.ssi.2015.03.024	Table 1	PVA+40-IL	Tm (°C)	189	Tm	1	0	0
+10.1016/j.ssi.2015.03.024	Table 1	PVA+60-IL	Tm (°C)	150	Tm	1	0	0
+10.1016/j.ssi.2015.07.002	Table 2	PVC/PEO	Tm (°C)	62.53	Tm	1	0	0
+10.1016/j.ssi.2015.07.002	Table 2	PVC/PEO:KI	Tm (°C)	61.65	Tm	1	0	0
+10.1016/j.ssi.2015.07.002	Table 2	PVC/PEO:KI	Tm (°C)	60.43	Tm	1	0	0
+10.1016/j.ssi.2016.01.019	Table 2	NCPE-1	Tm (°C)	148.8	Tm	1	0	0
+10.1016/j.ssi.2016.01.019	Table 2	NCPE-2	Tm (°C)	146.5	Tm	1	0	0
+10.1016/j.ssi.2016.01.019	Table 2	NCPE-3	Tm (°C)	149.0	Tm	1	0	0
+10.1016/j.ssi.2016.01.019	Table 2	NCPE-4	Tm (°C)	150.7	Tm	1	0	0
+10.1016/j.ssi.2016.01.019	Table 2	NCPE-0	Tm (°C)	150.8	Tm	0	0	1
+10.1016/j.ssi.2016.12.032	Table 1	PC	Melting point/°C	−54a	Tm	0	1	0
+10.1016/j.ssi.2016.12.032	Table 1	EMC	Melting point/°C	−55a	Tm	0	1	0
+10.1016/j.ssi.2016.12.032	Table 1	MP	Melting point/°C	−87b	Tm	0	1	0
+10.1016/j.polymer.2014.11.033	Table 1	(R,R)-PTB5	Td5 (°C)c	326	Td	1	0	0
+10.1016/j.polymer.2014.11.033	Table 1	(S,S)-PTB5	Td5 (°C)c	323	Td	1	0	0
+10.1016/j.polymer.2014.11.033	Table 1	PTB5	Td5 (°C)c	326	Td	1	0	0
+10.1016/j.polymer.2014.12.054	Table 2	PNIPAm-1	Tmax (°C)b	34.9 ± 0.1	Td	0	1	0
+10.1016/j.polymer.2014.12.054	Table 2	PNIPAm-1	Tmax (°C)c	32.8	Td	0	1	0
+10.1016/j.polymer.2015.01.008	Table 1	PFDTBT-C12	Tdb (°C)	407	Td	1	0	0
+10.1016/j.polymer.2015.01.008	Table 1	PFDTBT-Cz1	Tdb (°C)	399	Td	1	0	0
+10.1016/j.polymer.2015.01.008	Table 1	PFDTBT-Cz3	Tdb (°C)	346	Td	1	0	0
+10.1016/j.polymer.2015.01.016	Table 1	Neat PP pellets (as received)	Tonset (°C)	121	Td	0	1	0
+10.1016/j.polymer.2015.01.016	Table 1	Neat PP (after SSSP)	Tonset (°C)	122	Td	0	1	0
+10.1016/j.polymer.2015.01.016	Table 1	PP-BPO/1	Tonset (°C)	118	Td	0	1	0
+10.1016/j.polymer.2015.01.016	Table 1	PP-BPO/2	Tonset (°C)	118	Td	0	1	0
+10.1016/j.polymer.2015.01.016	Table 1	PP-BPO/3	Tonset (°C)	121	Td	0	1	0
+10.1016/j.polymer.2015.01.016	Table 1	PP-BPO/4	Tonset (°C)	119	Td	0	1	0
+10.1016/j.polymer.2015.01.016	Table 1	PP-BPO/5	Tonset (°C)	119	Td	0	1	0
+10.1016/j.polymer.2015.01.044	Table 1	Pure PVA at 45 °C	Tp	191.2	Td	0	1	0
+10.1016/j.polymer.2015.01.044	Table 1	Pure PVA at 60 °C	Tp	188.4	Td	0	1	0
+10.1016/j.polymer.2015.01.044	Table 1	0.2 %Vol at 45 °C	Tp	193.1	Td	0	1	0
+10.1016/j.polymer.2015.01.044	Table 1	0.1% Vol at 60 °C	Tp	194.7	Td	0	1	0
+10.1016/j.polymer.2015.01.055	Table 1	BPhPR	Ti (°C)	195	Td	0	1	0
+10.1016/j.polymer.2015.01.055	Table 1	BPhPR	Tp1 (°C)	279	Td	0	1	0
+10.1016/j.polymer.2015.01.055	Table 1	BPhPR	Tf (°C)	336	Td	0	1	0
+10.1016/j.polymer.2015.02.022	Table 1	P2	Tdeg1	165 °C	Td	1	0	0
+10.1016/j.polymer.2015.02.022	Table 1	P1	Tdeg2	342 °C	Td	1	0	0
+10.1016/j.polymer.2015.02.022	Table 1	P2	Tdeg2	344 °C	Td	0	0	1
+10.1016/j.polymer.2015.02.022	Table 1	P1	Tdeg1	184 °C	Td	0	0	1
+10.1016/j.polymer.2015.04.020	Table 1	P1	Td5e (°C)	307	Td	1	0	0
+10.1016/j.polymer.2015.04.020	Table 1	P2	Td5e (°C)	294	Td	1	0	0
+10.1016/j.polymer.2015.04.020	Table 1	P3	Td5e (°C)	289	Td	1	0	0
+10.1016/j.polymer.2015.04.022	Table 2	Uncoated	T5% (°C)a	189	Td	1	0	0
+10.1016/j.polymer.2015.04.022	Table 2	Uncoated	Tmax (°C)b	386	Td	1	0	0
+10.1016/j.polymer.2015.04.022	Table 2	1 BL CH-APP	T5% (°C)a	226	Td	1	0	0
+10.1016/j.polymer.2015.04.022	Table 2	1 BL CH-APP	Tmax (°C)b	387	Td	1	0	0
+10.1016/j.polymer.2015.04.022	Table 2	2 BL CH-APP	T5% (°C)a	233	Td	1	0	0
+10.1016/j.polymer.2015.04.022	Table 2	2 BL CH-APP	Tmax (°C)b	382	Td	1	0	0
+10.1016/j.polymer.2015.04.061	Table 1	P1	Td(5%)b/°C	432	Td	1	0	0
+10.1016/j.polymer.2015.04.061	Table 1	P2	Td(5%)b/°C	430	Td	1	0	0
+10.1016/j.polymer.2015.04.075	Table 1	Cross-linked NP-NBI	Td10 (°C)	324	Td	1	0	0
+10.1016/j.polymer.2015.04.075	Table 1	Cross-linked NP-NBI	Td10 (°C)	346	Td	1	0	0
+10.1016/j.polymer.2015.04.075	Table 1	Cross-linked NP-PBI	Td10 (°C)	352	Td	1	0	0
+10.1016/j.polymer.2015.04.075	Table 1	Cross-linked NP-PBI	Td10 (°C)	334	Td	1	0	0
+10.1016/j.polymer.2015.04.079	Table 1	PNDTBT	Td (°C)e	336	Td	1	0	0
+10.1016/j.polymer.2015.04.079	Table 1	PNT2FTBT	Td (°C)e	341	Td	1	0	0
+10.1016/j.polymer.2015.04.079	Table 1	PN2FTBT	Td (°C)e	372	Td	1	0	0
+10.1016/j.polymer.2015.05.007	Table 1	LPMPSQ19	Td (°C)c	385	Td	1	0	0
+10.1016/j.polymer.2015.05.007	Table 1	LPMPSQ28	Td (°C)c	390	Td	1	0	0
+10.1016/j.polymer.2015.05.007	Table 1	LPMPSQ37	Td (°C)c	394	Td	1	0	0
+10.1016/j.polymer.2015.05.007	Table 1	LPMPSQ46	Td (°C)c	398	Td	1	0	0
+10.1016/j.polymer.2015.05.007	Table 1	LPMPSQ55	Td (°C)c	403	Td	1	0	0
+10.1016/j.polymer.2015.05.007	Table 1	LPMPSQ64	Td (°C)c	406	Td	1	0	0
+10.1016/j.polymer.2015.05.007	Table 1	LPMPSQ73	Td (°C)c	410	Td	1	0	0
+10.1016/j.polymer.2015.05.007	Table 1	LPMPSQ82	Td (°C)c	413	Td	1	0	0
+10.1016/j.polymer.2015.05.007	Table 1	LPMPSQ91	Td (°C)c	420	Td	1	0	0
+10.1016/j.polymer.2015.05.025	Table 1	PBN	Tendoa	242, 247	Td	1	0	0
+10.1016/j.polymer.2015.05.025	Table 1	PBN-co(1)-20	Tendoa	214, 242	Td	1	0	0
+10.1016/j.polymer.2015.05.025	Table 1	PBN-co(1)-25	Tendoa	226, 240	Td	1	0	0
+10.1016/j.polymer.2015.05.033	Table 1	PTVTBT	Td (°C)a	311.6	Td	1	0	0
+10.1016/j.polymer.2015.05.033	Table 1	PTVTBO	Td (°C)a	300.6	Td	1	0	0
+10.1016/j.polymer.2015.05.035	Table 2	P1	Td (°C)d	324	Td	1	0	0
+10.1016/j.polymer.2015.05.035	Table 2	P2	Td (°C)d	346	Td	1	0	0
+10.1016/j.polymer.2015.05.035	Table 2	P3	Td (°C)d	371	Td	1	0	0
+10.1016/j.polymer.2015.06.055	Table 2	SPAES	Td,5 wt% a [oC]	306.1	Td	1	0	0
+10.1016/j.polymer.2015.06.055	Table 2	SPAES/Si	Td,5 wt% a [oC]	318.6	Td	1	0	0
+10.1016/j.polymer.2015.06.055	Table 2	SPAES/S–Si	Td,5 wt% a [oC]	300.3	Td	1	0	0
+10.1016/j.polymer.2015.06.055	Table 2	SPAES/P–Si	Td,5 wt% a [oC]	315.2	Td	1	0	0
+10.1016/j.polymer.2015.07.042	Table 1	PA11	T95a [°C]	390.7	Td	1	0	0
+10.1016/j.polymer.2015.07.042	Table 1	PA11	Tpeakb [°C]	438.8	Td	1	0	0
+10.1016/j.polymer.2015.07.042	Table 1	PA11-C3	T95a [°C]	407.8	Td	1	0	0
+10.1016/j.polymer.2015.07.042	Table 1	PA11-C3	Tpeakb [°C]	452.0	Td	1	0	0
+10.1016/j.polymer.2015.07.042	Table 1	PA11	T95a [°C]	395.2	Td	1	0	0
+10.1016/j.polymer.2015.07.042	Table 1	PA11	Tpeakb [°C]	441.5	Td	1	0	0
+10.1016/j.polymer.2015.07.042	Table 1	PA11-C3	T95a [°C]	408.6	Td	1	0	0
+10.1016/j.polymer.2015.07.042	Table 1	PA11-C3	Tpeakb [°C]	462.6	Td	1	0	0
+10.1016/j.polymer.2015.08.003	Table 1	P4TI	Td [°C]	325	Td	1	0	0
+10.1016/j.polymer.2015.08.003	Table 1	P4TI-3	Td [°C]	394	Td	1	0	0
+10.1016/j.polymer.2015.08.003	Table 1	P4TI-4	Td [°C]	344	Td	1	0	0
+10.1016/j.polymer.2015.08.003	Table 1	P6TI-3	Td [°C]	318	Td	1	0	0
+10.1016/j.polymer.2015.08.003	Table 1	P6TI-4	Td [°C]	384	Td	1	0	0
+10.1016/j.polymer.2015.08.026	Table 5	PBZ	T5% (°C)	162	Td	1	0	0
+10.1016/j.polymer.2015.08.026	Table 5	PBZ	T10% (°C)	271	Td	1	0	0
+10.1016/j.polymer.2015.08.026	Table 5	PBZ	Tmax (°C)	407	Td	1	0	0
+10.1016/j.polymer.2015.08.026	Table 5	Gel 3	T5% (°C)	258	Td	1	0	0
+10.1016/j.polymer.2015.08.026	Table 5	Gel 3	T10% (°C)	280	Td	1	0	0
+10.1016/j.polymer.2015.08.026	Table 5	Gel 3	Tmax (°C)	421	Td	1	0	0
+10.1016/j.polymer.2015.08.026	Table 5	Gel 4	T5% (°C)	161	Td	1	0	0
+10.1016/j.polymer.2015.08.026	Table 5	Gel 4	T10% (°C)	207	Td	1	0	0
+10.1016/j.polymer.2015.08.026	Table 5	Gel 4	Tmax (°C)	425	Td	1	0	0
+10.1016/j.polymer.2015.09.037	Table 1	F-EN	Td (°C)	63	Td	0	1	0
+10.1016/j.polymer.2015.09.037	Table 1	F-EN0.5	Td (°C)	55	Td	0	1	0
+10.1016/j.polymer.2015.09.037	Table 1	F-Ph	Td (°C)	60	Td	0	1	0
+10.1016/j.polymer.2015.09.037	Table 1	F-Ph0.5	Td (°C)	63	Td	0	1	0
+10.1016/j.polymer.2015.09.037	Table 1	F-PEG	Td (°C)	60	Td	0	1	0
+10.1016/j.polymer.2015.09.037	Table 1	F-PEG0.5	Td (°C)	66	Td	0	1	0
+10.1016/j.polymer.2015.09.037	Table 1	Fs	Td (°C)	62	Td	0	1	0
+10.1016/j.polymer.2015.09.059	Table 2	BADCy	Td5	445	Td	1	0	0
+10.1016/j.polymer.2015.09.059	Table 2	BADCy/BMI	Td5	441	Td	1	0	0
+10.1016/j.polymer.2015.09.059	Table 2	PBOZ5	Td5	422	Td	1	0	0
+10.1016/j.polymer.2015.09.059	Table 2	PBOZ10	Td5	408	Td	1	0	0
+10.1016/j.polymer.2015.09.059	Table 2	PBOZ15	Td5	389	Td	1	0	0
+10.1016/j.polymer.2015.09.059	Table 2	PBOZ	Td5	303	Td	1	0	0
+10.1016/j.polymer.2015.10.004	Table 1	HPTAEP-10	Td (°C)c	379	Td	1	0	0
+10.1016/j.polymer.2015.10.004	Table 1	HPTAEP-73	Td (°C)c	285	Td	1	0	0
+10.1016/j.polymer.2015.10.004	Table 1	HPTAEP-55	Td (°C)c	235	Td	1	0	0
+10.1016/j.polymer.2015.10.004	Table 1	HPTAEP-37	Td (°C)c	233	Td	1	0	0
+10.1016/j.polymer.2015.10.021	Table 1	PBDTNT	Td (°C)b	370	Td	1	0	0
+10.1016/j.polymer.2015.10.021	Table 1	PCDTNT	Td (°C)b	375	Td	1	0	0
+10.1016/j.polymer.2015.10.021	Table 1	PFDTNT	Td (°C)b	356	Td	1	0	0
+10.1016/j.polymer.2015.10.021	Table 1	PNDTNT	Td (°C)b	365	Td	1	0	0
+10.1016/j.polymer.2015.10.033	Table 1	PBDTT-C-BO	Tdb (°C)	310	Td	1	0	0
+10.1016/j.polymer.2015.10.033	Table 1	PBDTT-O-BO	Tdb (°C)	301	Td	1	0	0
+10.1016/j.polymer.2015.10.033	Table 1	PBDTT-S-BO	Tdb (°C)	310	Td	1	0	0
+10.1016/j.polymer.2015.10.045	Table 1	2-PMDA	T5 (°C)	490	Td	1	0	0
+10.1016/j.polymer.2015.10.045	Table 1	1-BPDA	T5 (°C)	525	Td	1	0	0
+10.1016/j.polymer.2015.10.045	Table 1	2-BPDA	T5 (°C)	500	Td	1	0	0
+10.1016/j.polymer.2015.10.045	Table 1	1-OPDA	T5 (°C)	512	Td	1	0	0
+10.1016/j.polymer.2015.10.045	Table 1	2-OPDA	T5 (°C)	510	Td	1	0	0
+10.1016/j.polymer.2015.10.045	Table 1	1-6FDA	T5 (°C)	502	Td	1	0	0
+10.1016/j.polymer.2015.10.045	Table 1	2-6FDA	T5 (°C)	500	Td	1	0	0
+10.1016/j.polymer.2015.10.045	Table 1	1-BPADA	T5 (°C)	507	Td	1	0	0
+10.1016/j.polymer.2015.10.045	Table 1	2-BPADA	T5 (°C)	512	Td	1	0	0
+10.1016/j.polymer.2015.10.054	Table 1	P(BDT-TDPPDT)	TGAc (°C)	340	Td	1	0	0
+10.1016/j.polymer.2015.10.054	Table 1	RP2	TGAc (°C)	330	Td	1	0	0
+10.1016/j.polymer.2015.11.010	Table 2	BT/PMMA-3.2	Td (%)	81	Td	0	1	0
+10.1016/j.polymer.2015.11.010	Table 2	BT/PMMA-4.7	Td (%)	84	Td	0	1	0
+10.1016/j.polymer.2015.11.010	Table 2	BT-PMMA-10	Td (%)	82	Td	0	1	0
+10.1016/j.polymer.2015.11.010	Table 2	PMMAd	Td (%)	92	Td	0	1	0
+10.1016/j.polymer.2015.11.036	Table 2	P(VBOZN)	T5% a(oC)	407	Td	1	0	0
+10.1016/j.polymer.2015.11.036	Table 2	P(VBOZN)	T10%b (°C)	417	Td	1	0	0
+10.1016/j.polymer.2015.11.036	Table 2	P(VBOZN-co-NPMI)	T5% a(oC)	353	Td	1	0	0
+10.1016/j.polymer.2015.11.036	Table 2	P(VBOZN-co-NPMI)	T10%b (°C)	408	Td	1	0	0
+10.1016/j.polymer.2015.11.036	Table 2	P(VBOZO-co-NPMI)	T5% a(oC)	352	Td	1	0	0
+10.1016/j.polymer.2015.11.036	Table 2	P(VBOZO-co-NPMI)	T10%b (°C)	397	Td	1	0	0
+10.1016/j.polymer.2015.11.057	Table 1	EPR1	Tdc [°C]	290	Td	1	0	0
+10.1016/j.polymer.2015.11.057	Table 1	EPR2	Tdc [°C]	263	Td	1	0	0
+10.1016/j.polymer.2015.11.057	Table 1	EPR3	Tdc [°C]	287	Td	1	0	0
+10.1016/j.polymer.2015.11.057	Table 1	EPR4	Tdc [°C]	292	Td	1	0	0
+10.1016/j.polymer.2015.11.057	Table 1	EPR5 (control)	Tdc [°C]	374	Td	1	0	0
+10.1016/j.polymer.2015.12.017	Table 1	PTTICN	TGA (Td)b	420	Td	1	0	0
+10.1016/j.polymer.2015.12.017	Table 1	PTTICNR	TGA (Td)b	400	Td	1	0	0
+10.1016/j.polymer.2015.12.017	Table 1	PTTIFR	TGA (Td)b	413	Td	1	0	0
+10.1016/j.apsusc.2014.12.193	Table 3	BPF	Td-5 (°C)	362	Td	1	0	0
+10.1016/j.apsusc.2014.12.193	Table 3	B-BPF	Td-5 (°C)	410	Td	1	0	0
+10.1016/j.apsusc.2014.12.193	Table 3	B-BPF/m-SiN	Td-5 (°C)	433	Td	1	0	0
+10.1016/j.apsusc.2014.12.193	Table 3	BPF	Td-10 (°C)	413	Td	1	0	0
+10.1016/j.apsusc.2014.12.193	Table 3	B-BPF	Td-10 (°C)	490	Td	1	0	0
+10.1016/j.apsusc.2014.12.193	Table 3	B-BPF/m-SiN	Td-10 (°C)	528	Td	1	0	0
+10.1016/j.apsusc.2015.03.197	Table 1	PVDF	To (°C)	447.5	Td	1	0	0
+10.1016/j.apsusc.2015.03.197	Table 1	PVDF-98%	To (°C)	450.3	Td	1	0	0
+10.1016/j.apsusc.2015.03.197	Table 1	PVDF-95%	To (°C)	452.4	Td	1	0	0
+10.1016/j.apsusc.2015.03.197	Table 1	PVDF-90%	To (°C)	456.8	Td	1	0	0
+10.1016/j.apsusc.2015.03.197	Table 1	PVDF-85%	To (°C)	459.7	Td	1	0	0
+10.1016/j.apsusc.2015.03.197	Table 1	PVDF-80%	To (°C)	462.8	Td	1	0	0
+10.1016/j.apsusc.2015.11.201	Table 1	PI/3% GO-NH2	T10% (°C)	563.5	Td	1	0	0
+10.1016/j.apsusc.2015.11.201	Table 1	PI/3% GO	T10% (°C)	556	Td	1	0	0
+10.1016/j.apsusc.2015.11.201	Table 1	Pure PI	T10% (°C)	539.5	Td	0	0	1
+10.1016/j.apsusc.2016.09.089	Table 3	PBAB-a	T5%a(°C)	299	Td	1	0	0
+10.1016/j.apsusc.2016.09.089	Table 3	PBAB-a	T10%b(°C)	349	Td	1	0	0
+10.1016/j.apsusc.2016.09.089	Table 3	PBAB-a	Tmaxc(°C)	438	Td	1	0	0
+10.1016/j.apsusc.2016.09.089	Table 3	PBAB-b	T5%a(°C)	214	Td	1	0	0
+10.1016/j.apsusc.2016.09.089	Table 3	PBAB-b	T10%b(°C)	351	Td	1	0	0
+10.1016/j.apsusc.2016.09.089	Table 3	PBAB-b	Tmaxc(°C)	441	Td	1	0	0
+10.1016/j.apsusc.2016.09.089	Table 3	PBAB-c	T5%a(°C)	250	Td	1	0	0
+10.1016/j.apsusc.2016.09.089	Table 3	PBAB-c	T10%b(°C)	344	Td	1	0	0
+10.1016/j.apsusc.2016.09.089	Table 3	PBAB-c	Tmaxc(°C)	500	Td	1	0	0
+10.1016/j.apsusc.2017.03.162	Table 2	CoDP	T10 (°C)	63	Td	0	1	0
+10.1016/j.apsusc.2017.03.162	Table 2	CoDP	T10 (°C)	150	Td	0	1	0
+10.1016/j.apsusc.2017.03.162	Table 2	CoAP	T10 (°C)	88	Td	0	1	0
+10.1016/j.apsusc.2017.03.162	Table 2	CoAP	T10 (°C)	254	Td	0	1	0
+10.1016/j.apsusc.2017.03.252	Table 2	PET	T5%(°C)	419.6	Td	1	0	0
+10.1016/j.apsusc.2017.03.252	Table 2	PET	Tmax(°C)	460.5	Td	1	0	0
+10.1016/j.apsusc.2017.03.252	Table 2	MH@CMSs/PET	T5%(°C)	413.9	Td	1	0	0
+10.1016/j.apsusc.2017.03.252	Table 2	MH@CMSs/PET	Tmax(°C)	453.6	Td	1	0	0
+10.1016/j.apsusc.2017.03.252	Table 2	FMH@CMSs/PET	T5%(°C)	414.6	Td	1	0	0
+10.1016/j.apsusc.2017.03.252	Table 2	FMH@CMSs/PET	Tmax(°C)	453.3	Td	1	0	0
+10.1016/j.electacta.2014.11.124	Table 2	TS-PASS-21	Td5(°C)	332	Td	1	0	0
+10.1016/j.electacta.2014.11.124	Table 2	TS-PASS-24	Td5(°C)	325	Td	1	0	0
+10.1016/j.electacta.2014.11.124	Table 2	TS-PASS-27	Td5(°C)	318	Td	1	0	0
+10.1016/j.electacta.2014.11.124	Table 2	TS-PASS-30	Td5(°C)	316	Td	1	0	0
+10.1016/j.electacta.2015.01.076	Table 3	P(VP-co-VAc)	Tmax1(°C)	302.63	Td	1	0	0
+10.1016/j.electacta.2015.01.076	Table 3	P(VP-co-VAc)	Tmax2(°C)	388.18	Td	1	0	0
+10.1016/j.electacta.2015.01.076	Table 3	P(VP-co-VAc) with EC:PC	Tmax1(°C)	308.29	Td	1	0	0
+10.1016/j.electacta.2015.01.076	Table 3	P(VP-co-VAc) with EC:PC	Tmax2(°C)	398.26	Td	1	0	0
+10.1016/j.electacta.2016.05.185	Table 2	poly(P1)	Tdedop [%]c	43.3	Td	0	1	0
+10.1016/j.electacta.2016.05.185	Table 2	poly(P1)	Tdedop [%]c	99.8	Td	0	1	0
+10.1016/j.electacta.2016.05.185	Table 2	poly(P2)	Tdedop [%]c	37.7	Td	0	1	0
+10.1016/j.electacta.2016.05.185	Table 2	poly(P2)	Tdedop [%]c	98.1	Td	0	1	0
+10.1016/j.electacta.2016.07.148	Table 3	LiPST	Td,°C	190	Td	0	1	0
+10.1016/j.electacta.2016.07.148	Table 3	PAE-F	Td,°C	475	Td	1	0	0
+10.1016/j.electacta.2016.07.148	Table 3	pfsPAE-F-1.0	Td,°C	128	Td	1	0	0
+10.1016/j.electacta.2016.07.148	Table 3	pfsPAE-F-1.1	Td,°C	127	Td	1	0	0
+10.1016/j.electacta.2016.07.148	Table 3	pfsPAE-F-1.4	Td,°C	130	Td	1	0	0
+10.1016/j.electacta.2016.07.148	Table 3	pfsPAE-F-1.7	Td,°C	131	Td	1	0	0
+10.1016/j.matchemphys.2014.09.026	Table 6	TRIM-GMA1	IDT (°C)	233	Td	1	0	0
+10.1016/j.matchemphys.2014.09.026	Table 6	TRIM-GMA1	T50% (°C)	346	Td	1	0	0
+10.1016/j.matchemphys.2014.09.026	Table 6	TRIM-GMA1	FDT (°C)	474	Td	1	0	0
+10.1016/j.matchemphys.2014.09.026	Table 6	TRIM-GMA1+P	IDT (°C)	321	Td	1	0	0
+10.1016/j.matchemphys.2014.09.026	Table 6	TRIM-GMA1+P	T50% (°C)	420	Td	1	0	0
+10.1016/j.matchemphys.2014.09.026	Table 6	TRIM-GMA1+P	FDT (°C)	493	Td	1	0	0
+10.1016/j.matchemphys.2014.09.026	Table 6	TRIM-GMA1	T20% (°C)	289	Td	0	0	1
+10.1016/j.matchemphys.2014.09.026	Table 6	TRIM-GMA1+P	T20% (°C)	367	Td	0	0	1
+10.1016/j.matchemphys.2015.01.009	Table 1	In2O3 powder	T50 (°C)	309	Td	0	1	0
+10.1016/j.matchemphys.2015.01.009	Table 1	In2O3 NPs	T50 (°C)	290	Td	0	1	0
+10.1016/j.matchemphys.2015.01.009	Table 1	In2O3 cubes	T50 (°C)	260	Td	0	1	0
+10.1016/j.matchemphys.2015.04.010	Table 1	PANI	IDTb (ºC)	227	Td	1	0	0
+10.1016/j.matchemphys.2015.04.010	Table 1	PANI-CF	IDTb (ºC)	239	Td	1	0	0
+10.1016/j.matchemphys.2015.04.010	Table 1	PANI-CF 25	IDTb (ºC)	303	Td	1	0	0
+10.1016/j.matchemphys.2015.04.010	Table 1	PANI-CF50	IDTb (ºC)	305	Td	1	0	0
+10.1016/j.matchemphys.2015.04.010	Table 1	PANI-CF 75	IDTb (ºC)	310	Td	1	0	0
+10.1016/j.matchemphys.2015.08.055	Table 2	SDPM, %c	Zr-KIT-5(25)	100	Td	0	1	0
+10.1016/j.matchemphys.2015.08.055	Table 2	SDPM, %c	Zr-KIT-5(25)	60d, 40e	Td	0	1	0
+10.1016/j.matchemphys.2015.08.055	Table 2	SDPM, %c	Sn-KIT-5(25)	100	Td	0	1	0
+10.1016/j.matchemphys.2016.06.020	Table 1	MTPCoB	T3 (K)	313	Td	0	1	0
+10.1016/j.matchemphys.2016.06.020	Table 1	MTP.ZnB	T3 (K)	276	Td	0	1	0
+10.1016/j.matchemphys.2016.06.020	Table 1	MTP.MnB	T3 (K)	300 ± 1 (2.33)	Td	0	1	0
+10.1016/j.matchemphys.2016.06.020	Table 1	MTP.MnB (ε′)	T3 (K)	309 ± 1	Td	0	1	0
+10.1016/j.matchemphys.2016.06.058	Table 2	TPPO-40	Td10%	363	Td	1	0	0
+10.1016/j.matchemphys.2016.06.058	Table 2	TPPO-50	Td10%	341	Td	1	0	0
+10.1016/j.matchemphys.2016.06.058	Table 2	TPPO-60	Td10%	327	Td	1	0	0
+10.1016/j.matchemphys.2016.07.050	Table 3	OPS	Thermal stability (°C)	270	Td	0	1	0
+10.1016/j.matchemphys.2016.07.050	Table 3	OPS	Onset temperature (°C)	250	Td	1	0	0
+10.1016/j.matchemphys.2016.07.050	Table 3	OPS	Offset temperature (°C)	380	Td	0	1	0
+10.1016/j.matchemphys.2016.12.031	Table 1	P2O5	HT-5	1.5	Td	0	1	0
+10.1016/j.msea.2014.10.077	Table 2	YS (MPa)	E-T5	376.5±13.4	Td	0	1	0
+10.1016/j.msea.2014.10.077	Table 2	UTS (MPa)	E-T5	420.8±11.7	Td	0	1	0
+10.1016/j.msea.2014.10.077	Table 2	YS (MPa)	E-10R-T5	446.7±40.3	Td	0	1	0
+10.1016/j.msea.2014.10.077	Table 2	UTS (MPa)	E-10R-T5	480.0±24.7	Td	0	1	0
+10.1016/j.msea.2014.10.077	Table 2	YS (MPa)	E-14.5R-T5	481.6±19.9	Td	0	1	0
+10.1016/j.msea.2014.10.077	Table 2	UTS (MPa)	E-14.5R-T5	517.4±27.5	Td	0	1	0
+10.1016/j.ssi.2016.02.007	Table 1	PET immersed in ETPTA/PCE	Thermal stability	150°C	Td	1	0	0
+10.1016/j.ssi.2016.02.007	Table 1	ETPTA/PCE/Al2O3	Thermal stability	130°C	Td	1	0	0
+10.1016/j.ssi.2016.02.007	Table 1	TPPTA/PVDF-HFP/PCE/Al2O3	Thermal stability	200°C	Td	1	0	0

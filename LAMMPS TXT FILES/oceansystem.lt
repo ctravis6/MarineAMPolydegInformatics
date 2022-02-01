@@ -1,0 +1,77 @@
+import "spce.lt"  # <- This defines the SPCE water molecule.
+import "oceanions.lt"  # <- This defines the ions "NaIon" and "ClIon".
+
+# The next command creates 1 million (10x10x10) copies of the SPCE water molecule
+# and arranges them in a (rather dense) cubic lattice with
+# spacing 3.10342 Angstroms. (The pressure must be equilibrated later.)
+
+wat  = new SPCE [100].move(0.00, 0.00, 3.10342) 
+                [100].move(0.00, 3.10342, 0.01) 
+                [100].move(3.10342, 0.01, 0.01)
+
+# We now create lattices of ocean ions:
+
+na1 = new NaIon [10].move(0,0,150.5171) 
+               [10].move(0,150.5171,0)
+               [10].move(150.5171,0,0)
+
+na2 = new NaIon [1].move(0,0,150.5171) 
+               [1].move(0,150.5171,0)
+               [1].move(150.5171,0,0)
+
+cl = new ClIon [11].move(0,0,150.5171) 
+               [11].move(0,150.5171,0)
+               [11].move(150.5171,0,0)
+
+k = new KIon   [3].move(0,0,15.5171) 
+               [3].move(0,15.5171,0)
+               [3].move(15.5171,0,0)
+
+mg = new MgIon [5].move(0,0,15.5171) 
+               [5].move(0,15.5171,0)
+               [5].move(15.5171,0,0)
+
+ca = new CaIon [3].move(0,0,15.5171) 
+               [3].move(0,15.5171,0)
+               [3].move(15.5171,0,0)
+
+so2 = new SO2Ion [4].move(0,0,15.5171) 
+               [4].move(0,15.5171,0)
+               [4].move(15.5171,0,0)
+
+
+
+na1[*][*][*].move(47.0,47.0,47.0)
+na2[*][*][*].move(4.7,4.7,4.7)
+cl[*][*][*].move(100.9,100.9,100.9)
+k[*][*][*].move(200.9,200.9,200.9)
+mg[*][*][*].move(10.9,10.9,10.9)
+ca[*][*][*].move(146.2,146.2,146.2)
+so2[*][*][*].move(54.7,54.7,54.7)
+
+# (The translational shifts
+#  are arbitrary and were chosen only to prevent the ocean ions
+#  from overlapping exactly with the water molecules or each other.)
+
+# Periodic boundary conditions:
+write_once("Data Boundary") {
+   0.0  310.0342  xlo xhi
+   0.0  310.0342  ylo yhi
+   0.0  310.0342  zlo zhi
+}
+
+
+
+
+
+
+# Comment:  Fortunately the ions and the water in this example share the 
+# same force-field styles (so there was no need to use "hybrid" styles).
+# If this were not the case, you might need to add something like this.
+#
+# write_once("In Init") {
+#   # -- Styles for the combined system (overrides earlier settings) --
+#   pair_style   hybrid lj/charmm/coul/long 9.0 10.0 10.0 NEWPAIRSTYLE
+#   bond_style   hybrid harmonic NEWBONDSTYLE
+#   angle_style  hybrid harmonic NEWANGLESTYLE
+# }

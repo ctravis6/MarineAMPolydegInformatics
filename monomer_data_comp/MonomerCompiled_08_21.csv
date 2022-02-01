@@ -1,0 +1,801 @@
+category,name,structure,CAS,mw,mp,density
+acetylene,acetylene,H2C≡CH2,74-86-2,26.04,-84(s),1
+acetylene,diphenylacetylene,C6H5C≡CC6H5,501-65-5,178.23,8.9473684210526E+14/100000000000000,0.99
+acid dichloride,adipoyl chloride,ClC(O)(CH2)4C(O)Cl,111-50-2,183.03,,1.259
+acid dichloride,azelaoyl chloride,ClC(O)(CH2)7C(O)Cl,123-98-8,255.12,,1.143
+acid dichloride,diethylmanoyl chloride,ClC(O)C(CH2CH3)2C(O)Cl,54505-72-5,197.06,,1.145
+acid dichloride,dodecanedioyl chloride,ClC(O)(CH2)10C(O)Cl,4834-98-4,267.2,,1.069
+acid dichloride,glutaryl chloride,ClC(O)(CH2)3C(O)Cl,2873-74-7,169.01,,1.324
+acid dichloride,isophthaloyl chloride,ClC(O)C6H4C(O)Cl,99-63-8,203.02,43,
+acid dichloride,malonyl chloride,ClC(O)CH2C(O)Cl,1663-67-8,140.95,,1.449
+acid dichloride,methylpimeloyl chloride,ClC(O)(CH2)2CH(CH3)(CH2)2C(O)Cl,44987-62-4,197.06,,1.217
+acid dichloride,oxalyl chloride,ClC(O)CO-COC(O)Cl,79-37-8,126.93,-8,1.455
+acid dichloride,phthaloyl chloride,ClC(O)C6H4C(O)Cl,88-95-9,203.02,12,1.409
+acid dichloride,pimeloyl chloride,ClC(O)(CH2)5C(O)Cl,142-79-0,197.06,,1.205
+acid dichloride,sebacoyl chloride,ClC(O)(CH2)8C(O)Cl,111-19-3,239.14,-2.5,1.121
+acid dichloride,suberoyl chloride,ClC(O)(CH2)6C(O)Cl,10027-07-3,211.09,,1.172
+acid dichloride,succinyl chloride,ClC(O)(CH2)2C(O)Cl,543-20-4,154.98,16,1.407
+acid dichloride,terephthaloyl chloride,ClC(O)C6H4C(O)Cl,100-20-9,203.02,80,
+acid dichloride,thionyl chloride,ClS(O)Cl,7719-09-07,118.97,-105,1.631
+acrolein,acrolein,HC(O)CH=CH2,107-02-8,56.06,-87,0.839
+acrolein,trans-3-methylacrolein,HC(O)CH=CHCH3,123-73-9,70.09,104,0.846
+acrolein,2-methylacrolein,HC(O)CCH3=CH2,78-85-3,70.09,-81,0.847
+acrylamide,N-acetoxymethyl(methoxy)acrylamide,"H2C=CHC(O)NRR',  R=C(OCH3)C(O)OCH3, R'=H",77402-03-0,173.17,73,
+acrylamide,N-acetylacrylamide,"H2C=CHC(O)NRR',  R=C(O)CH3, R'=H",1432-45-7,113.12,129,
+acrylamide,acrylamide,H2C=CHC(O)NH2,1979-06-01,71.08,,1.122
+acrylamide,acrylamidoglycolic acid,"H2C=CHC(O)NRR',  R=CH(OH)C(O)OH, R'=H",6737-24-2,163.13,,
+acrylamide,"acrylamidoglycolic acid, methyl ester","H2C=CHC(O)NRR',  R=CH(OH)C(O)OCH3, R'=H",77402-03-0,173.17,74,
+acrylamide,N-adamantylacrylamide,"H2C=CHC(O)NRR',  R=C10H5, R'=H",19026-83-6,205.3,155,
+acrylamide,N-allylacrylamide,"H2C=CHC(O)NRR',  R=CH2CH=CH2, R'=H",2555-13-7,111.14,,
+acrylamide,N-benzylacrylamide,"H2C=CHC(O)NRR',  R=CH2C6H5, R'=H",13304-62-6,161.2,70,
+acrylamide,N-butoxymethylacrylamide,"H2C=CHC(O)NRR',  R=CH2O(CH2)3CH3, R'=H",1852-16-0,157.21,-9,0.979
+acrylamide,N-tert-butylacrylamide,"H2C=CHC(O)NRR',  R=C(CH3)3, R'=H",107-58-4,127.19,128,
+acrylamide,N-cyclohexylacrylamide,"H2C=CHC(O)NRR',  R=C6H11, R'=H",3066-72-6,153.23,113,
+acrylamide,"N,N'-cystaminebisacrylamide","H2C=CHC(O)NRR',  R=CH2CH2SSCH2CH2-, R'=H",60984-57-8,260.38,123,
+acrylamide,N-diacetoneacrylamide,"H2C=CHC(O)NRR',  R=C(CH3)2CH2C(O)CH3, R'=H",2873-97-4,169.23,55,
+acrylamide,"N,N-diallylacrylamide","H2C=CHC(O)NRR',  R=CH2CH=CH2, R'=CH2CH=CH2",3085-68-5,151.21,,
+acrylamide,"N,N-di-n-butylacrylamide","H2C=CHC(O)NRR',  R=(CH2)3CH3, R'=(CH2)3CH3",2274-13-7,183.29,,
+acrylamide,"N,N-diethylacrylamide","H2C=CHC(O)NRR',  R=CH2CH3, R'=CH2CH3",2675-94-7,127.19,,
+acrylamide,"N,N'-1,2-dihydroxyethylenebisacrylamide","H2C=CHC(O)NRR',  R=(-CH(OH)CH(OH)-), R'=H",868-63-3,200.19,156(d),
+acrylamide,"N,N-diisopropylacrylamide","H2C=CHC(O)NRR',  R=CH(CH3)2, R'=CH(CH3)2",44975-46-4,155.24,,
+acrylamide,"4,4-dimethoxybutylacrylamide","H2C=CHC(O)NRR',  R=(CH2)3CH(OCH3)2, R'=H",38486-53-2,187.24,18,
+acrylamide,"N,N-dimethylacrylamide","H2C=CHC(O)NRR',  R=CH3, R'=CH3",2680-03-07,99.13,,0.962
+acrylamide,N-diphenylmethylacrylamide,"H2C=CHC(O)NRR',  R=CH(C6H5)2, R'=H",10254-08-7,237.3,,
+acrylamide,"N,N'-ethylenebisacrylamide","H2C=CHC(O)NRR',  R=(-CH2CH2-), R'=H",2956-58-3,168.2,140,
+acrylamide,N-ethylhexylacrylamide,"H2C=CHC(O)NRR',  R=CH2CH(CH2CH3), R'=H",91625-16-0,183.3,,
+acrylamide,"N,N'-hexamethylenebisacrylamide","H2C=CHC(O)NRR',  R=(-(CH2)6-), R'=H",7150-41-6,224.28,135,
+acetylene,acetylene,H2C≡CH2,74-86-2,26.04,-84(s),1
+acetylene,diphenylacetylene,C6H5C≡CC6H5,501-65-5,178.23,8.9473684210526E+14/100000000000000,0.99
+acid dichloride,adipoyl chloride,ClC(O)(CH2)4C(O)Cl,111-50-2,183.03,,1.259
+acid dichloride,azelaoyl chloride,ClC(O)(CH2)7C(O)Cl,123-98-8,255.12,,1.143
+acid dichloride,diethylmanoyl chloride,ClC(O)C(CH2CH3)2C(O)Cl,54505-72-5,197.06,,1.145
+acid dichloride,dodecanedioyl chloride,ClC(O)(CH2)10C(O)Cl,4834-98-4,267.2,,1.069
+acid dichloride,glutaryl chloride,ClC(O)(CH2)3C(O)Cl,2873-74-7,169.01,,1.324
+acid dichloride,isophthaloyl chloride,ClC(O)C6H4C(O)Cl,99-63-8,203.02,43,
+acid dichloride,malonyl chloride,ClC(O)CH2C(O)Cl,1663-67-8,140.95,,1.449
+acid dichloride,methylpimeloyl chloride,ClC(O)(CH2)2CH(CH3)(CH2)2C(O)Cl,44987-62-4,197.06,,1.217
+acid dichloride,oxalyl chloride,ClC(O)CO-COC(O)Cl,79-37-8,126.93,-8,1.455
+acid dichloride,phthaloyl chloride,ClC(O)C6H4C(O)Cl,88-95-9,203.02,12,1.409
+acid dichloride,pimeloyl chloride,ClC(O)(CH2)5C(O)Cl,142-79-0,197.06,,1.205
+acid dichloride,sebacoyl chloride,ClC(O)(CH2)8C(O)Cl,111-19-3,239.14,-2.5,1.121
+acid dichloride,suberoyl chloride,ClC(O)(CH2)6C(O)Cl,10027-07-3,211.09,,1.172
+acid dichloride,succinyl chloride,ClC(O)(CH2)2C(O)Cl,543-20-4,154.98,16,1.407
+acid dichloride,terephthaloyl chloride,ClC(O)C6H4C(O)Cl,100-20-9,203.02,80,
+acid dichloride,thionyl chloride,ClS(O)Cl,7719-09-07,118.97,-105,1.631
+acrolein,acrolein,HC(O)CH=CH2,107-02-8,56.06,-87,0.839
+acrolein,trans-3-methylacrolein,HC(O)CH=CHCH3,123-73-9,70.09,104,0.846
+acrolein,2-methylacrolein,HC(O)CCH3=CH2,78-85-3,70.09,-81,0.847
+acrylamide,N-acetoxymethyl(methoxy)acrylamide,"H2C=CHC(O)NRR',  R=C(OCH3)C(O)OCH3, R'=H",77402-03-0,173.17,73,
+acrylamide,N-acetylacrylamide,"H2C=CHC(O)NRR',  R=C(O)CH3, R'=H",1432-45-7,113.12,129,
+acrylamide,acrylamide,H2C=CHC(O)NH2,1979-06-01,71.08,,1.122
+acrylamide,acrylamidoglycolic acid,"H2C=CHC(O)NRR',  R=CH(OH)C(O)OH, R'=H",6737-24-2,163.13,,
+acrylamide,"acrylamidoglycolic acid, methyl ester","H2C=CHC(O)NRR',  R=CH(OH)C(O)OCH3, R'=H",77402-03-0,173.17,74,
+acrylamide,N-adamantylacrylamide,"H2C=CHC(O)NRR',  R=C10H5, R'=H",19026-83-6,205.3,155,
+acrylamide,N-allylacrylamide,"H2C=CHC(O)NRR',  R=CH2CH=CH2, R'=H",2555-13-7,111.14,,
+acrylamide,N-benzylacrylamide,"H2C=CHC(O)NRR',  R=CH2C6H5, R'=H",13304-62-6,161.2,70,
+acrylamide,N-butoxymethylacrylamide,"H2C=CHC(O)NRR',  R=CH2O(CH2)3CH3, R'=H",1852-16-0,157.21,-9,0.979
+acrylamide,N-tert-butylacrylamide,"H2C=CHC(O)NRR',  R=C(CH3)3, R'=H",107-58-4,127.19,128,
+acrylamide,N-cyclohexylacrylamide,"H2C=CHC(O)NRR',  R=C6H11, R'=H",3066-72-6,153.23,113,
+acrylamide,"N,N'-cystaminebisacrylamide","H2C=CHC(O)NRR',  R=CH2CH2SSCH2CH2-, R'=H",60984-57-8,260.38,123,
+acrylamide,N-diacetoneacrylamide,"H2C=CHC(O)NRR',  R=C(CH3)2CH2C(O)CH3, R'=H",2873-97-4,169.23,55,
+acrylamide,"N,N-diallylacrylamide","H2C=CHC(O)NRR',  R=CH2CH=CH2, R'=CH2CH=CH2",3085-68-5,151.21,,
+acrylamide,"N,N-di-n-butylacrylamide","H2C=CHC(O)NRR',  R=(CH2)3CH3, R'=(CH2)3CH3",2274-13-7,183.29,,
+acrylamide,"N,N-diethylacrylamide","H2C=CHC(O)NRR',  R=CH2CH3, R'=CH2CH3",2675-94-7,127.19,,
+acrylamide,"N,N'-1,2-dihydroxyethylenebisacrylamide","H2C=CHC(O)NRR',  R=(-CH(OH)CH(OH)-), R'=H",868-63-3,200.19,156(d),
+acrylamide,"N,N-diisopropylacrylamide","H2C=CHC(O)NRR',  R=CH(CH3)2, R'=CH(CH3)2",44975-46-4,155.24,,
+acrylamide,"4,4-dimethoxybutylacrylamide","H2C=CHC(O)NRR',  R=(CH2)3CH(OCH3)2, R'=H",38486-53-2,187.24,18,
+acrylamide,"N,N-dimethylacrylamide","H2C=CHC(O)NRR',  R=CH3, R'=CH3",2680-03-07,99.13,,0.962
+acrylamide,N-diphenylmethylacrylamide,"H2C=CHC(O)NRR',  R=CH(C6H5)2, R'=H",10254-08-7,237.3,,
+acrylamide,"N,N'-ethylenebisacrylamide","H2C=CHC(O)NRR',  R=(-CH2CH2-), R'=H",2956-58-3,168.2,140,
+acrylamide,N-ethylhexylacrylamide,"H2C=CHC(O)NRR',  R=CH2CH(CH2CH3), R'=H",91625-16-0,183.3,,
+acrylamide,"N,N'-hexamethylenebisacrylamide","H2C=CHC(O)NRR',  R=(-(CH2)6-), R'=H",7150-41-6,224.28,135,
+acrylamide,N-tert-hexylacrylamide,"H2C=CHC(O)NRR',  R=CH2CH2C(CH3)3, R'=H",51330-07-5,155.24,100,
+acrylamide,"N-hydroxymethylacrylamide, solution","H2C=CHC(O)NRR',  R=CH2OH, R'=H",924-42-5,101.11,,1.074
+acrylamide,N-isobornylacrylamide,"H2C=CHC(O)NRR',  R=C10H17, R'=H",17159-04-5,207.31,135,
+acrylamide,N-isobutoxymethylacrylamide,"H2C=CHC(O)NRR',  R=CH2OCH2CH(CH3)2, R'=H",16669-59-3,157.21,,0.97
+acrylamide,N-isopropylacrylamide,"H2C=CHC(O)NRR',  R=CH(CH3)2, R'=H",2210-25-5,113.16,61,
+acrylamide,N-3-methoxypropylacrylamide,"H2C=CHC(O)NRR',  R=(CH2)3OCH3, R'=H",107374-86-7,143.19,,
+acrylamide,N-methylacrylamide,"H2C=CHC(O)NRR',  R=CH3, R'=H",1187-59-3,85.11,,
+acrylamide,"N,N'-methylenebisacrylamide","H2C=CHC(O)NRR',  R=(-CH2-), R'=H",110-26-9,154.17,>300,
+acrylamide,N-methyl-tri(hydroxymethyl)acrylamide,"H2C=CHC(O)NRR',  R=C(CH2OH)3, R'=H",13880-05-2,175.18,139,
+acrylamide,N-morpholinoethylacrylamide,"H2C=CHC(O)NRR',  R=CH2CH2NC4H8O, R'=H",5117-12-04,141.17,>110,1.122
+acrylamide,N-1-naphthylacrylamide,"H2C=CHC(O)NRR',  R=C10H7, R'=H",22302-62-1,197.24,138,
+acrylamide,N-octadecylacrylamide,"H2C=CHC(O)NRR',  R=(CH2)17CH3, R'=H",1506-54-3,323.56,75,
+acrylamide,"N,N'-octamethylenebisacrylamide","H2C=CHC(O)NRR',  R=(-(CH2)8-), R'=H",2945-02-08,252.35,138,
+acrylamide,N-tert-octylacrylamide,"H2C=CHC(O)NRR',  R=(CH2)4C(CH3)3, R'=H",4223-03-04,183.29,58,
+acrylamide,N-phthalamidomethylacrylamide,"H2C=CHC(O)NRR',  R=CH2NC8H4O2, R'=H",80500-94-3,230.22,190,
+acrylamide,N-propyl-3-(dimethylamino)acrylamide,"H2C=CHC(O)NRR',  R=(CH2)3N(CH3)2, R'=H",3845-76-9,156.23,,0.949
+acrylamide,"N-sulfoethyl-1,1-dimethyl-2-acrylamide","H2C=CHC(O)NRR',  R=C(CH3)2CH2SO3H, R'=H",15214-89-8,207.25,195(d),
+acrylamide,"N-1,1,3-trimethylbutylacrylamide","H2C=CHC(O)NRR',  R=C(CH3)2CH2CH(CH3)2, R'=H",25269-93-6,169.27,55,
+acrylamide,"N,N'-trimethylenebisacrylamide","H2C=CHC(O)NRR',  R=(-(CH2)3-), R'=H",4887-13-2,182.22,112,
+acrylamide,N-triphenylmethylacrylamide,"H2C=CHC(O)NRR',  R=C(C6H5)3, R'=H",102548-89-0,313.4,204,
+"acrylic acid, ester",acrylic acid,H2C=CHC(O)OH,1979-10-07,72.06,13,1.051
+"acrylic acid, ester",acrylic anhydride,H2C=CHC(O)OC(O)CH=CH2,2051-76-5,126.11,,
+"acrylic acid, ester",allyl acrylate,H2C=CHC(O)OCH2CH=CH2,999-55-3,112.13,,0.88
+"acrylic acid, ester",benzyl acrylate,H2C=CHC(O)OCH2C6H5,2495-35-4,162.19,,1.0573
+"acrylic acid, ester",4-biphenylyl acrylate,H2C=CHC(O)OC6H4C6H5,13026-23-8,226.27,224,
+"acrylic acid, ester",bisphenol A diglycidyl ether diacrylate,"H2C=CHC(O)OR,  R=(-CH2CH(OH)CH2OC6H4)2C(CH3)2",4687-94-9,484.55,,1.18
+"acrylic acid, ester",bisphenol A ethoxylate diacrylate,"H2C=CHC(O)OR,  R=(-(CH2CH2OC6H4)2C(CH3)2",64401-02-1,424.0,,1.146
+"acrylic acid, ester",cis-3-bromoacrylic acid,BrCH=CHC(O)OH,1609-92-3,150.96,63,
+"acrylic acid, ester",2-bromoacrylic acid,H2C=CBrC(O)OH,10443-65-9,150.97,63,
+"acrylic acid, ester","2-bromoacrylic acid, ethyl ester",H2C=CBrC(O)OCH2CH3,4519-46-4,164.99,,
+"acrylic acid, ester",2-bromoethyl acrylate,H2C=CHC(O)OCH2CH2Br,4823-47-6,179.03,,1.4774
+"acrylic acid, ester",2-(bromomethyl)acrylic acid,H2C=C(CH2Br)C(O)OH,72707-66-5,164.99,70,
+"acrylic acid, ester","2-(bromomethyl)acrylic acid, ethyl ester",H2C=C(CH2Br)C(O)OCH2CH3,17435-72-2,193.05,,1.388
+"acrylic acid, ester","2-(bromomethyl)acrylic acid, methyl ester",H2C=C(CH2Br)C(O)OCH3,4224-69-5,179.02,,1.489
+"acrylic acid, ester",2-butoxyethyl acrylate,H2C=CHC(O)OCH2CH2O(CH2)3CH3,7251-90-3,172.22,,0.9497
+"acrylic acid, ester",n-butyl acrylate,H2C=CHC(O)O(CH2)3CH3,141-32-2,128.17,-64,0.894
+"acrylic acid, ester",sec-butyl acrylate,H2C=CHC(O)OCH(CH3)CH2CH3,2998-08-05,128.17,,0.8114
+"acrylic acid, ester",tert-butyl acrylate,H2C=CHC(O)OC(CH3)3,1663-39-4,128.17,,0.885
+"acrylic acid, ester",butyl 2-cyanoacrylate,H2C=C(CN)C(O)O(CH2)3CH3,6606-65-1,153.18,,0.986
+"acrylic acid, ester","1,3-butylene diacrylate","H2C=CHC(O)OR,  R=(-CH2CH2CH(CH3)-)",19485-03-1,198.22,,1.03
+"acrylic acid, ester","1,4-butylene diacrylate","H2C=CHC(O)OR,  R=(-(CH2)4-)",1070-70-8,198.22,,1.051
+"acrylic acid, ester",cis-3-chloroacrylic acid,ClCH=CHC(O)OH,1609-93-4,106.51,61,
+"acrylic acid, ester",trans-3-chloroacrylic acid,ClCH=CHC(O)OH,2345-61-1,106.51,84,
+"acrylic acid, ester",2-chloroacrylic acid,H2C=CClC(O)OH,26952-44-3,106.51,60,
+"acrylic acid, ester","2-chloroacrylic acid, butyl ester",H2C=CCl(O)O(CH2)3CH3,13401-85-9,162.62,,
+"acrylic acid, ester","2-chloroacrylic acid, ethyl ester",H2C=CClC(O)OCH2CH3,687-46-7,134.56,,1.1404
+"acrylic acid, ester","2-chloroacrylic acid, methyl ester",H2C=CClC(O)OCH3,80-63-7,120.54,,1.189
+"acrylic acid, ester",2-chloroethyl acrylate,H2C=CHC(O)OCH2CH2Cl,2206-89-5,134.57,,1.1404
+"acrylic acid, ester",crotyl acrylate,H2C=CHC(O)OCH2CH=CHCH3,23916-33-8,126.16,,
+"acrylic acid, ester",2-cyanoethyl acrylate,H2C=CHC(O)OCH2CH2CN,106-71-8,125.13,-17,1.069
+"acrylic acid, ester",cyclohexyl acrylate,H2C=CHC(O)OC6H11,3066-71-5,154.21,,0.975
+"acrylic acid, ester",cyclopentyl acrylate,H2C=CHC(O)OC5H9,16868-13-6,282.38,,
+"acrylic acid, ester",n-decyl acrylate,H2C=CHC(O)O(CH2)9CH3,2156-96-9,212.34,,0.8781
+"acrylic acid, ester","2,3-dibromopropyl acrylate",H2C=CHC(O)OCH2CHBrCH2Br,19660-16-3,271.94,,1.7803
+"acrylic acid, ester","2,3-dichloropropyl acrylate",H2C=CHC(O)OCH2CHClCH2Cl,24910-84-7,183.04,,1.2603
+"acrylic acid, ester",dicyclopentenyl acrylate,H2C=CHC(O)OC10H13,33791-58-1,202.25,,
+"acrylic acid, ester",dicyclopentenyloxyethyl acrylate,H2C=CHC(O)OCH2CH2OC10H13,65983-31-5,248.32,,1.085
+"acrylic acid, ester",2-(diethylamino)ethyl acrylate,H2C=CHC(O)OCH2CH2N(CH2CH3)2,2426-54-2,171.27,htmlentities(',0.925
+"acrylic acid, ester",di(ethylene glycol) diacrylate,"H2C=CHC(O)OR,  R=(-CH2CH2OCH2CH2-)",4074-88-8,214.22,,1.118
+"acrylic acid, ester",dihydrodicyclopentadienyl acrylate,H2C=CHC(O)OC10H15,12542-30-2,204.27,-40,1.08
+"acrylic acid, ester","2,3-dihydroxypropyl acrylate",H2C=CHC(O)OCH2CH(OH)CH2OH,10095-20-2,146.15,,
+"acrylic acid, ester",2-(dimethylamino)ethyl acrylate,H2C=CHC(O)OCH2CH2N(CH3)2,2439-35-2,143.19,htmlentities(',0.943
+"acrylic acid, ester",3-(dimethylamino)neopentyl acrylate,"H2C=CHC(O)OR,  R=CH2C(CH3)2CH2N(CH3)2",20166-73-8,181.24,,0.9
+"acrylic acid, ester",3-(dimethylamino)propyl acrylate,H2C=CHC(O)O(CH2)3N(CH3)2,18526-07-3,157.22,,0.928
+"acrylic acid, ester",dipentaerythritol pentaacrylate,"H2C=CHC(O)OR,  R=(-CH2)3CCH2OCH2C(CH2OH)(CH2-)2",60506-81-2,524.53,,1.1915
+"acrylic acid, ester",dipropylene glycol diacrylate,"H2C=CHC(O)OR,  R=(-CH2CH(CH3)OCH2CH(CH3)-)",85136-76-1,242.27,,
+"acrylic acid, ester",ditrimethylolpropane tetraacrylate,"H2C=CHC(O)OR,  R=((-CH2)2C(CH2CH3)CH2)2O",94108-97-1,466.53,,1.101
+"acrylic acid, ester",dodecyl acrylate,H2C=CHC(O)O(CH2)11CH3,2156-97-0,240.39,,0.884
+"acrylic acid, ester","1H,1H,11H-eicosafluoroundecyl acrylate",H2C=CHC(O)OCH2(CF2)9CHF2,4998-38-3,586.17,49,
+"acrylic acid, ester",2-(2-ethoxyethoxy)ethyl acrylate,H2C=CHC(O)O(CH2CH2O)2CH2CH3,7328-17-8,188.23,,1.016
+"acrylic acid, ester",2-ethoxyethyl acrylate,H2C=CHC(O)OCH2CH2OCH2CH3,106-74-1,144.17,,0.9819
+"acrylic acid, ester",ethyl acrylate,H2C=CHC(O)OCH2CH3,140-88-5,100.12,-72,0.924
+"acrylic acid, ester",ethyl 2-cyanoacrylate,H2C=C(CN)C(O)OCH2CH3,7085-85-0,125.13,-17,1.069
+"acrylic acid, ester",ethylene diacrylate,"H2C=CHC(O)OR,  R=(-CH2CH2-)",2274-11-05,170.16,,1.09
+"acrylic acid, ester",2-ethylhexyl acrylate,"H2C=CHC(O)OR,  R=CH2CH(CH2CH3)(CH2)3CH3",103-11-7,184.28,-90,0.8859
+"acrylic acid, ester",furfuryl acrylate,H2C=CHC(O)OCH2C4H3O,10525-17-4,152.15,,1.1125
+"acrylic acid, ester",glycerol propoxylate triacrylate,"H2C=CHC(O)OR,  R=-CH(CH3)CH2OCH(CH2OCH2CH(CH3)-)2",52408-84-1,428.0,,1.064
+"acrylic acid, ester",glycidyl acrylate,"H2C=CHC(O)OR,  R=CH2CH(-O-)CH2",106-90-1,128.13,,1.099
+"acrylic acid, ester","1H,1H,2H,2H-heptadecafluorodecyl acrylate",H2C=CHC(O)OCH2CH2(CF2)7CF3,27905-45-9,518.1,,
+"acrylic acid, ester","1H,1H-heptafluorobutyl acrylate",H2C=CHC(O)OCH2CF2CF2CF3,424-64-6,254.11,,1.418
+"acrylic acid, ester",heptyl acrylate,H2C=CHC(O)O(CH2)6CH3,2499-58-3,170.25,,0.8846
+"acrylic acid, ester",hexadecyl acrylate,H2C=CHC(O)O(CH2)15CH3,13402-02-3,296.5,,0.862
+"acrylic acid, ester","2,2,3,4,4,4-hexafluorobutyl acrylate",H2C=CHC(O)OCH2CF2CHFCF3,54052-90-3,236.11,,1.398
+"acrylic acid, ester",1H-hexafluoroisoporpyl acrylate,H2C=CHC(O)OCH(CF3)2,2160-89-6,222.09,,1.33
+"acrylic acid, ester",hexanediol diacrylate,"H2C=CHC(O)OR,  R=(-(CH2)6-)",13048-33-4,226.28,,1.01
+"acrylic acid, ester",n-hexyl acrylate,H2C=CHC(O)O(CH2)5CH3,2499-95-8,156.23,-45,0.8882
+"acrylic acid, ester",4-hydroxybutyl acrylate,H2C=CHC(O)O(CH2)4OH,2478-10-06,144.17,,1.039
+"acrylic acid, ester",2-hydroxyethyl acrylate,H2C=CHC(O)OCH2CH2OH,818-61-1,116.11,-101,1.011
+"acrylic acid, ester",2-hydroxy-3-phenoxypropyl acrylate,H2C=CHC(O)OCH2CH(OH)CH2OC6H5,16969-10-1,222.24,,1.16
+"acrylic acid, ester",2-hydroxypropyl acrylate,H2C=CHC(O)OCH2CH(OH)CH3,999-61-1,130.15,-92,1.05
+"acrylic acid, ester",isobornyl acrylate,H2C=CHC(O)OC10H18,5888-33-5,208.3,-15,0.986
+"acrylic acid, ester",isobutyl acrylate,H2C=CHC(O)OCH2CH(CH3)2,106-63-8,128.19,-61,0.8896
+"acrylic acid, ester",isobutyl 2-cyanoacrylate,H2C=C(CN)C(O)OCH2CH(CH3)2,1069-55-2,153.18,,
+"acrylic acid, ester",isodecyl acrylate,H2C=CHC(O)O(CH2)7CH(CH3)2,1330-61-6,212.34,-100,0.875
+"acrylic acid, ester",isooctyl acrylate,H2C=CHC(O)O(CH2)5CH(CH3)2,29590-42-9,184.25,,0.88
+"acrylic acid, ester",isopropyl acrylate,H2C=CHC(O)OCH(CH3)2,689-12-3,114.14,,0.8932
+"acrylic acid, ester",methallyl acrylate,H2C=CHC(O)OCH2C(CH3)=CH2,818-67-7,126.16,,0.9285
+"acrylic acid, ester",2-(2-methoxyethoxy)ethyl acrylate,H2C=CHC(O)OCH2CH2OCH2CH2OCH3,7328-18-9,174.2,,1.0421
+"acrylic acid, ester",2-methoxyethyl acrylate,H2C=CHC(O)OCH2CH2OCH3,3121-61-7,130.14,,1.012
+"acrylic acid, ester",methyl acrylate,H2C=CHC(O)OCH3,96-33-3,86.09,-75,0.956
+"acrylic acid, ester",2-(N-morpholino)ethyl acrylate,H2C=CHC(O)OCH2CH2NC4H8O,19727-38-9,185.2,,1.0711
+"acrylic acid, ester",1-naphthyl acrylate,H2C=CHC(O)OC10H7,20069-66-3,198.22,,
+"acrylic acid, ester",2-naphthyl acrylate,H2C=CHC(O)OC10H7,52684-34-1,198.22,,
+"acrylic acid, ester",neopentyl acrylate,H2C=CHC(O)OCH2C(CH3)3,4513-36-4,142.24,,0.859
+"acrylic acid, ester",neopentyl glycol diacrylate,"H2C=CHC(O)OR,  R=(-CH2C(CH3)2CH2-)",2223-82-7,212.25,,1.03
+"acrylic acid, ester",octadecyl acrylate,H2C=CHC(O)O(CH2)17CH3,4813-57-4,324.55,32,0.8
+"acrylic acid, ester","1H,1H,5H-octafluoropentyl acrylate",H2C=CHC(O)OCH2(CF2)3CF2H,376-84-1,286.12,,
+"acrylic acid, ester",n-octyl acrylate,H2C=CHC(O)O(CH2)7CH3,2499-59-4,184.28,,0.881
+"acrylic acid, ester","1H,1H-pentadecafluorooctyl acrylate",H2C=CHC(O)OCH2(CF2)6CF3,307-98-2,454.13,,1.63
+"acrylic acid, ester",pentaerythritol stearate diacrylate,"H2C=CHC(O)OR,  R=(-CH2)2C(CH2OH)CH2OC(O)(CH2)16CH3",92092-01-8,510.72,30,1.018
+"acrylic acid, ester",pentaerythritol tetraacrylate,"H2C=CHC(O)OR,  R=(-CH2)4C",4986-89-4,352.34,18,1.19
+"acrylic acid, ester","2,2,3,3,3-pentafluoropropyl acrylate",H2C=CHC(O)OCH2CF2CF3,356-86-5,204.1,,1.32
+"acrylic acid, ester","1,5-pentanediol diacrylate","H2C=CHC(O)OR,  R=(-(CH2)5-)",36840-85-4,212.25,,
+"acrylic acid, ester",penterythritol triacrylate,"H2C=CHC(O)OR,  R=(-CH2)3CCH2OH",3524-68-3,298.3,15,1.18
+"acrylic acid, ester",n-pentyl acrylate,H2C=CHC(O)O(CH2)4CH3,2998-23-4,142.2,,0.892
+"acrylic acid, ester",2-phenoxyethyl acrylate,H2C=CHC(O)OCH2CH2OC6H5,48145-04-6,192.21,,1.104
+"acrylic acid, ester",phenyl acrylate,H2C=CHC(O)OC6H5,937-41-7,148.16,,
+"acrylic acid, ester","1,4-phenylene diacrylate","H2C=CHC(O)OR,  R=(-C6H4-)",6729-79-9,218.21,88,
+"acrylic acid, ester","1,4-phenylenediacrylic acid",C6H4(CH=CHC(O)OH)2,16323-43-6,218.21,> 300,
+"acrylic acid, ester",2-phenylethyl acrylate,H2C=CHC(O)OCH2CH2C6H5,3530-36-7,176.22,,
+"acrylic acid, ester",propargyl acrylate,H2C=CHC(O)OCH2C≡CH,10477-47-1,110.11,138,
+"acrylic acid, ester",n-propyl acrylate,H2C=CHC(O)OCH2CH2CH3,925-60-0,114.14,,0.9078
+"acrylic acid, ester","1,3-propylene glycol diacrylate","H2C=CHC(O)OR,  R=(-(CH2)3-)",25151-33-1,184.19,,
+"acrylic acid, ester",tetradecyl acrylate,H2C=CHC(O)O(CH2)13CH3,21643-42-5,268.44,,0.87
+"acrylic acid, ester",tetraethylene glycol diacrylate,"H2C=CHC(O)OR,  R=(-(CH2CH2O)3CH2CH2-)",17831-71-9,302.33,,1.11
+"acrylic acid, ester","2,2,3,3-tetrafluoropropyl acrylate",H2C=CHC(O)OCH2CF2CF2H,7383-71-3,186.11,,1.317
+"acrylic acid, ester",tetrahydrofurfuryl acrylate,H2C=CHC(O)OC5H9O,2399-48-6,156.18,htmlentities(',1.063
+"acrylic acid, ester","S,S'-thiodi-1,4-phenylenedithiol diacrylate","H2C=CHC(O)OR,  R=(-SC6H4SSC6H4S-)",129283-82-5,386.56,64,
+"acrylic acid, ester","2,3,3-trichloroacrylic acid",ClH2C=CClC(O)OH,2257-35-4,175.4,72,
+"acrylic acid, ester",tridecyl acrylate,H2C=CHC(O)O(CH2)12CH3,3076-04-08,254.41,,
+"acrylic acid, ester",triethylene glycol diacrylate,"H2C=CHC(O)OR,  R=(-(CH2CH2O)2CH2CH2-)",1680-21-3,258.3,,1.099
+"acrylic acid, ester","2,2,2-trifluoroethyl acrylate",H2C=CHC(O)OCH2CF3,407-47-6,154.09,,1.216
+"acrylic acid, ester","3,5,5-trimethylcyclohexyl acrylate",H2C=CHC(O)OC6H8(CH3)3,86178-38-3,196.29,,0.9292
+"acrylic acid, ester","3,5,5-trimethylhexyl acrylate","H2C=CHC(O)O(CH2)2CH(CH3)CH2C(CH3)3,  R=(CH2)2CH(CH3)CH2C(CH3)3",2664-55-3,198.31,-34,0.875
+"acrylic acid, ester",trimethylolpropane ethoxylate triacrylate,"H2C=CHC(O)OR,  R=((-CH2CH2O)xCH2)3CCH2CH3",28961-43-5,428.0,,1.11
+"acrylic acid, ester",trimethylolpropane triacrylate,"H2C=CHC(O)OR,  R=(-CH2)3CCH2CH3",15625-89-5,296.32,,1.1
+"acrylic acid, ester",trimethyl 2-phosphonoacrylate,(CH3O)2P(O)C(C(O)OCH3)=CH2,55168-74-6,194.13,,1.249
+"acrylic acid, ester",tripropylene glycol diacrylate,"H2C=CHC(O)OR,  R=(-CH2(CH3)CH2O)2CH2CH(CH3)-",42978-66-5,300.0,htmlentities(',1.03
+"acrylic acid, ester","1,1,1-tris(2-hydroxyethoxymethyl)propane triacrylate","H2C=CHC(O)OR,  R=(-CH2CH2OCH2)3CCH2CH3",28961-43-5,428.48,,1.11
+"acrylic acid, ester",tris(2-hydroxyethyl) isocyanurate triacrylate,"H2C=CHC(O)OR,  R=(-CH2CH2)3C3N3O3",40220-08-4,423.38,97,
+"acrylic acid, ester",vinyl acrylate,H2C=CHC(O)OCH=CH2,2177-18-6,98.1,,0.942
+"alcohol, alkanediols","1,2-butanediol",HOCH(C2H5)CH2OH,584-03-2,90.12,,1.006
+"alcohol, alkanediols","1,3-butanediol",HOCH(CH3)CH2CH2OH,107-88-0,90.12,,1.005
+"alcohol, alkanediols","1,4-butanediol",HO(CH2)4OH,110-63-4,90.12,16,1.017
+"alcohol, alkanediols","1,10-decanediol",HO(CH2)10OH,112-47-0,174.28,73,
+"alcohol, alkanediols","1,12-dodecanediol",HO(CH2)12OH,5675-51-4,202.34,82,
+"alcohol, alkanediols",ethylene glycol,HO(CH2)2OH,107-21-1,62.07,-13,1.113
+"alcohol, alkanediols","1,7-heptanediol",HO(CH2)7OH,629-30-1,132.2,18,0.951
+"alcohol, alkanediols","1,7-heptanediol",HO(CH2)7OH,629-30-1,132.2,18,0.951
+"alcohol, alkanediols","1,16-hexadecanediol",HO(CH2)16OH,23079-20-1,258.45,92,
+"alcohol, alkanediols","1,6-hexanediol",HO(CH2)6OH,629-11-8,118.18,42,
+"alcohol, alkanediols","1,9-nonanediol",HO(CH2)9OH,3937-56-2,160.26,48,
+"alcohol, alkanediols","1,8-octanediol",HO(CH2)8OH,629-41-4,146.23,60,
+"alcohol, alkanediols","1,5-pentanediol",HO(CH2)5OH,111-29-5,104.15,,0.994
+"alcohol, alkanediols","1,2-propanediol",HOCH(CH3)CH2OH,57-55-6,76.1,-60,1.036
+"alcohol, alkanediols","1,3-propanediol",HO(CH2)3OH,504-63-2,76.1,-27,1.053
+"alcohol, alkanediols","1,14-tetradecanediol",HO(CH2)14OH,19812-64-7,230.39,88,
+"alcohol, ether diols",diethylene glycol,HOCH2CH2OCH2CH2OH,111-46-6,106.12,-10,1.118
+"alcohol, ether diols",dipropylene glycol,HOCH(CH3)CH2OCH(CH3)CH2OH,110-98-5,134.18,,1.023
+"alcohol, ether diols",hexaethylene glycol,HOCH2CH2(OCH2CH2)5OH,2615-15-8,282.34,6,1.127
+"alcohol, ether diols",pentaethylene glycol,HOCH2CH2(OCH2CH2)4OH,4792-15-8,238.28,,1.126
+"alcohol, ether diols",tetraethylene glycol,HOCH2CH2(OCH2CH2)3OH,112-60-7,194.23,-6,1.125
+"alcohol, ether diols",triethylene glycol,HOCH2CH2(OCH2CH2)2OH,112-27-6,150.17,-7,1.125
+"alcohol, ether diols",tripropylene glycol,HOCH(CH3)CH2(OCH(CH3)CH2)2OH,24800-44-0,192.26,,1.021
+allyl group,allyl acetate,H2C=CHCH2OC(O)CH3,591-87-7,100.12,,0.928
+allyl group,allyl acetic acid,H2C=CHCH2CH2C(O)OH,591-80-0,100.12,-22,0.981
+allyl group,allyl acetoacetate,H2C=CHCH2OC(O)CH2C(O)CH3,1118-84-9,142.16,,1.037
+allyl group,allyl alcohol,H2C=CHCH2OH,107-18-6,58.08,-129,0.854
+allyl group,allyl amine,H2C=CHCH2NH2,107-11-9,57.1,-88,0.761
+allyl group,N-allylaniline,H2C=CHCH2NC6H5,589-09-3,133.19,,0.982
+allyl group,4-allylanisole,H2C=CHCH2C6H4OCH3,140-67-0,148.21,,0.965
+allyl group,allylbenzene,H2C=CHCH2C6H5,300-57-2,118.18,,0.892
+allyl group,allyl benzyl ether,H2C=CHCH2OCH2C6H5,14593-43-2,148.21,,0.959
+allyl group,allyl bromide,H2C=CHCH2Br,106-95-6,120.98,-119,1.398
+allyl group,allyl butyl ether,H2C=CHCH2O(CH2)3CH3,3739-64-8,114.19,,0.783
+allyl group,allyl butyrate,H2C=CHCH2OC(O)CH2CH2CH3,2051-78-7,128.17,,0.902
+allyl group,allyl chloride,H2C=CHCH2Cl,107-05-1,76.09,-134,0.939
+allyl group,allyl chloroacetate,H2C=CHCH2OC(O)CH2Cl,2916-14-5,134.56,,1.159
+allyl group,allyl chloroformate,H2C=CHCH2OC(O)Cl,2937-50-0,120.54,,1.136
+allyl group,allyl cyanide,H2C=CHCH2CN,109-75-1,67.09,,0.834
+allyl group,allyl cyanoacetate,H2C=CHCH2OC(O)CH2CN,13361-32-5,125.13,,1.065
+allyl group,allyl ethyl ether,H2C=CHCH2OCH2CH3,557-31-3,86.13,,0.76
+allyl group,allyl fluoride,H2C=CHCH2F,818-92-8,60.07,,
+allyl group,allyl glycidyl ether,H2C=CHCH2O-CH2CH(-O-)CH2,106-92-3,114.14,,0.962
+allyl group,allyl iodide,H2C=CHCH2I,556-569,167.98,,1.837
+allyl group,allyl isocyanate,H2C=CHCH2NCO,1476-23-9,83.09,,0.94
+allyl group,4-allyl-2-methoxyphenol,H2C=CHCH2C6H4(OCH3)OH,97-53-0,164.2,-11,1.066
+allyl group,allyl methyl ether,H2C=CHCH2OCH3,627-40-7,72.11,,0.978
+allyl group,2-allylphenol,H2C=CHCH2C6H4OH,1745-81-9,134.18,,1.028
+allyl group,allyl phenyl ether,H2C=CHCH2OC6H5,1746-13-0,134.18,,0.978
+allyl group,allyl phenyl sulfone,H2C=CHCH2S(O)(O)C6H5,16212-05-8,182.24,,1.189
+allyl group,allyl succinic anhydride,H2C=CHCH2C4H3O3,7539-12-08,140.1,6,
+allyl group,allyl sulfide,(H2C=CHCH2)2S,592-88-1,114.21,,0.887
+allyl group,"allyl 2,4,6-tribromophenyl ether",H2C=CHCH2OC6H2Br3,3278-89-5,370.88,75,
+allyl group,allyl urea,H2C=CHCH2NHC(O)NH2,557-11-9,100.12,85,
+allyl group,2-chloroallyl alcohol,H2C=CClCH2OH,5976-47-6,92.53,,1.162
+allyl group,diallyl amine,(H2C=CHCH2)2NH,124-02-7,97.16,-88,0.787
+allyl group,diallyl ether,(H2C=CHCH2)2O,557-40-4,98.15,,0.803
+allyl group,"2,3-dibromopropene",H2=CBrCH2Br,513-31-5,199.88,,1.934
+allyl group,2-hexene,H2C=CHCH2CH2CH2CH3,1471-03-0,100.16,,0.767
+allyl group,3-methylallyl alcohol,CH3CH=CHCH2OH,6117-91-5,72.12,,0.845
+"amine, diamines",butanediamine,H2N(CH2)4NH2,110-60-1,88.15,27,0.877
+"amine, diamines",decanediamine,H2N(CH2)10NH2,646-25-3,172.32,62,
+"amine, diamines",dodecanediamine,H2N(CH2)12NH2,2783-17-7,200.37,70,
+"amine, diamines",ethylenediamine,H2N(CH2)2NH2,107-15-3,60.1,8.5,0.899
+"amine, diamines",heptanediamine,H2N(CH2)7NH2,646-19-5,130.24,28,
+"amine, diamines",hexanediamine,H2N(CH2)6NH2,124-09-4,116.21,43,
+"amine, diamines",nonanediamine,H2N(CH2)9NH2,646-24-2,158.29,37,
+"amine, diamines",octanediamine,H2N(CH2)8NH2,373-44-4,144.26,51,
+"amine, diamines",pentanediamine,H2N(CH2)5NH2,462-94-2,102.18,,0.873
+"amine, diamines","1,2-phenylenediamine",H2NC6H4NH2,95-54-5,108.14,104,
+"amine, diamines","1,3-phenylenediamine",H2NC6H4NH2,108-45-2,108.14,65,
+"amine, diamines","1,4-phenylenediamine",H2NC6H4NH2,106-50-3,108.14,144,
+"amine, diamines",propanediamine,H2N(CH2)3NH2,109-76-2,74.13,-12,0.888
+"anhydride, dianhydrides","benzene-1,2,4,5-tetracarboxylic dianhydride",C10H2O6,89-32-7,218.12,283,
+"anhydride, dianhydrides","benzophenone-3,3',4,4'-tetracarboxylic dianhydride",C17H6O7,2421-28-5,322.23,220,
+"anhydride, dianhydrides","bicyclo[2.2.2.]oct-7-ene-2,3,5,6-tetracarboxylic dianhydride",C12H8O6,1719-83-1,248.19,>300,
+"anhydride, dianhydrides","biphenylene-3,3',4,4'-tetracarboxylic dianhydride",C16H6O6,2420-87-3,294.22,300,
+"anhydride, dianhydrides",cyclobutanetetracarboxylic dianhydride,C8H4O6,4415-87-6,196.11,>300,
+"anhydride, dianhydrides","cis,cis-cyclopentane-1,2,3,4-tetracarboxylic dianhydride",C9H6O6,6053-68-5,210.14,225(d),
+"anhydride, dianhydrides",diethylenetriaminepentaacetic dianhydride,C14H19N3O8,23911-26-4,357.32,183,
+"anhydride, dianhydrides",ethylenediaminetetraacetic dianhydride,C10H12N2O6,23911-25-3,256.22,190(d),
+"anhydride, dianhydrides","4,4'-(hexafluoroisopropylidene)diphthalic dianhydride",C19H6F6O6,1107-00-2,444.25,244,
+"anhydride, dianhydrides","naphthalene-1,4,5,8-tetracarboxylic dianhydride",C14H4O6,81-30-1,268.18,>300,
+"anhydride, dianhydrides","perylene-3,4,9,10-tetracarboxylic dianhydride",C24H8O6,128-69-8,392.32,>300,
+"anhydride, dianhydrides","tetrahydrofuran-2,3,4,5-tetracarboxylic dianhydride",C8H4O7,25774-69-0,212.11,223,
+"anhydride, monoanhydrides",acetoxysuccinic anhydride,C6H6O5,79814-40-7,158.11,56,
+"anhydride, monoanhydrides",S-acetylmercaptosuccinic anhydride,C6H6O4S,6953-60-2,174.18,83,
+"anhydride, monoanhydrides",cis-aconitic anhydride,C6H4O5,6318-55-4,156.1,75,
+"anhydride, monoanhydrides",allylsuccinic anhydride,C7H8O3,7539-12-08,140.1,6,1.163
+"anhydride, monoanhydrides","4-amino-1,8-naphthalic anhydride",C12H7NO3,6492-86-0,213.2,,
+"anhydride, monoanhydrides","1,2,4-benzenetricarboxylic anhydride",C9H4O5,552-30-7,192.13,167,
+"anhydride, monoanhydrides","bicyclo[2.2.2.]oct-5-ene-endo-2,3-dicarboxylic anhydride",C10H10O3,24327-08-0,178.19,145,
+"anhydride, monoanhydrides",bromomaleic anhydride,C4HBrO3,5926-51-2,176.96,,1.905
+"anhydride, monoanhydrides","4-bromo-1,8-naphthalic anhydride",C12H5BrO3,21563-29-1,277.08,218,
+"anhydride, monoanhydrides",3-(tert-butyldimethylsilyloxy)glutaric anhydride,C11H20O4Si,91424-40-7,244.37,80,
+"anhydride, monoanhydrides",4-tert-butylphthalic anhydride,C12H12O3,32703-79-0,204.23,73,
+"anhydride, monoanhydrides",cantharidin,C10H12O4,56-25-7,196.2,216,
+"anhydride, monoanhydrides",N-carboxybenzyloxy-L-aspartic anhydride,C12H11NO5,4515-23-5,249.23,123,
+"anhydride, monoanhydrides",5-chloroisotoic anhydride,C8H4ClNO3,4743-17-3,197.58,300(d),
+"anhydride, monoanhydrides","4-chloro-1,8-naphthalic anhydride",C12H5ClO3,4053-08-01,232.63,208,
+"anhydride, monoanhydrides",citraconic anhydride,C5H4O3,616-02-4,112.08,7,1.247
+"anhydride, monoanhydrides","trans-cyclohexane-1,2-dicarboxylic anhydride",C8H10O3,14166-21-3,154.17,146,
+"anhydride, monoanhydrides","cyclohexane-1,2-dicarboxylic anhydride",C8H10O3,13149-00-3,154.17,33,
+"anhydride, monoanhydrides",diacetyl-L-tartaric anhydride,C8H8O7,6283-74-5,216.15,131,
+"anhydride, monoanhydrides","3,5-diacetyltetrahydropyran-2,4,6-trione anhydride",C9H8O6,33524-89-9,212.16,154,
+"anhydride, monoanhydrides",dichloromaleic anhydride,C4Cl2O3,1122-17-4,166.95,,
+"anhydride, monoanhydrides","3,6-dichlorophthalic anhydride",C8H2Cl2O3,4466-59-5,217.01,188,
+"anhydride, monoanhydrides","4,5-dichlorophthalic anhydride",C8H2Cl2O3,942-06-3,217.01,186,
+"anhydride, monoanhydrides","3,6-difluorophthalic anhydride",C8H2F2O3,652-40-4,184.1,219,
+"anhydride, monoanhydrides",diglycolic anhydride,C4H4O4,4480-83-5,116.07,92,
+"anhydride, monoanhydrides","2,2-dimethylglutaric anhydride",C7H10O3,2938-48-9,142.16,36,
+"anhydride, monoanhydrides","3,3-dimethylglutaric anhydride",C7H10O3,4160-82-1,142.16,124,
+"anhydride, monoanhydrides","2,3-dimethylmaleic anhydride",C6H6O3,766-39-2,126.11,94,
+"anhydride, monoanhydrides","2,2-dimethylsuccinic anhydride",C6H8O3,17347-61-4,128.13,30,1.135
+"anhydride, monoanhydrides",diphenic anhydride,C14H8O3,6050-13-1,224.22,225,
+"anhydride, monoanhydrides","2,3-diphenylmaleic anhydride",C16H10O3,4808-48-4,250.26,160,
+"anhydride, monoanhydrides",2-dodecen-1-ylsuccinic anhydride,C16H26O3,19780-11-1,266.38,42,
+"anhydride, monoanhydrides","exo-3,6-epoxy-1,2,3,6-tetrahydrophthalic anhydride",C8H6O4,6118-51-0,166.13,118(d),
+"anhydride, monoanhydrides",3-ethyl-3-methylglutaric anhydride,C8H12O3,6970-57-6,156.18,,
+"anhydride, monoanhydrides",3-fluorophthalic anhydride,C8H3FO3,652-39-1,166.11,159,
+"anhydride, monoanhydrides",4-fluorophthalic anhydride,C8H3FO3,319-03-9,116.11,79,
+"anhydride, monoanhydrides",2-formamidosuccinic anhydride,C5H5NO4,33605-73-1,143.1,145,
+"anhydride, monoanhydrides",glutaric anhydride,C5H6C3,108-55-4,114.1,56,
+"anhydride, monoanhydrides","1,4,5,6,7,7-hexachloro-5-norbornene-2,3-dicarboxylic anhydride",C9H2Cl6O3,115-27-5,370.83,237,
+"anhydride, monoanhydrides",hexafluoroglutaric anhydride,C5F6O3,376-68-1,222.04,,1.654
+"anhydride, monoanhydrides",hexahydro-4-methylphthalic anhydride,C9H12O3,19438-60-9,168.19,,1.162
+"anhydride, monoanhydrides",homophthalic anhydride,C9H6O3,703-59-3,162.14,141,
+"anhydride, monoanhydrides",3-hydroxyphthalic anhydride,C8H4O4,37418-88-5,164.12,200,
+"anhydride, monoanhydrides",isatoic anhydride,C8H5NO3,118-48-9,163.13,233(d),
+"anhydride, monoanhydrides",isobutenylsuccinic anhydride,C8H10O3,18908-20-8,157.17,64,
+"anhydride, monoanhydrides",itaconic anhydride,C5H4O3,2170-03-08,112.09,71,
+"anhydride, monoanhydrides",maleic anhydride,C4H2O3,108-31-6,98.06,52,
+"anhydride, monoanhydrides",3-methylglutaric anhydride,C6H8O3,4166-53-4,128.13,45,
+"anhydride, monoanhydrides",N-methylisatoic anhydride,C9H7NO3,10328-92-4,117.16,,
+"anhydride, monoanhydrides","methyl-5-norbornene-2,3-dicarboxylic anhydride",C10H10O3,25134-21-8,178.19,,1.232
+"anhydride, monoanhydrides",4-methylphthalic anhydride,C9H6O3,19438-61-0,162.14,91,
+"anhydride, monoanhydrides",methylsuccinic anhydride,C5H6O3,4100-80-5,114.1,34,1.22
+"anhydride, monoanhydrides","1,8-naphthalic anhydride",C12H6O3,81-84-5,198.18,268,
+"anhydride, monoanhydrides","3-nitro-1,8-naphthalic anhydride",C12H5NO5,3027-38-1,243.17,248(d),
+"anhydride, monoanhydrides","4-nitro-1,8-naphthalic anhydride",C12H5NO5,34087-02-0,343.17,228,
+"anhydride, monoanhydrides",3-nitrophthalic anhydride,C8H3NO5,641-70-3,193.11,164,
+"anhydride, monoanhydrides",4-nitrophthalic anhydride,C8H3NO5,5466-84-2,193.11,118,
+"anhydride, monoanhydrides","5-norbornene-endo-2,3-dicarboxylic anhydride",C9H8O3,129-64-6,164.16,166,
+"anhydride, monoanhydrides",2-octenylsuccinic anhydride,C12H18O3,26680-54-6,210.27,10,1
+"anhydride, monoanhydrides","3-oxabicyclo[3.1.0]hexane-2,4-dione anhydride",C5H4O3,5617-74-3,112.08,60,
+"anhydride, monoanhydrides","2,5-oxazolidenedione",C3H3NO3,2185-06-04,101.06,120(d),
+"anhydride, monoanhydrides",2-phenylglutaric anhydride,C11H10O3,2959-96-8,190.2,97,
+"anhydride, monoanhydrides",phenylmaleic anhydride,C10H6O3,36122-35-7,176.16,121,
+"anhydride, monoanhydrides","1-phenyl-2,3-naphthalenedicarboxylic anhydride",C18H10O3,1985-37-1,247.28,259,
+"anhydride, monoanhydrides",phenylsuccinic anhydride,C10H8O3,1131-15-3,176.17,54,
+"anhydride, monoanhydrides",phthalic anhydride,C8H4O3,85-44-9,148.12,132,
+"anhydride, monoanhydrides",N-phthaloylglutamic anhydride,C13H9NO5,3343-28-0,259.22,199,
+"anhydride, monoanhydrides",1-propenyloxymethylmaleic anhydride,C7H10O4,130221-78-2,158.16,,1.1
+"anhydride, monoanhydrides",pyrazinedicarboxylic anhydride,C6H2N2O3,4744-50-7,150.09,210(d),
+"anhydride, monoanhydrides","2,3-pyridenedicarboxylic anhydride",C7H3NO3,699-98-9,149.11,138,
+"anhydride, monoanhydrides","3,4-pyridinedicarboxylic anhydride",C7H3NO3,4664-08-08,149.11,76,
+"anhydride, monoanhydrides",succinic anhydride,C4H4O3,108-30-5,100.07,119,
+"anhydride, monoanhydrides","4-sulfo-1,8-naphthalic anhydride",C12H6O6S,71501-16-1,316.34,,
+"anhydride, monoanhydrides",tetrabromophthalic anhydride,C8Br4O3,632-79-1,463.72,275,
+"anhydride, monoanhydrides",tetrachlorophthalic anhydride,C8Cl4O3,117-08-8,285.9,256,
+"anhydride, monoanhydrides",tetrafluorophthalic anhydride,C8F4O3,652-12-0,220.08,95,
+"anhydride, monoanhydrides","cis-1,2,3,6-tetrahydrophthalic anhydride",C8H8O3,935-79-5,152.15,98,
+"anhydride, monoanhydrides","3,4,5,6-tetrahydrophthalic anhydride",C8H8O3,2426-02-08,152.15,72,
+"anhydride, monoanhydrides","3,3-tetramethyleneglutaric anhydride",C9H12O3,5662-95-3,168.19,65,
+"anhydride, monoanhydrides",tetrapropenylsuccinic anhydride (isomers),C16H26O3,26544-38-7,266.38,,1.005
+"anhydride, monoanhydrides",trimellitic anhydride,C9H3ClO4,1204-28-0,210.57,67,
+"anhydride, monoanhydrides",2-(triphenylphosphoranylidene)succinic anhydride,C22H17O3P,906-65-0,360.35,167(d),
+"butadiene, 1,2-butadiene","1,2-butadiene",H2C=C=CHCH3,590-19-2,54.09,-136,0.652
+"butadiene, 1,2-butadiene","3-methyl-1,2-butadiene",H2C=C=C(CH3)2,598-25-4,68.12,-148,0.694
+"butadiene, 1,3-butadiene","1,3-butadiene",H2C=CHCH=CH2,106-99-0,54.09,-109,0.650/-6
+"butadiene, 1,3-butadiene","2-chloro-1,3-butadiene",H2C=CClCH=CH2,126-99-8,88.54,,0.9583
+"butadiene, 1,3-butadiene","2,3-dimethyl-1,3-butadiene",H2C=C(CH3)C(CH3)=CH2,513-81-5,82.15,-76,0.726
+"butadiene, 1,3-butadiene","hexachloro-1,3-butadiene",CCl2=CClCCl=CCl2,87-68-3,260.76,-20,1.665
+"butadiene, 1,3-butadiene","hexafluoro-1,3-butadiene",CF2=CFCF=CF2,685-63-2,162.03,-132,1.553/-20
+"butadiene, 1,3-butadiene","2-methyl-1,3-butadiene",H2C=C(CH3)CH=CH2,78-79-5,68.12,-146,1.422
+"butene, 1-butenes",4-bromo-1-butene,H2C=CHCH2CH2Br,5162-44-7,135.01,,1.33
+"butene, 1-butenes",cis-2-butene,CH3CH=CHCH3,590-18-1,56.11,-139,
+"butene, 1-butenes",trans-2-butene,CH3CH=CHCH3,624-64-6,56.11,-105,
+"butene, 1-butenes",1-butene,H2C=CHCH2CH3,106-98-9,56.11,-185,
+"butene, 1-butenes","cis-1,4-dihydroxybutene",H2C(OH)CH=CHCH2(OH),6117-80-2,88.11,7,1.07
+"butene, 1-butenes","2,3-dimethyl-1-butene",H2C=C(CH3)CH(CH3)2,563-78-0,84.16,-158,0.684
+"butene, 1-butenes","2,3-dimethylbutene",(CH3)2C=C(CH3)2,563-79-1,84.16,-75,0.708
+"butene, 1-butenes","3,3-dimethyl-1-butene",H2C=CHC(CH3)2CH3,558-37-2,84.16,-115,0.653
+"butene, 1-butenes",2-methyl-1-butene,H2C=C(CH3)CH2CH3,563-46-2,70.14,-137,0.65
+"butene, 1-butenes",2-methylbutene,(CH3)2C=CHCH3,513-35-9,70.14,-134,0.662
+"butene, 1-butenes",3-methyl-1-butene,H2C=CHCH2(CH3)2,563-45-1,70.14,-168,0.627/0
+"epoxide, diepoxides","bis(3,4-epoxycyclohexylmethyl) adipate",C6H9(-O-)CH2OC(O)(CH2)4C(O)OCH2C6H9(-O-),3130-19-6,366.46,,1.149
+"epoxide, diepoxides","1,3-butadiene diepoxide",CH2(-O-)CHCH(-O-)CH2,1464-53-5,86.09,3,1.113
+"epoxide, diepoxides","1,4-butanediol diglycidol ether","CH2(-O-)CHRCH(-O-)CH2,  R=(-CH2O(CH2)4OCH2-)",2425-79-8,202.25,,1.1
+"epoxide, diepoxides","1,2,5,6-diepoxycyclooctane",C8H12O2,27035-39-8,140.18,,1.138
+"epoxide, diepoxides","1,2,7,8-diepoxyoctane","CH2(-O-)CHRCH(-O-)CH2,  R=(-(CH2)4-)",2426-07-05,142.2,,0.997
+"epoxide, diepoxides","3,4-epoxycyclohexylmethyl 3,4-epoxycyclohexanecarboxylate",C6H9(-O-)CH2OC(O)C6H9(-O-),2386-87-0,252.31,-37,1.17
+"epoxide, diepoxides",ethylene glycol digycidyl ether,"CH2(-O-)CHRCH(-O-)CH2,  R=(-CH2O(CH2)2OCH2-)",2224-15-9,174.2,,1.118
+"epoxide, monoepoxides",allylglycidyl ether,"CH2(-O-)CHR,  R=CH2OCH2CH=CH2",106-92-3,114.14,,0.962
+"epoxide, monoepoxides",2-biphenylyl glycidyl ether,"CH2(-O-)CHR,  R=CH2OC6H4C6H5",7144-65-2,266.28,31,
+"epoxide, monoepoxides",n-butyl glycidyl ether,"CH2(-O-)CHR,  R=CH2O(CH2)3CH3",2426-08-06,130.19,,0.91
+"epoxide, monoepoxides",tert-butyl glycidyl ether,"CH2(-O-)CHR,  R=CH2OC(CH3)3",7665-72-7,130.19,,0.917
+"epoxide, monoepoxides",4-tert-butylphenyl glycidyl ether,"CH2(-O-)CHR,  R=CH2OC6H4C(CH3)3",3101-60-8,206.29,,1.038
+"epoxide, monoepoxides",4-chlorophenyl glycidyl ether,"CH2(-O-)CHR,  R=CH2OC6H4Cl",2212-05-07,184.62,32,
+"epoxide, monoepoxides",cyclohexene oxide,C6H10O,286-20-4,98.15,,0.97
+"epoxide, monoepoxides",cyclooctene oxide,C8H14O,286-62-4,126.2,54,
+"epoxide, monoepoxides",cyclopentene oxide,C5H8O,285-67-6,84.12,,0.964
+"epoxide, monoepoxides",epibromohydrin,CH2(-O-)CHCH2Br,3132-64-7,136.98,-40,1.601
+"epoxide, monoepoxides",epichlorohydrin,CH2(-O-)CHCH2Cl,106-89-8,92.53,-57,1.183
+"epoxide, monoepoxides",epifluorohydrin,CH2(-O-)CHCH2F,503-09-3,76.07,,1.067
+"epoxide, monoepoxides","trans-1,2-epoxybutane",CH3CH(-O-)CHCH3,21490-63-1,72.11,,0.804
+"epoxide, monoepoxides","1,2-epoxydecane",CH2(-O-)CH(CH2)7CH3,2404-44-6,156.27,,0.84
+"epoxide, monoepoxides","1,2-epoxydodecane",CH2(-O-)CH(CH2)9CH3,2855-19-8,184.32,,0.844
+"epoxide, monoepoxides","1,2-epoxyhexadecane",CH2(-O-)CH(CH2)13CH3,7320-37-8,240.43,21,0.846
+"epoxide, monoepoxides","1,2-epoxyhexane",CH2(-O-)CH(CH2)3CH3,1436-34-6,100.16,,0.831
+"epoxide, monoepoxides","exo-2,3-epoxynorbornane",C7H10O,3146-39-2,110.16,123,
+"epoxide, monoepoxides","1,2-epoxyoctadecane","CH2(-O-)CHR,  R=(CH2)15CH3",7390-81-0,268.49,34,
+"epoxide, monoepoxides","2,3-epoxypropyl benzene","CH2(-O-)CHR,  R=CH2C6H5",4436-24-2,134.18,,1.02
+"epoxide, monoepoxides","N-(2,3-epoxypropyl)phthalimide","CH2(-O-)CHR,  R=CH2NC8H4O2",5455-98-1,203.2,99,
+"epoxide, monoepoxides","1,2-epoxytetradecane","CH2(-O-)CHR,  R=(CH2)11CH3",3234-28-4,212.38,,0.845
+"epoxide, monoepoxides",ethylene oxide,CH2(-O-)CH2,75-21-8,44.05,-111,0.891/4
+"epoxide, monoepoxides",2-ethylhexyl glycidyl ether,"CH2(-O-)CHR,  R=CH2OCH2CH(CH2CH3)(CH2)3CH3",2461-15-6,186.3,,0.891
+"epoxide, monoepoxides",furfuryl glycidyl ether,"CH2(-O-)CHR,  R=CH2OCH2C4H3O",5380-87-0,154.17,,1.122
+"epoxide, monoepoxides",glycidol,CH2(-O-)CHCH2OH,556-52-5,74.08,,1.117
+"epoxide, monoepoxides",3-glycidoxypropyl trimethoxysilane,"CH2(-O-)CHR,  R=CH2O(CH2)3Si(OCH3)3",2530-83-8,236.34,,1.07
+"epoxide, monoepoxides",(R)-(-)-glycidyl butyrate,"CH2(-O-)CHR,  R=CH2OC(O)CH2CH2CH3",60456-26-0,144.17,,1.018
+"epoxide, monoepoxides",glycidyl isopropyl ether,"CH2(-O-)CHR,  R=CH2OCH(CH3)2",4016-14-2,116.16,,0.924
+"epoxide, monoepoxides","glycidyltrimethylammonium chloride, (70% aq. solution)","CH2(-O-)CHR,  R=CH2N(CH3)3Cl",3033-77-0,151.54,,1.129
+"epoxide, monoepoxides",hexafluoropropylene oxide,F2C(-O-)CFCF3,428-59-1,166.02,,
+"epoxide, monoepoxides",4-methoxyphenyl glycidyl ether,"CH2(-O-)CHR,  R=CH2OC6H4OCH3",2211-94-1,180.2,46,
+"epoxide, monoepoxides",α-pinene oxide,C10H16O,1686-14-2,152.24,,0.964
+"epoxide, monoepoxides",propylene oxide,CH2(-O-)CHCH3,75-56-9,58.08,-112,0.83
+"epoxide, monoepoxides",styrene oxide,CH2(-O-)CHC6H5,1996-09-03,120.15,-37,1.054
+"epoxide, monoepoxides",tetracyanoethylene oxide,(NC)2C(-O-)C(CN)2,3189-43-3,144.09,,
+"epoxide, monoepoxides","1,1,2,2-tetrafluoroethyl glycidyl ether","CH2(-O-)CHR,  R=CH2OCF2CHF2",85567-21-1,174.1,,1.38
+"epoxide, monoepoxides",vinylethylene oxide,CH2(-O-)CHCH=CH2,930-22-3,70.09,,0.87
+ethylene halide,chlorotrifluoroethylene,ClFC=CF2,79-38-9,116.47,-157,
+ethylene halide,"cis-1,2-dichloroethylene",ClHC=CHCl,156-59-2,96.94,-80,1.284
+ethylene halide,"trans-1,2-dichloroethylene",ClHC=CHCl,156-60-5,96.94,-50,1.257
+ethylene halide,ethylene,H2C=CH2,74-85-1,28.05,-169,
+ethylene halide,tetrachloroethylene,Cl2C=CCl2,127-18-4,165.83,-22,1.623
+ethylene halide,tetrafluoroethylene,F2C=CF2,116-14-3,100.02,-142,1.1507/-40
+ethylene halide,tetraiodoethylene,I2C=CI2,513-92-8,531.64,192,2.983
+ethylene halide,trichloroethylene,Cl2C=CHCl,1979-01-06,131.39,-85,1.463
+ethylene halide,vinyl bromide,BrHC=CH2,593-60-2,106.96,-139,1.517
+ethylene halide,vinyl chloride,ClHC=CH2,1975-01-04,62.5,-154,0.911
+ethylene halide,vinylidene chloride,Cl2C=CH2,75-35-4,96.94,-122,1.213
+"fumaric acid, ester",diethyl fumarate,"ROC(O)CH=CHC(O)OR,  R=CH2CH3",623-91-6,172.18,2,1.052
+"fumaric acid, ester",dimethyl fumarate,H3COC(O)CH=CHC(O)OCH3,624-49-7,144.13,103,
+"fumaric acid, ester",fumaric acid,HOC(O)CH=CHC(O)OH,110-17-8,116.07,299(s),
+"fumaric acid, ester",fumaronitrile,NCCH=CHCN,764-42-1,78.07,96,0.9416
+"fumaric acid, ester",2-methylfumaric acid,HOC(O)C(CH3)=CHC(O)OH,498-24-8,130.1,204,1.466
+isocyanate,"1,3-benzene diisocyanate","OCNRNCO,  R=(-C6H4-)",123-61-5,160.13,50,
+isocyanate,"1,4-benzene diisocyanate","OCNRNCO,  R=(-C6H4-)",104-49-4,160.13,98,
+isocyanate,"α,α'-1,3-bis(isopropyl)benzene diisocyanate","OCNRNCO,  R=(-C(CH3)2C6H4C(CH3)2-)",2778-42-9,244.3,-10,1.05
+isocyanate,"α,α'-1,4-bis(isopropyl)benzene diisocyanate","OCNRNCO,  R=(-C(CH3)2C6H4C(CH3)2-)",2778-41-8,244.3,72,
+isocyanate,"1,4-butene diisocyanate","OCNRNCO,  R=(-(CH2)4-)",4538-37-8,140.14,,1.105
+isocyanate,"α-chlorotoluene 2,4-diisocyanate","OCNRNCO,  R=(-C6H3(CH2Cl)-)",51979-57-8,208.6,,1.362
+isocyanate,"trans-1,4-cyclohexylene diisocyanate","OCNRNCO,  R=(-C6H10-)",7517-76-2,166.18,60,
+isocyanate,"1,12-dodecane diisocyanate","OCNRNCO,  R=(-(CH2)12-)",13879-35-1,252.36,,0.94
+isocyanate,"1,6-hexane diisocyanate","OCNRNCO,  R=(-(CH2)6-)",822-06-0,168.2,,1.04
+isocyanate,isopherone diisocyanate (isomers),"OCNRNCO,  R=(-C10H18-)",4098-71-9,222.29,,1.049
+isocyanate,"4,4'-methylenebis(cyclohexyl isocyanate) (isomers)","OCNRNCO,  R=(-(C6H10)CH2(C6H10)-)",5124-30-1,262.35,,1.066
+isocyanate,"4,4'-methylenebis(2,6-diethylphenyl isocyanate)","OCNRNCO,  R=(-C6H2(CH2CH3)2CH2C6H2(CH2CH3)2-)",105442-35-1,362.48,56,
+isocyanate,"4,4'-methylenebis(phenylisocyanate)","OCNRNCO,  R=(-C6H4CH2C6H4-)",101-68-8,250.26,43,1.18
+isocyanate,"2-methylpentane 1,5-diisocyanate","OCNRNCO,  R=(-CH2CH(CH3)(CH2)3-)",34813-62-2,168.2,,1.049
+isocyanate,"1,8-octane diisocyanate","OCNRNCO,  R=(-(CH2)8-)",10124-86-4,196.25,,1.007
+isocyanate,"2,4-toluene diisocyanate","OCNRNCO,  R=(-C6H3(CH3)-)",584-84-9,174.16,21,1.214
+lactam,γ-butyrolactam,"OCNRNCO,  R=(-C(O)(CH2)3NH-)",616-45-5,85.11,24,1.12
+lactam,ε-caprolactam,"OCNRNCO,  R=(-C(O)(CH2)5NH-)",105-60-2,113.16,69,
+lactam,12-dodecanolactam,"OCNRNCO,  R=(-C(O)(CH2)11NH-)",947-04-6,197.32,151,
+lactam,7-heptanolactam,"OCNRNCO,  R=(-C(O)(CH2)6NH-)",673-66-5,127.19,36,
+lactam,β-propiolactam,"OCNRNCO,  R=(-C(O)CH2CH2NH-)",930-21-2,71.08,75,
+lactam,δ-valerolactam,"OCNRNCO,  R=(-C(O)(CH2)4NH-)",675-20-7,99.13,39,
+lactone,γ-butyrolactone,"OCNRNCO,  R=(-C(O)(CH2)3O-)",96-48-0,86.09,-45,1.12
+lactone,ε-caprolactone,"OCNRNCO,  R=(-C(O)(CH2)5O-)",502-44-3,114.14,,1.03
+lactone,β-propiolactone,"OCNRNCO,  R=(-C(O)(CH2)2O-)",57-57-8,72.06,-33,1.146
+lactone,δ-valerolactone,"OCNRNCO,  R=(-C(O)(CH2)4O-)",542-28-9,100.12,,1.079
+"maleic acid, ester",citraconic acid,HOC(O)C(CH3)=CHC(O)OH,498-23-7,130.1,90,
+"maleic acid, ester",diallyl maleate,"ROC(O)CH=CHC(O)OR,  R=CH2CH=CH2",999-21-3,196.2,-47,1.073
+"maleic acid, ester",di-n-butyl maleate,"ROC(O)CH=CHC(O)OR,  R=(CH2)3CH3",105-76-0,228.29,,0.988
+"maleic acid, ester",diethyl maleate,"ROC(O)CH=CHC(O)OR,  R=CH2CH3",141-05-9,172.18,-10,1.064
+"maleic acid, ester",dimethyl maleate,"ROC(O)CH=CHC(O)OR,  R=CH3",624-48-6,144.13,,1.152
+"maleic acid, ester",maleic acid,HOC(O)CH=CHC(O)OH,110-16-7,116.07,141,1.59
+methacrylamide,N-acetylmethacrylamide,"H2C=C(CH3)C(O)NRR',  R=C(O)CH3, R'=H",44810-87-9,127.14,138,
+methacrylamide,N-acetylphenylmethacrylamide,"H2C=C(CH3)C(O)NRR',  R=C6H4C(O)CH3, R'=H",58813-69-7,203.24,138,
+methacrylamide,N-allylmethacrylamide,"H2C=C(CH3)C(O)NRR',  R=CH2CH=CH2, R'=H",2186-33-6,125.17,,
+methacrylamide,N-3-aminopropylmethacrylamide hydrochloride,"H2C=C(CH3)C(O)NRR',  R=(CH2)3NH2 &#$$;HCl, R'=H",72607-53-5,178.66,124,
+methacrylamide,N-benzylmethacrylamide,"H2C=C(CH3)C(O)NRR',  R=CH2C6H5, R'=H",3219-55-4,175.23,82,
+methacrylamide,"N,N-bis(diethylaminoethyl)methacrylamide","H2C=C(CH3)C(O)NRR',  R=CH2CH2N(CH2CH3)2, R'=CH2CH2N(CH2CH3)2",76392-05-7,183.28,,
+methacrylamide,N-butoxymethylmethacrylamide,"H2C=C(CH3)C(O)NRR',  R=CH2O(CH2)3CH3, R'=H",5153-77-5,171.24,,0.96
+methacrylamide,N-tert-butylmethacrylamide,"H2C=C(CH3)C(O)NRR',  R=C(CH3)3, R'=H",6554-73-0,142.2,60,
+methacrylamide,N-2-cyanoethylmethacrylamide,"H2C=C(CH3)C(O)NRR',  R=CH2CH2CN, R'=H",24854-94-2,138.17,46,
+methacrylamide,N-cyclohexylmethacrylamide,"H2C=C(CH3)C(O)NRR',  R=C6H11, R'=H",2918-67-4,167.25,102,
+methacrylamide,"N,N-diallylmethacrylamide","H2C=C(CH3)C(O)NRR',  R=CH2CH=CH2, R'=CH2CH=CH2",13169-99-8,197.32,,
+methacrylamide,"N,N-dibenzylmethacrylamide","H2C=C(CH3)C(O)NRR',  R=CH2C6H5, R'=CH2C6H5",57625-30-6,265.36,41,
+methacrylamide,N-3-di(butyl)aminopropylmethacrylamide,"H2C=C(CH3)C(O)NRR',  R=(CH2)3N((CH2)3CH3)2, R'=H",76392-03-5,253.41,,
+methacrylamide,"N,N-dibutylmethacrylamide","H2C=C(CH3)C(O)NRR',  R=(CH2)3CH3, R'=(CH2)3CH3",22240-86-4,197.32,,
+methacrylamide,"N,N-diethylmethacrylamide","H2C=C(CH3)C(O)NRR',  R=CH2CH3, R'=CH2CH3",5441-99-6,141.21,,
+methacrylamide,"N,N-diisopropylmethacrylamide","H2C=C(CH3)C(O)NRR',  R=CH(CH3)2, R'=CH(CH3)2",51745-62-1,169.27,47,
+methacrylamide,"N-2,2-dimethoxyethylmethacrylamide","H2C=C(CH3)C(O)NRR',  R=CH2CH(OCH3)2, R'=H",95984-11-5,173.21,27,
+methacrylamide,"N-2,2-dimethoxyethyl-N-methylmethacrylamide","H2C=C(CH3)C(O)NRR',  R=CH3, R'=CH2CH(OCH3)2",95984-81-9,187.24,,
+methacrylamide,N-2-(dimethylamino)ethylmethacrylamide,"H2C=C(CH3)C(O)NRR',  R=CH2CH2N(CH3)2, R'=H",13081-44-2,156.34,,
+methacrylamide,N-3-(dimethylamino)propylmethacrylamide,"H2C=C(CH3)C(O)NRR',  R=(CH2)3N(CH3)2, R'=H",5205-93-6,170.26,,0.94
+methacrylamide,"N,N-dimethylmethacrylamide","H2C=C(CH3)C(O)NRR',  R=CH3, R'=CH3",6976-91-6,113.16,,
+methacrylamide,N-dodecylmethacrylamide,"H2C=C(CH3)C(O)NRR',  R=(CH2)11CH3, R'=H",1191-39-5,253.43,,
+methacrylamide,"N,N'-ethylenebismethacrylamide","H2C=C(CH3)C(O)NRR',  R=(-CH2CH2-), R'=H",6117-25-5,196.25,170,
+methacrylamide,N-ethyl-2-(2-oxo-1-imidazolidinyl)methacrylamide,"H2C=C(CH3)C(O)NRR',  R=CH2CH2C3H5N2O, R'=H",3089-19-8,197.24,,1.11
+methacrylamide,N-2-hydroxyethylmethacrylamide,"H2C=C(CH3)C(O)NRR',  R=CH2CH2OH, R'=H",5238-56-2,129.16,,
+methacrylamide,N-hydroxymethylmethacrylamide,"H2C=C(CH3)C(O)NRR',  R=CH2OH, R'=H",923-02-4,115.13,-37,1.1
+methacrylamide,N-4-hydroxyphenylmethacrylamide,"H2C=C(CH3)C(O)NRR',  R=C6H4OH, R'=H",19243-95-9,177.2,154,
+methacrylamide,N-isobutoxymethylmethacrylamide,"H2C=C(CH3)C(O)NRR',  R=CH2OCH(CH3)2, R'=H",4548-27-0,171.24,,0.97
+methacrylamide,N-isopropylmethacrylamide,"H2C=C(CH3)C(O)NRR',  R=CH(CH3)2, R'=H",13749-61-6,127.19,90,
+methacrylamide,methacrylamide,H2C=C(CH3)C(O)NH2,79-39-0,85.11,109,1.1
+methacrylamide,N-methoxymethylmethacrylamide,"H2C=C(CH3)C(O)NRR',  R=CH2OCH3, R'=H",3644-12-08,129.16,,
+methacrylamide,"N,N'-methylenebismethacrylamide","H2C=C(CH3)C(O)NRR',  R=(-CH2-), R'=H",2359-15-1,182.22,164,
+methacrylamide,N-methylmethacrylamide,"H2C=C(CH3)C(O)NRR',  R=CH3, R'=H",3887-02-03,99.13,,0.97
+methacrylamide,N-methyl-N-phenylmethacrylamide,"H2C=C(CH3)C(O)NRR',  R=CH3, R'=C6H5",2918-73-2,238.31,50,
+methacrylamide,N-3-(N-morpholino)propylmethacrylamide,"H2C=C(CH3)C(O)NRR',  R=(CH2)3NC4H4O, R'=H",55937-58-1,212.3,,
+methacrylamide,N-phenylethyl-N-phenylmethacrylamide,"H2C=C(CH3)C(O)NRR',  R=C6H5, R'=CH2CH2C6H5",76392-02-4,266.37,63,
+methacrylamide,N-phenylmethacrylamide,"H2C=C(CH3)C(O)NRR',  R=C6H5, R'=H",1611-83-2,161.2,84,
+methacrylamide,N-propyl-3-(trimethylammonium)methacrylamide chloride (eq. solution),"H2C=C(CH3)C(O)NRR',  R=(CH2)3N(CH3)3&#$$;HCl, R'=H",51410-72-1,220.74,-22.5,1.053
+methacrylamide,N-3-(trifluoromethyl)phenylmethacrylamide,"H2C=C(CH3)C(O)NRR',  R=C6H4CF3, R'=H",783-05-1,229.2,95,
+"methacrylic acid, ester",2-(acetoacetoxy)ethyl methacrylate,"H2C=C(CH3)C(O)OR,  R=CH2CH2C(O)OCH2C(O)CH3",21282-97-3,214.22,,1.122
+"methacrylic acid, ester",allyl methacrylate,H2C=C(CH3)C(O)OCH2CH=CH2,1996-05-09,126.16,,0.934
+"methacrylic acid, ester",2-(1-aziridinyl)ethyl methacrylate,H2C=C(CH3)C(O)OCH2CH(-NH-)CH2,6498-81-3,155.2,,
+"methacrylic acid, ester",benzyl methacrylate,H2C=C(CH3)C(O)OCH2C6H5,2495-37-6,176.22,,1.04
+"methacrylic acid, ester",bisphenol A dimethacrylate,"H2C=C(CH3)C(O)OR,  R=(-C6H4C(CH3)2C6H4-)",3253-39-2,364.44,73,
+"methacrylic acid, ester",bisphenol A tetraethoxylate dimethacrylate,"H2C=C(CH3)C(O)OR,  R=((-CH2CH2O)2C6H4)2C(CH3)2",41637-38-1,452.55,,1.12
+"methacrylic acid, ester",2-bromoethyl methacrylate,H2C=C(CH3)C(O)OCH2CH2Br,4513-56-8,193.05,,
+"methacrylic acid, ester","2-(bromomethyl)acrylic acid, ethyl ester",H2C=C(CH2Br)C(O)OCH2CH3,17435-72-2,193.05,,1.398
+"methacrylic acid, ester","2-(bromomethyl)acrylic acid, methyl ester",H2C=C(CH2Br)C(O)OCH3,4224-69-5,179.02,,1.489
+"methacrylic acid, ester",2-butoxyethyl methacrylate,"H2C=C(CH3)C(O)OR,  R=-CH2CH2O(CH2)3CH3",13532-94-0,186.25,,0.939
+"methacrylic acid, ester",N-tert-butyl-2-aminoethyl methacrylate,H2C=C(CH3)C(O)OCH2CH2NHC(CH3)3,3775-90-4,185.27,,0.914
+"methacrylic acid, ester","1,3-butylene dimethacrylate","H2C=C(CH3)C(O)OR,  R=(-CH2CH2CH(CH3)-)",1189-08-8,226.28,,1.01
+"methacrylic acid, ester","1,4-butylene dimethacrylate","H2C=C(CH3)C(O)OR,  R=(-(CH2)4-)",2082-81-7,226.28,,1.023
+"methacrylic acid, ester",n-butyl methacrylate,H2C=C(CH3)C(O)O(CH2)3CH3,97-88-1,142.2,,0.894
+"methacrylic acid, ester",sec-butyl methacrylate,H2C=C(CH3)C(O)OCH(CH3)CH2CH3,2998-18-7,142.2,,
+"methacrylic acid, ester",tert-butyl methacrylate,H2C=C(CH3)C(O)OC(CH3)3,585-07-9,142.2,,0.875
+"methacrylic acid, ester",2-chloroethyl methacrylate,H2C=C(CH3)C(O)OCH2CH2Cl,1888-94-4,148.6,,
+"methacrylic acid, ester",2-chloro-2-hydroxypropyl methacrylate,H2C=C(CH3)C(O)OCH2C(OH)ClCH3,13159-52-9,178.62,,1.19
+"methacrylic acid, ester",chloromethyl methacrylate,H2C=C(CH3)C(O)OCH2Cl,27550-73-8,146.57,,
+"methacrylic acid, ester",cinnamyl methacrylate,H2C=C(CH3)C(O)OCH2CH=CHC6H5,31736-34-2,202.25,,
+"methacrylic acid, ester",2-cyanoethyl methacrylate,H2C=C(CH3)C(O)OCH2CH2CN,4513-53-5,139.16,,
+"methacrylic acid, ester","1,4-cyclohexanediol dimethacrylate","H2C=C(CH3)C(O)OR,  R=(-C6H10-)",38479-34-4,252.31,50,
+"methacrylic acid, ester",cyclohexyl methacrylate,H2C=C(CH3)C(O)OC6H11,101-43-9,168.24,,0.9626
+"methacrylic acid, ester",decanediol dimethacrylate,"H2C=C(CH3)C(O)OR,  R=(-(CH2)10-)",6701-13-9,310.44,,
+"methacrylic acid, ester",decyl methacrylate,H2C=C(CH3)C(O)O(CH2)9CH3,3179-47-3,226.36,-44,0.875
+"methacrylic acid, ester","2,3-dibromopropyl methacrylate",H2C=C(CH3)C(O)OCH2CHBrCH2Br,3066-70-4,285.96,,
+"methacrylic acid, ester",2-(dibutylamino)ethyl methacrylate,H2C=C(CH3)C(O)O(CH2)2N(CH2CH2CH2CH3)2,2397-75-3,241.38,,
+"methacrylic acid, ester",dicyclopentenyl methacrylate,H2C=C(CH3)C(O)OC10H13,31621-69-9,218.3,,1.05
+"methacrylic acid, ester",dicyclopentenyloxyethyl methacrylate,H2C=C(CH3)C(O)OC12H17O,68586-19-6,262.35,,1.064
+"methacrylic acid, ester",2-(diethylamino)ethyl methacrylate,H2C=C(CH3)C(O)O(CH2)2N(CH2CH3)2,105-16-8,185.28,htmlentities(',0.922
+"methacrylic acid, ester",diethylene glycol dimethacrylate,"H2C=C(CH3)C(O)OR,  R=(-CH2CH2OCH2CH2-)",2358-84-1,242.27,,1.082
+"methacrylic acid, ester","3,4-dihydroxybutyl methacrylate",H2C=C(CH3)C(O)OCH2CH2CH(OH)CH2OH,62180-57-8,174.2,,
+"methacrylic acid, ester","2,3-dihydroxypropyl methacrylate",H2C=C(CH3)C(O)OCH2CH(OH)CH2OH,5919-74-4,160.17,,
+"methacrylic acid, ester",2-(dimethylamino)ethyl methacrylate,H2C=C(CH3)C(O)OCH2CH2N(CH3)2,2867-47-2,157.22,-30,0.933
+"methacrylic acid, ester",3-(dimethylamino)propyl methacrylate,H2C=C(CH3)C(O)O(CH2)3N(CH3)2,17577-32-1,199.3,,
+"methacrylic acid, ester",diurethane dimethacrylate (isomers),C23H38N2O8,72869-86-4,470.57,,1.11
+"methacrylic acid, ester","1H,1H,7H-dodecafluoroheptyl methacrylate",H2C=C(CH3)C(O)OCH2(CF2)5CF2H,2261-99-6,400.17,,
+"methacrylic acid, ester",dodecanediol dimethacrylate,"H2C=C(CH3)C(O)OR,  R=(-(CH2)12-)",72829-09-5,338.49,0.95,1.46
+"methacrylic acid, ester",dodecyl methacrylate,H2C=C(CH3)C(O)O(CH2)11CH3,142-90-5,252.42,-7,0.868
+"methacrylic acid, ester","2,3-epithiopropyl methacrylate",H2C=C(CH3)C(O)OCH2CH(-S-)CH2,3139-91-1,158.22,,
+"methacrylic acid, ester","2,3-epoxybutyl methacrylate",H2C=C(CH3)C(O)OCH2CH(-O-)CHCH3,68212-07-7,156.18,,
+"methacrylic acid, ester","3,4-epoxybutyl methacrylate",H2C=C(CH3)C(O)OCH2CH2CH(-O-)CH2,55750-22-6,156.18,,1.038
+"methacrylic acid, ester","2,3-epoxyopropyl methacrylate",H2C=C(CH3)C(O)OCH2CH(-O-)CH2,106-91-2,142.16,,1.042
+"methacrylic acid, ester",4-ethoxybutyl methacrylate,H2C=C(CH3)C(O)O(CH2)4OCH2CH3,76392-24-0,186.25,,
+"methacrylic acid, ester",2-ethoxyethyl methacrylate,H2C=C(CH3)C(O)OCH2CH2OCH2CH3,2370-63-0,158.2,,0.964
+"methacrylic acid, ester",2-ethylbutyl methacrylate,H2C=C(CH3)C(O)OCH2CH(CH2CH3)CH2CH3,5138-86-3,170.25,,
+"methacrylic acid, ester","1,2-ethylene dimethacrylate","H2C=C(CH3)C(O)OR,  R=(-CH2CH2-)",97-90-5,198.22,-40,1.051
+"methacrylic acid, ester",2-ethylhexyl methacrylate,"H2C=C(CH3)C(O)OR,  R=-CH2CH(CH2CH3)(CH2)3CH3",688-84-6,198.31,,0.885
+"methacrylic acid, ester",ethyl methacrylate,H2C=C(CH3)C(O)OCH2CH3,97-63-2,114.15,htmlentities(',0.917
+"methacrylic acid, ester",2-(ethylthio)ethyl methacrylate,H2C=C(CH3)C(O)OCH2CH2SCH2CH3,14216-25-2,174.26,,
+"methacrylic acid, ester",furfuryl methacrylate,H2C=C(CH3)C(O)OCH2C4H3O,3454-28-2,166.18,,1.078
+"methacrylic acid, ester",glycerol dimethacrylate,"H2C=C(CH3)C(O)OR,  R=(-CH2CH(OH)CH2-)",1830-78-0,228.25,htmlentities(',1.12
+"methacrylic acid, ester",glycerol trimethacrylate,"H2C=C(CH3)C(O)OR,  R=-CH(CH2-)2",52408-84-1,296.3,,
+"methacrylic acid, ester",glycidyl methacrylate,H2C=C(CH3)C(O)OCH(-O-)CH2,106-91-2,142.16,,1.042
+"methacrylic acid, ester","1H,1H,2H,2H-heptadecafluorodecyl methacrylate",H2C=C(CH3)C(O)O(CH2)2(CF2)7CF3,1996-88-9,532.2,,
+"methacrylic acid, ester","1H,1H-heptafluorobutyl methacrylate",H2C=C(CH3)C(O)OCH2(CF2)2CF3,13695-31-3,268.13,,1.345
+"methacrylic acid, ester",heptyl methacrylate,H2C=C(CH3)C(O)O(CH2)6CH3,5459-37-0,184.28,,
+"methacrylic acid, ester","2,2,3,4,4,4-hexafluorobutyl methacrylate",H2C=C(CH3)C(O)OCH2CF2CHFCF3,36405-47-7,250.14,,1.348
+"methacrylic acid, ester",1H-hexafluoroisopropyl methacrylate,H2C=C(CH3)C(O)OCH(CF3)2,3063-94-3,236.11,,1.302
+"methacrylic acid, ester","1,6-hexanediol dimethacrylate","H2C=C(CH3)C(O)OR,  R=(-(CH2)6-)",6606-59-3,254.33,,0.995
+"methacrylic acid, ester",hexyl methacrylate,H2C=C(CH3)C(O)O(CH2)5CH3,142-09-6,170.25,,0.885
+"methacrylic acid, ester",4-hydroxybutyl methacrylate,H2C=C(CH3)C(O)O(CH2)4OH,997-46-6,158.2,,
+"methacrylic acid, ester","2-(1-hydroxyethyl)acrylic acid, methyl ester",H2C=C(CH(OH)CH3)C(O)OCH3,18020-65-0,130.14,,1.071
+"methacrylic acid, ester",2-hydroxyethyl methacrylate,H2C=C(CH3)C(O)OCH2CH2OH,868-77-9,130.14,-12,1.073
+"methacrylic acid, ester",3-(5-hydroxypentyloxy)-3-oxopropyl methacrylate,"H2C=C(CH3)C(O)OR,  R=-CH2CH2C(O)O(CH2)5OH",85099-10-1,244.29,-48,1.08
+"methacrylic acid, ester",3-hydroxypropyl methacrylate,H2C=C(CH3)C(O)O(CH2)3OH,276-09-3,144.17,,1.066
+"methacrylic acid, ester",isobornyl methacrylate,H2C=C(CH3)C(O)OC10H8,7534-94-3,222.33,-51,0.983
+"methacrylic acid, ester",isobutyl methacrylate,H2C=C(CH3)C(O)OCH2CH(CH3)2,97-86-9,142.2,,0.886
+"methacrylic acid, ester",2-isocyanatoethyl methacrylate,H2C=C(CH3)C(O)OCH2CH2NCO,30674-80-7,155.17,-45,1.096
+"methacrylic acid, ester",isodecyl methacrylate,H2C=C(CH3)C(O)O(CH2)7CH(CH3)2,29964-84-9,226.36,-41,0.878
+"methacrylic acid, ester",isopropyl methacrylate,H2C=C(CH3)C(O)OCH(CH3)2,4655-34-9,128.17,,0.8847
+"methacrylic acid, ester",methacrylic acid,H2C=C(CH3)C(O)OH,79-41-4,86.09,16,1.015
+"methacrylic acid, ester",methacrylic acid chloride,H2C=C(CH3)C(O)Cl,920-46-7,104.54,,1.07
+"methacrylic acid, ester",methacrylic anhydride,H2C=C(CH3)C(O)OC(O)C(CH3)=CH2,760-93-0,154.17,-20,1.035
+"methacrylic acid, ester",methallyl methacrylate,H2C=C(CH3)C(O)OCH2C(CH3)=CH2,816-74-0,140.18,,
+"methacrylic acid, ester",2-(2-methoxyethoxy)ethyl methacrylate,H2C=C(CH3)C(O)O(CH2CH2O)2CH3,45103-58-0,188.22,,1.02
+"methacrylic acid, ester",2-methoxyethyl methacrylate,H2C=C(CH3)C(O)OCH2CH2OCH3,6976-93-8,144.17,,0.993
+"methacrylic acid, ester",methyl methacrylate,H2C=C(CH3)C(O)OCH3,80-62-6,100.12,-48,0.936
+"methacrylic acid, ester",2-methyl-2-nitropropyl methacrylate,H2C=C(CH3)C(O)OCH2C(CH3)(NO2)CH3,2177-42-6,187.2,,1.087
+"methacrylic acid, ester",2-(methylthio)ethyl methacrylate,H2C=C(CH3)C(O)OCH2CH2SCH3,14216-23-0,160.24,,1.04
+"methacrylic acid, ester",2-N-morpholinoethyl methacrylate,H2C=C(CH3)C(O)OCH2CH2NC4H8O,2997-88-8,199.25,,
+"methacrylic acid, ester",neopentyl glycol dimethacrylate,"H2C=C(CH3)C(O)OR,  R=(-CH2C(CH3)2CH2-)",1985-51-9,240.3,,1.003
+"methacrylic acid, ester",nonaethylene glycol dimethacrylate,"H2C=C(CH3)C(O)OR,  R=(-(CH2CH2O)8CH2CH2-)",25852-47-5,550.0,,1.099
+"methacrylic acid, ester",nonapropylene glycol dimethacrylate,"H2C=C(CH3)C(O)OR,  R=(-(CH(CH3)CH2O)8CH(CH3)CH2-)",25852-49-7,560.0,,1.01
+"methacrylic acid, ester",nonyl methacrylate,H2C=C(CH3)C(O)O(CH2)8CH3,2696-43-7,212.33,,1.099
+"methacrylic acid, ester",4-nonylphenyl methacrylate,H2C=C(CH3)C(O)OC6H4(CH2)8CH3,76391-98-5,288.43,,
+"methacrylic acid, ester",octadecyl methacrylate,H2C=C(CH3)C(O)O(CH2)17CH3,32360-05-7,338.58,19,0.864
+"methacrylic acid, ester",n-octyl methacrylate,H2C=C(CH3)C(O)O(CH2)7CH3,2157-01-09,198.31,,
+"methacrylic acid, ester",pentabromophenyl methacrylate,H2C=C(CH3)C(O)OC6Br5,18967-31-2,556.69,132,
+"methacrylic acid, ester",pentachlorophenyl methacrylate,H2C=C(CH3)C(O)OC6Cl5,16184-61-5,334.41,87,
+"methacrylic acid, ester",pentaerythritol tetramethacrylate,"H2C=C(CH3)C(O)OR,  R=C(CH2-)4",3253-41-6,408.45,66,
+"methacrylic acid, ester","2,2,3,3,3-pentafloropropyl methacrylate",H2C=C(CH3)C(O)OCH2CF2CF3,45115-53-5,218.12,,1.5732
+"methacrylic acid, ester","1H,1H-pentafluorooctyl methacrylate",H2C=C(CH3)C(O)OCH2(CF2)6CF3,3934-23-4,468.16,,
+"methacrylic acid, ester",pentyl methacrylate,H2C=C(CH3)C(O)O(CH2)4CH3,2849-98-1,156.23,,
+"methacrylic acid, ester",2-phenoxyethyl methacrylate,H2C=C(CH3)C(O)OCH2CH2OC6H5,10595-06-9,206.24,,1.0687
+"methacrylic acid, ester",2-phenylethyl methacrylate,H2C=C(CH3)C(O)OCH2CH2C6H5,3683-12-03,190.24,,0.98
+"methacrylic acid, ester",phenyl methacrylate,H2C=C(CH3)C(O)OC6H5,2177-70-0,162.19,,
+"methacrylic acid, ester","1,2-propylene dimethacrylate","H2C=C(CH3)C(O)OR,  R=(-CH2CH(CH3)-)",1188-09-6,212.25,,
+"methacrylic acid, ester",n-propyl methacrylate,H2C=C(CH3)C(O)OCH2CH2CH3,2210-28-8,128.17,,0.9022
+"methacrylic acid, ester",2-sulfoethyl methacrylate,H2C=C(CH3)C(O)OCH2CH2SO3H,10595-80-9,194.21,,1.3245
+"methacrylic acid, ester","3-sulfopropyl methacrylate, potassium salt",H2C=C(CH3)C(O)O(CH2)3SO3K,31098-21-2,246.33,295(d),
+"methacrylic acid, ester",tetraethylene glycol dimethacrylate,"H2C=C(CH3)C(O)OR,  R=(-CH2CH2(OCH2CH2)3-)",109-17-1,300.37,,1.08
+"methacrylic acid, ester","2,2,3,3-tetrafluoropropyl methacrylate",H2C=C(CH3)C(O)OCH2CF2CF2H,45102-52-1,200.14,,1.25
+"methacrylic acid, ester","2-(trimethoxysilylmethyl)acrylic acid, ethyl ester",H2C=C(CH2Si(OCH3)3)C(O)OCH2CH3,74976-84-4,186.33,,0.897
+"methacrylic acid, ester",trimethylsilyl methacrylate,H2C=C(CH3)C(O)OSi(CH3)3,13688-56-7,158.28,,0.89
+"methacrylic acid, ester",2-(trimethylsilyloxy)ethyl methacrylate,"H2C=C(CH3)C(O)OR,  R=CH2CH2OSi(CH3)3",17407-09-9,202.33,,0.928
+"methacrylic acid, ester",3-(trimethylsilyloxy)propyl methacrylate,"H2C=C(CH3)C(O)OR,  R=(CH2)3OSi(CH3)3",2530-85-0,248.35,,1.045
+"methacrylic acid, ester",3-(tris(trimethylsilyloxy)silyl)propyl methacrylate,"H2C=C(CH3)C(O)OR,  R=(CH2)3Si(OSi(CH3)3)3",17096-07-0,422.82,,0.918
+"methacrylic acid, ester",vinyl methacrylate,H2C=C(CH3)C(O)OCH=CH2,4245-37-8,112.13,,0.933
+propene,cis-1-bromopropene,BrCH=CHCH3,590-13-6,120.98,,1.423
+propene,trans-1-bromopropene,BrCH=CHCH3,590-15-8,120.98,,1.408
+propene,2-bromopropene,H2C=CBrCH3,557-93-7,120.98,-125,1.362
+propene,1-chloro-2-methylpropene,ClCH=C(CH3)2,513-37-1,90.55,,0.92
+propene,3-chloro-2-methylpropene,H2C=C(CH3)CH2Cl,563-47-3,90.55,-80,0.917
+propene,2-chloropropene,H2C=CClCH3,557-98-2,76.53,-139,0.899
+propene,"1,1-dichloropropene",Cl2C=CHCH3,563-58-6,110.97,,1.169
+propene,hexafluoropropene,F2C=CFCF3,116-15-4,150.02,-153,
+propene,2-methylpropene,H2C=C(CH3)2,115-11-7,56.11,-140,
+propene,propene,H2C=CHCH3,115-07-1,42.08,-185,
+styrene,4-acetoxystyrene,H2C=CHC6H4OC(O)CH3,2628-16-2,162.19,7,1.06
+styrene,2-aminostyrene,H2C=CHC6H4NH2,3867-18-3,119.18,,1.608
+styrene,4-aminostyrene,H2C=CHC6H4NH2,1520-21-4,119.18,23,1.014
+styrene,4-benzyloxy-3-methoxystyrene,H2C=CHC6H3(OCH3)OCH2C6H5,55708-65-1,240.3,,
+styrene,"3,5-bis(trifluoromethyl)styrene",H2C=CHC6H4(CF3)2,349-59-7,240.15,7,1.334
+styrene,α-bromostyrene,H2C=CBrC6H5,98-81-7,183.05,-44,1.41
+styrene,β-bromostyrene,HCBr=CHC6H5,103-64-0,183.05,7,1.427
+styrene,2-bromostyrene,H2C=CHC6H4Br,2039-88-5,183.05,-53,1.46
+styrene,3-bromostyrene,H2C=CHC6H4Br,2039-86-3,183.05,,1.406
+styrene,4-bromostyrene,H2C=CHC6H4Br,2039-82-9,183.05,4.5,1.4
+styrene,4-tert-butylstyrene,H2C=CHC6H4C(CH3)3,1746-23-2,160.26,-37,0.875
+styrene,4-carboxystyrene,H2C=CHC6H4CO2H,1075-49-6,148.16,143,
+styrene,3-chloromethylstyrene,H2C=CHC6H4CH2Cl,1592-20-7,152.62,,1.083
+styrene,3-chloromethylstyrene,H2C=CHC6H4CH2Cl,57458-41-0,152.62,,1.074
+styrene,4-chloro-α-methylstyrene,H2C=C(CH3)C6H4Cl,1712-70-5,152.62,,1.065
+styrene,2-chlorostyrene,H2C=CHC6H4Cl,2039-87-4,138.6,-63,1.08
+styrene,3-chlorostyrene,H2C=CHC6H4Cl,2039-85-2,138.6,,1.09
+styrene,4-chlorostyrene,H2C=CHC6H4Cl,1073-67-2,138.6,-16,1.155
+styrene,3-cyanostyrene,H2C=CHC6H4CN,5338-96-5,129.16,,1.083
+styrene,4-cyanostyrene,H2C=CHC6H4CN,3435-51-6,129.16,-15,
+styrene,"2,5-dichlorostyrene",H2C=CHC6H3Cl2,1123-84-8,173.04,,
+styrene,"2,6-dichlorostyrene",H2C=CHC6H3Cl2,28469-92-3,173.04,,1.267
+styrene,"3,4-dichlorostyrene",H2C=CHC6H3Cl2,2039-83-0,173.04,,
+styrene,"1,2-difluorostyrene",H2C=CHC6H3F2,366-37-0,140.03,,
+styrene,"1,3-diisopropenylbenzene",C6H4(C(CH3)=CH2)2,3748-13-8,158.25,,0.925
+styrene,"3,4-dimethoxystyrene",H2C=CHC6H3(OCH3)2,6380-23-0,164.2,,1.109
+styrene,α-2-dimethylstyrene,H2C=C(CH3)C6H4CH3,26444-18-8,132.21,,0.894
+styrene,"2,4-dimethylstyrene",H2C=CHC6H3(CH3)2,2234-20-0,132.21,-64,0.906
+styrene,"2,5-dimethylstyrene",H2C=CHC6H3(CH3)2,2039-89-6,132.21,-35,0.904
+styrene,divinylstyrene (isomers),C6H4(CH=CH2)2,1321-74-0,130.19,,0.914
+styrene,4-ethoxystyrene,H2C=CHC6H4OCH2CH3,5459-40-5,148.21,,0.99
+styrene,2-ethylstyrene,H2C=CHC6H4CH2CH3,7564-63-8,132.21,-127,0.8955
+styrene,4-ethylstyrene,H2C=CHC6H4CH2CH3,3454-07-07,132.21,-50,0.8925
+styrene,2-fluorostyrene,H2C=CHC6H4F,394-46-7,122.14,,1.025
+styrene,3-fluorostyrene,H2C=CHC6H4F,350-51-6,122.14,,1.025
+styrene,4-fluorostyrene,H2C=CHC6H4F,405-99-2,122.14,,1.024
+styrene,4-isopropylstyrene,H2C=CHC6H4CH(CH3)2,2055-40-5,146.22,-45,0.885
+styrene,2-methoxy-4-hydroxystyrene,H2C=CHC6H3OCH3(OH),7786-61-0,150.18,,1.11
+styrene,2-methoxystyrene,H2C=CHC6H4OCH3,612-15-7,134.18,29,1.0049
+styrene,3-methoxystyrene,H2C=CHC6H4OCH3,626-20-0,134.18,,0.9999
+styrene,4-methoxystyrene,H2C=CHC6H4OCH3,637-69-4,134.18,,0.994
+styrene,α-methylstyrene,H2C=C(CH3)C6H5,98-83-9,118.18,-24,0.909
+styrene,2-methylstyrene,H2C=CHC6H4CH3,611-15-4,118.18,-69,0.917
+styrene,3-methylstyrene,H2C=CHC6H4CH3,100-80-1,118.18,-82,0.89
+styrene,4-methylstyrene,H2C=CHC6H4CH3,622-97-9,118.18,-34,0.897
+styrene,3-nitrostyrene,H2C=CHC6H4NO2,586-39-0,149.15,-5,1.07
+styrene,4-nitrostyrene,H2C=CHC6H4NO2,100-13-0,149.15,25,
+styrene,pentabromostyrene,H2C=CHC6Br5,53097-59-9,498.66,188,
+styrene,pentafluorostyrene,H2C=CHC6F5,653-34-9,194.1,,1.406
+styrene,4-phenoxystyrene,H2C=CHC6H4OC6H5,4973-29-9,196.25,71,
+styrene,4-phenylstyrene,H2C=CHC6H4C6H5,2350-89-2,180.25,120,
+styrene,styrene,H2C=CHC6H5,100-42-5,104.15,-30,0.9059
+styrene,"styrene-4-sulfonic acid, sodium salt",H2C=CHC6H4SO3Na,2695-37-6,206.2,225,
+styrene,2-trifluoromethylstyrene,H2C=CHC6H4CF3,395-45-9,172.15,,1.175
+styrene,3-trifluoromethylstyrene,H2C=CHC6H4CF3,402-24-4,172.15,,1.161
+styrene,4-trifluoromethylstyrene,H2C=CHC6H4CF3,402-50-6,172.15,,1.165
+styrene,"2,4,6-trimethylstyrene",H2C=CHC6H2(CH3)3,769-25-5,146.24,,0.906
+"vinyl, N-substituted",N-methyl-N-vinylacetamide,H2C=CHN(CH3)C(O)CH3,3195-78-6,99.1,-36,0.96
+"vinyl, N-substituted",N-vinylcaprolactam,H2C=CHNC6H10O,2235-06-09,139.2,36,1.029
+"vinyl, N-substituted",N-vinylcarbazole,H2C=CHNC12H8,1484-13-5,193.25,65,
+"vinyl, N-substituted",N-vinylformamide,H2C=CHNHC(O)H,13162-05-5,71.08,-16,1.014
+"vinyl, N-substituted",N-vinylphthalimide,H2C=CHNC8H4O2,3485-84-5,173.17,85,
+"vinyl, N-substituted",N-vinylpyrolidone,H2C=CHNC4H6O,1988-12-08,111.14,,1.04
+"vinyl, aryl substituted",9-vinylanthracene,H2C=CHC14H9,2444-68-0,204.27,65,
+"vinyl, aryl substituted",2-vinylnaphthalene,H2C=CHC10H7,827-54-3,154.21,61,
+"vinyl, aryl substituted",2-vinylpyridine,H2C=CHC5H4N,100-69-6,105.14,,0.975
+"vinyl, aryl substituted",3-vinylpyridine,H2C=CHC5H4N,1121-55-7,105.14,,
+"vinyl, aryl substituted",4-vinylpyridine,H2C=CHC5H4N,100-43-6,105.14,,0.975
+"vinyl, aryl substituted",2-vinylquinoline,H2C=CHC9H6N,772-03-2,155.2,,1.34
+"vinyl, ester",allyl vinyl adipate,H2C=CHOC(O)(CH2)4C(O)OCH2CH=CH2,56860-96-9,212.25,,
+"vinyl, ester",monovinyl maleate,H2C=CHOC(O)CH=CHC(O)OH,19896-47-0,142.11,,
+"vinyl, ester",1-trifluoromethylvinyl acetate,H2C=C(CF3)OC(O)CH3,2247-91-8,154.09,,1.212
+"vinyl, ester",vinyl acetate,H2C=CHOC(O)CH3,108-05-4,86.09,-93,0.934
+"vinyl, ester",vinyl benzoate,H2C=CHOC(O)C6H5,769-78-8,148.16,,1.07
+"vinyl, ester",vinyl bromoacetate,H2C=CHOC(O)CH2Br,5309-70-6,165.0,,
+"vinyl, ester",vinyl 4-tert-butylbenzoate,H2C=CHOC(O)C6H4C(CH3)3,15484-80-7,204.27,,0.999
+"vinyl, ester",vinyl butyrate,H2C=CHOC(O)(CH2)2CH3,123-20-6,114.14,,0.9022
+"vinyl, ester",vinyl carbonate,H2C=CHOC(O)OCH=CH2,872-36-6,86.05,22,1.355
+"vinyl, ester",vinyl chloroacetate,H2C=CHOC(O)CH2Cl,2549-51-1,120.54,,1.19
+"vinyl, ester",vinyl 2-chlorobenzoate,H2C=CHOC(O)C6H4Cl,15721-27-4,182.61,,1.22
+"vinyl, ester",vinyl chloroformate,H2C=CHOC(O)Cl,5130-24-5,106.51,,1.253
+"vinyl, ester",vinyl cinnamate,H2C=CHOC(O)CH=CHC6H5,3098-92-8,174.2,,1.07
+"vinyl, ester",vinyl crotonate,H2C=CHOC(O)CH2CH=CHCH3,14861-06-4,112.13,,0.94
+"vinyl, ester",vinyl decanoate,H2C=CHOC(O)(CH2)8CH3,4704-31-8,198.31,,0.886
+"vinyl, ester",vinyl dodecanoate,H2C=CHOC(O)(CH2)10CH3,2146-71-6,226.36,,0.8639
+"vinyl, ester",vinyl 2-ethylhexanoate,H2C=CHOC(O)CH(CH2CH3)(CH2)3CH3,1994-04-02,170.25,-90,0.875
+"vinyl, ester",vinyl formate,H2C=CHOC(O)H,692-45-5,72.06,,0.9651
+"vinyl, ester",vinyl 2-furoate,H2C=CHOC(O)C4H3O,1917-10-08,138.12,14,
+"vinyl, ester",vinyl hexadecanoate,H2C=CHOC(O)(CH2)14CH3,693-38-9,282.47,24,0.8602
+"vinyl, ester",vinyl hexanoate,H2C=CHOC(O)(CH2)4CH3,3050-69-9,142.2,,0.8837
+"vinyl, ester",vinyl neodecanoate,H2C=CHOC(O)C9H19,51000-52-3,198.31,,0.882
+"vinyl, ester",vinyl nonate,H2C=CHOC(O)(CH2)7CH3,6280-03-01,184.28,,0.8689
+"vinyl, ester",vinyl octanoate,H2C=CHOC(O)(CH2)6CH3,818-44-0,170.25,,0.8719
+"vinyl, ester",vinyl oleate,H2C=CHOC(O)(CH2)7CH=CH(CH2)7CH3,3896-58-0,308.49,36,
+"vinyl, ester",vinyl pentanoate,H2C=CHOC(O)(CH2)3CH3,5873-43-8,128.17,,
+"vinyl, ester",vinyl pivalate,H2C=CHOC(O)C(CH3)3,3377-92-2,128.17,,0.866
+"vinyl, ester",vinyl propionate,H2C=CHOC(O)CH2CH3,105-38-4,100.12,-81,0.9173
+"vinyl, ester",vinyl sebacate,H2C=CHOC(O)(CH2)8C(O)OCH=CH2,10355-50-7,254.33,,
+"vinyl, ester",vinyl stearate,H2C=CHOC(O)(CH2)16CH3,111-63-7,310.51,32,0.904
+"vinyl, ester",vinyl succinate,H2C=CHOC(O)CH2CH2C(O)OCH=CH2,13416-90-5,170.16,,
+"vinyl, ester",vinyl tetradecanoate,H2C=CHOC(O)(CH2)12CH3,5809-91-6,254.41,15,0.87
+"vinyl, ester",vinyl thioacetate,H2C=CHSC(O)CH3,10340-63-3,102.15,,
+"vinyl, ester",vinyl trichloroacetate,H2C=CHOC(O)CCl3,7062-87-5,189.43,,
+"vinyl, ester",vinyl trifluoroacetate,H2C=CHOC(O)CF3,433-28-3,140.06,,1.203
+"vinyl, ester",vinyl trithiocarbonate,H2C=CHSC(S)SCH=CH2,930-35-8,134.24,48,
+"vinyl, ester",vinyl versatate,H2C=CHOC(O)C(CH3)2(CH2)5CH3,49863-74-3,198.31,,
+"vinyl, ether",allyl vinyl ether,H2C=CHOCH2CH=CH2,3917-15-5,84.12,,0.8
+"vinyl, ether",butoxyethyl vinyl ether,H2C=CHOCH2CH2O(CH2)3CH3,4223-11-04,144.21,,0.866
+"vinyl, ether",n-butyl vinyl ether,H2C=CHO(CH2)3CH3,111-34-2,100.16,-92,0.774
+"vinyl, ether",tert-butyl vinyl ether,H2C=CHOC(CH3)3,926-02-3,100.16,,0.762
+"vinyl, ether",2-butyl vinyl ether,H2C=CHOCH(CH2CH3)CH3,4181-12-08,100.16,,
+"vinyl, ether",1-chloroethyl vinyl ether,H2C=CHOCHClCH3,110-75-8,106.55,,1.048
+"vinyl, ether",2-chloroethyl vinyl ether,H2C=CHOCH2CH2Cl,110-75-8,106.55,-70,1.048
+"vinyl, ether",cyclohexyl vinyl ether,H2C=CHOC6H11,2182-55-0,126.2,-109,0.891
+"vinyl, ether",diethylene glycol vinyl ether,H2C=CHOCH2CH2OCH2CH2OH,929-37-3,132.16,,0.986
+"vinyl, ether",divinyl ether,H2C=CHOCH=CH2,109-93-3,70.09,-101,0.773
+"vinyl, ether",dodecyl vinyl ether,H2C=CHO(CH2)11CH3,765-14-0,212.38,-12,0.817
+"vinyl, ether",2-ethylhexyl vinyl ether,H2C=CHOCH2CH(CH2CH3)(CH2)3CH3,103-44-6,156.27,-85,0.816
+"vinyl, ether",ethyl vinyl ether,H2C=CHOCH2CH3,109-92-2,72.11,-116,0.754
+"vinyl, ether",glycidyl vinyl ether,H2C=CHOCH2CH(-O-)CH2,3678-15-7,100.12,,1.006
+"vinyl, ether",hexadecyl vinyl ether,H2C=CHO(CH2)15CH3,822-28-6,268.47,16,
+"vinyl, ether",4-hydroxybutyl vinyl ether,H2C=CHO(CH2)4OH,17832-28-9,116.16,-33,0.939
+"vinyl, ether",2-hydroxyethyl vinyl ether,H2C=CHOCH2CH2OH,764-48-7,88.11,,0.982
+"vinyl, ether",isobutyl vinyl ether,H2C=CHOCH2CH(CH3)2,109-53-5,100.16,-112,0.7645
+"vinyl, ether",isooctyl vinyl ether,H2C=CHO(CH2)5CH(CH3)2,37769-62-3,156.27,,
+"vinyl, ether",isopropyl vinyl ether,H2C=CHOCH(CH3)2,926-65-8,86.13,-140,0.7534
+"vinyl, ether",2-(2-methoxyethoxy)ethyl vinyl ether,H2C=CHO(CH2CH2O)2CH3,26256-87-1,190.24,,0.99
+"vinyl, ether",2-methoxyethyl vinyl ether,H2C=CHOCH2CH2OCH3,1663-35-0,102.13,-83,0.8967
+"vinyl, ether",methyl vinyl ether,H2C=CHOCH3,107-25-5,58.08,-123,7511-06-08
+"vinyl, ether",octadecyl vinyl ether,H2C=CHO(CH2)17CH3,930-02-9,296.54,27,0.821
+"vinyl, ether",perfluoropropyl vinyl ether,F2C=CFOCF2CF2CF3,1623-05-8,266.04,,1.53
+"vinyl, ether",1-phenylethyl vinyl ether,H2C=CHOCH(C6H5)CH3,6230-62-2,148.21,,

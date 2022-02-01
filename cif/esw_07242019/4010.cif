@@ -1,0 +1,44 @@
+#======================================================================
+
+# Note: Single chain of isotactic polyvinyl alcohol
+# Common_name: Single chain
+
+#----------------------------------------------------------------------
+
+data_1
+_audit_creation_method   'vasp2cif'
+_cell_length_a    20.0
+_cell_length_b    2.572510004
+_cell_length_c    20.0
+_cell_angle_alpha    90.0
+_cell_angle_beta    90.0
+_cell_angle_gamma    90.0
+
+_symmetry_space_group_name_H-M    'P 1'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+C1   C   0.465705215683748   0.085932340214697   0.513163377636921   1.0
+C2   C   0.500715077809538   0.585539913827994   0.489260337232359   1.0
+H3   H   0.502082391198037   0.586724399958591   0.434061066371491   1.0
+H4   H   0.587674066862256   0.916674761124995   0.514753969890108   1.0
+H5   H   0.463756660139609   0.086671516681498   0.568024665545209   1.0
+H6   H   0.414140718125608   0.084843143089138   0.494249102414557   1.0
+O7   O   0.569495902281204   0.560333899514504   0.513927552009349   1.0
+
+
+# Number_of_total_atoms: 7
+# Number_of_atom_type: 3
+# Name_of_each_atom: C H O
+# Number_of_each_atom: 2 4 1
+# Created_by: Lihua Chen (lihua.chen@mse.gatech.edu)
+# Tool: VASP
+# K-points: 1 12 1
+# Pseudopotential: PBE-HSE06
+# Material_class: MC_Pol
+# Geometry_class: GC_PD
+# Bandgap_(eV): 6.40

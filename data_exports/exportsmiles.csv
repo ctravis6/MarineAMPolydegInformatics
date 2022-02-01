@@ -1,0 +1,949 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf610,,,,,,,,,,,,,,,,,,
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;},,,,,,,,,,,,,,,,,,
+{\colortbl;\red255\green255\blue255;},,,,,,,,,,,,,,,,,,
+{\*\expandedcolortbl;;},,,,,,,,,,,,,,,,,,
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0,,,,,,,,,,,,,,,,,,
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+\f0\fs24 \cf0 #id,title,formula,class,total_number,atom_type,tool,potential,bandgap[eV],dielectric_total,dielectric_electron,dielectric_ion,atomization_energy[eV/atom],total_energy[eV],cutoff_energy[eV],k-points,author,SMILES\,
+3857,Isotactic Poly(methyl methacrylate),C100H160O40,,300,3,VASP 5,PBE,,,,,,,400,1x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3856,Syndiotactic Polystyrene,C64H64,,128,2,VASP 5,PBE,,,,,,,400,3x1x6,Lihua Chen (lhc0807@gmail.com),\,
+3855,Isotactic Polystyrene,C144H144,,288,2,VASP 5,PBE,,,,,,,400,1x1x4,Lihua Chen (lhc0807@gmail.com),\,
+3854,Syndiotactic Polypropylene,C24H48,,72,2,VASP 5,PBE,,,,,,,400,6x4x2,Lihua Chen (lhc0807@gmail.com),\,
+3853,Isotactic Polypropylene,C36H72,,108,2,VASP 5,PBE,,,,,,,400,4x1x4,Lihua Chen (lhc0807@gmail.com),\,
+3852,Polyethylene,C4H8,,12,2,VASP 5,PBE,,,,,,,400,4x4x10,Lihua Chen (lhc0807@gmail.com),\,
+3323,Polyethylene/Al interface,Al72C80H160O8,,320,4,VASP 5,PBE,,,,,,,400,2x2x1,Lihua Chen (lhc0807@gmail.com),\,
+3322,Polyethylene/Al interface,Al72C80H144O8,,304,4,VASP 5,PBE,,,,,,,400,2x2x1,Lihua Chen (lhc0807@gmail.com),\,
+3321,Polyethylene/Al interface,Al72C84H160O8,,324,4,VASP 5,PBE,,,,,,,400,2x2x1,Lihua Chen (lhc0807@gmail.com),\,
+3320,Polyethylene/Al interface,Al72C72H144O8,,296,4,VASP 5,PBE,,,,,,,400,2x2x1,Lihua Chen (lhc0807@gmail.com),\,
+3319,Polyethylene/Al interface,Al72C80H144O8,,304,4,VASP 5,PBE,,,,,,,400,2x2x1,Lihua Chen (lhc0807@gmail.com),\,
+3318,Polyethylene/Al interface,Al72C80H160,,312,3,VASP 5,PBE,,,,,,,400,2x2x1,Lihua Chen (lhc0807@gmail.com),\,
+3317,Polyethylene,C24H47Cl1,,72,3,VASP 5,PBE,,,,,,,400,4x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3316,Polyethylene,C24H47Br1,,72,3,VASP 5,PBE,,,,,,,400,4x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3315,Polyethylene,C24H47I1,,72,3,VASP 5,PBE,,,,,,,400,4x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3314,Polyethylene,C22H44O2,,68,3,VASP 5,PBE,,,,,,,400,4x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3313,Polyethylene,C24H46O1,,71,3,VASP 5,PBE,,,,,,,400,4x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3312,Polyethylene,C25H48O2,,75,3,VASP 5,PBE,,,,,,,400,4x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3311,Polyethylene,C24H48O1,,73,3,VASP 5,PBE,,,,,,,400,4x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3310,Polyethylene,C24H46O1,,71,3,VASP 5,PBE,,,,,,,400,4x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3309,Polyethylene,C25H48,,73,2,VASP 5,PBE,,,,,,,400,4x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3308,Polyethylene,C24H44,,68,2,VASP 5,PBE,,,,,,,400,4x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3307,Polyethylene,C24H46,,70,2,VASP 5,PBE,,,,,,,400,4x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3306,Polyethylene,C800H1602,,2402,2,VASP 5,PBE,,,,,,,400,1x1x1,Lihua Chen (lhc0807@gmail.com),\,
+3305,Polyethylene,C400H802,,1202,2,VASP 5,PBE,,,,,,,400,1x1x1,Lihua Chen (lhc0807@gmail.com),\,
+3304,Polyethylene,C400H802,,1202,2,VASP 5,PBE,,,,,,,400,1x1x1,Lihua Chen (lhc0807@gmail.com),\,
+3303,Polyethylene,C40H80,,120,2,VASP 5,PBE,,,,,,,400,4x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3302,Polyethylene,C40H80,,120,2,VASP 5,PBE,,,,,,,400,4x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3301,Polyethylene,C40H80,,120,2,VASP 5,PBE,,,,,,,400,4x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3300,Polyethylene,C45H88,,133,2,VASP 5,PBE,,,,,,,400,4x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3299,Polyethylene,C44H88,,132,2,VASP 5,PBE,,,,,,,400,2x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3298,Polyethylene,C43H86,,129,2,VASP 5,PBE,,,,,,,400,2x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3297,Polyethylene,C42H84,,126,2,VASP 5,PBE,,,,,,,400,2x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3296,Polyethylene,C41H82,,123,2,VASP 5,PBE,,,,,,,400,2x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3295,Polyethylene,C40H80,,120,2,VASP 5,PBE,,,,,,,400,2x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3294,Polyethylene,C40H80,,120,2,VASP 5,PBE,,,,,,,400,4x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3293,Polyethylene,C40H80,,120,2,VASP 5,PBE,,,,,,,400,4x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3292,Polyethylene,C40H80,,120,2,VASP 5,PBE,,,,,,,400,4x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3291,Polyethylene,C40H80,,120,2,VASP 5,PBE,,,,,,,400,4x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3290,Polyethylene,C40H80,,120,2,VASP 5,PBE,,,,,,,400,4x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3289,Polyethylene,C40H80,,120,2,VASP 5,PBE,,,,,,,400,4x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3288,Polyethylene,C40H80,,120,2,VASP 5,PBE,,,,,,,400,4x2x2,Lihua Chen (lhc0807@gmail.com),\,
+3287,Polyethylene,C4H8,,12,2,VASP 5,PBE,,,,,,,1000,4x4x10,Lihua Chen (lhc0807@gmail.com),\,
+3277,C4F8O4,C4F8O4,organic_polymer_crystal,16,3,VASP-5.X,PAW,7.52,3.80303,2.43236,1.37068,-5.25,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)OC(F)(F)O\
+3276,C4F8H2N2O2,C4F8H2N2O2,organic_polymer_crystal,18,5,VASP-5.X,PAW,6.84,4.04237,2.53946,1.5029,-5.29,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)NC(F)(F)O\
+3275,C4F8H4N4,C4F8H4N4,organic_polymer_crystal,20,4,VASP-5.X,PAW,6.22,4.42789,2.66713,1.76076,-5.31,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)NC(F)(F)N\
+3274,C6F8H2S2N2,C6F8H2S2N2,organic_polymer_crystal,20,5,VASP-5.X,PAW,1.27,4.48971,3.19659,1.29312,-5.29,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)NC(F)(F)C(=S)\
+3273,C6F8H2O2N2,C6F8H2O2N2,organic_polymer_crystal,20,5,VASP-5.X,PAW,3.09,4.75307,2.64158,2.11148,-5.56,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)NC(F)(F)C(=O)\
+3272,C16H10F8N2,C16H10F8N2,organic_polymer_crystal,36,4,VASP-5.X,PAW,3.34,3.77165,3.03531,0.73634,-5.88,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)NC(F)(F)C(C=C1)=CC=C1\
+3271,C12H6F8N2S2,C12H6F8N2S2,organic_polymer_crystal,30,5,VASP-5.X,PAW,2.63,4.47834,3.15798,1.32037,-5.66,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)NC(F)(F)C1=CSC(=C1)\
+3270,C6S2O2F8,C6S2O2F8N2,organic_polymer_crystal,20,4,VASP-5.X,PAW,1.33,3.60359,2.8065,0.79709,-5.24,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(=S)C(F)(F)O\
+3269,C6F8O4,C6F8O4N2,organic_polymer_crystal,20,3,VASP-5.X,PAW,3.16,3.55062,2.49852,1.0521,-5.57,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(=O)C(F)(F)O\
+3268,C8F8O4,C8F8O4N2S2,organic_polymer_crystal,24,3,VASP-5.X,PAW,1.25,3.76647,2.66608,1.10039,-5.77,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(=O)C(F)(F)C(=O)\
+3267,C18H8F8O2,C18H8F8O2,organic_polymer_crystal,36,4,VASP-5.X,PAW,2.12,3.5665,3.01907,0.54743,-6.01,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(=O)C(F)(F)C(C=C1)=CC=C1\
+3266,C14H4F8O2S2,C14H4F8O2S2,organic_polymer_crystal,30,5,VASP-5.X,PAW,1.76,4.04768,3.25153,0.79615,-5.82,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(=O)C(F)(F)C1=CSC(=C1)\
+3265,C6F8H4O2,C6F8H4O2,organic_polymer_crystal,20,4,VASP-5.X,PAW,7.91,3.46979,2.50066,0.96912,-5.25,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)CC(F)(F)O\
+3264,C6F8H6N2,C6F8H6N2,organic_polymer_crystal,22,4,VASP-5.X,PAW,6.37,3.90398,2.62614,1.27784,-5.26,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)CC(F)(F)N\
+3263,C8F8H4S2,C8F8H4S2S2,organic_polymer_crystal,24,4,VASP-5.X,PAW,1.12,3.78425,3.09942,0.68484,-5.2,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)CC(F)(F)C(=S)\
+3262,C8F8H4O2,C8F8H4O2,organic_polymer_crystal,22,4,VASP-5.X,PAW,3.01,3.63807,2.59438,1.04369,-5.48,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)CC(F)(F)C(=O)\
+3261,C18H12F8,C18H12F8N2,organic_polymer_crystal,40,3,VASP-5.X,PAW,3.34,3.47344,2.97513,0.49832,-5.8,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)CC(F)(F)C(C=C1)=CC=C1\
+3260,C14H8F8S2,C14H8F8S2,organic_polymer_crystal,32,4,VASP-5.X,PAW,2.68,3.74836,3.08626,0.6621,-5.59,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)CC(F)(F)C1=CSC(=C1)\
+3259,C4H2F8O2N2,C4H2F8O2N2,organic_polymer_crystal,18,5,VASP-5.X,PAW,4.22,3.72763,2.56263,1.165,-5.15,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(F)(F)ON\
+3258,C6H2F8S2N2,C6H2F8S2N2,organic_polymer_crystal,20,5,VASP-5.X,PAW,1.64,3.8117,3.11533,0.69637,-5.29,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(F)(F)NC(=S)\
+3257,C6H2F8O2N2,C6H2F8O2N2,organic_polymer_crystal,20,5,VASP-5.X,PAW,3.64,3.52542,2.69625,0.82917,-5.65,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(F)(F)NC(=O)\
+3256,C16H10F8N2,C16H10F8N2N2,organic_polymer_crystal,38,4,VASP-5.X,PAW,2.94,3.9166,3.21648,0.70012,-5.86,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(F)(F)NC(C=C1)=CC=C1\
+3255,C12H6F8N2S2,C12H6F8N2S2,organic_polymer_crystal,30,5,VASP-5.X,PAW,2.44,4.49743,3.46715,1.03028,-5.66,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(F)(F)NC1=CSC(=C1)\
+3254,C6F8S2O2,C6F8S2O2N2,organic_polymer_crystal,20,4,VASP-5.X,PAW,1.8,3.68014,2.93855,0.74159,-5.26,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(F)(F)C(=S)O\
+3253,C6F8O4,C6F8O4N2,organic_polymer_crystal,20,3,VASP-5.X,PAW,3.91,3.30619,2.52158,0.78461,-5.64,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(F)(F)C(=O)O\
+3252,C8F8O2S2,C8F8O2S2,organic_polymer_crystal,20,4,VASP-5.X,PAW,0.22,4.7466,3.93344,0.81316,-5.51,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(F)(F)C(=O)C(=S)\
+3251,C18H8F8O2,C18H8F8O2,organic_polymer_crystal,36,4,VASP-5.X,PAW,2.39,3.84515,3.30312,0.54203,-6.03,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(F)(F)C(=O)C(C=C1)=CC=C1\
+3250,C14H4F8O2S2,C14H4F8O2S2,organic_polymer_crystal,30,5,VASP-5.X,PAW,2.02,3.92699,3.35479,0.5722,-5.86,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(F)(F)C(=O)C1=CSC(=C1)\
+3249,C6F8H4O2,C6F8H4O2,organic_polymer_crystal,20,4,VASP-5.X,PAW,6.7,3.502,2.44396,1.05804,-5.23,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(F)(F)CO\
+3248,C6F8H6N2,C6F8H6N2S2,organic_polymer_crystal,24,4,VASP-5.X,PAW,5.8,4.32355,2.54162,1.78194,-5.24,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(F)(F)CN\
+3247,C8H4F8S2,C8H4F8S2,organic_polymer_crystal,22,4,VASP-5.X,PAW,0.834,3.80901,3.12213,0.68688,-5.19,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(F)(F)CC(=S)\
+3246,C8H4F8O2,C8H4F8O2,organic_polymer_crystal,22,4,VASP-5.X,PAW,3.09,3.37151,2.57415,0.79737,-5.5,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(F)(F)CC(=O)\
+3245,C18H12F8,C18H12F8S2,organic_polymer_crystal,40,3,VASP-5.X,PAW,3.81,3.3761,2.9805,0.3956,-5.78,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(F)(F)CC(C=C1)=CC=C1\
+3244,C14H8F8S2,C14H8F8S2,organic_polymer_crystal,32,4,VASP-5.X,PAW,3.3,3.5933,3.12556,0.46774,-5.59,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(F)(F)CC1=CSC(=C1)\
+3243,C16H8F8O2,C16H8F8O2,organic_polymer_crystal,34,4,VASP-5.X,PAW,3.55,3.6332,3.04049,0.59272,-5.89,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(F)(F)C(C=C1)=CC=C1O\
+3242,C18H8F8S2,C18H8F8S2,organic_polymer_crystal,36,4,VASP-5.X,PAW,1.3,4.32899,3.87371,0.45528,-5.85,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(F)(F)C(C=C1)=CC=C1C(=S)\
+3241,C28H16F8,C28H16F8O2,organic_polymer_crystal,54,3,VASP-5.X,PAW,2.41,3.96913,3.61591,0.35322,-6.1,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(F)(F)C(C=C1)=CC=C1C(C=C2)=CC=C2\
+3240,C24H12F8S2,C24H12F8S2,organic_polymer_crystal,46,4,VASP-5.X,PAW,3.08,3.56781,3.17355,0.39426,-5.98,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(F)(F)C(C=C1)=CC=C1C2=CSC(=C2)\
+3239,C12H4F8O2S2,C12H4F8O2S2,organic_polymer_crystal,28,5,VASP-5.X,PAW,2.93,3.89745,3.21263,0.68482,-5.67,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(F)(F)C1=CSC(=C1)O\
+3238,C14H4F8S4,C14H4F8S4,organic_polymer_crystal,30,4,VASP-5.X,PAW,1.13,4.43957,3.94023,0.49934,-5.66,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(F)(F)C1=CSC(=C1)C(=S)\
+3237,C20H8F8S4,C20H8F8S4S2,organic_polymer_crystal,42,4,VASP-5.X,PAW,1.5,4.36453,3.91438,0.45015,-5.87,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(F)(F)C1=CSC(=C1)C2=CSC(=C2)\
+3236,C16H8F8O2,C16H8F8O2,organic_polymer_crystal,34,4,VASP-5.X,PAW,3.37,3.6825,2.98216,0.70034,-5.92,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(C=C1)=CC=C1C(F)(F)O\
+3235,C18H8F8S2,C18H8F8S2,organic_polymer_crystal,36,4,VASP-5.X,PAW,1.31,3.70065,3.24193,0.45872,-5.84,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(C=C1)=CC=C1C(F)(F)C(=S)\
+3234,C28H16F8,C28H16F8O2,organic_polymer_crystal,54,3,VASP-5.X,PAW,3.16,3.81788,3.37251,0.44536,-6.06,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(C=C1)=CC=C1C(F)(F)C(C=C2)=CC=C2\
+3233,C24H12F8S2,C24H12F8S2,organic_polymer_crystal,46,4,VASP-5.X,PAW,3.06,3.99771,3.30035,0.69735,-5.99,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C(C=C1)=CC=C1C(F)(F)C2=CSC(=C2)\
+3232,C12H4F8O2S2,C12H4F8O2S2,organic_polymer_crystal,28,5,VASP-5.X,PAW,2.95,3.92678,3.08457,0.84221,-5.68,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C1=CSC(=C1)C(F)(F)O\
+3231,C14H4F8S4,C14H4F8S4,organic_polymer_crystal,30,4,VASP-5.X,PAW,0.99,4.3936,3.647,0.7465,-5.63,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C1=CSC(=C1)C(F)(F)C(=S)\
+3230,C20H8F8S4,C20H8F8S4,organic_polymer_crystal,40,4,VASP-5.X,PAW,2.44,4.40909,3.60627,0.80282,-5.83,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)(F)C1=CSC(=C1)C(F)(F)C2=CSC(=C2)\
+3229,C26H14N2O10S2,C26H14N2O10S2,organic_polymer_crystal,54,5,VASP-5.X,PAW,2.07,4.54639,3.5877,0.95869,-6.35,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),OC(C=C1)=CC=C1C(=O)C2=CSC(=C2)C(=O)NOC(=O)\
+3228,C34H26N2O2S4,C34H26N2O2S4,organic_polymer_crystal,68,5,VASP-5.X,PAW,0.518,6.4749,5.44193,1.03297,-6.05,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=S)C(=O)CCNC(C=C1)=CC=C1C(=S)C(C=C2)=CC=C2\
+3227,C12H20O6,C12H20O6O2S4,organic_polymer_crystal,44,3,VASP-5.X,PAW,5.8,3.08542,2.68099,0.40443,-5.46,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)OCCCCCO\
+3226,C12H12N8O6S2,C12H12N8O6S2,organic_polymer_crystal,40,5,VASP-5.X,PAW,1.81,5.6141,4.0159,1.5982,-5.99,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)NONC(=O)NC1=CSC(=C1)N\
+3225,C10H18N2O6,C10H18N2O6S2,organic_polymer_crystal,38,4,VASP-5.X,PAW,4.19,3.68882,2.80461,0.88421,-5.44,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)NOCCCCO\
+3224,C8H10N6O8,C8H10N6O8,organic_polymer_crystal,32,4,VASP-5.X,PAW,3.69,4.67087,3.01196,1.65891,-6.22,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)NC(=O)OC(=O)NCN\
+3223,C14H12N8O6S2,C14H12N8O6S2,organic_polymer_crystal,42,5,VASP-5.X,PAW,2.22,5.34144,3.9192,1.42224,-6.29,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)NC(=O)NC(=O)NC1=CSC(=C1)N\
+3222,C10H18N6O4,C10H18N6O4S2,organic_polymer_crystal,40,4,VASP-5.X,PAW,4.29,4.19413,3.06221,1.13192,-5.77,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)NC(=O)NCCCN\
+3221,C8H10N6O8,C8H10N6O8,organic_polymer_crystal,32,4,VASP-5.X,PAW,3.34,5.01792,3.17951,1.83841,-6.1,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)NC(=O)CNC(=O)ON\
+3220,C28H16N4O4S8,C28H16N4O4S8,organic_polymer_crystal,60,5,VASP-5.X,PAW,1.54,5.35477,4.08914,1.26562,-6.53,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C1=CSC(=C1)NC(=S)OC2=CSC(=C2)NC3=CSC(=C3)\
+3219,C10H20N4O4,C10H20N4O4S8,organic_polymer_crystal,46,4,VASP-5.X,PAW,4.94,3.66568,2.79078,0.87491,-5.49,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),COC(=O)NCCNC\
+3218,C10H20O6,C10H20O6O4,organic_polymer_crystal,40,3,VASP-5.X,PAW,5.3,3.50975,2.75185,0.7579,-5.22,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),COCOCCCO\
+3217,C12H24O4,C12H24O4,organic_polymer_crystal,40,3,VASP-5.X,PAW,5.18,3.05534,2.57375,0.48159,-5.19,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),COCOCCCC\
+3216,C6H10N6O8,C6H10N6O8,organic_polymer_crystal,30,4,VASP-5.X,PAW,3.98,4.64697,3.10068,1.54629,-5.82,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNC(=O)ONC(=O)NO\
+3215,C8H16N4O6,C8H16N4O6,organic_polymer_crystal,34,4,VASP-5.X,PAW,4.66,4.22202,2.85035,1.37167,-5.58,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNC(=O)NCOCO\
+3214,C8H16N8O4,C8H16N8O4,organic_polymer_crystal,36,4,VASP-5.X,PAW,3.61,3.91757,2.81591,1.10167,-5.82,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNCNC(=O)NC(=O)N\
+3213,C10H22N2O4,C10H22N2O4,organic_polymer_crystal,38,4,VASP-5.X,PAW,5.03,3.54004,2.76101,0.77904,-5.21,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNCCCOCO\
+3212,C20H20N4O2S4,C20H20N4O2S4,organic_polymer_crystal,50,5,VASP-5.X,PAW,1.34,5.17204,4.18918,0.98286,-5.81,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCOC(=S)NC(=S)C(C=C1)=CC=C1N\
+3211,C10H16O8,C10H16O8O2S4,organic_polymer_crystal,40,3,VASP-5.X,PAW,4.81,3.32215,2.66527,0.65688,-5.51,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCOC(=O)OCCO\
+3210,C10H18N2O6,C10H18N2O6,organic_polymer_crystal,36,4,VASP-5.X,PAW,4.85,3.52652,2.73104,0.79548,-5.51,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCOC(=O)NCCO\
+3209,C34H28O6,C34H28O6O6,organic_polymer_crystal,74,3,VASP-5.X,PAW,2.11,4.3173,3.0897,1.2276,-6.14,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCC(=O)OC(=O)CC(C=C1)=CC=C1C(C=C2)=CC=C2\
+3208,C14H26N2O2,C14H26N2O2,organic_polymer_crystal,44,4,VASP-5.X,PAW,4.46,3.33703,2.744,0.59303,-5.39,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCCCNC(=O)CC\
+3207,C22H20O8,C22H20O8O2,organic_polymer_crystal,52,3,VASP-5.X,PAW,2.4,3.67193,2.97589,0.69604,-6.01,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1OC(=O)CC(=O)CCO\
+3206,C36H26N6O2S4,C36H26N6O2S4,organic_polymer_crystal,74,5,VASP-5.X,PAW,1.16,6.7266,4.7411,1.9855,-6.21,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1NC(C=C2)=CC=C2C(=S)NC3=CSC(=C3)C(=O)N\
+3205,C46H28N4S10,C46H28N4S10S4,organic_polymer_crystal,92,4,VASP-5.X,PAW,0.7528,6.9654,5.7664,1.199,1.4519,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1NC2=CSC(=C2)C3=CSC(=C3)C(=S)C4=CSC(=C4)C5=CSC(=C5)N\
+3204,C40H28O2S6,C40H28O2S6,organic_polymer_crystal,76,4,VASP-5.X,PAW,0.468,4.61658,4.30082,0.31576,-6.04,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(C=C2)=CC=C2CC(=S)C3=CSC(=C3)C(=S)CO\
+3203,C42H22N2O2S10,C42H22N2O2S10,organic_polymer_crystal,78,5,VASP-5.X,PAW,0.304,7.02508,5.94172,1.08336,-6.19,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C1=CSC(=C1)C(=S)C2=CSC(=C2)C(=S)C(=O)NC(C=C3)=CC=C3C4=CSC(=C4)\
+3202,C30H16N4O4S8,C30H16N4O4S8,organic_polymer_crystal,62,5,VASP-5.X,PAW,0.753,6.31441,5.00971,1.30469,-6.19,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C1=CSC(=C1)C2=CSC(=C2)C(=S)C3=CSC(=C3)C(=O)NC(=O)N\
+3201,C60H64O18N4,C60H64O18N4S8,organic_polymer_crystal,154,4,VASP-5.X,PAW,0.941,0,3.1337,0,-5.89,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),N(C(=O)C1=CC2)C(=O)C1=CC2C(=O)C(=CC=C3C4(=O))C=C3C(=O)N4C(C)COCCOCCOC(C)COC(C)\
+3200,C46H36O10N4,C46H36O10N4,organic_polymer_crystal,96,4,VASP-5.X,PAW,2.28,3.78578,3.28968,0.4961,-6.25,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),N(C(=O)C1=CC2)C(=O)C1=CC2C(=O)C(=CC=C3C4(=O))C=C3C(=O)N4CCCCCC\
+3199,C4H2N2O6,C4H2N2O6,organic_polymer_crystal,14,4,VASP-5.X,PAW,4.6,3.60984,2.90219,0.70766,-5.69,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCNC(=O)\
+3198,C6O6S2,C6O6S2,organic_polymer_crystal,14,3,VASP-5.X,PAW,-0.0132,6.153,4.9689,1.1841,-6.47,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C(=S)C(=O)O\
+3197,C6H10O2N2,C6H10O2N2,organic_polymer_crystal,20,4,VASP-5.X,PAW,2.88,5.3516,3.07131,2.28029,-6.61,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=O)OC(=O)\
+820,C12H16O8Pb2,C12H16O8Pb2,organometallic_polymer_crystal,38,4,VASP-5.X,PAW,3.5633,8.02994,3.31279,4.71715,-5.71493,,,,Huan Tran (huan.tran@uconn.edu),\,
+819,C12H16O8Pb2,C12H16O8Pb2,organometallic_polymer_crystal,38,4,VASP-5.X,PAW,2.6673,9.8223,3.36155,6.46076,-5.71482,,,,Huan Tran (huan.tran@uconn.edu),\,
+818,C12H16O8Pb2,C12H16O8Pb2,organometallic_polymer_crystal,38,4,VASP-5.X,PAW,3.8864,7.74642,3.2837,4.46273,-5.71133,,,,Huan Tran (huan.tran@uconn.edu),\,
+817,C12H16O8Pb2,C12H16O8Pb2,organometallic_polymer_crystal,38,4,VASP-5.X,PAW,2.6664,9.7893,3.36303,6.42627,-5.7147,,,,Huan Tran (huan.tran@uconn.edu),\,
+816,C12H16O8Pb2,C12H16O8Pb2,organometallic_polymer_crystal,38,4,VASP-5.X,PAW,2.6633,9.61241,3.3655,6.2469,-5.71449,,,,Huan Tran (huan.tran@uconn.edu),\,
+815,C10H16O4Pb,C10H16O4Pb1,organometallic_polymer_crystal,31,4,VASP-5.X,PAW,3.6384,7.25369,3.14604,4.10764,-5.4942,,,,Huan Tran (huan.tran@uconn.edu),\,
+814,C8H12O4Pb,C8H12O4Pb1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,2.9199,7.57609,3.21035,4.36574,-5.57907,,,,Huan Tran (huan.tran@uconn.edu),\,
+813,C8H12O4Pb,C8H12O4Pb1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,2.6898,7.79786,3.23389,4.56397,-5.57985,,,,Huan Tran (huan.tran@uconn.edu),\,
+812,C8H12O4Pb,C8H12O4Pb1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,2.6773,7.78632,3.23972,4.54659,-5.57947,,,,Huan Tran (huan.tran@uconn.edu),\,
+811,C8H12O4Pb,C8H12O4Pb1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,2.6873,7.8153,3.23424,4.58106,-5.57983,,,,Huan Tran (huan.tran@uconn.edu),\,
+810,C8H12O4Pb,C8H12O4Pb1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,2.7075,7.89813,3.23238,4.66575,-5.5797,,,,Huan Tran (huan.tran@uconn.edu),\,
+809,C8H12O4Pb,C8H12O4Pb1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,3.5949,22.0416,3.18616,18.8554,-5.58038,,,,Huan Tran (huan.tran@uconn.edu),\,
+808,C12H20O4Pb,C12H20O4Pb1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,1.0269,4.99553,3.59594,1.39958,-5.24467,,,,Huan Tran (huan.tran@uconn.edu),\,
+807,C12H20O4Pb,C12H20O4Pb1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,2.9522,4.33069,3.19366,1.13704,-5.29509,,,,Huan Tran (huan.tran@uconn.edu),\,
+806,C12H20O4Pb,C12H20O4Pb1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,3.7228,8.54348,3.09166,5.45182,-5.43309,,,,Huan Tran (huan.tran@uconn.edu),\,
+805,C12H20O4Pb,C12H20O4Pb1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,3.0423,12.9642,3.17352,9.79066,-5.42731,,,,Huan Tran (huan.tran@uconn.edu),\,
+804,C12H20O4Pb,C12H20O4Pb1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,3.7307,15.7683,3.04187,12.7264,-5.43723,,,,Huan Tran (huan.tran@uconn.edu),\,
+803,C12H20O4Pb,C12H20O4Pb1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,3.0431,13.4306,3.17456,10.256,-5.42726,,,,Huan Tran (huan.tran@uconn.edu),\,
+802,C12H20O4Pb,C12H20O4Pb1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,3.7175,8.49672,3.09202,5.4047,-5.43306,,,,Huan Tran (huan.tran@uconn.edu),\,
+801,C12H20O4Pb,C12H20O4Pb1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,3.7138,13.4778,3.09276,10.385,-5.43297,,,,Huan Tran (huan.tran@uconn.edu),\,
+800,C12H20O4Pb,C12H20O4Pb1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,3.7272,13.078,3.04217,10.0359,-5.43717,,,,Huan Tran (huan.tran@uconn.edu),\,
+799,C6H8O4SPb,C6H8O4S1Pb1,organometallic_polymer_crystal,20,5,VASP-5.X,PAW,3.1285,7.9998,3.40253,4.59727,-5.5885,,,,Huan Tran (huan.tran@uconn.edu),\,
+798,C6H8O4SPb,C6H8O4S1Pb1,organometallic_polymer_crystal,20,5,VASP-5.X,PAW,3.0678,7.2964,3.3934,3.903,-5.5909,,,,Huan Tran (huan.tran@uconn.edu),\,
+797,C6H8O4SPb,C6H8O4S1Pb1,organometallic_polymer_crystal,20,5,VASP-5.X,PAW,3.0759,7.21235,3.38995,3.8224,-5.59114,,,,Huan Tran (huan.tran@uconn.edu),\,
+796,Sn2C12F4H24,Sn2C12F4H24,organometallic_polymer_crystal,42,4,VASP-5.X,PAW,2.1698,5.31886,3.08896,2.2299,-4.96564,,,,Huan Tran (huan.tran@uconn.edu),\,
+795,Sn2C12F4H24,Sn2C12F4H24,organometallic_polymer_crystal,42,4,VASP-5.X,PAW,4.2982,4.89179,3.04088,1.85091,-4.97206,,,,Huan Tran (huan.tran@uconn.edu),\,
+794,Sn2C12F4H24,Sn2C12F4H24,organometallic_polymer_crystal,42,4,VASP-5.X,PAW,3.7589,4.49367,2.844,1.64967,-4.97229,,,,Huan Tran (huan.tran@uconn.edu),\,
+793,Sn2C12F4H24,Sn2C12F4H24,organometallic_polymer_crystal,42,4,VASP-5.X,PAW,3.8616,4.5009,2.96845,1.53245,-4.9819,,,,Huan Tran (huan.tran@uconn.edu),\,
+792,Sn2C12F4H24,Sn2C12F4H24,organometallic_polymer_crystal,42,4,VASP-5.X,PAW,4.3765,4.51803,2.88803,1.63,-4.98159,,,,Huan Tran (huan.tran@uconn.edu),\,
+791,Sn2C12F4H24,Sn2C12F4H24,organometallic_polymer_crystal,42,4,VASP-5.X,PAW,4.0385,5.74598,2.99636,2.74962,-4.993,,,,Huan Tran (huan.tran@uconn.edu),\,
+790,Sn2C12F4H24,Sn2C12F4H24,organometallic_polymer_crystal,42,4,VASP-5.X,PAW,4.3559,5.23181,3.0792,2.1526,-4.99129,,,,Huan Tran (huan.tran@uconn.edu),\,
+789,Sn2C12F4H24,Sn2C12F4H24,organometallic_polymer_crystal,42,4,VASP-5.X,PAW,4.1992,5.47184,3.11904,2.3528,-4.99228,,,,Huan Tran (huan.tran@uconn.edu),\,
+788,Sn2C12F4H24,Sn2C12F4H24,organometallic_polymer_crystal,42,4,VASP-5.X,PAW,4.1104,5.01272,3.11152,1.9012,-4.99239,,,,Huan Tran (huan.tran@uconn.edu),\,
+787,Sn2C12F4H24,Sn2C12F4H24,organometallic_polymer_crystal,42,4,VASP-5.X,PAW,4.3483,5.28974,3.03862,2.25112,-4.99731,,,,Huan Tran (huan.tran@uconn.edu),\,
+786,Sn2C12F4H24,Sn2C12F4H24,organometallic_polymer_crystal,42,4,VASP-5.X,PAW,4.2064,7.70204,3.16268,4.53936,-4.99753,,,,Huan Tran (huan.tran@uconn.edu),\,
+785,Sn2C12F4H24,Sn2C12F4H24,organometallic_polymer_crystal,42,4,VASP-5.X,PAW,4.3018,5.63752,3.0712,2.56631,-4.99968,,,,Huan Tran (huan.tran@uconn.edu),\,
+784,Sn2C12F4H24,Sn2C12F4H24,organometallic_polymer_crystal,42,4,VASP-5.X,PAW,4.1267,4.92807,3.02096,1.90711,-5.00209,,,,Huan Tran (huan.tran@uconn.edu),\,
+783,Sn2C12F4H24,Sn2C12F4H24,organometallic_polymer_crystal,42,4,VASP-5.X,PAW,4.1806,5.16565,3.07399,2.09166,-5.00343,,,,Huan Tran (huan.tran@uconn.edu),\,
+782,Sn2C8F4H16,Sn2C8F4H16,organometallic_polymer_crystal,30,4,VASP-5.X,PAW,3.6208,9.65147,3.31136,6.3401,-4.93721,,,,Huan Tran (huan.tran@uconn.edu),\,
+781,Sn2C8F4H16,Sn2C8F4H16,organometallic_polymer_crystal,30,4,VASP-5.X,PAW,3.9327,5.80868,3.1841,2.62459,-4.94203,,,,Huan Tran (huan.tran@uconn.edu),\,
+780,Sn2C8F4H16,Sn2C8F4H16,organometallic_polymer_crystal,30,4,VASP-5.X,PAW,3.9997,6.89692,3.30392,3.593,-4.93999,,,,Huan Tran (huan.tran@uconn.edu),\,
+779,Sn2C8F4H16,Sn2C8F4H16,organometallic_polymer_crystal,30,4,VASP-5.X,PAW,3.9854,6.28511,3.23366,3.05145,-4.94483,,,,Huan Tran (huan.tran@uconn.edu),\,
+778,Sn2C8F4H16,Sn2C8F4H16,organometallic_polymer_crystal,30,4,VASP-5.X,PAW,3.9769,6.36294,3.24815,3.1148,-4.94374,,,,Huan Tran (huan.tran@uconn.edu),\,
+777,Sn2C8F4H16,Sn2C8F4H16,organometallic_polymer_crystal,30,4,VASP-5.X,PAW,3.9443,5.20653,3.03378,2.17275,-4.92882,,,,Huan Tran (huan.tran@uconn.edu),\,
+776,Sn2C4F4H8,Sn2C4F4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,3.0134,13.2528,4.05201,9.20076,-4.80319,,,,Huan Tran (huan.tran@uconn.edu),\,
+775,Sn2C4F4H8,Sn2C4F4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,2.8038,15.101,4.13417,10.9668,-4.80765,,,,Huan Tran (huan.tran@uconn.edu),\,
+774,Sn2C4F4H8,Sn2C4F4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,2.6766,11.2659,4.02667,7.23926,-4.80895,,,,Huan Tran (huan.tran@uconn.edu),\,
+773,Sn2C4F4H8,Sn2C4F4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,2.4383,14.0576,4.24892,9.8087,-4.79418,,,,Huan Tran (huan.tran@uconn.edu),\,
+772,Sn2C4F4H8,Sn2C4F4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,3.0559,18.0013,4.001,14.0003,-4.80477,,,,Huan Tran (huan.tran@uconn.edu),\,
+771,Sn2C4F4H8,Sn2C4F4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,3.0289,11.5823,3.99936,7.5829,-4.81174,,,,Huan Tran (huan.tran@uconn.edu),\,
+770,Sn2C4F4H8,Sn2C4F4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,3.0446,10.2133,3.85468,6.35863,-4.81412,,,,Huan Tran (huan.tran@uconn.edu),\,
+769,Sn2C4F4H8,Sn2C4F4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,3.0085,11.9083,4.00628,7.90205,-4.80465,,,,Huan Tran (huan.tran@uconn.edu),\,
+768,Sn2C4F4H8,Sn2C4F4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,2.993,12.4542,4.02154,8.43268,-4.80999,,,,Huan Tran (huan.tran@uconn.edu),\,
+767,Sn2C4F4H8,Sn2C4F4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,3.022,11.8178,4.00502,7.81277,-4.81161,,,,Huan Tran (huan.tran@uconn.edu),\,
+766,Sn2C4F4H8,Sn2C4F4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,2.9797,9.89731,3.87322,6.02409,-4.81331,,,,Huan Tran (huan.tran@uconn.edu),\,
+765,Sn2C4F4H8,Sn2C4F4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,3.1868,8.02579,3.70088,4.3249,-4.82191,,,,Huan Tran (huan.tran@uconn.edu),\,
+764,Sn2C4F4H8,Sn2C4F4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,2.9104,9.63351,3.95713,5.67638,-4.80599,,,,Huan Tran (huan.tran@uconn.edu),\,
+763,Sn2C12Cl4H24,Sn2C12Cl4H24,organometallic_polymer_crystal,42,4,VASP-5.X,PAW,3.3861,10.4957,3.06478,7.4309,-4.81302,,,,Huan Tran (huan.tran@uconn.edu),\,
+762,Sn2C12Cl4H24,Sn2C12Cl4H24,organometallic_polymer_crystal,42,4,VASP-5.X,PAW,3.3313,15.1136,3.05854,12.0551,-4.81569,,,,Huan Tran (huan.tran@uconn.edu),\,
+761,Sn2C8Cl4H16,Sn2C8Cl4H16,organometallic_polymer_crystal,30,4,VASP-5.X,PAW,3.1908,22.9593,3.7268,19.2325,-4.69723,,,,Huan Tran (huan.tran@uconn.edu),\,
+760,Sn2C8Cl4H16,Sn2C8Cl4H16,organometallic_polymer_crystal,30,4,VASP-5.X,PAW,3.1953,22.5355,3.72322,18.8123,-4.69729,,,,Huan Tran (huan.tran@uconn.edu),\,
+759,Sn2C8Cl4H16,Sn2C8Cl4H16,organometallic_polymer_crystal,30,4,VASP-5.X,PAW,3.2203,12.9471,3.70124,9.24583,-4.69792,,,,Huan Tran (huan.tran@uconn.edu),\,
+758,Sn2C8Cl4H16,Sn2C8Cl4H16,organometallic_polymer_crystal,30,4,VASP-5.X,PAW,3.5535,4.18373,3.07817,1.10556,-4.67881,,,,Huan Tran (huan.tran@uconn.edu),\,
+757,Sn2C8Cl4H16,Sn2C8Cl4H16,organometallic_polymer_crystal,30,4,VASP-5.X,PAW,3.4979,4.27016,3.1424,1.12777,-4.68837,,,,Huan Tran (huan.tran@uconn.edu),\,
+756,Sn2C4Cl4H8,Sn2C4Cl4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,1.8552,7.39475,4.49526,2.89948,-4.37606,,,,Huan Tran (huan.tran@uconn.edu),\,
+755,Sn2C4Cl4H8,Sn2C4Cl4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,1.3641,10.1928,5.73722,4.45559,-4.37776,,,,Huan Tran (huan.tran@uconn.edu),\,
+754,Sn2C4Cl4H8,Sn2C4Cl4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,1.5618,8.68304,5.28326,3.39977,-4.38736,,,,Huan Tran (huan.tran@uconn.edu),\,
+753,Sn2C4Cl4H8,Sn2C4Cl4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,1.4067,8.89609,5.82031,3.07578,-4.39121,,,,Huan Tran (huan.tran@uconn.edu),\,
+752,Sn2C4Cl4H8,Sn2C4Cl4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,1.6974,7.6644,4.9705,2.6939,-4.39001,,,,Huan Tran (huan.tran@uconn.edu),\,
+751,Sn2C4Cl4H8,Sn2C4Cl4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,1.7175,8.07987,5.0023,3.07757,-4.39652,,,,Huan Tran (huan.tran@uconn.edu),\,
+750,Sn2C4Cl4H8,Sn2C4Cl4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,1.6918,8.18351,5.17933,3.00418,-4.39684,,,,Huan Tran (huan.tran@uconn.edu),\,
+749,Sn2C4Cl4H8,Sn2C4Cl4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,1.5282,7.60279,5.33122,2.27157,-4.40026,,,,Huan Tran (huan.tran@uconn.edu),\,
+748,Sn2C4Cl4H8,Sn2C4Cl4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,1.9339,28.3289,5.2858,23.0431,-4.39747,,,,Huan Tran (huan.tran@uconn.edu),\,
+747,Sn2C4Cl4H8,Sn2C4Cl4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,1.9354,34.4768,5.28442,29.1924,-4.39744,,,,Huan Tran (huan.tran@uconn.edu),\,
+746,Sn2C4Cl4H8,Sn2C4Cl4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,2.1858,5.9096,3.84944,2.06016,-4.38712,,,,Huan Tran (huan.tran@uconn.edu),\,
+745,Sn2C4Cl4H8,Sn2C4Cl4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,2.2718,5.84143,3.95938,1.88204,-4.38792,,,,Huan Tran (huan.tran@uconn.edu),\,
+744,Sn2C4Cl4H8,Sn2C4Cl4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,1.8885,10.5575,4.25947,6.29799,-4.40301,,,,Huan Tran (huan.tran@uconn.edu),\,
+743,Sn2C4Cl4H8,Sn2C4Cl4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,1.9529,33.9705,5.2836,28.6869,-4.3974,,,,Huan Tran (huan.tran@uconn.edu),\,
+742,Sn2C4Cl4H8,Sn2C4Cl4H8,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,1.9396,34.9137,5.274,29.6397,-4.39741,,,,Huan Tran (huan.tran@uconn.edu),\,
+741,C12H20O4Cd,C12H20O4Cd1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,2.3038,4.1984,2.94219,1.2562,-5.28723,,,,Huan Tran (huan.tran@uconn.edu),\,
+740,C12H20O4Cd,C12H20O4Cd1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,3.3291,12.4915,2.95393,9.5376,-5.3379,,,,Huan Tran (huan.tran@uconn.edu),\,
+739,C12H20O4Cd,C12H20O4Cd1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,3.873,4.57577,2.90673,1.66904,-5.34909,,,,Huan Tran (huan.tran@uconn.edu),\,
+738,C12H20O4Cd,C12H20O4Cd1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,3.5017,4.27336,2.91112,1.36224,-5.34753,,,,Huan Tran (huan.tran@uconn.edu),\,
+737,C12H20O4Cd,C12H20O4Cd1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,3.848,4.93717,2.93137,2.0058,-5.35109,,,,Huan Tran (huan.tran@uconn.edu),\,
+736,C12H20O4Cd,C12H20O4Cd1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,3.5077,4.92225,2.91814,2.00412,-5.34854,,,,Huan Tran (huan.tran@uconn.edu),\,
+735,C12H20O4Cd,C12H20O4Cd1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,3.9535,4.19664,2.84647,1.35017,-5.35484,,,,Huan Tran (huan.tran@uconn.edu),\,
+734,C12H20O4Cd,C12H20O4Cd1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,3.6248,7.36666,2.96375,4.40292,-5.35041,,,,Huan Tran (huan.tran@uconn.edu),\,
+733,C12H20O4Cd,C12H20O4Cd1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,3.9709,4.53945,2.88358,1.65587,-5.34898,,,,Huan Tran (huan.tran@uconn.edu),\,
+732,C12H20O4Cd,C12H20O4Cd1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,3.5426,4.90427,2.92722,1.97705,-5.34868,,,,Huan Tran (huan.tran@uconn.edu),\,
+731,C12H20O4Cd,C12H20O4Cd1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,3.8419,4.78738,2.93486,1.85252,-5.35089,,,,Huan Tran (huan.tran@uconn.edu),\,
+730,C12H20O4Cd,C12H20O4Cd1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,3.9996,4.20085,2.86588,1.33497,-5.35452,,,,Huan Tran (huan.tran@uconn.edu),\,
+729,C12H20O4Cd,C12H20O4Cd1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,4.0157,4.76381,2.89897,1.86483,-5.35601,,,,Huan Tran (huan.tran@uconn.edu),\,
+728,C11H18O4Cd,C11H18O4Cd1,organometallic_polymer_crystal,34,4,VASP-5.X,PAW,3.2747,4.29203,2.98846,1.30357,-5.32587,,,,Huan Tran (huan.tran@uconn.edu),\,
+727,C11H18O4Cd,C11H18O4Cd1,organometallic_polymer_crystal,34,4,VASP-5.X,PAW,2.1851,4.72934,2.94471,1.78463,-5.32975,,,,Huan Tran (huan.tran@uconn.edu),\,
+726,C11H18O4Cd,C11H18O4Cd1,organometallic_polymer_crystal,34,4,VASP-5.X,PAW,3.7687,4.75545,2.9246,1.83085,-5.36221,,,,Huan Tran (huan.tran@uconn.edu),\,
+725,C11H18O4Cd,C11H18O4Cd1,organometallic_polymer_crystal,34,4,VASP-5.X,PAW,3.868,4.77703,2.93125,1.84578,-5.36356,,,,Huan Tran (huan.tran@uconn.edu),\,
+724,C11H18O4Cd,C11H18O4Cd1,organometallic_polymer_crystal,34,4,VASP-5.X,PAW,3.6506,4.53056,2.9501,1.58046,-5.36178,,,,Huan Tran (huan.tran@uconn.edu),\,
+723,C11H18O4Cd,C11H18O4Cd1,organometallic_polymer_crystal,34,4,VASP-5.X,PAW,3.7738,4.38297,2.94992,1.43305,-5.37011,,,,Huan Tran (huan.tran@uconn.edu),\,
+722,C11H18O4Cd,C11H18O4Cd1,organometallic_polymer_crystal,34,4,VASP-5.X,PAW,3.6132,4.62989,2.94839,1.6815,-5.3661,,,,Huan Tran (huan.tran@uconn.edu),\,
+721,C11H18O4Cd,C11H18O4Cd1,organometallic_polymer_crystal,34,4,VASP-5.X,PAW,3.7429,4.39624,2.94896,1.44728,-5.37011,,,,Huan Tran (huan.tran@uconn.edu),\,
+720,C11H18O4Cd,C11H18O4Cd1,organometallic_polymer_crystal,34,4,VASP-5.X,PAW,3.8811,4.81924,2.93115,1.88809,-5.36568,,,,Huan Tran (huan.tran@uconn.edu),\,
+719,C11H18O4Cd,C11H18O4Cd1,organometallic_polymer_crystal,34,4,VASP-5.X,PAW,3.9267,4.58039,2.93221,1.64818,-5.36977,,,,Huan Tran (huan.tran@uconn.edu),\,
+718,C11H18O4Cd,C11H18O4Cd1,organometallic_polymer_crystal,34,4,VASP-5.X,PAW,3.7644,4.3829,2.95012,1.43277,-5.37013,,,,Huan Tran (huan.tran@uconn.edu),\,
+717,C10H16O4Cd,C10H16O4Cd1,organometallic_polymer_crystal,31,4,VASP-5.X,PAW,3.7483,18.5176,2.9016,15.616,-5.38628,,,,Huan Tran (huan.tran@uconn.edu),\,
+716,C10H16O4Cd,C10H16O4Cd1,organometallic_polymer_crystal,31,4,VASP-5.X,PAW,3.6457,4.90759,2.99226,1.91533,-5.37518,,,,Huan Tran (huan.tran@uconn.edu),\,
+715,C10H16O4Cd,C10H16O4Cd1,organometallic_polymer_crystal,31,4,VASP-5.X,PAW,3.5459,4.49063,2.93836,1.55227,-5.38576,,,,Huan Tran (huan.tran@uconn.edu),\,
+714,C10H16O4Cd,C10H16O4Cd1,organometallic_polymer_crystal,31,4,VASP-5.X,PAW,3.5713,4.40431,2.93524,1.46907,-5.3858,,,,Huan Tran (huan.tran@uconn.edu),\,
+713,C10H16O4Cd,C10H16O4Cd1,organometallic_polymer_crystal,31,4,VASP-5.X,PAW,3.7297,4.28941,2.91713,1.37228,-5.38541,,,,Huan Tran (huan.tran@uconn.edu),\,
+712,C10H16O4Cd,C10H16O4Cd1,organometallic_polymer_crystal,31,4,VASP-5.X,PAW,3.6,4.21643,2.92712,1.28931,-5.38625,,,,Huan Tran (huan.tran@uconn.edu),\,
+711,C9H14O4Cd,C9H14O4Cd1,organometallic_polymer_crystal,28,4,VASP-5.X,PAW,3.0369,5.16074,3.00691,2.15383,-5.3571,,,,Huan Tran (huan.tran@uconn.edu),\,
+710,C9H14O4Cd,C9H14O4Cd1,organometallic_polymer_crystal,28,4,VASP-5.X,PAW,2.3463,6.08246,3.16076,2.9217,-5.35697,,,,Huan Tran (huan.tran@uconn.edu),\,
+709,C9H14O4Cd,C9H14O4Cd1,organometallic_polymer_crystal,28,4,VASP-5.X,PAW,2.3319,6.87654,3.11935,3.75719,-5.36665,,,,Huan Tran (huan.tran@uconn.edu),\,
+708,C9H14O4Cd,C9H14O4Cd1,organometallic_polymer_crystal,28,4,VASP-5.X,PAW,3.4387,4.92023,2.99044,1.92979,-5.40802,,,,Huan Tran (huan.tran@uconn.edu),\,
+707,C9H14O4Cd,C9H14O4Cd1,organometallic_polymer_crystal,28,4,VASP-5.X,PAW,3.915,4.80847,2.96316,1.84531,-5.40514,,,,Huan Tran (huan.tran@uconn.edu),\,
+706,C9H14O4Cd,C9H14O4Cd1,organometallic_polymer_crystal,28,4,VASP-5.X,PAW,3.7641,4.73607,2.987,1.74907,-5.41703,,,,Huan Tran (huan.tran@uconn.edu),\,
+705,C9H14O4Cd,C9H14O4Cd1,organometallic_polymer_crystal,28,4,VASP-5.X,PAW,3.5909,5.21896,2.99525,2.22371,-5.41194,,,,Huan Tran (huan.tran@uconn.edu),\,
+704,C9H14O4Cd,C9H14O4Cd1,organometallic_polymer_crystal,28,4,VASP-5.X,PAW,3.6485,5.64673,2.99965,2.64708,-5.41095,,,,Huan Tran (huan.tran@uconn.edu),\,
+703,C9H14O4Cd,C9H14O4Cd1,organometallic_polymer_crystal,28,4,VASP-5.X,PAW,3.9675,4.92354,2.94267,1.98087,-5.41399,,,,Huan Tran (huan.tran@uconn.edu),\,
+702,C9H14O4Cd,C9H14O4Cd1,organometallic_polymer_crystal,28,4,VASP-5.X,PAW,3.952,7.38042,2.97151,4.40892,-5.41629,,,,Huan Tran (huan.tran@uconn.edu),\,
+701,C9H14O4Cd,C9H14O4Cd1,organometallic_polymer_crystal,28,4,VASP-5.X,PAW,3.7796,4.70115,2.98658,1.71457,-5.41721,,,,Huan Tran (huan.tran@uconn.edu),\,
+700,C8H12O4Cd,C8H12O4Cd1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,3.6785,5.21585,2.99366,2.22218,-5.42391,,,,Huan Tran (huan.tran@uconn.edu),\,
+699,C8H12O4Cd,C8H12O4Cd1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,3.8633,5.06728,2.94059,2.12669,-5.4472,,,,Huan Tran (huan.tran@uconn.edu),\,
+698,C8H12O4Cd,C8H12O4Cd1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,3.826,4.5629,2.94673,1.61617,-5.43661,,,,Huan Tran (huan.tran@uconn.edu),\,
+697,C8H12O4Cd,C8H12O4Cd1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,3.3699,6.1742,3.03706,3.13715,-5.43024,,,,Huan Tran (huan.tran@uconn.edu),\,
+696,C8H12O4Cd,C8H12O4Cd1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,3.8652,6.3965,3.01451,3.382,-5.44691,,,,Huan Tran (huan.tran@uconn.edu),\,
+695,C8H12O4Cd,C8H12O4Cd1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,3.7589,5.00477,3.00097,2.00381,-5.43886,,,,Huan Tran (huan.tran@uconn.edu),\,
+694,C8H12O4Cd,C8H12O4Cd1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,3.4311,5.65369,2.94113,2.71256,-5.43767,,,,Huan Tran (huan.tran@uconn.edu),\,
+693,C8H12O4Cd,C8H12O4Cd1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,3.7504,6.20731,3.01732,3.18999,-5.44261,,,,Huan Tran (huan.tran@uconn.edu),\,
+692,C8H12O4Cd,C8H12O4Cd1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,3.5828,5.99981,2.98069,3.01911,-5.44195,,,,Huan Tran (huan.tran@uconn.edu),\,
+691,C8H12O4Cd,C8H12O4Cd1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,3.7234,6.85564,3.02035,3.83528,-5.44251,,,,Huan Tran (huan.tran@uconn.edu),\,
+690,C8H12O4Cd,C8H12O4Cd1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,3.6702,12.1246,3.0493,9.07531,-5.44703,,,,Huan Tran (huan.tran@uconn.edu),\,
+689,C8H12O4Cd,C8H12O4Cd1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,3.878,5.07335,3.01249,2.06086,-5.44701,,,,Huan Tran (huan.tran@uconn.edu),\,
+688,C8H12O4Cd,C8H12O4Cd1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,3.915,5.26319,2.89903,2.36416,-5.45383,,,,Huan Tran (huan.tran@uconn.edu),\,
+687,C7H10O4Cd,C7H10O4Cd1,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,2.0002,5.15563,3.19789,1.95774,-5.41933,,,,Huan Tran (huan.tran@uconn.edu),\,
+686,C7H10O4Cd,C7H10O4Cd1,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,2.1982,6.06681,3.21685,2.84996,-5.4247,,,,Huan Tran (huan.tran@uconn.edu),\,
+685,C7H10O4Cd,C7H10O4Cd1,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,3.1445,6.5287,3.03168,3.49702,-5.46967,,,,Huan Tran (huan.tran@uconn.edu),\,
+684,C7H10O4Cd,C7H10O4Cd1,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,3.5093,5.58047,3.03901,2.54146,-5.47294,,,,Huan Tran (huan.tran@uconn.edu),\,
+683,C7H10O4Cd,C7H10O4Cd1,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,3.8415,5.21226,3.01113,2.20113,-5.47924,,,,Huan Tran (huan.tran@uconn.edu),\,
+682,C7H10O4Cd,C7H10O4Cd1,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,3.6191,5.40955,3.05456,2.35499,-5.48267,,,,Huan Tran (huan.tran@uconn.edu),\,
+681,C7H10O4Cd,C7H10O4Cd1,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,3.9607,5.60466,3.00196,2.60269,-5.48436,,,,Huan Tran (huan.tran@uconn.edu),\,
+680,C7H10O4Cd,C7H10O4Cd1,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,3.9736,6.14015,3.0189,3.12125,-5.48905,,,,Huan Tran (huan.tran@uconn.edu),\,
+679,C7H10O4Cd,C7H10O4Cd1,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,3.774,5.10081,3.04317,2.05764,-5.48959,,,,Huan Tran (huan.tran@uconn.edu),\,
+678,C7H10O4Cd,C7H10O4Cd1,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,3.7536,5.04899,3.04389,2.0051,-5.48949,,,,Huan Tran (huan.tran@uconn.edu),\,
+677,C6H8O4Cd,C6H8O4Cd1,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,2.6307,5.35976,3.09212,2.26764,-5.37531,,,,Huan Tran (huan.tran@uconn.edu),\,
+676,C6H8O4Cd,C6H8O4Cd1,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,2.2969,5.92539,3.16313,2.76226,-5.47813,,,,Huan Tran (huan.tran@uconn.edu),\,
+675,C6H8O4Cd,C6H8O4Cd1,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,3.7219,6.31826,3.10175,3.21651,-5.52013,,,,Huan Tran (huan.tran@uconn.edu),\,
+674,C6H8O4Cd,C6H8O4Cd1,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,3.7348,5.29986,3.06347,2.2364,-5.52977,,,,Huan Tran (huan.tran@uconn.edu),\,
+673,C6H8O4Cd,C6H8O4Cd1,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,3.6052,5.96349,3.06694,2.89655,-5.53527,,,,Huan Tran (huan.tran@uconn.edu),\,
+672,C6H8O4Cd,C6H8O4Cd1,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,3.7556,6.7131,3.06194,3.65116,-5.53752,,,,Huan Tran (huan.tran@uconn.edu),\,
+671,C6H8O4Cd,C6H8O4Cd1,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,4.0317,6.09945,3.06866,3.03079,-5.53716,,,,Huan Tran (huan.tran@uconn.edu),\,
+670,C6H8O4Cd,C6H8O4Cd1,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,3.8027,6.46675,3.09909,3.36766,-5.54334,,,,Huan Tran (huan.tran@uconn.edu),\,
+669,C6H8O4Cd,C6H8O4Cd1,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,3.9712,5.42868,2.97855,2.45013,-5.55141,,,,Huan Tran (huan.tran@uconn.edu),\,
+668,C6H8O4Cd,C6H8O4Cd1,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,3.9985,5.84405,3.01442,2.82963,-5.55175,,,,Huan Tran (huan.tran@uconn.edu),\,
+667,C5H6O4Cd,C5H6O4Cd1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,1.7695,6.25087,3.4239,2.82698,-5.29377,,,,Huan Tran (huan.tran@uconn.edu),\,
+666,C5H6O4Cd,C5H6O4Cd1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,3.1944,5.82607,3.13892,2.68714,-5.56625,,,,Huan Tran (huan.tran@uconn.edu),\,
+665,C5H6O4Cd,C5H6O4Cd1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,3.171,6.20256,3.09915,3.10341,-5.58965,,,,Huan Tran (huan.tran@uconn.edu),\,
+664,C5H6O4Cd,C5H6O4Cd1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,3.6647,5.72923,3.12259,2.60664,-5.59998,,,,Huan Tran (huan.tran@uconn.edu),\,
+663,C5H6O4Cd,C5H6O4Cd1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,3.5699,6.73636,3.14116,3.5952,-5.59396,,,,Huan Tran (huan.tran@uconn.edu),\,
+662,C5H6O4Cd,C5H6O4Cd1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,3.6802,6.42787,3.08541,3.34246,-5.60107,,,,Huan Tran (huan.tran@uconn.edu),\,
+661,C5H6O4Cd,C5H6O4Cd1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,3.7375,6.47388,3.0711,3.40279,-5.60038,,,,Huan Tran (huan.tran@uconn.edu),\,
+660,C5H6O4Cd,C5H6O4Cd1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,3.5039,6.47032,3.15955,3.31078,-5.60558,,,,Huan Tran (huan.tran@uconn.edu),\,
+659,C5H6O4Cd,C5H6O4Cd1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,3.5856,6.62237,3.12705,3.49532,-5.60112,,,,Huan Tran (huan.tran@uconn.edu),\,
+658,C5H6O4Cd,C5H6O4Cd1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,3.6834,5.9204,3.15377,2.76663,-5.60834,,,,Huan Tran (huan.tran@uconn.edu),\,
+657,C5H6O4Cd,C5H6O4Cd1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,3.7017,6.87059,3.13586,3.73473,-5.60422,,,,Huan Tran (huan.tran@uconn.edu),\,
+656,C5H6O4Cd,C5H6O4Cd1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,3.6733,6.04808,3.16011,2.88797,-5.60797,,,,Huan Tran (huan.tran@uconn.edu),\,
+655,C5H6O4Cd,C5H6O4Cd1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,3.7706,5.81611,3.12844,2.68767,-5.61627,,,,Huan Tran (huan.tran@uconn.edu),\,
+654,C5H6O4Cd,C5H6O4Cd1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,3.9606,6.09818,3.0655,3.03268,-5.61908,,,,Huan Tran (huan.tran@uconn.edu),\,
+653,C4H4O4Cd,C4H4O4Cd1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,2.0533,8.0075,3.44191,4.56559,-5.60434,,,,Huan Tran (huan.tran@uconn.edu),\,
+652,C4H4O4Cd,C4H4O4Cd1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,3.7174,7.03402,3.15576,3.87826,-5.71764,,,,Huan Tran (huan.tran@uconn.edu),\,
+651,C4H4O4Cd,C4H4O4Cd1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,3.4329,5.99908,3.20409,2.79499,-5.71261,,,,Huan Tran (huan.tran@uconn.edu),\,
+650,C4H4O4Cd,C4H4O4Cd1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,3.7101,5.60629,3.073,2.53329,-5.69304,,,,Huan Tran (huan.tran@uconn.edu),\,
+649,C4H4O4Cd,C4H4O4Cd1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,3.3893,11.6723,3.23379,8.43849,-5.70402,,,,Huan Tran (huan.tran@uconn.edu),\,
+648,C4H4O4Cd,C4H4O4Cd1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,3.6357,5.90987,3.06211,2.84776,-5.70604,,,,Huan Tran (huan.tran@uconn.edu),\,
+647,C4H4O4Cd,C4H4O4Cd1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,3.4456,9.45422,3.17377,6.28045,-5.70967,,,,Huan Tran (huan.tran@uconn.edu),\,
+646,C4H4O4Cd,C4H4O4Cd1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,3.6588,6.60344,3.17522,3.42821,-5.7156,,,,Huan Tran (huan.tran@uconn.edu),\,
+645,C4H4O4Cd,C4H4O4Cd1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,3.5579,6.31973,3.23967,3.08006,-5.70869,,,,Huan Tran (huan.tran@uconn.edu),\,
+644,C4H4O4Cd,C4H4O4Cd1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,3.6415,6.44553,3.11184,3.33369,-5.72493,,,,Huan Tran (huan.tran@uconn.edu),\,
+643,C4H4O4Cd,C4H4O4Cd1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,3.6224,7.22176,3.19962,4.02214,-5.72777,,,,Huan Tran (huan.tran@uconn.edu),\,
+642,C4H4O4Cd,C4H4O4Cd1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,3.9245,6.24886,3.12433,3.12453,-5.73942,,,,Huan Tran (huan.tran@uconn.edu),\,
+641,C3H2O4Cd,C3H2O4Cd1,organometallic_polymer_crystal,10,4,VASP-5.X,PAW,2.2509,8.30343,3.65212,4.65131,-5.7976,,,,Huan Tran (huan.tran@uconn.edu),\,
+640,C3H2O4Cd,C3H2O4Cd1,organometallic_polymer_crystal,10,4,VASP-5.X,PAW,2.4864,8.96309,3.81555,5.14754,-5.81139,,,,Huan Tran (huan.tran@uconn.edu),\,
+639,C3H2O4Cd,C3H2O4Cd1,organometallic_polymer_crystal,10,4,VASP-5.X,PAW,3.0291,8.20202,3.29446,4.90756,-5.84598,,,,Huan Tran (huan.tran@uconn.edu),\,
+638,C3H2O4Cd,C3H2O4Cd1,organometallic_polymer_crystal,10,4,VASP-5.X,PAW,3.0515,7.90884,3.43061,4.47823,-5.8475,,,,Huan Tran (huan.tran@uconn.edu),\,
+637,C3H2O4Cd,C3H2O4Cd1,organometallic_polymer_crystal,10,4,VASP-5.X,PAW,3.2695,14.3829,3.30584,11.077,-5.86322,,,,Huan Tran (huan.tran@uconn.edu),\,
+636,C3H2O4Cd,C3H2O4Cd1,organometallic_polymer_crystal,10,4,VASP-5.X,PAW,3.6723,7.92708,3.22052,4.70657,-5.87589,,,,Huan Tran (huan.tran@uconn.edu),\,
+635,C3H2O4Cd,C3H2O4Cd1,organometallic_polymer_crystal,10,4,VASP-5.X,PAW,3.4604,7.2652,3.24264,4.02256,-5.87812,,,,Huan Tran (huan.tran@uconn.edu),\,
+634,C3H2O4Cd,C3H2O4Cd1,organometallic_polymer_crystal,10,4,VASP-5.X,PAW,3.6418,6.91645,3.34624,3.57021,-5.88545,,,,Huan Tran (huan.tran@uconn.edu),\,
+633,C3H2O4Cd,C3H2O4Cd1,organometallic_polymer_crystal,10,4,VASP-5.X,PAW,3.639,6.91911,3.34732,3.57179,-5.88521,,,,Huan Tran (huan.tran@uconn.edu),\,
+632,C3H2O4Cd,C3H2O4Cd1,organometallic_polymer_crystal,10,4,VASP-5.X,PAW,3.6419,6.90043,3.34754,3.55288,-5.8851,,,,Huan Tran (huan.tran@uconn.edu),\,
+631,C3H2O4Cd,C3H2O4Cd1,organometallic_polymer_crystal,10,4,VASP-5.X,PAW,3.6402,6.9211,3.34842,3.57268,-5.88519,,,,Huan Tran (huan.tran@uconn.edu),\,
+630,HfO4C8H12,Hf1O4C8H12,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,1.5089,5.73655,3.48812,2.24843,-5.77078,,,,Huan Tran (huan.tran@uconn.edu),\,
+629,HfO4C8H12,Hf1O4C8H12,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,1.9421,5.12269,3.3873,1.73539,-5.76792,,,,Huan Tran (huan.tran@uconn.edu),\,
+628,HfO4C7H10,Hf1O4C7H10,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,3.5452,5.69582,3.38687,2.30895,-5.78862,,,,Huan Tran (huan.tran@uconn.edu),\,
+627,HfO4C6H8,Hf1O4C6H8,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,1.7349,6.52702,3.69907,2.82795,-6.02109,,,,Huan Tran (huan.tran@uconn.edu),\,
+626,HfO4C6H8,Hf1O4C6H8,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,2.2693,6.94415,3.61295,3.3312,-6.01314,,,,Huan Tran (huan.tran@uconn.edu),\,
+625,HfO4C6H8,Hf1O4C6H8,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,2.0169,6.49765,3.62253,2.87513,-6.02385,,,,Huan Tran (huan.tran@uconn.edu),\,
+624,HfO4C6H8,Hf1O4C6H8,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,2.0147,6.46992,3.62507,2.84485,-6.0236,,,,Huan Tran (huan.tran@uconn.edu),\,
+623,HfO4C6H8,Hf1O4C6H8,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,0.8204,7.77679,4.20983,3.56695,-5.63635,,,,Huan Tran (huan.tran@uconn.edu),\,
+622,HfO4C6H8,Hf1O4C6H8,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,1.976,6.63321,3.6678,2.96541,-6.02295,,,,Huan Tran (huan.tran@uconn.edu),\,
+621,HfO4C6H8,Hf1O4C6H8,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,1.9968,6.65569,3.66229,2.9934,-6.02313,,,,Huan Tran (huan.tran@uconn.edu),\,
+620,HfO4C6H8,Hf1O4C6H8,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,2.0969,7.54955,3.54002,4.00953,-6.0035,,,,Huan Tran (huan.tran@uconn.edu),\,
+619,HfO4C6H8,Hf1O4C6H8,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,1.9637,6.51637,3.67318,2.84319,-6.02259,,,,Huan Tran (huan.tran@uconn.edu),\,
+618,HfO4C5H6,Hf1O4C5H6,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,1.9378,7.55983,3.81551,3.74431,-6.1505,,,,Huan Tran (huan.tran@uconn.edu),\,
+617,HfO4C5H6,Hf1O4C5H6,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,1.9412,10.5949,4.23397,6.36097,-6.14201,,,,Huan Tran (huan.tran@uconn.edu),\,
+616,HfO4C5H6,Hf1O4C5H6,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,1.128,8.10186,4.21625,3.88561,-5.98521,,,,Huan Tran (huan.tran@uconn.edu),\,
+615,HfO4C5H6,Hf1O4C5H6,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,1.1748,9.85819,4.44088,5.4173,-6.14422,,,,Huan Tran (huan.tran@uconn.edu),\,
+614,HfO4C5H6,Hf1O4C5H6,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,2.3802,8.95951,4.01838,4.94113,-6.14037,,,,Huan Tran (huan.tran@uconn.edu),\,
+613,HfO4C5H6,Hf1O4C5H6,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,2.3623,9.14826,4.01792,5.13034,-6.14034,,,,Huan Tran (huan.tran@uconn.edu),\,
+612,HfO4C4H4,Hf1O4C4H4,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,1.8598,7.37486,3.97331,3.40155,-6.44617,,,,Huan Tran (huan.tran@uconn.edu),\,
+611,HfO4C3H2,Hf1O4C3H2,organometallic_polymer_crystal,10,4,VASP-5.X,PAW,2.3443,6.99625,4.03686,2.95939,-6.76431,,,,Huan Tran (huan.tran@uconn.edu),\,
+610,ZrO4C8H12,Zr1O4C8H12,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,1.6227,5.92855,3.6217,2.30685,-5.7732,,,,Huan Tran (huan.tran@uconn.edu),\,
+609,ZrO4C8H12,Zr1O4C8H12,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,1.8164,5.29021,3.50893,1.78128,-5.77245,,,,Huan Tran (huan.tran@uconn.edu),\,
+608,ZrO4C7H10,Zr1O4C7H10,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,3.2864,6.16937,3.48669,2.68269,-5.78419,,,,Huan Tran (huan.tran@uconn.edu),\,
+607,ZrO4C7H10,Zr1O4C7H10,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,2.0146,5.75416,3.6053,2.14886,-5.89907,,,,Huan Tran (huan.tran@uconn.edu),\,
+606,ZrO4C6H8,Zr1O4C6H8,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,1.8146,6.55573,3.84321,2.71252,-6.02314,,,,Huan Tran (huan.tran@uconn.edu),\,
+605,ZrO4C6H8,Zr1O4C6H8,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,0.9071,7.84237,4.40832,3.43406,-5.63361,,,,Huan Tran (huan.tran@uconn.edu),\,
+604,ZrO4C6H8,Zr1O4C6H8,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,1.8829,6.4188,3.81237,2.60643,-6.02388,,,,Huan Tran (huan.tran@uconn.edu),\,
+603,ZrO4C6H8,Zr1O4C6H8,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,1.8927,6.45072,3.81296,2.63776,-6.02387,,,,Huan Tran (huan.tran@uconn.edu),\,
+602,ZrO4C6H8,Zr1O4C6H8,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,1.8661,8.89809,3.6815,5.21659,-6.00331,,,,Huan Tran (huan.tran@uconn.edu),\,
+601,ZrO4C6H8,Zr1O4C6H8,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,1.8803,6.40498,3.81627,2.58872,-6.02387,,,,Huan Tran (huan.tran@uconn.edu),\,
+600,ZrO4C6H8,Zr1O4C6H8,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,1.881,6.42391,3.81602,2.60789,-6.02381,,,,Huan Tran (huan.tran@uconn.edu),\,
+599,ZrO4C5H6,Zr1O4C5H6,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,2.4843,9.69792,4.11158,5.58634,-6.10643,,,,Huan Tran (huan.tran@uconn.edu),\,
+598,ZrO4C5H6,Zr1O4C5H6,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,1.7887,10.9937,4.40739,6.58626,-6.14535,,,,Huan Tran (huan.tran@uconn.edu),\,
+597,ZrO4C5H6,Zr1O4C5H6,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,1.4852,9.13063,4.73848,4.39215,-5.96214,,,,Huan Tran (huan.tran@uconn.edu),\,
+596,ZrO4C5H6,Zr1O4C5H6,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,1.079,9.10264,4.43434,4.66829,-5.97961,,,,Huan Tran (huan.tran@uconn.edu),\,
+595,ZrO4C5H6,Zr1O4C5H6,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,1.1864,10.1122,4.49085,5.62136,-6.14467,,,,Huan Tran (huan.tran@uconn.edu),\,
+594,ZrO4C5H6,Zr1O4C5H6,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,2.2322,8.53371,4.15825,4.37546,-6.14359,,,,Huan Tran (huan.tran@uconn.edu),\,
+593,ZrO4C5H6,Zr1O4C5H6,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,0.6888,9.04255,5.87412,3.16843,-5.79233,,,,Huan Tran (huan.tran@uconn.edu),\,
+592,ZrO4C4H4,Zr1O4C4H4,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,0.0324,12.6727,7.16106,5.51161,-6.01698,,,,Huan Tran (huan.tran@uconn.edu),\,
+591,ZrO4C4H4,Zr1O4C4H4,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,1.832,7.48096,4.14649,3.33447,-6.4475,,,,Huan Tran (huan.tran@uconn.edu),\,
+590,ZrO4C3H2,Zr1O4C3H2,organometallic_polymer_crystal,10,4,VASP-5.X,PAW,1.303,10.1448,4.33693,5.80783,-6.74734,,,,Huan Tran (huan.tran@uconn.edu),\,
+589,ZrO4C3H2,Zr1O4C3H2,organometallic_polymer_crystal,10,4,VASP-5.X,PAW,1.9936,8.17207,4.43444,3.73763,-6.74953,,,,Huan Tran (huan.tran@uconn.edu),\,
+588,Mg2O8C12H16,Mg2O8C12H16,organometallic_polymer_crystal,38,4,VASP-5.X,PAW,4.4217,4.63773,2.95809,1.67965,-5.74616,,,,Huan Tran (huan.tran@uconn.edu),\,
+587,Mg2O8C10H12,Mg2O8C10H12,organometallic_polymer_crystal,32,4,VASP-5.X,PAW,1.9194,5.60476,3.30154,2.30322,-5.59942,,,,Huan Tran (huan.tran@uconn.edu),\,
+586,Mg2O8C10H12,Mg2O8C10H12,organometallic_polymer_crystal,32,4,VASP-5.X,PAW,4.2109,5.14083,2.9985,2.14233,-5.83638,,,,Huan Tran (huan.tran@uconn.edu),\,
+585,Mg2O8C10H12,Mg2O8C10H12,organometallic_polymer_crystal,32,4,VASP-5.X,PAW,4.2619,4.96066,3.00274,1.95791,-5.8329,,,,Huan Tran (huan.tran@uconn.edu),\,
+584,Mg2O8C10H12,Mg2O8C10H12,organometallic_polymer_crystal,32,4,VASP-5.X,PAW,4.4736,5.44725,2.99717,2.45008,-5.83389,,,,Huan Tran (huan.tran@uconn.edu),\,
+583,Mg2O8C6H4,Mg2O8C6H4,organometallic_polymer_crystal,20,4,VASP-5.X,PAW,2.6618,5.83162,3.14138,2.69024,-6.18894,,,,Huan Tran (huan.tran@uconn.edu),\,
+582,Mg2O8C6H4,Mg2O8C6H4,organometallic_polymer_crystal,20,4,VASP-5.X,PAW,4.3683,5.38813,2.98518,2.40295,-6.22294,,,,Huan Tran (huan.tran@uconn.edu),\,
+581,Mg2O8C6H4,Mg2O8C6H4,organometallic_polymer_crystal,20,4,VASP-5.X,PAW,4.053,5.44259,3.05483,2.38776,-6.25437,,,,Huan Tran (huan.tran@uconn.edu),\,
+580,Mg2O8C6H4,Mg2O8C6H4,organometallic_polymer_crystal,20,4,VASP-5.X,PAW,3.2455,5.3708,3.01325,2.35755,-6.22614,,,,Huan Tran (huan.tran@uconn.edu),\,
+579,Mg2O8C6H4,Mg2O8C6H4,organometallic_polymer_crystal,20,4,VASP-5.X,PAW,2.8228,8.12211,3.4593,4.66282,-5.93458,,,,Huan Tran (huan.tran@uconn.edu),\,
+578,Mg2O8C6H4,Mg2O8C6H4,organometallic_polymer_crystal,20,4,VASP-5.X,PAW,3.5349,5.38731,3.04349,2.34382,-6.23954,,,,Huan Tran (huan.tran@uconn.edu),\,
+577,Mg2O8C6H4,Mg2O8C6H4,organometallic_polymer_crystal,20,4,VASP-5.X,PAW,4.2025,5.24658,3.04756,2.19902,-6.2892,,,,Huan Tran (huan.tran@uconn.edu),\,
+576,Mg2O8C6H4,Mg2O8C6H4,organometallic_polymer_crystal,20,4,VASP-5.X,PAW,2.7199,12.0931,3.35088,8.74225,-5.86241,,,,Huan Tran (huan.tran@uconn.edu),\,
+575,Mg2O8C6H4,Mg2O8C6H4,organometallic_polymer_crystal,20,4,VASP-5.X,PAW,2.6214,6.0499,3.27666,2.77324,-6.18479,,,,Huan Tran (huan.tran@uconn.edu),\,
+574,Mg2O8C6H4,Mg2O8C6H4,organometallic_polymer_crystal,20,4,VASP-5.X,PAW,4.5951,7.58916,3.1281,4.46106,-6.23643,,,,Huan Tran (huan.tran@uconn.edu),\,
+573,Mg2O8C6H4,Mg2O8C6H4,organometallic_polymer_crystal,20,4,VASP-5.X,PAW,4.1952,5.78749,3.04974,2.73775,-6.2318,,,,Huan Tran (huan.tran@uconn.edu),\,
+572,C12H20O4Zn,C12H20O4Zn1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,4.4393,4.16474,2.78863,1.37611,-5.35254,,,,Huan Tran (huan.tran@uconn.edu),\,
+571,C12H20O4Zn,C12H20O4Zn1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,4.2642,4.30076,2.79783,1.50293,-5.35423,,,,Huan Tran (huan.tran@uconn.edu),\,
+570,C12H20O4Zn,C12H20O4Zn1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,4.5545,3.9405,2.81233,1.12817,-5.36239,,,,Huan Tran (huan.tran@uconn.edu),\,
+569,C12H20O4Zn,C12H20O4Zn1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,3.6419,6.34942,2.92916,3.42026,-5.34903,,,,Huan Tran (huan.tran@uconn.edu),\,
+568,C12H20O4Zn,C12H20O4Zn1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,4.2659,6.56068,2.88789,3.67279,-5.35598,,,,Huan Tran (huan.tran@uconn.edu),\,
+567,C12H20O4Zn,C12H20O4Zn1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,3.9565,7.35447,2.89023,4.46424,-5.36238,,,,Huan Tran (huan.tran@uconn.edu),\,
+566,C12H20O4Zn,C12H20O4Zn1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,4.1794,4.34144,2.84472,1.49672,-5.35674,,,,Huan Tran (huan.tran@uconn.edu),\,
+565,C12H20O4Zn,C12H20O4Zn1,organometallic_polymer_crystal,37,4,VASP-5.X,PAW,3.9401,8.44178,2.87577,5.56601,-5.36136,,,,Huan Tran (huan.tran@uconn.edu),\,
+564,C11H18O4Zn,C11H18O4Zn1,organometallic_polymer_crystal,34,4,VASP-5.X,PAW,3.5189,4.14799,2.90979,1.2382,-5.33339,,,,Huan Tran (huan.tran@uconn.edu),\,
+563,C11H18O4Zn,C11H18O4Zn1,organometallic_polymer_crystal,34,4,VASP-5.X,PAW,4.6535,3.80029,2.81334,0.98695,-5.38627,,,,Huan Tran (huan.tran@uconn.edu),\,
+562,C11H18O4Zn,C11H18O4Zn1,organometallic_polymer_crystal,34,4,VASP-5.X,PAW,4.0195,8.56421,2.91108,5.65313,-5.37464,,,,Huan Tran (huan.tran@uconn.edu),\,
+561,C11H18O4Zn,C11H18O4Zn1,organometallic_polymer_crystal,34,4,VASP-5.X,PAW,4.3638,3.76242,2.7824,0.980021,-5.38285,,,,Huan Tran (huan.tran@uconn.edu),\,
+560,C11H18O4Zn,C11H18O4Zn1,organometallic_polymer_crystal,34,4,VASP-5.X,PAW,4.2298,4.48998,2.84718,1.6428,-5.37953,,,,Huan Tran (huan.tran@uconn.edu),\,
+559,C11H18O4Zn,C11H18O4Zn1,organometallic_polymer_crystal,34,4,VASP-5.X,PAW,4.5568,4.14627,2.80727,1.339,-5.38582,,,,Huan Tran (huan.tran@uconn.edu),\,
+558,C11H18O4Zn,C11H18O4Zn1,organometallic_polymer_crystal,34,4,VASP-5.X,PAW,3.9711,4.73838,2.86394,1.87444,-5.37742,,,,Huan Tran (huan.tran@uconn.edu),\,
+557,C11H18O4Zn,C11H18O4Zn1,organometallic_polymer_crystal,34,4,VASP-5.X,PAW,4.2077,4.72786,2.8642,1.86366,-5.37832,,,,Huan Tran (huan.tran@uconn.edu),\,
+556,C11H18O4Zn,C11H18O4Zn1,organometallic_polymer_crystal,34,4,VASP-5.X,PAW,4.0014,6.65925,2.90356,3.75569,-5.37565,,,,Huan Tran (huan.tran@uconn.edu),\,
+555,C11H18O4Zn,C11H18O4Zn1,organometallic_polymer_crystal,34,4,VASP-5.X,PAW,4.0744,5.13827,2.89851,2.23977,-5.37633,,,,Huan Tran (huan.tran@uconn.edu),\,
+554,C10H16O4Zn,C10H16O4Zn1,organometallic_polymer_crystal,31,4,VASP-5.X,PAW,3.5696,13.7544,2.94722,10.8071,-5.38888,,,,Huan Tran (huan.tran@uconn.edu),\,
+553,C10H16O4Zn,C10H16O4Zn1,organometallic_polymer_crystal,31,4,VASP-5.X,PAW,4.4327,4.84825,2.88583,1.96242,-5.39465,,,,Huan Tran (huan.tran@uconn.edu),\,
+552,C10H16O4Zn,C10H16O4Zn1,organometallic_polymer_crystal,31,4,VASP-5.X,PAW,3.9496,7.73131,2.93173,4.79958,-5.40318,,,,Huan Tran (huan.tran@uconn.edu),\,
+551,C10H16O4Zn,C10H16O4Zn1,organometallic_polymer_crystal,31,4,VASP-5.X,PAW,3.9279,7.85044,2.93007,4.92037,-5.4031,,,,Huan Tran (huan.tran@uconn.edu),\,
+550,C10H16O4Zn,C10H16O4Zn1,organometallic_polymer_crystal,31,4,VASP-5.X,PAW,3.968,7.66171,2.9224,4.73931,-5.40416,,,,Huan Tran (huan.tran@uconn.edu),\,
+549,C10H16O4Zn,C10H16O4Zn1,organometallic_polymer_crystal,31,4,VASP-5.X,PAW,3.9537,9.17552,2.92958,6.24594,-5.40288,,,,Huan Tran (huan.tran@uconn.edu),\,
+548,C10H16O4Zn,C10H16O4Zn1,organometallic_polymer_crystal,31,4,VASP-5.X,PAW,4.21,4.93698,2.85865,2.07833,-5.39941,,,,Huan Tran (huan.tran@uconn.edu),\,
+547,C10H16O4Zn,C10H16O4Zn1,organometallic_polymer_crystal,31,4,VASP-5.X,PAW,3.93,9.04072,2.92968,6.11105,-5.40321,,,,Huan Tran (huan.tran@uconn.edu),\,
+546,C10H16O4Zn,C10H16O4Zn1,organometallic_polymer_crystal,31,4,VASP-5.X,PAW,3.9739,10.1814,2.91987,7.2615,-5.40429,,,,Huan Tran (huan.tran@uconn.edu),\,
+545,C10H16O4Zn,C10H16O4Zn1,organometallic_polymer_crystal,31,4,VASP-5.X,PAW,3.9538,8.50566,2.93484,5.57083,-5.40338,,,,Huan Tran (huan.tran@uconn.edu),\,
+544,C10H16O4Zn,C10H16O4Zn1,organometallic_polymer_crystal,31,4,VASP-5.X,PAW,3.9493,7.27023,2.93489,4.33534,-5.40314,,,,Huan Tran (huan.tran@uconn.edu),\,
+543,C9H14O4Zn,C9H14O4Zn1,organometallic_polymer_crystal,28,4,VASP-5.X,PAW,4.5624,4.11391,2.82051,1.2934,-5.43668,,,,Huan Tran (huan.tran@uconn.edu),\,
+542,C9H14O4Zn,C9H14O4Zn1,organometallic_polymer_crystal,28,4,VASP-5.X,PAW,4.3974,4.02269,2.80846,1.21423,-5.43219,,,,Huan Tran (huan.tran@uconn.edu),\,
+541,C9H14O4Zn,C9H14O4Zn1,organometallic_polymer_crystal,28,4,VASP-5.X,PAW,4.3853,4.0058,2.81334,1.19246,-5.43294,,,,Huan Tran (huan.tran@uconn.edu),\,
+540,C9H14O4Zn,C9H14O4Zn1,organometallic_polymer_crystal,28,4,VASP-5.X,PAW,3.9758,7.30871,2.90048,4.40823,-5.42549,,,,Huan Tran (huan.tran@uconn.edu),\,
+539,C9H14O4Zn,C9H14O4Zn1,organometallic_polymer_crystal,28,4,VASP-5.X,PAW,4.1913,6.31475,2.89491,3.41984,-5.4263,,,,Huan Tran (huan.tran@uconn.edu),\,
+538,C9H14O4Zn,C9H14O4Zn1,organometallic_polymer_crystal,28,4,VASP-5.X,PAW,4.0376,6.56687,2.94446,3.62241,-5.42371,,,,Huan Tran (huan.tran@uconn.edu),\,
+537,C9H14O4Zn,C9H14O4Zn1,organometallic_polymer_crystal,28,4,VASP-5.X,PAW,4.0058,10.738,2.95299,7.78501,-5.42292,,,,Huan Tran (huan.tran@uconn.edu),\,
+536,C8H12O4Zn,C8H12O4Zn1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,2.4192,4.27571,2.91302,1.36268,-5.37315,,,,Huan Tran (huan.tran@uconn.edu),\,
+535,C8H12O4Zn,C8H12O4Zn1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,4.1721,4.51506,2.84307,1.672,-5.45446,,,,Huan Tran (huan.tran@uconn.edu),\,
+534,C8H12O4Zn,C8H12O4Zn1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,4.163,6.32524,2.92733,3.39791,-5.45884,,,,Huan Tran (huan.tran@uconn.edu),\,
+533,C8H12O4Zn,C8H12O4Zn1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,3.9048,7.70663,2.97772,4.72891,-5.46444,,,,Huan Tran (huan.tran@uconn.edu),\,
+532,C8H12O4Zn,C8H12O4Zn1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,3.9115,7.17445,2.97721,4.19724,-5.46472,,,,Huan Tran (huan.tran@uconn.edu),\,
+531,C8H12O4Zn,C8H12O4Zn1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,3.9156,8.11196,2.97551,5.13645,-5.46488,,,,Huan Tran (huan.tran@uconn.edu),\,
+530,C8H12O4Zn,C8H12O4Zn1,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,3.912,7.65412,2.98217,4.67195,-5.46412,,,,Huan Tran (huan.tran@uconn.edu),\,
+529,C7H10O4Zn,C7H10O4Zn1,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,2.4966,6.67262,3.07595,3.59667,-5.43751,,,,Huan Tran (huan.tran@uconn.edu),\,
+528,C7H10O4Zn,C7H10O4Zn1,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,4.5899,4.18932,2.84197,1.34736,-5.51583,,,,Huan Tran (huan.tran@uconn.edu),\,
+527,C7H10O4Zn,C7H10O4Zn1,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,4.1307,6.52876,2.96713,3.56163,-5.48488,,,,Huan Tran (huan.tran@uconn.edu),\,
+526,C7H10O4Zn,C7H10O4Zn1,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,4.0877,9.28032,3.03274,6.24758,-5.49476,,,,Huan Tran (huan.tran@uconn.edu),\,
+525,C7H10O4Zn,C7H10O4Zn1,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,4.5117,4.36606,2.85628,1.50978,-5.51413,,,,Huan Tran (huan.tran@uconn.edu),\,
+524,C7H10O4Zn,C7H10O4Zn1,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,4.3733,4.54309,2.92881,1.61428,-5.50063,,,,Huan Tran (huan.tran@uconn.edu),\,
+523,C7H10O4Zn,C7H10O4Zn1,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,4.631,4.15755,2.86807,1.28948,-5.51357,,,,Huan Tran (huan.tran@uconn.edu),\,
+522,C7H10O4Zn,C7H10O4Zn1,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,3.9914,6.69855,2.96283,3.73572,-5.49927,,,,Huan Tran (huan.tran@uconn.edu),\,
+521,C7H10O4Zn,C7H10O4Zn1,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,4.0867,42.6773,3.03201,39.6452,-5.49488,,,,Huan Tran (huan.tran@uconn.edu),\,
+520,C7H10O4Zn,C7H10O4Zn1,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,4.1621,4.96879,2.93517,2.03362,-5.50047,,,,Huan Tran (huan.tran@uconn.edu),\,
+519,C7H10O4Zn,C7H10O4Zn1,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,3.9844,11.1576,2.97042,8.18714,-5.49875,,,,Huan Tran (huan.tran@uconn.edu),\,
+518,C7H10O4Zn,C7H10O4Zn1,organometallic_polymer_crystal,22,4,VASP-5.X,PAW,3.9951,12.0262,2.99883,9.02737,-5.49773,,,,Huan Tran (huan.tran@uconn.edu),\,
+517,C6H8O4Zn,C6H8O4Zn1,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,2.9168,6.14395,3.04862,3.09533,-5.49757,,,,Huan Tran (huan.tran@uconn.edu),\,
+516,C6H8O4Zn,C6H8O4Zn1,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,4.2113,5.54905,2.92826,2.62079,-5.5455,,,,Huan Tran (huan.tran@uconn.edu),\,
+515,C6H8O4Zn,C6H8O4Zn1,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,3.8687,7.29674,3.04883,4.24791,-5.56443,,,,Huan Tran (huan.tran@uconn.edu),\,
+514,C6H8O4Zn,C6H8O4Zn1,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,4.19,6.90096,2.95892,3.94204,-5.54559,,,,Huan Tran (huan.tran@uconn.edu),\,
+513,C6H8O4Zn,C6H8O4Zn1,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,3.8473,7.16079,3.04767,4.11312,-5.56452,,,,Huan Tran (huan.tran@uconn.edu),\,
+512,C6H8O4Zn,C6H8O4Zn1,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,4.175,7.83159,2.9298,4.90179,-5.55532,,,,Huan Tran (huan.tran@uconn.edu),\,
+511,C6H8O4Zn,C6H8O4Zn1,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,3.8599,7.15741,3.04849,4.10892,-5.564,,,,Huan Tran (huan.tran@uconn.edu),\,
+510,C6H8O4Zn,C6H8O4Zn1,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,3.8427,7.10301,3.04727,4.05574,-5.56465,,,,Huan Tran (huan.tran@uconn.edu),\,
+509,C6H8O4Zn,C6H8O4Zn1,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,3.8398,7.1459,3.04669,4.09921,-5.56482,,,,Huan Tran (huan.tran@uconn.edu),\,
+508,C6H8O4Zn,C6H8O4Zn1,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,3.8568,7.13081,3.01091,4.11991,-5.56595,,,,Huan Tran (huan.tran@uconn.edu),\,
+507,C5H6O4Zn,C5H6O4Zn1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,3.3252,5.22545,3.27699,1.94846,-5.47734,,,,Huan Tran (huan.tran@uconn.edu),\,
+506,C5H6O4Zn,C5H6O4Zn1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,4.3439,4.70108,2.91569,1.78539,-5.6452,,,,Huan Tran (huan.tran@uconn.edu),\,
+505,C5H6O4Zn,C5H6O4Zn1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,4.55,4.96406,2.87008,2.09398,-5.62905,,,,Huan Tran (huan.tran@uconn.edu),\,
+504,C5H6O4Zn,C5H6O4Zn1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,4.3902,5.31853,2.93999,2.37854,-5.63375,,,,Huan Tran (huan.tran@uconn.edu),\,
+503,C5H6O4Zn,C5H6O4Zn1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,4.0862,5.61866,2.9905,2.62816,-5.62997,,,,Huan Tran (huan.tran@uconn.edu),\,
+502,C5H6O4Zn,C5H6O4Zn1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,4.3905,4.81643,2.90704,1.90939,-5.63787,,,,Huan Tran (huan.tran@uconn.edu),\,
+501,C5H6O4Zn,C5H6O4Zn1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,4.4974,4.67387,2.89911,1.77476,-5.6529,,,,Huan Tran (huan.tran@uconn.edu),\,
+500,C5H6O4Zn,C5H6O4Zn1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,4.321,5.02106,2.99323,2.02783,-5.63164,,,,Huan Tran (huan.tran@uconn.edu),\,
+499,C5H6O4Zn,C5H6O4Zn1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,4.4983,4.65061,2.8971,1.75351,-5.65317,,,,Huan Tran (huan.tran@uconn.edu),\,
+498,C5H6O4Zn,C5H6O4Zn1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,3.9271,9.46337,3.0834,6.37997,-5.62824,,,,Huan Tran (huan.tran@uconn.edu),\,
+497,C5H6O4Zn,C5H6O4Zn1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,3.9284,8.9725,3.08272,5.88978,-5.62821,,,,Huan Tran (huan.tran@uconn.edu),\,
+496,C5H6O4Zn,C5H6O4Zn1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,4.0803,9.28998,3.10865,6.18132,-5.62503,,,,Huan Tran (huan.tran@uconn.edu),\,
+495,C5H6O4Zn,C5H6O4Zn1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,4.0833,9.18636,3.1106,6.07576,-5.62483,,,,Huan Tran (huan.tran@uconn.edu),\,
+494,C5H6O4Zn,C5H6O4Zn1,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,4.0218,10.1528,3.07369,7.07915,-5.62939,,,,Huan Tran (huan.tran@uconn.edu),\,
+493,C4H4O4Zn,C4H4O4Zn1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,3.6685,6.71701,3.04467,3.67234,-5.72578,,,,Huan Tran (huan.tran@uconn.edu),\,
+492,C4H4O4Zn,C4H4O4Zn1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,3.6706,9.48248,3.26975,6.21273,-5.68051,,,,Huan Tran (huan.tran@uconn.edu),\,
+491,C4H4O4Zn,C4H4O4Zn1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,3.9692,5.70362,3.00761,2.69601,-5.7258,,,,Huan Tran (huan.tran@uconn.edu),\,
+490,C4H4O4Zn,C4H4O4Zn1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,4.1806,6.22791,2.98929,3.23862,-5.73198,,,,Huan Tran (huan.tran@uconn.edu),\,
+489,C4H4O4Zn,C4H4O4Zn1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,4.1877,6.12978,2.9872,3.14258,-5.73225,,,,Huan Tran (huan.tran@uconn.edu),\,
+488,C4H4O4Zn,C4H4O4Zn1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,3.9119,9.09634,3.27159,5.82475,-5.70572,,,,Huan Tran (huan.tran@uconn.edu),\,
+487,C4H4O4Zn,C4H4O4Zn1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,4.0319,5.79687,2.98764,2.80923,-5.73127,,,,Huan Tran (huan.tran@uconn.edu),\,
+486,C4H4O4Zn,C4H4O4Zn1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,4.9436,4.93615,2.90573,2.03042,-5.77716,,,,Huan Tran (huan.tran@uconn.edu),\,
+485,C4H4O4Zn,C4H4O4Zn1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,4.3785,6.52271,3.02228,3.50043,-5.74092,,,,Huan Tran (huan.tran@uconn.edu),\,
+484,C4H4O4Zn,C4H4O4Zn1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,3.8328,7.21999,3.13461,4.08538,-5.75958,,,,Huan Tran (huan.tran@uconn.edu),\,
+483,C4H4O4Zn,C4H4O4Zn1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,3.7377,7.73781,3.16467,4.57314,-5.76096,,,,Huan Tran (huan.tran@uconn.edu),\,
+482,C4H4O4Zn,C4H4O4Zn1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,3.6171,10.034,3.1905,6.84348,-5.74453,,,,Huan Tran (huan.tran@uconn.edu),\,
+481,C4H4O4Zn,C4H4O4Zn1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,4.1946,8.32011,3.18803,5.13208,-5.72613,,,,Huan Tran (huan.tran@uconn.edu),\,
+480,C4H4O4Zn,C4H4O4Zn1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,3.6161,10.1599,3.19009,6.96983,-5.74455,,,,Huan Tran (huan.tran@uconn.edu),\,
+479,C4H4O4Zn,C4H4O4Zn1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,3.6092,10.2483,3.19861,7.04965,-5.74328,,,,Huan Tran (huan.tran@uconn.edu),\,
+478,C4H4O4Zn,C4H4O4Zn1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,3.8155,7.16277,3.13164,4.03113,-5.75993,,,,Huan Tran (huan.tran@uconn.edu),\,
+477,C4H4O4Zn,C4H4O4Zn1,organometallic_polymer_crystal,13,4,VASP-5.X,PAW,3.7624,7.50487,3.17255,4.33232,-5.7602,,,,Huan Tran (huan.tran@uconn.edu),\,
+476,C3H2O4Zn,C3H2O4Zn1,organometallic_polymer_crystal,10,4,VASP-5.X,PAW,1.042,8.56743,4.76703,3.8004,-5.4049,,,,Huan Tran (huan.tran@uconn.edu),\,
+475,C3H2O4Zn,C3H2O4Zn1,organometallic_polymer_crystal,10,4,VASP-5.X,PAW,4.3618,5.04503,2.89909,2.14593,-5.93871,,,,Huan Tran (huan.tran@uconn.edu),\,
+474,C3H2O4Zn,C3H2O4Zn1,organometallic_polymer_crystal,10,4,VASP-5.X,PAW,3.9345,6.17365,3.27925,2.8944,-5.88098,,,,Huan Tran (huan.tran@uconn.edu),\,
+473,C3H2O4Zn,C3H2O4Zn1,organometallic_polymer_crystal,10,4,VASP-5.X,PAW,4.0546,10.6442,3.26687,7.37731,-5.90745,,,,Huan Tran (huan.tran@uconn.edu),\,
+472,C3H2O4Zn,C3H2O4Zn1,organometallic_polymer_crystal,10,4,VASP-5.X,PAW,3.8566,5.89302,3.0539,2.83912,-5.94534,,,,Huan Tran (huan.tran@uconn.edu),\,
+471,C3H2O4Zn,C3H2O4Zn1,organometallic_polymer_crystal,10,4,VASP-5.X,PAW,4.0109,10.0055,3.262,6.74346,-5.90733,,,,Huan Tran (huan.tran@uconn.edu),\,
+470,ClC5H8O5Al,Cl1C5H8O5Al1,organometallic_polymer_crystal,20,5,VASP-5.X,PAW,4.0027,4.20978,2.68951,1.52027,-5.61746,,,,Huan Tran (huan.tran@uconn.edu),\,
+469,ClC5H6O4Al,Cl1C5H6O4Al1,organometallic_polymer_crystal,17,5,VASP-5.X,PAW,4.2037,4.48892,2.81374,1.67518,-5.81177,,,,Huan Tran (huan.tran@uconn.edu),\,
+468,ClC5H6O4Al,Cl1C5H6O4Al1,organometallic_polymer_crystal,17,5,VASP-5.X,PAW,3.6272,3.95,2.64611,1.30389,-5.8008,,,,Huan Tran (huan.tran@uconn.edu),\,
+467,ClC10H18O5Al,Cl1C10H18O5Al1,organometallic_polymer_crystal,35,5,VASP-5.X,PAW,4.6634,3.53421,2.62909,0.90512,-5.41667,,,,Huan Tran (huan.tran@uconn.edu),\,
+466,ClC10H16O4Al,Cl1C10H16O4Al1,organometallic_polymer_crystal,32,5,VASP-5.X,PAW,4.4607,3.167,2.58129,0.585708,-5.46523,,,,Huan Tran (huan.tran@uconn.edu),\,
+465,ClC10H16O4Al,Cl1C10H16O4Al1,organometallic_polymer_crystal,32,5,VASP-5.X,PAW,4.4957,3.13234,2.63229,0.500046,-5.47554,,,,Huan Tran (huan.tran@uconn.edu),\,
+464,ClC10H16O4Al,Cl1C10H16O4Al1,organometallic_polymer_crystal,32,5,VASP-5.X,PAW,4.6703,3.25415,2.67026,0.583891,-5.47788,,,,Huan Tran (huan.tran@uconn.edu),\,
+463,ClC10H16O4Al,Cl1C10H16O4Al1,organometallic_polymer_crystal,32,5,VASP-5.X,PAW,4.3151,3.89381,2.68941,1.2044,-5.49333,,,,Huan Tran (huan.tran@uconn.edu),\,
+462,ClC10H16O4Al,Cl1C10H16O4Al1,organometallic_polymer_crystal,32,5,VASP-5.X,PAW,3.4591,3.35862,2.62478,0.733833,-5.49281,,,,Huan Tran (huan.tran@uconn.edu),\,
+461,ClC10H16O4Al,Cl1C10H16O4Al1,organometallic_polymer_crystal,32,5,VASP-5.X,PAW,4.485,3.42236,2.69784,0.724517,-5.49485,,,,Huan Tran (huan.tran@uconn.edu),\,
+460,Ca2O8C16H24,Ca2O8C16H24,organometallic_polymer_crystal,50,4,VASP-5.X,PAW,4.7486,4.87745,2.82759,2.04985,-5.6794,,,,Huan Tran (huan.tran@uconn.edu),\,
+459,Ca2O8C14H20,Ca2O8C14H20,organometallic_polymer_crystal,44,4,VASP-5.X,PAW,4.6412,5.34814,2.81928,2.52887,-5.76385,,,,Huan Tran (huan.tran@uconn.edu),\,
+458,Ca2O8C14H20,Ca2O8C14H20,organometallic_polymer_crystal,44,4,VASP-5.X,PAW,4.7419,4.50787,2.81251,1.69535,-5.76829,,,,Huan Tran (huan.tran@uconn.edu),\,
+457,Ca2O8C14H20,Ca2O8C14H20,organometallic_polymer_crystal,44,4,VASP-5.X,PAW,4.8476,4.4288,2.80172,1.62708,-5.77517,,,,Huan Tran (huan.tran@uconn.edu),\,
+456,Ca2O8C8H8,Ca2O8C8H8,organometallic_polymer_crystal,26,4,VASP-5.X,PAW,4.3936,5.41468,2.88806,2.52662,-6.18249,,,,Huan Tran (huan.tran@uconn.edu),\,
+455,Ca2O8C8H8,Ca2O8C8H8,organometallic_polymer_crystal,26,4,VASP-5.X,PAW,4.3824,5.32791,2.84132,2.48658,-6.21024,,,,Huan Tran (huan.tran@uconn.edu),\,
+454,Ca2O8C8H8,Ca2O8C8H8,organometallic_polymer_crystal,26,4,VASP-5.X,PAW,4.532,5.05224,2.79674,2.2555,-6.21605,,,,Huan Tran (huan.tran@uconn.edu),\,
+453,Ca2O8C12H16,Ca2O8C12H16,organometallic_polymer_crystal,38,4,VASP-5.X,PAW,4.6253,4.70506,2.85612,1.84894,-5.85369,,,,Huan Tran (huan.tran@uconn.edu),\,
+452,CaO4C6H8,Ca1O4C6H8,organometallic_polymer_crystal,19,4,VASP-5.X,PAW,4.8195,4.94851,2.76904,2.17947,-5.87762,,,,Huan Tran (huan.tran@uconn.edu),\,
+451,CaO4C5H6,Ca1O4C5H6,organometallic_polymer_crystal,16,4,VASP-5.X,PAW,4.5955,5.37133,2.83274,2.53859,-5.99423,,,,Huan Tran (huan.tran@uconn.edu),\,
+450,Ca2O8C6H4,Ca2O8C6H4,organometallic_polymer_crystal,20,4,VASP-5.X,PAW,3.8356,6.49641,2.77016,3.72625,-6.50056,,,,Huan Tran (huan.tran@uconn.edu),\,
+449,Ca2O8C6H4,Ca2O8C6H4,organometallic_polymer_crystal,20,4,VASP-5.X,PAW,4.0005,6.55961,2.94151,3.6181,-6.47983,,,,Huan Tran (huan.tran@uconn.edu),\,
+448,Ca2O8C6H4,Ca2O8C6H4,organometallic_polymer_crystal,20,4,VASP-5.X,PAW,4.6401,5.55061,2.90074,2.64988,-6.51177,,,,Huan Tran (huan.tran@uconn.edu),\,
+447,C15H28O4Ti,C15H28O4Ti1,organometallic_polymer_crystal,48,4,VASP-5.X,PAW,2.3874,3.87312,2.84376,1.02937,-5.36271,,,,Huan Tran (huan.tran@uconn.edu),\,
+446,C14H26O4Ti,C14H26O4Ti1,organometallic_polymer_crystal,45,4,VASP-5.X,PAW,2.3939,3.79154,2.82486,0.96668,-5.37383,,,,Huan Tran (huan.tran@uconn.edu),\,
+445,C13H24O4Ti,C13H24O4Ti1,organometallic_polymer_crystal,42,4,VASP-5.X,PAW,2.3705,3.55656,2.8577,0.698865,-5.39764,,,,Huan Tran (huan.tran@uconn.edu),\,
+444,C12H22O4Ti,C12H22O4Ti1,organometallic_polymer_crystal,39,4,VASP-5.X,PAW,2.3967,3.49619,2.86878,0.627401,-5.41061,,,,Huan Tran (huan.tran@uconn.edu),\,
+443,C11H20O4Ti,C11H20O4Ti1,organometallic_polymer_crystal,36,4,VASP-5.X,PAW,2.4443,3.51687,2.88437,0.632503,-5.44013,,,,Huan Tran (huan.tran@uconn.edu),\,
+442,C10H18O4Ti,C10H18O4Ti1,organometallic_polymer_crystal,33,4,VASP-5.X,PAW,2.6493,3.56,2.9385,0.621498,-5.46817,,,,Huan Tran (huan.tran@uconn.edu),\,
+441,C9H16O4Ti,C9H16O4Ti1,organometallic_polymer_crystal,30,4,VASP-5.X,PAW,2.3457,9.80278,3.07667,6.72612,-5.51024,,,,Huan Tran (huan.tran@uconn.edu),\,
+440,C8H14O4Ti,C8H14O4Ti1,organometallic_polymer_crystal,27,4,VASP-5.X,PAW,2.4927,3.6943,2.98422,0.710075,-5.53889,,,,Huan Tran (huan.tran@uconn.edu),\,
+439,C7H12O4Ti,C7H12O4Ti1,organometallic_polymer_crystal,24,4,VASP-5.X,PAW,2.3811,3.9247,3.02868,0.896014,-5.59003,,,,Huan Tran (huan.tran@uconn.edu),\,
+438,C5H8O4Ti,C5H8O4Ti1,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,2.6715,4.66425,3.22884,1.43541,-5.73902,,,,Huan Tran (huan.tran@uconn.edu),\,
+437,C2H2O6Ti,C2H2O6Ti1,organometallic_polymer_crystal,11,4,VASP-5.X,PAW,2.3712,10.2835,4.04479,6.23867,-6.62275,,,,Huan Tran (huan.tran@uconn.edu),\,
+436,C4H6O4Ti,C4H6O4Ti1,organometallic_polymer_crystal,15,4,VASP-5.X,PAW,1.33,6.76553,4.06453,2.70099,-5.82779,,,,Huan Tran (huan.tran@uconn.edu),\,
+435,C15H28O4Ti,C15H28O4Ti1,organometallic_polymer_crystal,48,4,VASP-5.X,PAW,1.5558,4.30259,3.04649,1.2561,-5.37409,,,,Huan Tran (huan.tran@uconn.edu),\,
+434,C14H26O4Ti,C14H26O4Ti1,organometallic_polymer_crystal,45,4,VASP-5.X,PAW,1.6556,4.3527,3.07866,1.27403,-5.39252,,,,Huan Tran (huan.tran@uconn.edu),\,
+433,C13H24O4Ti,C13H24O4Ti1,organometallic_polymer_crystal,42,4,VASP-5.X,PAW,1.619,4.3148,3.05887,1.25593,-5.40674,,,,Huan Tran (huan.tran@uconn.edu),\,
+432,C12H22O4Ti,C12H22O4Ti1,organometallic_polymer_crystal,39,4,VASP-5.X,PAW,1.563,4.82352,3.0568,1.76672,-5.42862,,,,Huan Tran (huan.tran@uconn.edu),\,
+431,C11H20O4Ti,C11H20O4Ti1,organometallic_polymer_crystal,36,4,VASP-5.X,PAW,2.0163,4.56647,3.0859,1.48058,-5.44776,,,,Huan Tran (huan.tran@uconn.edu),\,
+430,C10H18O4Ti,C10H18O4Ti1,organometallic_polymer_crystal,33,4,VASP-5.X,PAW,1.4378,4.57987,3.13511,1.44476,-5.48247,,,,Huan Tran (huan.tran@uconn.edu),\,
+429,C9H16O4Ti,C9H16O4Ti1,organometallic_polymer_crystal,30,4,VASP-5.X,PAW,1.8981,4.85017,3.20113,1.64904,-5.51119,,,,Huan Tran (huan.tran@uconn.edu),\,
+428,C7H12O4Ti,C7H12O4Ti1,organometallic_polymer_crystal,24,4,VASP-5.X,PAW,1.4834,5.47017,3.37583,2.09434,-5.59893,,,,Huan Tran (huan.tran@uconn.edu),\,
+427,C6H10O4Ti,C6H10O4Ti1,organometallic_polymer_crystal,21,4,VASP-5.X,PAW,1.6981,6.10567,3.48251,2.62316,-5.67625,,,,Huan Tran (huan.tran@uconn.edu),\,
+426,C5H8O4Ti,C5H8O4Ti1,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,1.9615,5.66736,3.57158,2.09578,-5.74195,,,,Huan Tran (huan.tran@uconn.edu),\,
+425,C4H6O4Ti,C4H6O4Ti1,organometallic_polymer_crystal,15,4,VASP-5.X,PAW,0.7625,10.5594,5.54774,5.01162,-5.87016,,,,Huan Tran (huan.tran@uconn.edu),\,
+424,TiO4C,Ti1O4C1,organometallic_polymer_crystal,6,3,VASP-5.X,PAW,2.501,14.6286,4.63499,9.99361,-7.54366,,,,Huan Tran (huan.tran@uconn.edu),\,
+423,C13H24O4Ti,C13H24O4Ti1,organometallic_polymer_crystal,42,4,VASP-5.X,PAW,1.6285,4.5151,3.10758,1.40752,-5.40198,,,,Huan Tran (huan.tran@uconn.edu),\,
+422,C12H22O4Ti,C12H22O4Ti1,organometallic_polymer_crystal,39,4,VASP-5.X,PAW,1.6286,4.99052,3.1201,1.87042,-5.42133,,,,Huan Tran (huan.tran@uconn.edu),\,
+421,C11H20O4Ti,C11H20O4Ti1,organometallic_polymer_crystal,36,4,VASP-5.X,PAW,1.5089,5.86729,3.20895,2.65834,-5.43844,,,,Huan Tran (huan.tran@uconn.edu),\,
+420,C10H18O4Ti,C10H18O4Ti1,organometallic_polymer_crystal,33,4,VASP-5.X,PAW,1.4199,5.56639,3.21996,2.34643,-5.47972,,,,Huan Tran (huan.tran@uconn.edu),\,
+419,C9H16O4Ti,C9H16O4Ti1,organometallic_polymer_crystal,30,4,VASP-5.X,PAW,1.6666,4.85941,3.25402,1.60539,-5.51282,,,,Huan Tran (huan.tran@uconn.edu),\,
+418,C8H14O4Ti,C8H14O4Ti1,organometallic_polymer_crystal,27,4,VASP-5.X,PAW,1.6159,5.57139,3.3584,2.213,-5.55004,,,,Huan Tran (huan.tran@uconn.edu),\,
+417,C7H12O4Ti,C7H12O4Ti1,organometallic_polymer_crystal,24,4,VASP-5.X,PAW,1.5725,5.40637,3.4225,1.98388,-5.60206,,,,Huan Tran (huan.tran@uconn.edu),\,
+416,C6H10O4Ti,C6H10O4Ti1,organometallic_polymer_crystal,21,4,VASP-5.X,PAW,1.5962,7.36549,3.60385,3.76164,-5.67394,,,,Huan Tran (huan.tran@uconn.edu),\,
+415,C5H8O4Ti,C5H8O4Ti1,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,1.4927,6.71855,3.50073,3.21782,-5.73879,,,,Huan Tran (huan.tran@uconn.edu),\,
+414,C4H6O4Ti,C4H6O4Ti1,organometallic_polymer_crystal,15,4,VASP-5.X,PAW,0.7455,10.6359,5.56014,5.07574,-5.86984,,,,Huan Tran (huan.tran@uconn.edu),\,
+413,C9H14O6Ti,C9H14O6Ti1,organometallic_polymer_crystal,30,4,VASP-5.X,PAW,0.4777,11.8036,5.57883,6.22476,-5.70396,,,,Huan Tran (huan.tran@uconn.edu),\,
+412,C11H18O4Ti,C11H18O4Ti1,organometallic_polymer_crystal,34,4,VASP-5.X,PAW,0.44,5.58759,4.50611,1.08148,-5.48128,,,,Huan Tran (huan.tran@uconn.edu),\,
+411,C12H18O4Ti,C12H18O4Ti1,organometallic_polymer_crystal,35,4,VASP-5.X,PAW,0.3772,5.64063,4.76712,0.873518,-5.55852,,,,Huan Tran (huan.tran@uconn.edu),\,
+410,C13H24O6Sn,C13H24O6Sn1,organometallic_polymer_crystal,44,4,VASP-5.X,PAW,3.3637,5.53216,2.85197,2.68019,-5.34799,,,,Huan Tran (huan.tran@uconn.edu),\,
+409,C12H22O6Sn,C12H22O6Sn1,organometallic_polymer_crystal,41,4,VASP-5.X,PAW,3.7921,4.67538,2.81514,1.86023,-5.37183,,,,Huan Tran (huan.tran@uconn.edu),\,
+408,C11H20O6Sn,C11H20O6Sn1,organometallic_polymer_crystal,38,4,VASP-5.X,PAW,3.6177,4.48419,2.86716,1.61703,-5.39166,,,,Huan Tran (huan.tran@uconn.edu),\,
+407,C10H18O6Sn,C10H18O6Sn1,organometallic_polymer_crystal,35,4,VASP-5.X,PAW,3.7507,4.78089,2.87203,1.90886,-5.41197,,,,Huan Tran (huan.tran@uconn.edu),\,
+406,C9H16O6Sn,C9H16O6Sn1,organometallic_polymer_crystal,32,4,VASP-5.X,PAW,3.5177,4.9041,2.91008,1.99401,-5.43198,,,,Huan Tran (huan.tran@uconn.edu),\,
+405,C8H14O6Sn,C8H14O6Sn1,organometallic_polymer_crystal,29,4,VASP-5.X,PAW,3.6764,4.80323,2.95981,1.84342,-5.48989,,,,Huan Tran (huan.tran@uconn.edu),\,
+404,C7H12O6Sn,C7H12O6Sn1,organometallic_polymer_crystal,26,4,VASP-5.X,PAW,3.3228,5.85762,2.9707,2.88692,-5.50007,,,,Huan Tran (huan.tran@uconn.edu),\,
+403,C6H10O6Sn,C6H10O6Sn1,organometallic_polymer_crystal,23,4,VASP-5.X,PAW,3.4587,5.03897,2.89342,2.14554,-5.56277,,,,Huan Tran (huan.tran@uconn.edu),\,
+402,C5H8O6Sn,C5H8O6Sn1,organometallic_polymer_crystal,20,4,VASP-5.X,PAW,3.3738,5.91725,3.02003,2.89722,-5.61958,,,,Huan Tran (huan.tran@uconn.edu),\,
+401,C4H6O6Sn,C4H6O6Sn1,organometallic_polymer_crystal,17,4,VASP-5.X,PAW,3.5417,6.29157,2.99635,3.29522,-5.71032,,,,Huan Tran (huan.tran@uconn.edu),\,
+400,C3H4O6Sn,C3H4O6Sn1,organometallic_polymer_crystal,14,4,VASP-5.X,PAW,2.8969,7.40258,3.18991,4.21267,-5.80632,,,,Huan Tran (huan.tran@uconn.edu),\,
+399,C2H2O6Sn,C2H2O6Sn1,organometallic_polymer_crystal,11,4,VASP-5.X,PAW,1.621,8.65395,3.59118,5.06277,-5.96801,,,,Huan Tran (huan.tran@uconn.edu),\,
+398,C12H22O6Sn,C12H22O6Sn1,organometallic_polymer_crystal,41,4,VASP-5.X,PAW,3.4771,3.91437,2.74576,1.16861,-5.36304,,,,Huan Tran (huan.tran@uconn.edu),\,
+397,C11H20O6Sn,C11H20O6Sn1,organometallic_polymer_crystal,38,4,VASP-5.X,PAW,3.8422,4.36313,2.80972,1.5534,-5.39053,,,,Huan Tran (huan.tran@uconn.edu),\,
+396,C10H18O6Sn,C10H18O6Sn1,organometallic_polymer_crystal,35,4,VASP-5.X,PAW,3.8432,4.54539,2.88352,1.66187,-5.40483,,,,Huan Tran (huan.tran@uconn.edu),\,
+395,C9H16O6Sn,C9H16O6Sn1,organometallic_polymer_crystal,32,4,VASP-5.X,PAW,3.9006,4.63547,2.8667,1.76876,-5.43593,,,,Huan Tran (huan.tran@uconn.edu),\,
+394,C8H14O6Sn,C8H14O6Sn1,organometallic_polymer_crystal,29,4,VASP-5.X,PAW,3.6416,4.48571,2.88919,1.59652,-5.45798,,,,Huan Tran (huan.tran@uconn.edu),\,
+393,C7H12O6Sn,C7H12O6Sn1,organometallic_polymer_crystal,26,4,VASP-5.X,PAW,3.4043,6.47959,3.00961,3.46998,-5.51803,,,,Huan Tran (huan.tran@uconn.edu),\,
+392,C6H10O6Sn,C6H10O6Sn1,organometallic_polymer_crystal,23,4,VASP-5.X,PAW,3.5348,5.69375,2.99153,2.70223,-5.53563,,,,Huan Tran (huan.tran@uconn.edu),\,
+391,C5H8O6Sn,C5H8O6Sn1,organometallic_polymer_crystal,20,4,VASP-5.X,PAW,3.7076,5.54903,3.02411,2.52492,-5.61723,,,,Huan Tran (huan.tran@uconn.edu),\,
+390,C3H4O6Sn,C3H4O6Sn1,organometallic_polymer_crystal,14,4,VASP-5.X,PAW,2.9479,6.09595,3.09074,3.00521,-5.79842,,,,Huan Tran (huan.tran@uconn.edu),\,
+389,C2H2O6Sn,C2H2O6Sn1,organometallic_polymer_crystal,11,4,VASP-5.X,PAW,2.7197,6.79875,3.31586,3.48288,-5.98308,,,,Huan Tran (huan.tran@uconn.edu),\,
+388,SnO4C10H10,Sn1O4C10H10,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,2.4677,6.76398,3.42894,3.33504,-5.89699,,,,Huan Tran (huan.tran@uconn.edu),\,
+387,Sn2O8C16S2H16,Sn2O8C16S2H16,organometallic_polymer_crystal,44,5,VASP-5.X,PAW,2.7508,8.54206,3.55102,4.99104,-5.74517,,,,Huan Tran (huan.tran@uconn.edu),\,
+386,SnO4C10H10,Sn1O4C10H10,organometallic_polymer_crystal,25,4,VASP-5.X,PAW,3.235,6.08313,3.29087,2.79226,-5.88022,,,,Huan Tran (huan.tran@uconn.edu),\,
+385,Sn2O8C18N2H18,Sn2O8C18N2H18,organometallic_polymer_crystal,48,5,VASP-5.X,PAW,2.9621,5.2781,3.24892,2.02918,-5.92419,,,,Huan Tran (huan.tran@uconn.edu),\,
+384,Sn2O8C18N2H18,Sn2O8C18N2H18,organometallic_polymer_crystal,48,5,VASP-5.X,PAW,2.552,5.49372,3.40587,2.08784,-5.92354,,,,Huan Tran (huan.tran@uconn.edu),\,
+383,C15H28O4Sn,C15H28O4Sn1,organometallic_polymer_crystal,48,4,VASP-5.X,PAW,4.3936,4.60335,2.77083,1.83251,-5.26968,,,,Huan Tran (huan.tran@uconn.edu),\,
+382,C14H26O4Sn,C14H26O4Sn1,organometallic_polymer_crystal,45,4,VASP-5.X,PAW,4.3426,5.33191,2.85352,2.47838,-5.28642,,,,Huan Tran (huan.tran@uconn.edu),\,
+381,C13H24O4Sn,C13H24O4Sn1,organometallic_polymer_crystal,42,4,VASP-5.X,PAW,4.4612,4.21773,2.79222,1.42551,-5.29687,,,,Huan Tran (huan.tran@uconn.edu),\,
+380,C12H22O4Sn,C12H22O4Sn1,organometallic_polymer_crystal,39,4,VASP-5.X,PAW,4.5173,4.5886,2.79025,1.79835,-5.30279,,,,Huan Tran (huan.tran@uconn.edu),\,
+379,C11H20O4Sn,C11H20O4Sn1,organometallic_polymer_crystal,36,4,VASP-5.X,PAW,4.4309,4.24667,2.82728,1.41938,-5.31828,,,,Huan Tran (huan.tran@uconn.edu),\,
+378,C10H18O4Sn,C10H18O4Sn1,organometallic_polymer_crystal,33,4,VASP-5.X,PAW,3.8239,5.26907,2.89503,2.37404,-5.33401,,,,Huan Tran (huan.tran@uconn.edu),\,
+377,C9H16O4Sn,C9H16O4Sn1,organometallic_polymer_crystal,30,4,VASP-5.X,PAW,4.2848,6.37262,2.9389,3.43371,-5.35898,,,,Huan Tran (huan.tran@uconn.edu),\,
+376,C8H14O4Sn,C8H14O4Sn1,organometallic_polymer_crystal,27,4,VASP-5.X,PAW,4.5317,4.80823,2.96559,1.84264,-5.38081,,,,Huan Tran (huan.tran@uconn.edu),\,
+375,C7H12O4Sn,C7H12O4Sn1,organometallic_polymer_crystal,24,4,VASP-5.X,PAW,4.4185,5.14726,2.9247,2.22255,-5.40713,,,,Huan Tran (huan.tran@uconn.edu),\,
+374,C6H10O4Sn,C6H10O4Sn1,organometallic_polymer_crystal,21,4,VASP-5.X,PAW,4.3097,5.57918,2.99538,2.5838,-5.44504,,,,Huan Tran (huan.tran@uconn.edu),\,
+373,C5H8O4Sn,C5H8O4Sn1,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,4.1334,6.05677,3.01811,3.03866,-5.49017,,,,Huan Tran (huan.tran@uconn.edu),\,
+372,C4H6O4Sn,C4H6O4Sn1,organometallic_polymer_crystal,15,4,VASP-5.X,PAW,3.1428,6.09778,2.8137,3.28407,-5.55553,,,,Huan Tran (huan.tran@uconn.edu),\,
+371,C15H28O4Sn,C15H28O4Sn1,organometallic_polymer_crystal,48,4,VASP-5.X,PAW,4.2894,4.54014,2.76267,1.77747,-5.27202,,,,Huan Tran (huan.tran@uconn.edu),\,
+370,C14H26O4Sn,C14H26O4Sn1,organometallic_polymer_crystal,45,4,VASP-5.X,PAW,4.3914,4.82911,2.82091,2.00821,-5.28384,,,,Huan Tran (huan.tran@uconn.edu),\,
+369,C13H24O4Sn,C13H24O4Sn1,organometallic_polymer_crystal,42,4,VASP-5.X,PAW,4.3039,4.95125,2.84039,2.11085,-5.29762,,,,Huan Tran (huan.tran@uconn.edu),\,
+368,C12H22O4Sn,C12H22O4Sn1,organometallic_polymer_crystal,39,4,VASP-5.X,PAW,4.2287,4.47812,2.79866,1.67946,-5.308,,,,Huan Tran (huan.tran@uconn.edu),\,
+367,C11H20O4Sn,C11H20O4Sn1,organometallic_polymer_crystal,36,4,VASP-5.X,PAW,4.1103,5.011,2.87972,2.13128,-5.31636,,,,Huan Tran (huan.tran@uconn.edu),\,
+366,C10H18O4Sn,C10H18O4Sn1,organometallic_polymer_crystal,33,4,VASP-5.X,PAW,4.1514,4.58991,2.8076,1.78231,-5.34353,,,,Huan Tran (huan.tran@uconn.edu),\,
+365,C9H16O4Sn,C9H16O4Sn1,organometallic_polymer_crystal,30,4,VASP-5.X,PAW,4.2835,6.9156,2.94409,3.9715,-5.35854,,,,Huan Tran (huan.tran@uconn.edu),\,
+364,C8H14O4Sn,C8H14O4Sn1,organometallic_polymer_crystal,27,4,VASP-5.X,PAW,4.1235,5.34686,2.89723,2.44963,-5.38884,,,,Huan Tran (huan.tran@uconn.edu),\,
+363,C7H12O4Sn,C7H12O4Sn1,organometallic_polymer_crystal,24,4,VASP-5.X,PAW,4.0109,6.12765,2.97499,3.15265,-5.40564,,,,Huan Tran (huan.tran@uconn.edu),\,
+362,C6H10O4Sn,C6H10O4Sn1,organometallic_polymer_crystal,21,4,VASP-5.X,PAW,4.3276,6.26119,3.01546,3.24573,-5.45951,,,,Huan Tran (huan.tran@uconn.edu),\,
+361,C5H8O4Sn,C5H8O4Sn1,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,3.4999,6.83148,3.05825,3.77323,-5.49426,,,,Huan Tran (huan.tran@uconn.edu),\,
+360,C4H6O4Sn,C4H6O4Sn1,organometallic_polymer_crystal,15,4,VASP-5.X,PAW,2.7658,11.9077,3.32304,8.58468,-5.54944,,,,Huan Tran (huan.tran@uconn.edu),\,
+359,C15H28O4Sn,C15H28O4Sn1,organometallic_polymer_crystal,48,4,VASP-5.X,PAW,4.5401,3.66046,2.7604,0.900053,-5.27212,,,,Huan Tran (huan.tran@uconn.edu),\,
+358,C14H26O4Sn,C14H26O4Sn1,organometallic_polymer_crystal,45,4,VASP-5.X,PAW,4.5395,3.86828,2.74371,1.12456,-5.27774,,,,Huan Tran (huan.tran@uconn.edu),\,
+357,C13H24O4Sn,C13H24O4Sn1,organometallic_polymer_crystal,42,4,VASP-5.X,PAW,4.499,3.89819,2.75402,1.14417,-5.29476,,,,Huan Tran (huan.tran@uconn.edu),\,
+356,C12H22O4Sn,C12H22O4Sn1,organometallic_polymer_crystal,39,4,VASP-5.X,PAW,4.3946,4.61404,2.77351,1.84053,-5.29796,,,,Huan Tran (huan.tran@uconn.edu),\,
+355,C11H20O4Sn,C11H20O4Sn1,organometallic_polymer_crystal,36,4,VASP-5.X,PAW,4.4083,4.05192,2.79539,1.25653,-5.31907,,,,Huan Tran (huan.tran@uconn.edu),\,
+354,C10H18O4Sn,C10H18O4Sn1,organometallic_polymer_crystal,33,4,VASP-5.X,PAW,4.5008,4.12682,2.74226,1.38456,-5.33026,,,,Huan Tran (huan.tran@uconn.edu),\,
+353,C9H16O4Sn,C9H16O4Sn1,organometallic_polymer_crystal,30,4,VASP-5.X,PAW,4.2531,5.25071,2.85196,2.39875,-5.35414,,,,Huan Tran (huan.tran@uconn.edu),\,
+352,C8H14O4Sn,C8H14O4Sn1,organometallic_polymer_crystal,27,4,VASP-5.X,PAW,4.6195,4.33252,2.85856,1.47397,-5.37851,,,,Huan Tran (huan.tran@uconn.edu),\,
+351,C7H12O4Sn,C7H12O4Sn1,organometallic_polymer_crystal,24,4,VASP-5.X,PAW,4.5405,4.91222,2.91317,1.99905,-5.40772,,,,Huan Tran (huan.tran@uconn.edu),\,
+350,C5H8O4Sn,C5H8O4Sn1,organometallic_polymer_crystal,18,4,VASP-5.X,PAW,4.2432,4.79878,3.00989,1.7889,-5.49246,,,,Huan Tran (huan.tran@uconn.edu),\,
+349,C4H6O4Sn,C4H6O4Sn1,organometallic_polymer_crystal,15,4,VASP-5.X,PAW,3.2169,8.47035,3.26796,5.20239,-5.5597,,,,Huan Tran (huan.tran@uconn.edu),\,
+348,H10C16N2O4,C16H10N2O4,organic_polymer_crystal,32,4,VASP-5.X,PAW,2.4036,4.59705,3.57196,1.02509,-6.48,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(=O)NC(=O)\
+347,H10C16N2O4,C16H10N2O4,organic_polymer_crystal,32,4,VASP-5.X,PAW,2.3127,4.91868,3.82186,1.09681,-6.47,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(=O)NC(=O)\
+346,H12C14N4O2,O2C14H12N4,organic_polymer_crystal,32,4,VASP-5.X,PAW,2.4392,4.70785,3.84081,0.86704,-6.31,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1NC(=O)N\
+345,H12C14N4O2,O2C14H12N4,organic_polymer_crystal,32,4,VASP-5.X,PAW,2.638,5.73886,4.04684,1.69203,-6.3,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1NC(=O)N\
+344,H10C16N2O4,C16H10O4N2,organic_polymer_crystal,32,4,VASP-5.X,PAW,2.0535,5.26287,3.71475,1.54812,-6.46,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(=O)NC(=O)\
+343,H12C14S2N4,C14H12N4S2,organic_polymer_crystal,32,4,VASP-5.X,PAW,1.6781,6.00499,4.49536,1.50962,-6.09,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1NC(=S)N\
+342,H12C14N4O2,O2C14H12N4,organic_polymer_crystal,32,4,VASP-5.X,PAW,2.4436,4.91114,3.89054,1.0206,-6.31,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1NC(=O)N\
+341,H40C52O4,C52H40O4,organic_polymer_crystal,96,3,VASP-5.X,PAW,2.9295,3.79325,3.48379,0.30946,-6.2,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(C=C2)=CC=C2CO\
+340,H14C16N2O2,O2C16H14N2,organic_polymer_crystal,34,4,VASP-5.X,PAW,2.0848,4.83807,3.79938,1.03869,-6.14,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNC(C=C1)=CC=C1C(=O)\
+339,H14C16N2O2,O2C16H14N2,organic_polymer_crystal,34,4,VASP-5.X,PAW,2.1095,4.97301,3.91002,1.06299,-6.14,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNC(C=C1)=CC=C1C(=O)\
+338,H22C26N2,C26H22N2,organic_polymer_crystal,50,3,VASP-5.X,PAW,2.4203,4.19412,3.77132,0.4228,-6.15,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1C(C=C2)=CC=C2N\
+337,H36C28N4O8,O8C28N4H36,organic_polymer_crystal,76,4,VASP-5.X,PAW,3.4336,4.92708,2.99193,1.93515,-5.79,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCCCCOC(=O)NC(=CC=C1(C))C=C1NC(=O)O\
+336,H36C28N4O8,O8C28N4H36,organic_polymer_crystal,76,4,VASP-5.X,PAW,3.4444,3.74895,2.9727,0.77625,-5.79,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCCCCOC(=O)NC(=CC=C1(C))C=C1NC(=O)O\
+335,H32C26N4O10,O10C26N4H32,organic_polymer_crystal,72,4,VASP-5.X,PAW,3.5169,3.88084,2.9891,0.89174,-5.83,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCOCCOC(=O)NC(=CC=C1(C))C=C1NC(=O)O\
+334,H32C26N4O10,O10C26N4H32,organic_polymer_crystal,72,4,VASP-5.X,PAW,3.4116,3.94031,3.01878,0.92153,-5.83,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCOCCOC(=O)NC(=CC=C1(C))C=C1NC(=O)O\
+333,H32C26N4O10,O10C26N4H32,organic_polymer_crystal,72,4,VASP-5.X,PAW,3.3679,3.72873,2.99801,0.73072,-5.83,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCOCCOC(=O)NC(=CC=C1(C))C=C1NC(=O)O\
+332,H24C28S2N4,C28H24N4S2,organic_polymer_crystal,58,4,VASP-5.X,PAW,2.6078,6.1055,3.60677,2.49874,-6.09,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=S)NC(C=C1)=CC=C1CC(C=C2)=CC=C2\
+331,H24C28S2N4,C28H24N4S2,organic_polymer_crystal,58,4,VASP-5.X,PAW,2.7958,4.45859,3.67491,0.78368,-6.09,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=S)NC(C=C1)=CC=C1CC(C=C2)=CC=C2\
+330,H40C28S4N8,C28H40N8S4,organic_polymer_crystal,80,4,VASP-5.X,PAW,2.6107,4.35657,3.42538,0.93119,-5.58,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=S)NC(C=C1)=CC=C1NC(=S)NCCCCCC\
+329,H40C28S4N8,C28H40N8S4,organic_polymer_crystal,80,4,VASP-5.X,PAW,2.36,4.22054,3.38128,0.83925,-5.59,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=S)NC(C=C1)=CC=C1NC(=S)NCCCCCC\
+328,H40C28S4N8,C28H40N8S4,organic_polymer_crystal,80,4,VASP-5.X,PAW,2.5418,4.1708,3.54271,0.62809,-5.61,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=S)NC(C=C1)=CC=C1NC(=S)NCCCCCC\
+327,H40C28S4N8,C28H40N8S4,organic_polymer_crystal,80,4,VASP-5.X,PAW,2.6963,4.35001,3.4877,0.86231,-5.6,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=S)NC(C=C1)=CC=C1NC(=S)NCCCCCC\
+326,H36C42S4N8,C42H36N8S4,organic_polymer_crystal,90,4,VASP-5.X,PAW,2.2703,4.76399,4.07826,0.68573,-6.09,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=S)NC(C=C1)=CC=C1NC(=S)NC(C=C2)=CC=C2CC(C=C3)=CC=C3\
+325,H36C42S4N8,C42H36N8S4,organic_polymer_crystal,90,4,VASP-5.X,PAW,2.1497,4.71236,4.02387,0.68849,-6.09,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=S)NC(C=C1)=CC=C1NC(=S)NC(C=C2)=CC=C2CC(C=C3)=CC=C3\
+324,H36C42S4N8,C42H36N8S4,organic_polymer_crystal,90,4,VASP-5.X,PAW,2.5337,4.63123,3.93782,0.69341,-6.09,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=S)NC(C=C1)=CC=C1NC(=S)NC(C=C2)=CC=C2CC(C=C3)=CC=C3\
+323,H32C40S4N8O2,C40H32O2N8S4,organic_polymer_crystal,86,5,VASP-5.X,PAW,2.0677,5.94246,4.18904,1.75342,-6.15,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=S)NC(C=C1)=CC=C1NC(=S)NC(C=C2)=CC=C2OC(C=C3)=CC=C3\
+322,H32C40S4N8O2,C40H32O2N8S4,organic_polymer_crystal,86,5,VASP-5.X,PAW,2.1746,5.30871,4.43415,0.87456,-6.14,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=S)NC(C=C1)=CC=C1NC(=S)NC(C=C2)=CC=C2OC(C=C3)=CC=C3\
+321,H32C40S4N8O2,C40H32O2N8S4,organic_polymer_crystal,86,5,VASP-5.X,PAW,1.8932,5.3578,4.29483,1.06298,-6.14,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=S)NC(C=C1)=CC=C1NC(=S)NC(C=C2)=CC=C2OC(C=C3)=CC=C3\
+320,H32C40S4N8O2,C40H32O2N8S4,organic_polymer_crystal,86,5,VASP-5.X,PAW,2.0606,5.96085,4.52994,1.4309,-6.14,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=S)NC(C=C1)=CC=C1NC(=S)NC(C=C2)=CC=C2OC(C=C3)=CC=C3\
+319,H32C40S4N8O2,C40H32O2N8S4,organic_polymer_crystal,86,5,VASP-5.X,PAW,2.0548,4.63957,3.81736,0.82221,-6.13,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=S)NC(C=C1)=CC=C1NC(=S)NC(C=C2)=CC=C2OC(C=C3)=CC=C3\
+318,H2C2S2N2O4,C2H2N2O4S2,organic_polymer_crystal,12,5,VASP-5.X,PAW,2.4682,4.79061,3.77156,1.01905,-5.2,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NOC(=S)O\
+317,H2C2N2O6,C2H2N2O6,organic_polymer_crystal,12,4,VASP-5.X,PAW,3.0252,4.25106,3.05538,1.19567,-5.77,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NOC(=O)O\
+316,H10C12N2O4,C12H10N2O4,organic_polymer_crystal,28,4,VASP-5.X,PAW,3.328,4.1333,3.4936,0.6397,-5.98,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NOC(C=C1)=CC=C1O\
+315,H2C4S4N2O2,C4H2N2O2S4,organic_polymer_crystal,14,5,VASP-5.X,PAW,1.2905,5.96877,4.65324,1.31553,-5.64,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=S)OC(=S)\
+314,H4C2S2N4O2,C2H4N4O2S2,organic_polymer_crystal,14,5,VASP-5.X,PAW,2.0736,6.07611,4.27336,1.80274,-5.23,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=S)NO\
+313,H4C4S4N4,C4H4N4S4,organic_polymer_crystal,16,4,VASP-5.X,PAW,1.1607,6.05446,5.07624,0.97823,-5.69,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=S)NC(=S)\
+312,H12C14S2N4,C14H12N4S2,organic_polymer_crystal,32,4,VASP-5.X,PAW,1.7982,5.6741,4.38715,1.28695,-6.09,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=S)NC(C=C1)=CC=C1\
+311,H2C4S2N2O4,C4H2N2O4S2,organic_polymer_crystal,14,5,VASP-5.X,PAW,0.7422,5.73833,4.55561,1.18273,-5.89,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=S)C(=O)O\
+310,H2C6S4N2O2,C6H2N2O2S4,organic_polymer_crystal,16,5,VASP-5.X,PAW,0.547,11.8689,8.571,3.29789,-5.94,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=S)C(=O)C(=S)\
+309,H10C14S2N2O2,C14H10N2O2S2,organic_polymer_crystal,30,5,VASP-5.X,PAW,1.6331,4.57673,3.94327,0.63345,-6.02,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=S)C(C=C1)=CC=C1O\
+307,H6C10S4N2O2,C10H6N2O2S4,organic_polymer_crystal,24,5,VASP-5.X,PAW,1.5407,5.62895,4.57654,1.05241,-5.82,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=S)C(=C1)SC(=C1)O\
+306,H6C12S6N2,C12N2H6S6,organic_polymer_crystal,26,4,VASP-5.X,PAW,0.8898,6.47875,5.535,0.94375,-5.92,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=S)C(=C1)SC(=C1)C(=S)\
+305,H2C4S2N2O4,C4H2N2O4S2,organic_polymer_crystal,14,5,VASP-5.X,PAW,1.2936,5.53598,3.79496,1.74101,-6.1,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=O)OC(=S)\
+304,H10C14N2O4,C14H10N2O4,organic_polymer_crystal,30,4,VASP-5.X,PAW,2.4942,4.73281,3.53527,1.19754,-6.35,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=O)OC(C=C1)=CC=C1\
+303,H6C10S2N2O4,C10H6N2O4S2,organic_polymer_crystal,24,5,VASP-5.X,PAW,2.3611,4.66652,3.73268,0.93384,-6.2,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=O)OC(=C1)SC(=C1)\
+302,H4C2N4O4,C2H4N4O4,organic_polymer_crystal,14,4,VASP-5.X,PAW,3.2514,4.60278,3.51698,1.08579,-5.7,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=O)NO\
+301,H4C4S2N4O2,C4H4N4O2S2,organic_polymer_crystal,16,5,VASP-5.X,PAW,0.8082,5.99641,4.42002,1.57639,-6.02,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=O)NC(=S)\
+300,H1C1N1O1,C1H1N1O1,organic_polymer_crystal,4,4,VASP-5.X,PAW,2.1679,5.46735,3.51116,1.95618,-6.46,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=O)NC(=O)\
+299,H12C14N4O2,O2C14H12N4,organic_polymer_crystal,32,4,VASP-5.X,PAW,2.4553,4.91,3.88786,1.02214,-6.31,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=O)NC(C=C1)=CC=C1\
+298,H8C10S2N4O2,C10H8N4O2S2,organic_polymer_crystal,26,5,VASP-5.X,PAW,2.1387,4.92704,4.02961,0.89743,-6.15,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=O)NC1=CC=C(S1)\
+297,H2C4S2N2O4,C4H2N2O4S2,organic_polymer_crystal,14,5,VASP-5.X,PAW,0.8893,5.7941,4.48328,1.31082,-5.88,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=O)C(=S)O\
+296,H2C6S2N2O4,C6H2N2O4S2,organic_polymer_crystal,16,5,VASP-5.X,PAW,0.2018,6.57639,5.11661,1.45978,-6.35,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=O)C(=S)C(=O)\
+295,H10C16S2N2O2,C16H10N2O2S2,organic_polymer_crystal,32,5,VASP-5.X,PAW,0.8154,6.16936,4.72433,1.44503,-6.26,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=O)C(=S)C(C=C1)=CC=C1\
+294,H6C12S4N2O2,C12H6N2O2S4,organic_polymer_crystal,26,5,VASP-5.X,PAW,0.4461,8.73159,6.62886,2.10274,-6.16,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=O)C(=S)C1=CC=C(S1)\
+293,H10C14N2O4,C14H10N2O4,organic_polymer_crystal,30,4,VASP-5.X,PAW,2.5815,4.36696,3.65882,0.70814,-6.24,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=O)C(C=C1)=CC=C1O\
+292,H10C16S2N2O2,C16H10N2O2S2,organic_polymer_crystal,32,5,VASP-5.X,PAW,1.37,5.10235,3.88467,1.21768,-6.28,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=O)C(C=C1)=CC=C1C(=S)\
+291,H18C26N2O2,C26H18N2O2,organic_polymer_crystal,48,4,VASP-5.X,PAW,1.8985,4.88536,4.32987,0.55549,-6.4,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=O)C(C=C1)=CC=C1C(C=C2)=CC=C2\
+290,H14C22S2N2O2,C22H14N2O2S2,organic_polymer_crystal,42,5,VASP-5.X,PAW,1.2266,5.48908,4.539,0.95008,-6.31,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=O)C(C=C1)=CC=C1C2=CC=C(S2)\
+289,H6C10S2N2O4,C10H6N2O4S2,organic_polymer_crystal,24,5,VASP-5.X,PAW,2.049,4.91327,3.87484,1.03843,-6.08,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=O)C1=CC=C(S1)O\
+288,H6C12S4N2O2,C12H6N2O2S4,organic_polymer_crystal,26,5,VASP-5.X,PAW,0.8762,6.12172,4.97712,1.1446,-6.14,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=O)C1=CC=C(S1)C(=S)\
+287,H6C12S2N2O4,C12H6N2O4S2,organic_polymer_crystal,26,5,VASP-5.X,PAW,1.7339,5.37828,4.13721,1.24107,-6.4,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=O)C1=CC=C(S1)C(=O)\
+286,H14C22S2N2O2,C22H14N2O2S2,organic_polymer_crystal,42,5,VASP-5.X,PAW,1.2645,5.97162,5.07764,0.89398,-6.33,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=O)C1=CC=C(S1)C(C=C2)=CC=C2\
+285,H10C14S2N2O2,C14H10N2O2S2,organic_polymer_crystal,30,5,VASP-5.X,PAW,2.2438,4.49444,3.80795,0.68648,-6.14,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(C=C1)=CC=C1OC(=S)\
+284,H18C24N2O2,C24H18N2O2,organic_polymer_crystal,46,4,VASP-5.X,PAW,2.2613,4.36732,3.72394,0.64338,-6.26,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(C=C1)=CC=C1OC(C=C2)=CC=C2\
+283,H14C20S2N2O2,C20H14N2O2S2,organic_polymer_crystal,40,5,VASP-5.X,PAW,2.4013,4.14715,3.63804,0.50911,-6.14,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(C=C1)=CC=C1OC2=CC=C(S2)\
+282,H12C12N4O2,C12H12N4O2,organic_polymer_crystal,30,4,VASP-5.X,PAW,2.554,4.21051,3.55557,0.65494,-5.91,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(C=C1)=CC=C1NO\
+281,H20C24N4,C24H20N4,organic_polymer_crystal,48,3,VASP-5.X,PAW,1.5165,5.46995,4.51131,0.95864,-6.21,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(C=C1)=CC=C1NC(C=C2)=CC=C2\
+280,H16C20S2N4,C20H16N4S2,organic_polymer_crystal,42,4,VASP-5.X,PAW,1.9177,4.99262,3.95605,1.03657,-6.11,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(C=C1)=CC=C1NC2=CC=C(S2)\
+278,H18C26S2N2,C26H18N2S2,organic_polymer_crystal,48,4,VASP-5.X,PAW,1.1173,6.73151,5.40044,1.33107,-6.23,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(C=C1)=CC=C1C(=S)C(C=C2)=CC=C2\
+277,H10C14N2O4,C14H10N2O4,organic_polymer_crystal,30,4,VASP-5.X,PAW,2.708,4.75704,3.6054,1.15164,-6.22,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(C=C1)=CC=C1C(=O)O\
+276,H10C16S2N2O2,C16H10N2O2S2,organic_polymer_crystal,32,5,VASP-5.X,PAW,0.8678,6.2082,4.91042,1.29779,-6.27,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(C=C1)=CC=C1C(=O)C(=S)\
+275,H18C26N2O2,C26H18O2N2,organic_polymer_crystal,48,4,VASP-5.X,PAW,1.2919,13.609,8.99793,4.61107,-6.34,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(C=C1)=CC=C1C(=O)C(C=C2)=CC=C2\
+274,H14C22S2N2O2,C22H14N2O2S2,organic_polymer_crystal,42,5,VASP-5.X,PAW,1.5553,6.09826,4.77891,1.31936,-6.29,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(C=C1)=CC=C1C(=O)C2=CC=C(S2)\
+273,H18C24N2O2,C24H18N2O2,organic_polymer_crystal,46,4,VASP-5.X,PAW,2.5092,4.41276,3.93697,0.47579,-6.21,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(C=C1)=CC=C1C(C=C2)=CC=C2O\
+272,H18C26S2N2,C26H18N2S2,organic_polymer_crystal,48,4,VASP-5.X,PAW,1.4911,4.83035,4.41129,0.41906,-6.25,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(C=C1)=CC=C1C(C=C2)=CC=C2C(=S)\
+271,H22C26N2,C26H22N2,organic_polymer_crystal,50,3,VASP-5.X,PAW,2.6697,4.28937,3.80246,0.48691,-6.15,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(C=C1)=CC=C1C(C=C2)=CC=C2C\
+270,H26C36N2,C36H26N2,organic_polymer_crystal,64,3,VASP-5.X,PAW,2.132,4.29478,4.00301,0.29177,-6.31,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(C=C1)=CC=C1C(C=C2)=CC=C2C(C=C3)=CC=C3\
+269,H22C32S2N2,C32H22N2S2,organic_polymer_crystal,58,4,VASP-5.X,PAW,1.2383,5.98065,5.47201,0.50864,-6.26,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(C=C1)=CC=C1C(C=C2)=CC=C2C3=CC=C(S3)\
+268,H14C22S4N2,C22H14N2S4,organic_polymer_crystal,42,4,VASP-5.X,PAW,0.9077,6.84478,6.15263,0.69215,-6.18,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(C=C1)=CC=C1C2=CC=C(S2)C(=S)\
+267,H22C32S2N2,C32H22N2S2,organic_polymer_crystal,58,4,VASP-5.X,PAW,1.2205,5.9126,5.4995,0.4131,-6.26,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(C=C1)=CC=C1C2=CC=C(S2)C(C=C3)=CC=C3\
+266,H18C28S4N2,C28H18N2S4,organic_polymer_crystal,52,4,VASP-5.X,PAW,1.8241,4.77416,4.40245,0.37171,-6.18,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(C=C1)=CC=C1C2=CC=C(S2)C3=CC=C(S3)\
+265,H6C10S4N2O2,C10H6N2O2S4,organic_polymer_crystal,24,5,VASP-5.X,PAW,1.7146,5.04074,4.16196,0.87878,-5.92,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC1=CC=C(S1)OC(=S)\
+264,H10C16S4N2O2,C16H10N2O2S4,organic_polymer_crystal,34,5,VASP-5.X,PAW,2.8471,4.13393,3.61042,0.52351,-5.99,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC1=CC=C(S1)OC2=CC=C(S2)\
+263,H8C10S4N4,C10H8N4S4,organic_polymer_crystal,26,4,VASP-5.X,PAW,1.3163,5.72077,4.79713,0.92364,-5.89,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC1=CC=C(S1)NC(=S)\
+262,H12C16S4N4,C16H12N4S4,organic_polymer_crystal,36,4,VASP-5.X,PAW,2.4049,4.34348,3.79418,0.5493,-5.96,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC1=CC=C(S1)NC2=CC=C(S2)\
+260,H14C22S4N2,C22H14N2S4,organic_polymer_crystal,42,4,VASP-5.X,PAW,1.1219,6.47957,5.28946,1.19011,-6.15,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC1=CC=C(S1)C(=S)C(C=C2)=CC=C2\
+259,H10C18S6N2,C18H10N2S6,organic_polymer_crystal,36,4,VASP-5.X,PAW,1.2432,6.46072,5.253,1.20773,-6,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC1=CC=C(S1)C(=S)C2=CC=C(S2)\
+258,H6C10S2N2O4,C10H6N2O4S2,organic_polymer_crystal,24,5,VASP-5.X,PAW,1.9805,5.63687,4.38297,1.2539,-6.14,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC1=CC=C(S1)C(=O)O\
+257,H6C12S4N2O2,C12H6N2O2S4,organic_polymer_crystal,26,5,VASP-5.X,PAW,0.6611,7.93369,6.30726,1.62643,-6.15,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC1=CC=C(S1)C(=O)C(=S)\
+256,H10C18S4N2O2,C18H10N2O2S4,organic_polymer_crystal,36,5,VASP-5.X,PAW,1.0281,8.60786,6.28199,2.32587,-6.18,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC1=CC=C(S1)C(=O)C2=CC=C(S2)\
+255,H14C22S4N2,C22H14N2S4,organic_polymer_crystal,42,4,VASP-5.X,PAW,1.5164,5.46611,4.84973,0.61638,-6.15,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC1=CC=C(S1)C(C=C2)=CC=C2C(=S)\
+254,H18C28S4N2,C28H18N2S4,organic_polymer_crystal,52,4,VASP-5.X,PAW,1.0418,7.37726,6.16468,1.21259,-6.18,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC1=CC=C(S1)C(C=C2)=CC=C2C3=CC=C(S3)\
+252,H10C18S6N2,C18H10N2S6,organic_polymer_crystal,36,4,VASP-5.X,PAW,1.317,8.92514,7.61059,1.31455,-6.05,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC1=CC=C(S1)C2=CC=C(S2)C(=S)\
+251,H10C18S4N2O2,C18H10N2O2S4,organic_polymer_crystal,36,5,VASP-5.X,PAW,1.2848,6.92492,5.72717,1.19775,-6.22,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC1=CC=C(S1)C2=CC=C(S2)C(=O)\
+250,H14C18S4N2,C18H14N2S4,organic_polymer_crystal,38,4,VASP-5.X,PAW,2.0352,4.51161,3.97579,0.53582,-5.92,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC1=CC=C(S1)C2=CC=C(S2)C\
+249,H14C24S6N2,C24H14N2S6,organic_polymer_crystal,46,4,VASP-5.X,PAW,0.9293,7.31103,6.50732,0.80371,-6.09,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC1=CC=C(S1)C2=CC=C(S2)C3=CC=C(S3)\
+248,C4S2O6,C4O6S2,organic_polymer_crystal,12,3,VASP-5.X,PAW,2.5418,4.24864,3.02646,1.22218,-6.2,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)OC(=S)O\
+247,C4O8,C4O8,organic_polymer_crystal,12,2,VASP-5.X,PAW,3.8659,4.64031,2.68517,1.95515,-6.76,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)OC(=O)O\
+246,H8C14O6,C14H8O6,organic_polymer_crystal,28,3,VASP-5.X,PAW,3.2806,4.01851,3.19584,0.82267,-6.41,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)OC(C=C1)=CC=C1O\
+245,H8C16S2O4,C16H8O4S2,organic_polymer_crystal,30,4,VASP-5.X,PAW,1.1879,5.67394,4.03947,1.63447,-6.32,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)OC(C=C1)=CC=C1C(=S)\
+244,H4C10S2O6,C10H4O6S2,organic_polymer_crystal,22,4,VASP-5.X,PAW,2.5377,4.27012,3.50489,0.76523,-6.26,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)OC1=CC=C(S1)O\
+243,H4C12S4O4,C12H4O4S4,organic_polymer_crystal,24,4,VASP-5.X,PAW,1.1118,5.54084,4.39333,1.14751,-6.21,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)OC1=CC=C(S1)C(=S)\
+242,H10C16N2O4,C16H10N2O4,organic_polymer_crystal,32,4,VASP-5.X,PAW,1.0359,5.7584,4.12153,1.63687,-6.36,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)NC(=O)C(C=C1)=CC=C1\
+241,C6S4O4,C6O4S4,organic_polymer_crystal,14,3,VASP-5.X,PAW,0.2978,6.81917,5.2928,1.52637,-5.98,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C(=S)OC(=S)\
+240,H8C16S2O4,C16H8O4S2,organic_polymer_crystal,30,4,VASP-5.X,PAW,1.0278,5.2421,4.31028,0.93182,-6.3,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C(C=C1)=CC=C1OC(=S)\
+239,H16C26O4,C26H16O4,organic_polymer_crystal,46,3,VASP-5.X,PAW,2.1782,4.25959,3.67598,0.5836,-6.4,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C(C=C1)=CC=C1OC(C=C2)=CC=C2\
+238,H12C22S2O4,C22H12O4S2,organic_polymer_crystal,40,4,VASP-5.X,PAW,2.1458,4.81604,4.01152,0.80452,-6.33,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C(C=C1)=CC=C1OC2=CC=C(S2)\
+237,H8C16S2O4,C16H8O4S2,organic_polymer_crystal,30,4,VASP-5.X,PAW,1.4506,5.49872,4.16032,1.33839,-6.35,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C(C=C1)=CC=C1C(=S)O\
+236,H16C28S2O2,C28H16O2S2,organic_polymer_crystal,48,4,VASP-5.X,PAW,0.7235,4.95601,4.49781,0.45821,-6.38,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C(C=C1)=CC=C1C(=S)C(C=C2)=CC=C2\
+235,H12C24S4O2,C24H12O2S4,organic_polymer_crystal,42,4,VASP-5.X,PAW,0.9644,5.10887,4.50869,0.60018,-6.31,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C(C=C1)=CC=C1C(=S)C2=CC=C(S2)\
+234,H8C16O6,C16H8O6,organic_polymer_crystal,30,3,VASP-5.X,PAW,2.2143,5.35413,3.49306,1.86107,-6.57,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C(C=C1)=CC=C1C(=O)O\
+233,H8C18S2O4,C18H8O4S2,organic_polymer_crystal,32,4,VASP-5.X,PAW,0.502,5.02766,4.40695,0.62071,-6.42,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C(C=C1)=CC=C1C(=O)C(=S)\
+232,H16C28O4,C28H16O4,organic_polymer_crystal,48,3,VASP-5.X,PAW,2.0106,4.58253,3.93875,0.64378,-6.51,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C(C=C1)=CC=C1C(=O)C(C=C2)=CC=C2\
+231,H12C24S2O4,C24H12O4S2,organic_polymer_crystal,42,4,VASP-5.X,PAW,1.6809,4.82976,4.01194,0.81782,-6.45,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C(C=C1)=CC=C1C(=O)C2=CC=C(S2)\
+230,H16C26O4,C26H16O4,organic_polymer_crystal,46,3,VASP-5.X,PAW,2.2587,4.13737,3.62098,0.51639,-6.44,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C(C=C1)=CC=C1C(C=C2)=CC=C2O\
+229,H16C28S2O2,C28H16O2S2,organic_polymer_crystal,48,4,VASP-5.X,PAW,1.034,5.57306,4.90085,0.6722,-6.37,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C(C=C1)=CC=C1C(C=C2)=CC=C2C(=S)\
+228,H24C38O2,C38H24O2,organic_polymer_crystal,64,3,VASP-5.X,PAW,1.8047,4.49328,4.0876,0.40569,-6.42,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C(C=C1)=CC=C1C(C=C2)=CC=C2C(C=C3)=CC=C3\
+227,H20C34S2O2,C34H20O2S2,organic_polymer_crystal,58,4,VASP-5.X,PAW,1.0989,6.21974,5.57455,0.64519,-6.38,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C(C=C1)=CC=C1C(C=C2)=CC=C2C3=CC=C(S3)\
+226,H12C22S2O4,C22H12O4S2,organic_polymer_crystal,40,4,VASP-5.X,PAW,1.9016,4.83933,3.91269,0.92663,-6.35,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C(C=C1)=CC=C1C2=CC=C(S2)O\
+225,H12C24S4O2,C24H12O2S4,organic_polymer_crystal,42,4,VASP-5.X,PAW,1.137,5.85158,5.0344,0.81718,-6.3,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C(C=C1)=CC=C1C2=CC=C(S2)C(=S)\
+224,H20C34S2O2,C34H20O2S2,organic_polymer_crystal,58,4,VASP-5.X,PAW,1.16,5.81253,5.25542,0.55712,-6.38,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C(C=C1)=CC=C1C2=CC=C(S2)C(C=C3)=CC=C3\
+223,H16C30S4O2,C30H16O2S4,organic_polymer_crystal,52,4,VASP-5.X,PAW,1.3087,5.23019,4.6303,0.59989,-6.31,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C(C=C1)=CC=C1C2=CC=C(S2)C3=CC=C(S3)\
+222,H4C12S4O4,C12H4O4S4,organic_polymer_crystal,24,4,VASP-5.X,PAW,0.8025,6.31918,5.34674,0.97244,-6.17,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C1=CC=C(S1)OC(=S)\
+221,H8C18S4O4,C18H8O4S4,organic_polymer_crystal,34,4,VASP-5.X,PAW,1.6477,5.52723,4.17287,1.35437,-6.22,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C1=CC=C(S1)OC2=CC=C(S2)\
+220,H4C12S4O4,C12H4O4S4,organic_polymer_crystal,24,4,VASP-5.X,PAW,1.3189,5.61562,4.27671,1.33891,-6.21,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C1=CC=C(S1)C(=S)O\
+219,H8C20S6O2,C20H8O2S6,organic_polymer_crystal,36,4,VASP-5.X,PAW,0.6017,6.14001,5.27907,0.86094,-6.19,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C1=CC=C(S1)C(=S)C2=CC=C(S2)\
+218,H4C12S2O6,C12H4O6S2,organic_polymer_crystal,24,4,VASP-5.X,PAW,2.2338,4.61747,3.53849,1.07898,-6.49,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C1=CC=C(S1)C(=O)O\
+217,H4C14S4O4,C14H4O4S4,organic_polymer_crystal,26,4,VASP-5.X,PAW,0.179,6.69326,5.54263,1.15063,-6.33,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C1=CC=C(S1)C(=O)C(=S)\
+216,H8C20S4O4,C20H8O4S4,organic_polymer_crystal,36,4,VASP-5.X,PAW,1.1037,5.26762,4.35936,0.90826,-6.37,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C1=CC=C(S1)C(=O)C2=CC=C(S2)\
+215,H12C22S2O4,C22H12O4S2,organic_polymer_crystal,40,4,VASP-5.X,PAW,1.2909,5.48898,4.55251,0.93647,-6.38,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C1=CC=C(S1)C(C=C2)=CC=C2O\
+214,H12C24S4O2,C24H12O2S4,organic_polymer_crystal,42,4,VASP-5.X,PAW,1.0398,6.01762,5.19048,0.82714,-6.29,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C1=CC=C(S1)C(C=C2)=CC=C2C(=S)\
+213,H16C30S4O2,C30H16O2S4,organic_polymer_crystal,52,4,VASP-5.X,PAW,0.9631,7.69235,6.66217,1.03017,-6.34,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C1=CC=C(S1)C(C=C2)=CC=C2C3=CC=C(S3)\
+212,H8C18S4O4,C18H8O4S4,organic_polymer_crystal,34,4,VASP-5.X,PAW,1.5322,5.45215,4.21183,1.24032,-6.27,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C1=CC=C(S1)C2=CC=C(S2)O\
+211,H8C20S6O2,C20H8O2S6,organic_polymer_crystal,36,4,VASP-5.X,PAW,0.9367,6.59204,5.66684,0.9252,-6.22,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C1=CC=C(S1)C2=CC=C(S2)C(=S)\
+210,H12C26S6O2,C26H12O2S6,organic_polymer_crystal,46,4,VASP-5.X,PAW,0.8788,8.49934,7.32161,1.17773,-6.27,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=O)C1=CC=C(S1)C2=CC=C(S2)C3=CC=C(S3)\
+209,H6C2N2O4,C2H6N2O4,organic_polymer_crystal,14,4,VASP-5.X,PAW,3.9271,4.15874,3.03341,1.12533,-5.08,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CONO\
+208,H6C4N2O4,C4H6N2O4,organic_polymer_crystal,16,4,VASP-5.X,PAW,3.8315,3.93154,3.03775,0.89379,-5.69,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CONC(=O)\
+207,H4C4S2O4,C4H4O4S2,organic_polymer_crystal,14,4,VASP-5.X,PAW,2.3994,4.44921,3.41036,1.03886,-5.47,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),COC(=S)O\
+206,H4C4O6,C4H4O6,organic_polymer_crystal,14,3,VASP-5.X,PAW,5.2046,3.74554,2.74542,1.00012,-5.97,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),COC(=O)O\
+205,H8C4O4,C4H8O4,organic_polymer_crystal,16,3,VASP-5.X,PAW,5.19,3.44736,2.75145,0.69591,-5.27,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),COCO\
+204,H12C14O4,C14H12O4,organic_polymer_crystal,30,3,VASP-5.X,PAW,3.4452,3.79624,3.20026,0.59598,-6.03,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),COC(C=C1)=CC=C1O\
+203,H8C10S2O4,C10H8O4S2,organic_polymer_crystal,24,4,VASP-5.X,PAW,3.2112,3.81708,3.18516,0.63192,-5.78,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),COC1=CC=C(S1)O\
+202,H16C22S2O2,C22H16O2S2,organic_polymer_crystal,42,4,VASP-5.X,PAW,2.1349,4.09779,3.75994,0.33785,-6.07,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),COC1=CC=C(S1)C(C=C2)=CC=C2\
+201,H8C2N4O2,C2H8N4O2,organic_polymer_crystal,16,4,VASP-5.X,PAW,2.9086,3.48932,3.0461,0.44322,-5.01,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNON\
+200,H6C4S2N2O2,C4H6N2O2S2,organic_polymer_crystal,16,5,VASP-5.X,PAW,2.2269,3.86751,3.47202,0.39549,-5.28,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNOC(=S)\
+199,H14C14N2O2,C14H14N2O2,organic_polymer_crystal,32,4,VASP-5.X,PAW,3.0883,3.64048,3.34673,0.29374,-5.9,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNOC(C=C1)=CC=C1\
+198,H10C10S2N2O2,C10H10N2O2S2,organic_polymer_crystal,26,5,VASP-5.X,PAW,2.9563,3.81672,3.43679,0.37994,-5.66,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNOC1=CC=C(S1)\
+197,H6C4S2N2O2,C4H6N2O2S2,organic_polymer_crystal,16,5,VASP-5.X,PAW,2.8664,4.51708,3.48665,1.03043,-5.49,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNC(=S)O\
+196,H8C4S2N4,C4H8N4S2,organic_polymer_crystal,18,4,VASP-5.X,PAW,2.7366,4.89385,3.48946,1.40439,-5.47,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNC(=S)N\
+195,H6C6S2N2O2,C6H6N2O2S2,organic_polymer_crystal,18,5,VASP-5.X,PAW,0.8995,5.20033,4.09295,1.10738,-5.79,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNC(=S)C(=O)\
+194,H14C16S2N2,C16H14N2S2,organic_polymer_crystal,34,4,VASP-5.X,PAW,2.0452,4.02938,3.57722,0.45216,-5.96,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNC(=S)C(C=C1)=CC=C1\
+193,H10C12S4N2,C12H10N2S4,organic_polymer_crystal,28,4,VASP-5.X,PAW,1.8137,4.45445,3.87094,0.58352,-5.79,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNC(=S)C1=CC=C(S1)\
+192,H6C6S2N2O2,C6H6N2O2S2,organic_polymer_crystal,18,5,VASP-5.X,PAW,1.1052,5.38569,3.98926,1.39643,-5.8,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNC(=O)C(=S)\
+191,H14C16N2O2,C16H14N2O2,organic_polymer_crystal,34,4,VASP-5.X,PAW,3.219,4.15302,3.302,0.85102,-6.17,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNC(=O)C(C=C1)=CC=C1\
+190,H10C12S2N2O2,C12H10N2O2S2,organic_polymer_crystal,28,5,VASP-5.X,PAW,2.858,4.06533,3.43604,0.62929,-6.02,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNC(=O)C1=CC=C(S1)\
+189,H10C4N2O2,C4H10O2N2,organic_polymer_crystal,18,4,VASP-5.X,PAW,5.3538,3.51541,2.78807,0.72734,-5.27,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNCO\
+188,H12C4N4,C4H12N4,organic_polymer_crystal,20,3,VASP-5.X,PAW,4.6773,3.27598,2.97541,0.30057,-5.22,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNCN\
+187,H10C6S2N2,C6H10N2S2,organic_polymer_crystal,20,4,VASP-5.X,PAW,1.3516,3.83444,3.5734,0.26104,-5.26,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNCC(=S)\
+186,H10C6N2O2,C6H10N2O2,organic_polymer_crystal,20,4,VASP-5.X,PAW,1.9901,3.52455,2.95878,0.56577,-5.59,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNCC(=O)\
+185,H18C16N2,C16H18N2,organic_polymer_crystal,36,3,VASP-5.X,PAW,3.2058,3.35735,3.14876,0.20859,-5.84,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNCC(C=C1)=CC=C1\
+184,H14C12S2N2,C12H14N2S2,organic_polymer_crystal,30,4,VASP-5.X,PAW,3.1159,3.99131,3.17297,0.81834,-5.61,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNCC1=CC=C(S1)\
+183,H14C14N2O2,C14H14N2O2,organic_polymer_crystal,32,4,VASP-5.X,PAW,2.7533,4.13734,3.39078,0.74657,-5.98,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNC(C=C1)=CC=C1O\
+182,H16C14N4,C14H16N4,organic_polymer_crystal,34,3,VASP-5.X,PAW,2.542,4.2735,3.4741,0.7994,-5.93,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNC(C=C1)=CC=C1N\
+181,H14C16N2O2,O2C16H14N2,organic_polymer_crystal,34,4,VASP-5.X,PAW,2.122,4.8742,3.82439,1.0498,-6.14,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNC(C=C1)=CC=C1C(=O)\
+180,H18C22S2N2,C22H18N2S2,organic_polymer_crystal,44,4,VASP-5.X,PAW,2.2703,4.35411,3.81853,0.53557,-6.05,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNC(C=C1)=CC=C1C2=CC=C(S2)\
+179,H10C10S2N2O2,C10H10N2O2S2,organic_polymer_crystal,26,5,VASP-5.X,PAW,2.5479,4.18914,3.42143,0.7677,-5.74,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNC1=CC=C(S1)O\
+178,H12C10S2N4,C10H12N4S2,organic_polymer_crystal,28,4,VASP-5.X,PAW,2.4886,4.19435,3.44121,0.75314,-5.7,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNC1=CC=C(S1)N\
+177,H10C12S4N2,C12H10N2S4,organic_polymer_crystal,28,4,VASP-5.X,PAW,1.0405,6.21601,5.06683,1.14918,-5.78,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNC1=CC=C(S1)C(=S)\
+176,H10C12S2N2O2,C12H10N2O2S2,organic_polymer_crystal,28,5,VASP-5.X,PAW,1.8149,5.42329,4.07837,1.34492,-6,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNC1=CC=C(S1)C(=O)\
+175,H18C22S2N2,C22H18N2S2,organic_polymer_crystal,44,4,VASP-5.X,PAW,2.4349,4.19004,3.77285,0.41719,-6.04,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CNC1=CC=C(S1)C(C=C2)=CC=C2\
+174,H4C6S4O2,C6H4O2S4,organic_polymer_crystal,16,4,VASP-5.X,PAW,1.5307,4.44407,3.81129,0.63278,-5.45,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=S)OC(=S)\
+173,H6C4S2N2O2,C4H6N2S2O2,organic_polymer_crystal,16,5,VASP-5.X,PAW,1.9354,4.93654,3.77582,1.16072,-5.27,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=S)NO\
+172,H6C6S4N2,C6H6N2S4,organic_polymer_crystal,18,4,VASP-5.X,PAW,0.6189,5.72929,4.20411,1.52518,-5.43,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=S)NC(=S)\
+171,H4C6S2O4,C6H4O4S2,organic_polymer_crystal,16,4,VASP-5.X,PAW,0.8264,4.79677,3.6867,1.11006,-5.84,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=S)C(=O)O\
+170,H4C8S4O2,C8H4O2S4,organic_polymer_crystal,18,4,VASP-5.X,PAW,0.1683,5.63673,4.81862,0.81811,-5.79,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=S)C(=O)C(=S)\
+169,H8C6S2O2,C6H8O2S2,organic_polymer_crystal,18,4,VASP-5.X,PAW,1.2878,3.96119,3.55062,0.41058,-5.27,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=S)CO\
+168,H8C8S4,C8H8S4,organic_polymer_crystal,20,3,VASP-5.X,PAW,1.3064,3.9579,3.74281,0.21509,-5.3,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=S)CC(=S)\
+167,H12C16S2O2,C16H12O2S2,organic_polymer_crystal,32,4,VASP-5.X,PAW,1.293,4.48059,3.95154,0.52905,-5.99,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=S)C(C=C1)=CC=C1O\
+166,H14C16S2N2,C16H14N2S2,organic_polymer_crystal,34,4,VASP-5.X,PAW,1.297,5.51123,4.54729,0.96394,-5.95,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=S)C(C=C1)=CC=C1N\
+165,H12C18S4,C18H12S4,organic_polymer_crystal,34,3,VASP-5.X,PAW,0.9459,13.0746,11.9951,1.07951,-5.91,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=S)C(C=C1)=CC=C1C(=S)\
+164,H8C12S4O2,C12H8O2S4,organic_polymer_crystal,26,4,VASP-5.X,PAW,0.9758,5.54884,4.67471,0.87413,-5.8,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=S)C1=CC=C(S1)O\
+163,H8C14S6,C14H8S6,organic_polymer_crystal,28,3,VASP-5.X,PAW,0.915,6.41572,5.99604,0.41968,-5.78,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=S)C1=CC=C(S1)C(=S)\
+162,H4C6S2O4,C6H4O4S2,organic_polymer_crystal,16,4,VASP-5.X,PAW,2.3573,3.89392,3.07383,0.82009,-5.87,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)OC(=S)\
+161,H4C6O6,C6H4O6,organic_polymer_crystal,16,3,VASP-5.X,PAW,3.972,3.98158,2.90136,1.08022,-6.3,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)OC(=O)\
+160,H12C16O4,C16H12O4,organic_polymer_crystal,32,3,VASP-5.X,PAW,3.4952,3.57075,3.01873,0.55201,-6.21,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)OC(C=C1)=CC=C1\
+159,H8C12S2O4,C12H8O4S2,organic_polymer_crystal,26,4,VASP-5.X,PAW,3.0351,3.95421,3.40297,0.55123,-6.05,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)OC1=CC=C(S1)\
+158,H6C6S2N2O2,C6H6N2O2S2,organic_polymer_crystal,18,5,VASP-5.X,PAW,1.7203,4.48475,3.70774,0.777,-5.8,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)NC(=S)\
+157,H6C6N2O4,C6H6N2O4,organic_polymer_crystal,18,4,VASP-5.X,PAW,2.959,4.44209,3.1913,1.25079,-6.2,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)NC(=O)\
+156,H14C16N2O2,C16H14N2O2,organic_polymer_crystal,34,4,VASP-5.X,PAW,2.7765,3.95365,3.34671,0.60695,-6.16,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)NC(C=C1)=CC=C1\
+155,H10C12S2N2O2,C12H10N2O2S2,organic_polymer_crystal,28,5,VASP-5.X,PAW,2.8577,4.08108,3.52629,0.55479,-6.01,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)NC1=CC=C(S1)\
+154,H4C6S2O4,C6H4O4S2,organic_polymer_crystal,16,4,VASP-5.X,PAW,0.762,4.7393,3.93981,0.7995,-5.8,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)C(=S)O\
+153,H4C8S2O4,C8H4O4S2,organic_polymer_crystal,18,4,VASP-5.X,PAW,0.3118,6.17745,4.79804,1.37941,-6.06,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)C(=S)C(=O)\
+152,H12C18S2O2,C18H12O2S2,organic_polymer_crystal,34,4,VASP-5.X,PAW,1.4034,4.70677,4.1207,0.58607,-6.15,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)C(=S)C(C=C1)=CC=C1\
+151,H8C14S4O2,C14H8O2S4,organic_polymer_crystal,28,4,VASP-5.X,PAW,1.2324,4.81803,4.21458,0.60344,-6,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)C(=S)C1=CC=C(S1)\
+150,H8C6O4,C6H8O4,organic_polymer_crystal,18,3,VASP-5.X,PAW,2.834,3.62957,2.8634,0.76617,-5.62,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)CO\
+149,H8C8S2O2,C8H8O2S2,organic_polymer_crystal,20,4,VASP-5.X,PAW,1.8198,3.94669,3.30063,0.64606,-5.62,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)CC(=S)\
+148,H8C8O4,C8H8O4,organic_polymer_crystal,20,3,VASP-5.X,PAW,2.8958,3.86035,3.08547,0.77488,-5.95,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)CC(=O)\
+147,H16C18O2,C18H16O2,organic_polymer_crystal,36,3,VASP-5.X,PAW,2.5827,3.52268,3.106,0.41668,-6.05,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)CC(C=C1)=CC=C1\
+146,H12C14S2O2,C14H12O2S2,organic_polymer_crystal,30,4,VASP-5.X,PAW,2.4947,3.61153,3.23626,0.37527,-5.87,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)CC1=CC=C(S1)\
+145,H12C16O4,C16H12O4,organic_polymer_crystal,32,3,VASP-5.X,PAW,2.6391,4.15593,3.4747,0.68123,-6.18,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)C(C=C1)=CC=C1O\
+144,H12C18S2O2,C18H12O2S2,organic_polymer_crystal,34,4,VASP-5.X,PAW,1.3288,12.8907,4.12007,8.77059,-6.15,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)C(C=C1)=CC=C1C(=S)\
+143,H12C18O4,C18H12O4,organic_polymer_crystal,34,3,VASP-5.X,PAW,2.0579,4.26587,3.53349,0.73238,-6.34,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)C(C=C1)=CC=C1C(=O)\
+142,H20C28O2,C28H20O2,organic_polymer_crystal,50,3,VASP-5.X,PAW,2.1529,4.07182,3.62727,0.44455,-6.29,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)C(C=C1)=CC=C1C(C=C2)=CC=C2\
+141,H16C24S2O2,C24H16O2S2,organic_polymer_crystal,44,4,VASP-5.X,PAW,1.7398,4.74967,4.20719,0.54247,-6.2,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)C(C=C1)=CC=C1C2=CC=C(S2)\
+140,H8C12S2O4,C12H8O4S2,organic_polymer_crystal,26,4,VASP-5.X,PAW,2.1769,4.4747,3.65177,0.82293,-6.03,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)C1=CC=C(S1)O\
+139,H8C14S4O2,C14H8O2S4,organic_polymer_crystal,28,4,VASP-5.X,PAW,1.4848,4.81623,4.27228,0.54395,-6,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)C1=CC=C(S1)C(=S)\
+138,H8C14S2O4,C14H8O4S2,organic_polymer_crystal,28,4,VASP-5.X,PAW,1.8963,4.39734,3.70393,0.69342,-6.21,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)C1=CC=C(S1)C(=O)\
+137,H16C24S2O2,C24H16O2S2,organic_polymer_crystal,44,4,VASP-5.X,PAW,1.7517,4.72019,4.07056,0.64963,-6.21,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)C1=CC=C(S1)C(C=C2)=CC=C2\
+136,H12C20S4O2,C20H12O2S4,organic_polymer_crystal,38,4,VASP-5.X,PAW,1.6529,4.86386,4.2832,0.58066,-6.12,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)C1=CC=C(S1)C2=CC=C(S2)\
+135,H10C4N2O2,C4H10O2N2,organic_polymer_crystal,18,4,VASP-5.X,PAW,3.8229,3.34113,2.90162,0.43951,-5.12,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCON\
+134,H10C6S2N2,C6H10N2S2,organic_polymer_crystal,20,4,VASP-5.X,PAW,2.4438,4.49981,3.4749,1.0249,-5.36,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCNC(=S)\
+133,H18C16N2,C16H18N2,organic_polymer_crystal,36,3,VASP-5.X,PAW,2.6968,3.5372,3.17414,0.36306,-5.85,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCNC(C=C1)=CC=C1\
+132,H14C12S2N2,C12H14N2S2,organic_polymer_crystal,30,4,VASP-5.X,PAW,2.7494,3.78369,3.30655,0.47714,-5.63,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCNC1=CC=C(S1)\
+131,H8C6S2O2,C6H8O2S2,organic_polymer_crystal,18,4,VASP-5.X,PAW,2.5039,3.7451,3.31746,0.42764,-5.34,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCC(=S)O\
+130,H8C6O4,C6H8O4,organic_polymer_crystal,18,3,VASP-5.X,PAW,4.7109,3.45218,2.76591,0.68626,-5.73,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCC(=O)O\
+129,H8C8S2O2,C8H8O2S2,organic_polymer_crystal,20,4,VASP-5.X,PAW,0.5631,4.92641,3.85203,1.07438,-5.61,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCC(=O)C(=S)\
+128,H16C18O2,C18H16O2,organic_polymer_crystal,36,3,VASP-5.X,PAW,2.6733,4.71676,3.32878,1.38798,-6.05,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCC(=O)C(C=C1)=CC=C1\
+127,H12C14S2O2,C14H12O2S2,organic_polymer_crystal,30,4,VASP-5.X,PAW,2.1868,4.37803,3.51872,0.85931,-5.9,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCC(=O)C1=CC=C(S1)\
+126,H12C6O2,C6H12O2,organic_polymer_crystal,20,3,VASP-5.X,PAW,5.6824,2.98065,2.71526,0.26539,-5.2,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCCO\
+125,H14C6N2,C6H14N2,organic_polymer_crystal,22,3,VASP-5.X,PAW,4.7824,3.0163,2.81414,0.20216,-5.18,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCCN\
+124,H12C8S2,C8H12S2,organic_polymer_crystal,22,3,VASP-5.X,PAW,1.6617,3.29996,3.13343,0.16653,-5.22,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCCC(=S)\
+123,H12C8O2,C8H12O2,organic_polymer_crystal,22,3,VASP-5.X,PAW,3.2884,3.1614,2.73987,0.42153,-5.52,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCCC(=O)\
+122,H8C4,C4H8,organic_polymer_crystal,12,2,VASP-5.X,PAW,6.6123,2.72337,2.70061,0.02276,-5.15,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCCC\
+121,H20C18,C18H20,organic_polymer_crystal,38,2,VASP-5.X,PAW,3.7615,3.13392,3.05882,0.0751,-5.78,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCCC(C=C1)=CC=C1\
+120,H16C14S2,C14H16S2,organic_polymer_crystal,32,3,VASP-5.X,PAW,3.2404,4.55069,3.07561,1.47507,-5.57,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCCC1=CC=C(S1)\
+119,H16C16O2,C16H16O2,organic_polymer_crystal,34,3,VASP-5.X,PAW,3.0095,3.44901,3.19159,0.25743,-5.89,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCC(C=C1)=CC=C1O\
+118,H16C18S2,C18H16S2,organic_polymer_crystal,36,3,VASP-5.X,PAW,1.6866,3.90662,3.67594,0.23068,-5.87,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCC(C=C1)=CC=C1C(=S)\
+117,H24C28,C28H24,organic_polymer_crystal,52,2,VASP-5.X,PAW,2.8958,3.57898,3.50466,0.07432,-6.09,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCC(C=C1)=CC=C1C(C=C2)=CC=C2\
+116,H20C24S2,C24H20S2,organic_polymer_crystal,46,3,VASP-5.X,PAW,2.1531,3.75328,3.65046,0.10282,-5.98,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCC(C=C1)=CC=C1C2=CC=C(S2)\
+115,H12C12S2O2,C12H12O2S2,organic_polymer_crystal,28,4,VASP-5.X,PAW,3.0612,3.60251,3.23866,0.36386,-5.67,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCC1=CC=C(S1)O\
+114,H12C14S4,C14H12S4,organic_polymer_crystal,30,3,VASP-5.X,PAW,1.4558,4.39825,4.01727,0.38098,-5.69,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCC1=CC=C(S1)C(=S)\
+113,H16C20S4,C20H16S4,organic_polymer_crystal,40,3,VASP-5.X,PAW,1.9511,3.82585,3.70509,0.12075,-5.86,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCC1=CC=C(S1)C2=CC=C(S2)\
+112,H12C16S2O2,C16H12O2S2,organic_polymer_crystal,32,4,VASP-5.X,PAW,2.4419,3.77105,3.3389,0.43216,-6,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1OC(=S)\
+111,H20C26O2,C26H20O2,organic_polymer_crystal,48,3,VASP-5.X,PAW,3.3308,3.4816,3.25271,0.22889,-6.18,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1OC(C=C2)=CC=C2\
+110,H16C22S2O2,C22H16O2S2,organic_polymer_crystal,42,4,VASP-5.X,PAW,3.0146,3.59619,3.345,0.25119,-6.08,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1OC2=CC=C(S2)\
+109,H14C14N2O2,C14H14N2O2,organic_polymer_crystal,32,4,VASP-5.X,PAW,3.3027,3.84233,3.36621,0.47612,-5.9,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1NO\
+108,H14C16S2N2,C16H14N2S2,organic_polymer_crystal,34,4,VASP-5.X,PAW,2.3636,4.11711,3.67128,0.44583,-5.97,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1NC(=S)\
+107,H22C26N2,C26H22N2,organic_polymer_crystal,50,3,VASP-5.X,PAW,2.7926,3.91999,3.56417,0.35583,-6.15,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1NC(C=C2)=CC=C2\
+106,H18C22S2N2,C22H18N2S2,organic_polymer_crystal,44,4,VASP-5.X,PAW,2.532,3.98066,3.58515,0.39552,-6.04,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1NC2=CC=C(S2)\
+105,H12C16S2O2,C16H12O2S2,organic_polymer_crystal,32,4,VASP-5.X,PAW,2.0005,3.98826,3.58466,0.40361,-6,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1C(=S)O\
+104,H20C28S2,C28H20S2,organic_polymer_crystal,50,3,VASP-5.X,PAW,1.3771,4.09715,3.87159,0.22556,-6.17,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1C(=S)C(C=C2)=CC=C2\
+103,H16C24S4,C24H16S4,organic_polymer_crystal,44,3,VASP-5.X,PAW,1.5367,4.17377,3.86632,0.30745,-6.07,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1C(=S)C2=CC=C(S2)\
+102,H12C16O4,C16H12O4,organic_polymer_crystal,32,3,VASP-5.X,PAW,2.8161,4.07687,3.39527,0.6816,-6.22,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1C(=O)O\
+101,H12C18S2O2,C18H12O2S2,organic_polymer_crystal,34,4,VASP-5.X,PAW,1.4152,4.22491,3.78403,0.44089,-6.14,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1C(=O)C(=S)\
+100,H20C28O2,C28H20O2,organic_polymer_crystal,50,3,VASP-5.X,PAW,2.7321,3.95136,3.61695,0.33441,-6.29,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1C(=O)C(C=C2)=CC=C2\
+99,H16C24S2O2,C24H16O2S2,organic_polymer_crystal,44,4,VASP-5.X,PAW,2.4196,4.08258,3.61349,0.46909,-6.2,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1C(=O)C(S2)=CC=C2\
+98,H16C16O2,C16H16O2,organic_polymer_crystal,34,3,VASP-5.X,PAW,3.7723,3.45473,3.15931,0.29542,-5.89,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1CO\
+97,H16C18S2,C18H16S2,organic_polymer_crystal,36,3,VASP-5.X,PAW,1.8664,3.67826,3.46007,0.21819,-5.85,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1CC(=S)\
+96,H24C28,C28H24,organic_polymer_crystal,52,2,VASP-5.X,PAW,3.2626,3.40864,3.31358,0.09506,-6.09,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1CC(C=C2)=CC=C2\
+95,H20C24S2,C24H20S2,organic_polymer_crystal,46,3,VASP-5.X,PAW,3.0793,3.41431,3.30259,0.11172,-5.99,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1CC(S2)=CC=C2\
+94,H20C26O2,C26H20O2,organic_polymer_crystal,48,3,VASP-5.X,PAW,2.8417,3.96674,3.67669,0.29006,-6.19,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1C(C=C2)=CC=C2O\
+93,H20C28S2,C28H20S2,organic_polymer_crystal,50,3,VASP-5.X,PAW,1.5204,4.47068,4.20376,0.26693,-6.17,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1C(C=C2)=CC=C2C(=S)\
+92,H28C38,C38H28,organic_polymer_crystal,66,2,VASP-5.X,PAW,2.6168,3.66748,3.57813,0.08935,-6.26,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1C(C=C2)=CC=C2C(C=C3)=CC=C3\
+91,H24C34S2,C34H24S2,organic_polymer_crystal,60,3,VASP-5.X,PAW,2.145,4.21583,4.06603,0.1498,-6.19,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1C(C=C2)=CC=C2C(S3)=CC=C3\
+90,H16C24S4,C24H16S4,organic_polymer_crystal,44,3,VASP-5.X,PAW,1.1793,4.60546,4.32504,0.28041,-6.08,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1C(S2)=CC=C2C(=S)\
+89,H24C34S2,C34H24S2,organic_polymer_crystal,60,3,VASP-5.X,PAW,2.0042,3.98875,3.89085,0.0979,-6.2,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1C(S2)=CC=C2C(C=C3)=CC=C3\
+88,H20C30S4,C30H20S4,organic_polymer_crystal,54,3,VASP-5.X,PAW,1.8537,4.01737,3.90713,0.11024,-6.12,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1C(S2)=CC=C2C(S3)=CC=C3\
+87,H8C12S4O2,C12H8O2S4,organic_polymer_crystal,26,4,VASP-5.X,PAW,1.9619,4.23923,3.79381,0.44542,-5.78,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(S1)=CC=C1OC(=S)\
+86,H12C18S4O2,C18H12O2S4,organic_polymer_crystal,36,4,VASP-5.X,PAW,3.2039,3.63873,3.38132,0.25741,-5.92,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(S1)=CC=C1OC(S2)=CC=C2\
+85,H10C10S2N2O2,C10H10N2O2S2,organic_polymer_crystal,26,5,VASP-5.X,PAW,2.7575,4.03807,3.53686,0.50121,-5.66,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(S1)=CC=C1NO\
+84,H10C12S4N2,C12H10N2S4,organic_polymer_crystal,28,4,VASP-5.X,PAW,1.8618,4.46328,3.92739,0.5359,-5.77,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(S1)=CC=C1NC(=S)\
+83,H14C18S4N2,C18H14N2S4,organic_polymer_crystal,38,4,VASP-5.X,PAW,2.6046,3.83351,3.5241,0.30941,-5.9,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(S1)=CC=C1NC(S2)=CC=C2\
+82,H8C12S4O2,C12H8O2S4,organic_polymer_crystal,26,4,VASP-5.X,PAW,1.8586,4.73077,4.08906,0.64171,-5.82,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(S1)=CC=C1C(=S)O\
+81,H12C20S6,C20H12S6,organic_polymer_crystal,38,3,VASP-5.X,PAW,1.3297,4.35828,4.02528,0.333,-5.94,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(S1)=CC=C1C(=S)C(S2)=CC=C2\
+80,H8C12S2O4,C12H8O4S2,organic_polymer_crystal,26,4,VASP-5.X,PAW,2.7954,4.20238,3.4514,0.75097,-6.07,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(S1)=CC=C1C(=O)O\
+79,H8C14S4O2,C14H8O2S4,organic_polymer_crystal,28,4,VASP-5.X,PAW,1.5064,4.55566,3.87134,0.68432,-5.99,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(S1)=CC=C1C(=O)C(=S)\
+78,H12C20S4O2,C20H12O2S4,organic_polymer_crystal,38,4,VASP-5.X,PAW,1.8776,4.7529,4.08631,0.66659,-6.08,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(S1)=CC=C1C(=O)C(S2)=CC=C2\
+77,H12C12S2O2,C12H12O2S2,organic_polymer_crystal,28,4,VASP-5.X,PAW,1.9414,4.08118,3.46202,0.61916,-5.68,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(S1)=CC=C1CO\
+76,H12C14S4,C14H12S4,organic_polymer_crystal,30,3,VASP-5.X,PAW,1.46,3.58116,3.40863,0.17254,-5.65,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(S1)=CC=C1CC(=S)\
+75,H16C20S4,C20H16S4,organic_polymer_crystal,40,3,VASP-5.X,PAW,3.1787,3.56087,3.37903,0.18184,-5.81,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(S1)=CC=C1CC(S2)=CC=C2\
+74,H16C22S2O2,C22H16O2S2,organic_polymer_crystal,42,4,VASP-5.X,PAW,2.0891,4.04804,3.75141,0.29663,-6.09,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(S1)=CC=C1C(C=C2)=CC=C2O\
+73,H16C24S4,C24H16S4,organic_polymer_crystal,44,3,VASP-5.X,PAW,1.0518,4.87575,4.40414,0.47161,-6.05,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(S1)=CC=C1C(C=C2)=CC=C2C(=S)\
+72,H20C30S4,C30H20S4,organic_polymer_crystal,54,3,VASP-5.X,PAW,1.8092,3.92086,3.80596,0.1149,-6.12,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(S1)=CC=C1C(C=C2)=CC=C2C(S3)=CC=C3\
+71,H12C18S4O2,C18H12O2S4,organic_polymer_crystal,36,4,VASP-5.X,PAW,2.1535,4.17933,3.81567,0.36365,-5.95,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(S1)=CC=C1C(S2)=CC=C2O\
+70,H12C20S6,C20H12S6,organic_polymer_crystal,38,3,VASP-5.X,PAW,1.068,5.34676,4.82118,0.52557,-5.95,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(S1)=CC=C1C(S2)=CC=C2C(=S)\
+69,H16C26S6,C26H16S6,organic_polymer_crystal,48,3,VASP-5.X,PAW,1.4365,4.3542,4.23324,0.12096,-6.03,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(S1)=CC=C1C(S2)=CC=C2C(S3)=CC=C3\
+68,H8C14S2O4,C14H8O4S2,organic_polymer_crystal,28,4,VASP-5.X,PAW,2.8921,4.08706,3.53193,0.55514,-6.18,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1OC(=S)O\
+67,H12C22S4O2,C22H12O2S4,organic_polymer_crystal,40,4,VASP-5.X,PAW,1.2774,5.48453,4.89805,0.58648,-6.21,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1OC(=S)C(S2)=CC=C2\
+66,H16C24O4,C24H16O4,organic_polymer_crystal,44,3,VASP-5.X,PAW,2.6906,3.92581,3.51591,0.4099,-6.3,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1OC(C=C2)=CC=C2O\
+65,H12C20S2O4,C20H12O4S2,organic_polymer_crystal,38,4,VASP-5.X,PAW,2.9485,3.80709,3.43033,0.37677,-6.18,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1OC(S2)=CC=C2O\
+64,H8C16S4O2,C16H8O2S4,organic_polymer_crystal,30,4,VASP-5.X,PAW,1.385,5.42228,4.66044,0.76184,-6.13,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(=S)OC(=S)\
+63,H16C26S2O2,C26H16O2S2,organic_polymer_crystal,46,4,VASP-5.X,PAW,0.8962,4.99738,4.35435,0.64303,-6.28,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(=S)C(C=C2)=CC=C2O\
+62,H16C28S4,C28H16S4,organic_polymer_crystal,48,3,VASP-5.X,PAW,0.7205,3.79753,3.58772,0.20981,-6.17,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(=S)C(C=C2)=CC=C2C(=S)\
+61,H12C22S4O2,C22H12O2S4,organic_polymer_crystal,40,4,VASP-5.X,PAW,1.4684,4.55151,4.01763,0.53388,-6.18,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(=S)C(S2)=CC=C2O\
+60,H12C24S6,C24H12S6,organic_polymer_crystal,42,3,VASP-5.X,PAW,0.3656,6.85351,6.22854,0.62497,-6.16,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(=S)C(S2)=CC=C2C(=S)\
+59,H16C30S6,C30H16S6,organic_polymer_crystal,52,3,VASP-5.X,PAW,0.812,8.44725,7.71216,0.73509,-6.22,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(=S)C(S2)=CC=C2C(S3)=CC=C3\
+58,H16C26S2O2,C26H16O2S2,organic_polymer_crystal,46,4,VASP-5.X,PAW,1.9058,4.57744,4.18365,0.3938,-6.29,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(C=C2)=CC=C2C(=S)O\
+57,H24C36O2,C36H24O2,organic_polymer_crystal,62,3,VASP-5.X,PAW,2.5609,3.86951,3.6243,0.24521,-6.34,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(C=C2)=CC=C2C(C=C3)=CC=C3O\
+56,H24C38S2,C38H24S2,organic_polymer_crystal,64,3,VASP-5.X,PAW,0.8589,4.58949,4.31752,0.27197,-6.31,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(C=C2)=CC=C2C(C=C3)=CC=C3C(=S)\
+55,H8C12,C12H8,organic_polymer_crystal,20,2,VASP-5.X,PAW,1.8903,4.48191,4.40279,0.07912,-6.39,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(C=C2)=CC=C2C(C=C3)=CC=C3C(C=C4)=CC=C4\
+54,H28C44S2,C44H28S2,organic_polymer_crystal,74,3,VASP-5.X,PAW,1.2739,5.39371,5.28348,0.11023,-6.34,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(C=C2)=CC=C2C(C=C3)=CC=C3C(S4)=CC=C4\
+53,H20C32S2O2,C32H20O2S2,organic_polymer_crystal,56,4,VASP-5.X,PAW,1.661,5.02401,4.63738,0.38664,-6.29,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(C=C2)=CC=C2C(S3)=CC=C3O\
+52,H20C34S4,C34H20S4,organic_polymer_crystal,58,3,VASP-5.X,PAW,1.0531,6.66677,6.26364,0.40313,-6.27,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(C=C2)=CC=C2C(S3)=CC=C3C(=S)\
+51,H24C40S4,C40H24S4,organic_polymer_crystal,68,3,VASP-5.X,PAW,0.8903,7.13408,7.00147,0.13262,-6.3,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(C=C2)=CC=C2C(S3)=CC=C3C(S4)=CC=C4\
+50,H12C22S4O2,C22H12O2S4,organic_polymer_crystal,40,4,VASP-5.X,PAW,1.4708,5.72002,4.82364,0.89638,-6.17,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(S2)=CC=C2OC(=S)\
+49,H16C28S4O2,C28H16O2S4,organic_polymer_crystal,50,4,VASP-5.X,PAW,1.4922,5.30768,4.78264,0.52504,-6.21,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(S2)=CC=C2OC(S3)=CC=C3\
+48,H16C30S6,C30H16S6,organic_polymer_crystal,52,3,VASP-5.X,PAW,0.6495,9.27345,8.38934,0.88411,-6.22,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(S2)=CC=C2C(=S)C(S3)=CC=C3\
+47,H20C32S2O2,C32H20O2S2,organic_polymer_crystal,56,4,VASP-5.X,PAW,1.4963,4.89413,4.52361,0.37052,-6.29,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(S2)=CC=C2C(C=C3)=CC=C3O\
+46,H20C34S4,C34H20S4,organic_polymer_crystal,58,3,VASP-5.X,PAW,1.1641,5.94348,5.37979,0.56369,-6.27,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(S2)=CC=C2C(C=C3)=CC=C3C(=S)\
+45,H24C40S4,C40H24S4,organic_polymer_crystal,68,3,VASP-5.X,PAW,1.3963,4.25349,4.13326,0.12023,-6.28,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(S2)=CC=C2C(C=C3)=CC=C3C(S4)=CC=C4\
+44,H16C28S4O2,C28H16O2S4,organic_polymer_crystal,50,4,VASP-5.X,PAW,1.2658,5.21481,4.71602,0.49878,-6.21,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(S2)=CC=C2C(S3)=CC=C3O\
+43,H20C36S6,C36H20S6,organic_polymer_crystal,62,3,VASP-5.X,PAW,0.6629,8.84899,8.67095,0.17805,-6.24,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(S2)=CC=C2C(S3)=CC=C3C(S4)=CC=C4\
+42,H4C10S4O4,C10H4O4S4,organic_polymer_crystal,22,4,VASP-5.X,PAW,1.981,4.5198,3.78693,0.73287,-5.94,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(S1)=CC=C1OC(=S)O\
+41,H8C16S4O4,C16H8O4S4,organic_polymer_crystal,32,4,VASP-5.X,PAW,2.9358,3.94377,3.48585,0.45792,-6.02,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(S1)=CC=C1OC(S2)=CC=C2O\
+40,H4C12S6O2,C12H4O2S6,organic_polymer_crystal,24,4,VASP-5.X,PAW,0.9079,6.22699,5.27667,0.95032,-5.95,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(S1)=CC=C1C(=S)OC(=S)\
+39,H8C18S6O2,C18H8O2S6,organic_polymer_crystal,34,4,VASP-5.X,PAW,1.353,4.8954,4.23339,0.66201,-6.04,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(S1)=CC=C1C(=S)C(S2)=CC=C2O\
+38,H8C18S6O2,C18H8O2S6,organic_polymer_crystal,34,4,VASP-5.X,PAW,1.2709,5.91893,4.98174,0.93718,-6.07,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(S1)=CC=C1C(S2)=CC=C2OC(=S)\
+37,H12C24S6O2,C24H12O2S6,organic_polymer_crystal,44,4,VASP-5.X,PAW,1.217,5.61795,5.16623,0.45172,-6.12,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(S1)=CC=C1C(S2)=CC=C2C(S3)=CC=C3O\
+36,H12C26S8,C26H12S8,organic_polymer_crystal,46,3,VASP-5.X,PAW,0.3462,11.9999,10.2623,1.73763,-6.13,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(S1)=CC=C1C(S2)=CC=C2C(S3)=CC=C3C(=S)\
+35,H4C8S2,C8H4S2,organic_polymer_crystal,14,3,VASP-5.X,PAW,0.4049,12.3159,12.0271,0.28881,-6.18,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(S1)=CC=C1C(S2)=CC=C2C(S3)=CC=C3C(S4)=CC=C4\
+34,H6C14N2O2,N2C14O2H6,common_polymer_crystal,24,4,VASP-5.X,PAW,1.8539,5.68825,5.42171,0.26654,-6.82,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=NC1=C2)OC1=CC(O3)=C2N=C3C(C=C4)=CC=C4\
+33,H12C20N4,N4C20H12,common_polymer_crystal,36,3,VASP-5.X,PAW,2.1797,4.4615,3.98091,0.48059,-6.6,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(=CC=C1)N=C1C(=CC=C2)N=C2\
+32,H10C14N2O2,N2C14O2H10,common_polymer_crystal,28,4,VASP-5.X,PAW,2.3243,4.45458,3.84937,0.60521,-6.41,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),NC(=O)C(=C1)C=CC=C1NC(=O)C(=C2)C=CC=C2\
+31,H6C4N2O2,N2H6C4O2,common_polymer_crystal,14,4,VASP-5.X,PAW,4.1265,4.14879,3.00572,1.14306,-5.91,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)NCC(=O)N\
+30,H6C6N2,C6H6N2,common_polymer_crystal,14,3,VASP-5.X,PAW,6.0662,3.23406,2.73347,0.50059,-6.1,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C(#N))CC(C(#N))\
+29,H63C63N9,N9C63H63,common_polymer_crystal,135,3,VASP-5.X,PAW,3.4885,3.06359,2.92668,0.13691,-5.99,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C1=CC=CC=N1)CC(C2=CC=CC=N2)CC(C3=CC=CC=N3)\
+28,H6C14N2O2,H6C14N2O2,common_polymer_crystal,24,4,VASP-5.X,PAW,1.8106,4.79768,4.4808,0.31688,-6.81,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(OC1=C2)=NC1=CC=C2C(OC3=C4)=NC3=CC=C4\
+27,H8C10O4,C10O4H8,common_polymer_crystal,22,3,VASP-5.X,PAW,2.8729,3.82262,3.26714,0.55548,-6.18,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(=O)OCCOC(=O)\
+26,H48C24,C24H48,common_polymer_crystal,72,2,VASP-5.X,PAW,5.9956,2.62149,2.59189,0.0296,-5.14,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C)CC(C)CC(C)CC(C)\
+25,H4C4F4,C4F4H4,common_polymer_crystal,12,3,VASP-5.X,PAW,6.4659,3.3858,2.5992,0.78659,-5.21,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(F)(F)CC(F)(F)\
+24,H8C8F8,C8F8H8,common_polymer_crystal,24,3,VASP-5.X,PAW,7.3155,3.26462,2.54105,0.72357,-5.21,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(F)(F)CC(F)(F)\
+23,H6C4F2,C4F2H6,common_polymer_crystal,12,3,VASP-5.X,PAW,6.3726,3.22095,2.65765,0.56329,-5.18,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(F)CC(F)\
+22,H88C52O16,C52H88O16,common_polymer_crystal,156,3,VASP-5.X,PAW,4.6631,3.06061,2.65817,0.40244,-5.41,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCCOC(=O)CCCCCCCCOC(=O)CCCOC(=O)CCCCCCCCOC(=O)\
+21,H12C12O4,C12H12O4,common_polymer_crystal,28,3,VASP-5.X,PAW,2.9762,3.64514,3.09924,0.5459,-5.97,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1C(=O)OCCCCOC(=O)\
+20,H8C8F8,C8F8H8,common_polymer_crystal,24,3,VASP-5.X,PAW,7.1025,3.11431,2.48802,0.6263,-5.21,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCC(F)(F)C(F)(F)\
+19,H16C16,C16H16,common_polymer_crystal,32,2,VASP-5.X,PAW,1.8052,3.97719,3.87126,0.10594,-5.84,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C=C1)=CC=C1C\
+18,H40C20S4,C20S4H40,common_polymer_crystal,64,3,VASP-5.X,PAW,3.6555,3.00719,2.90347,0.10373,-5.03,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCCCCS\
+17,H16C24S4,C24H16S4,common_polymer_crystal,44,3,VASP-5.X,PAW,2.2796,4.15974,3.92367,0.23608,-6.09,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1SC(C=C2)=CC=C2S\
+16,H16C24O4,C24H16O4,common_polymer_crystal,44,3,VASP-5.X,PAW,2.6105,3.92307,3.444,0.47907,-6.31,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C=C1)=CC=C1OC(C=C2)=CC=C2O\
+15,H8C4O4,C4H8O4,common_polymer_crystal,16,3,VASP-5.X,PAW,6.8423,3.7176,2.70077,1.01683,-5.32,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),COCO\
+14,H8C8O8,C8H8O8,common_polymer_crystal,24,3,VASP-5.X,PAW,4.5581,3.69662,2.78917,0.90744,-6,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(=O)OCC(=O)O\
+13,H32C20O8,C20H32O8,common_polymer_crystal,60,3,VASP-5.X,PAW,4.8928,3.57021,2.74806,0.82214,-5.5,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCOC(=O)CCCCCCC(=O)O\
+12,H8C4O2,C4H8O2,common_polymer_crystal,14,3,VASP-5.X,PAW,4.4729,3.15556,2.68209,0.47347,-5.21,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCOCCO\
+11,H24C16O8,C16H24O8,common_polymer_crystal,48,3,VASP-5.X,PAW,4.8374,3.68014,2.74944,0.9307,-5.59,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCCCC(=O)OCCOC(=O)\
+10,H8C4,C4H8,common_polymer_crystal,12,2,VASP-5.X,PAW,6.6827,2.73961,2.71544,0.02417,-5.15,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCCC\
+9,H16C20O4F24,F24C20O4H16,common_polymer_crystal,64,4,VASP-5.X,PAW,6.3291,3.08931,2.47231,0.617,-5.18,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCC(C(F)(F)(F))(C(F)(F)(F))OCCC(C(F)(F)(F))(C(F)(F)(F))O\
+8,H40C24O8,C24H40O8,common_polymer_crystal,72,3,VASP-5.X,PAW,5.0647,3.14568,2.69996,0.44572,-5.44,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CCCCCOC(=O)CCCCCOC(=O)\
+7,H12C12O4F12,O4C12H12F12,common_polymer_crystal,40,4,VASP-5.X,PAW,5.3596,3.30115,2.50705,0.7941,-5.19,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C(F)(F)(F))OCC(C(F)(F)(F))OC\
+6,H6C14N2O2,H6C14N2O2,common_polymer_crystal,24,4,VASP-5.X,PAW,1.8054,4.76129,4.47765,0.28364,-6.81,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(OC1=C2)=NC1=CC=C2C(OC3=C4)=NC3=CC=C4\
+5,H8C16S4,S4C16H8,common_polymer_crystal,28,3,VASP-5.X,PAW,0.5666,7.19072,7.04381,0.14691,-6.18,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(S1)=CC=C1C(S2)=CC=C2\
+4,H2C4F6,C4F6H2,common_polymer_crystal,12,3,VASP-5.X,PAW,4.7895,3.0763,2.49522,0.58107,-5.11,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(F)C(F)(F)\
+3,H72C36,C36H72,common_polymer_crystal,108,2,VASP-5.X,PAW,6.323,2.61033,2.58565,0.02469,-5.14,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C)CC(C)CC(C)\
+2,H64C64,C64H64,common_polymer_crystal,128,2,VASP-5.X,PAW,3.939,2.71593,2.6387,0.07723,-5.9,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),CC(C1=CC=CC=C1)CC(C2=CC=CC=C2)CC(C3=CC=CC=C3)CC(C4=CC=CC=C4)\
+1,H40C24O20,C24H40O20,common_polymer_crystal,84,3,VASP-5.X,PAW,5.6194,3.7821,2.84888,0.93322,-5.48,,,,Huan Tran (huan.tran@uconn.edu), Arun Mannodi-Kanakkithodi (mannodiarun@gmail.com),C(C(O)C1(O))C(CO)OC1O\
+},,,,,,,,,,,,,,,,,,

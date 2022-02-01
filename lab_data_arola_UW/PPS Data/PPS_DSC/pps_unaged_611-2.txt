@@ -1,0 +1,123 @@
+[File Parameters]
+Run date	7/27/2021 1:42:09 PM
+Trios version	5.1.1.46572
+Original File Name	C:\ProgramData\TA Instruments\TRIOS\Data\Arola Lab\PPS_Unaged_611.tri
+Current File Name	c:\programdata\ta instruments\trios\data\arola lab\pps_unaged_611.tri
+[Procedure]
+Procedure Name	pps
+Sample Name	PPS_Unaged_611
+Sample Mass	4.2 mg
+Reference Sample Mass	0 mg
+Pan Mass	53.4 mg 2371 2377 16177 16183 1772 1766
+Pan Number	23
+Reference Pan Mass	53.4 mg
+Reference Pan Number	1
+Pan Type	Aluminum
+Comments	
+Project Name	
+Operator	Carly Travis
+Test	Custom
+Unload Max Temperature	40
+Unload Min Temperature	40
+Load Max Temperature	40
+Load Min Temperature	40
+Stop on Gas Flow Error	Yes
+[Signal List]
+Signal #1	Time (min)
+Signal #2	Temperature (°C)
+Signal #3	Heat Flow (mW)
+Signal #4	Delta T (µV)
+Signal #5	Delta Tzero (µV)
+Signal #6	Tzero Temperature (°C)
+Signal #7	Cell Purge (mL/min)
+Signal #8	Heater Temp (°C)
+Signal #9	Power Delivered (W)
+Signal #10	Reference Junction Temperature (°C)
+Signal #11	Flange Temperature (°C)
+Signal #12	Heat Flow Phase (rad)
+Signal #13	Total Heat Capacity (J/°C)
+Signal #14	Heat Capacity (J/°C)
+[Configuration]
+Company Name	UW
+Instrument Name	DSC2A-01586
+Instrument Type	DSC2500
+Serial Number	DSC2A-01586
+IP	192.168.10.2
+Location of Instrument	UW Bagley 83
+DisplayType	TianmaV2
+Sample Interval 	0.1 s/pt
+Selected Heat Flow	T4P
+Exotherm Direction	Up
+Cell Serial	DRC2-03254
+Lid Type	High Temperature
+Cooler	RCS 90
+Leave Cooler on at End of Sequence	Off
+Gas 2	Nitrogen
+Gas Selected	Channel 1
+Flow Rate	50 mL/min
+Secondary Purge	Off
+Licensed Heat Flow	Heat Flow T4P
+Modulation Licensed	Yes
+[Versions]
+Common IDD Version	1
+Cortex Version	VER 2.10.2.31
+Driver	5.0.0.6
+GDM Version	1.0.3.3
+TouchscreenVersion	1.0.0.16145
+FEP Version	1.2.1.21
+FEP Bootloader	2.0.0.5
+AutoSampler Version	2.1.1.26
+Auto Sampler Bootloader	2.0.0.5
+FCM Version	1.1.0.3
+FCM Bootloader	2.0.0.5
+[Experiment Logs]
+Experiment Log Entry # 1	Ramp Segment 10 C/min to 70 Started
+Experiment Log Entry # 3	Air Cool is off.
+Experiment Log Entry # 5	Isothermal Segment 1 min started
+Experiment Log Entry # 7	Ramp Segment 10 C/min to 300 Started
+Experiment Log Entry # 9	Ramp Segment 10 C/min to 40 Started
+Experiment Log Entry # 11	Mark Data set
+[Method Log]
+Method Log Entry # 1	(Ramp 335647) Ramp 10 °C/minute to 70 °C
+Method Log Entry # 2	Isothermal 1 minutes
+Method Log Entry # 3	(Ramp 335649) Ramp 10 °C/minute to 300 °C
+Method Log Entry # 4	(Ramp 335650) Ramp 10 °C/minute to 40 °C
+Method Log Entry # 5	Mark End 335651
+Cell Serial	DRC2-03254
+[T1 Calibration]
+Date Applied	11/4/2020 3:37:40 PM
+Slope	-0.0005345262
+Offset	-9.566325
+Initial Temperature	-40.80371
+GUID	dc124dba-dc9a-4fde-8ac5-9ad7a93db68c
+[TZero Calibration]
+Date Applied	11/4/2020 11:48:17 PM
+Description	From -90.213 °C to 395.512 °C at 20.000°C/min
+Gas Type	Nitrogen
+Pan Type	None
+Source Files 1	C:\ProgramData\TA Instruments\TRIOS\Data\TA SERVICE\DSC2A-01586\Recalibration 04NOV2020 2\Tzero Baseline 110420.tri
+Source Files 2	C:\ProgramData\TA Instruments\TRIOS\Data\TA SERVICE\DSC2A-01586\Recalibration 04NOV2020 2\Tzero Sapphire 110420.tri
+Delta T Offset	-9.068947
+Delta T Slope	-0.0005966381
+Delta T0 Offset	4.937698
+Delta T0 Slope	0.01193379
+[Temperature Calibration]
+Date Applied	11/5/2020 1:08:46 AM
+Description	From 106.590 °C to 186.590 °C at 10.000°C/min
+Gas Type	Nitrogen
+Pan Type	Tzero Aluminum
+Source Files 1	C:\ProgramData\TA Instruments\TRIOS\Data\TA SERVICE\DSC2A-01586\Recalibration 04NOV2020 2\Indium 110420.tri
+Measured 1	157.6191
+Known 1	156.598
+[Cell Constant Calibration]
+Date Applied	11/5/2020 1:08:46 AM
+Description	From 106.590 °C to 186.590 °C at 10.000°C/min
+Gas Type	Nitrogen
+Pan Type	Tzero Aluminum
+Source Files 1	C:\ProgramData\TA Instruments\TRIOS\Data\TA SERVICE\DSC2A-01586\Recalibration 04NOV2020 2\Indium 110420.tri
+T4P KCell	1.073014
+Onset Slope	-60.30231 mW/°C
+[Direct Cp Calibration]
+(Not Applied)	
+[Rev Cp Calibration]
+(Not Applied)	

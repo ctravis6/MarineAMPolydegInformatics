@@ -1,0 +1,9 @@
+pair_style      nn
+pair_coeff      * * potential_saved C H
+
+neighbor        2.0 bin
+neigh_modify    delay 0 every 1 check yes
+
+thermo_style    custom step temp density vol press ke pe ebond evdwl ecoul elong
+thermo          100
+timestep        0.001

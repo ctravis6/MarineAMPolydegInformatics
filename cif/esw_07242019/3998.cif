@@ -1,0 +1,51 @@
+#======================================================================
+
+# Note: Crystal region of isotactic polyvinyl alcohol
+# Common_name: Perfect crystal
+
+#----------------------------------------------------------------------
+
+data_1
+_audit_creation_method   'vasp2cif'
+_cell_length_a    7.67123901572
+_cell_length_b    2.57251077611
+_cell_length_c    4.86132838775
+_cell_angle_alpha    90.0
+_cell_angle_beta    87.1881481157
+_cell_angle_gamma    90.0
+
+_symmetry_space_group_name_H-M    'P 1'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+C1   C   0.159126785501805   0.266282937315509   0.762397859342549   1.0
+C2   C   0.840873172548513   0.766282937533767   0.237602129474347   1.0
+C3   C   0.252512967619637   0.765965395086042   0.662234923818801   1.0
+C4   C   0.747487051128516   0.265965394867784   0.337765043394363   1.0
+H5   H   0.847140108340049   0.767138293383148   0.011806794191450   1.0
+H6   H   0.975023216798007   0.764710700138117   0.304640947868243   1.0
+H7   H   0.527683717144221   0.595380132903898   0.218051283760602   1.0
+H8   H   0.735354022567137   0.268061890271142   0.565113835021009   1.0
+H9   H   0.264645996936437   0.768061890489399   0.434886175399612   1.0
+H10   H   0.472316331699993   0.095380120780881   0.781948661848837   1.0
+H11   H   0.152859911826880   0.267138293164891   0.988193254171854   1.0
+H12   H   0.024976770717828   0.264710676507164   0.695358975955912   1.0
+O13   O   0.425764699590168   0.739490653914153   0.768796815676765   1.0
+O14   O   0.574235319916568   0.239490653695896   0.231203194925399   1.0
+
+
+# Number_of_total_atoms: 14
+# Number_of_atom_type: 3
+# Name_of_each_atom: C H O
+# Number_of_each_atom: 4 8 2
+# Created_by: Lihua Chen (lihua.chen@mse.gatech.edu)
+# Tool: VASP
+# K-points: 4 10 5
+# Pseudopotential: PBE-HSE06
+# Material_class: MC_Pol
+# Geometry_class: GC_cry
+# Bandgap_(eV): 7.41

@@ -1,0 +1,3850 @@
+103 files
+
+TP = 1316, FP = 979, FN = 1034 / Prec = 0.5734, Recall = 0.5600, F = 0.5666
+
+article-DOI	TP	FP	FN	prec	recall	F
+10.1016/j.colsurfa.2005.02.017	15	10	2	0.6000	0.8824	0.7143
+10.1002/polb.20593	6	1	0	0.8571	1.0000	0.9231
+10.1002/pola.20955	7	4	23	0.6364	0.2333	0.3415
+10.1002/pola.20944	8	23	8	0.2581	0.5000	0.3404
+10.1163/1568555053603279	12	2	5	0.8571	0.7059	0.7742
+10.1002/pola.20953	40	26	17	0.6061	0.7018	0.6504
+10.1016/j.memsci.2007.04.029	13	9	7	0.5909	0.6500	0.6190
+10.1016/j.apcata.2007.05.017	8	5	0	0.6154	1.0000	0.7619
+10.1007/s10853-007-1639-1	8	14	6	0.3636	0.5714	0.4444
+10.1016/.jpcs.2006.12.001	10	10	10	0.5000	0.5000	0.5000
+10.1002/polb.21187	28	13	6	0.6829	0.8235	0.7467
+10.1002/polb.21220	39	6	4	0.8667	0.9070	0.8864
+10.1002/polb.21219	6	10	12	0.3750	0.3333	0.3529
+Iran.Polym.J._2006_15(7)_569-575	3	4	0	0.4286	1.0000	0.6000
+10.1016/j.cplett.2007.05.058	1	3	0	0.2500	1.0000	0.4000
+10.1016/j.colsurfb.2006.09.006	11	8	8	0.5789	0.5789	0.5789
+10.1007/s10853-006-0629-z	9	10	4	0.4737	0.6923	0.5625
+10.1002/jbm.b.30703	0	8	2	0.0000	0.0000	0.0000
+10.1039/b700878c	20	18	17	0.5263	0.5405	0.5333
+10.1016/j.colsurfa.2006.06.009s	38	37	12	0.5067	0.7600	0.6080
+10.1039/b701945a	21	10	28	0.6774	0.4286	0.5250
+10.1002/polb.21089	2	9	18	0.1818	0.1000	0.1290
+10.1007/s10853-007-1566-1	28	24	27	0.5385	0.5091	0.5234
+10.1007/s00396-007-1654-4	6	4	10	0.6000	0.3750	0.4615
+10.1007/s10973-006-7891-9	8	7	11	0.5333	0.4211	0.4706
+10.1007/s10853-006-0630-6	13	2	21	0.8667	0.3824	0.5306
+Iran.Polym.J._2006_15(6)_505-513	5	34	16	0.1282	0.2381	0.1667
+10.1002/jbm.a.31099	24	16	17	0.6000	0.5854	0.5926
+10.1002/polb.21180	5	13	9	0.2778	0.3571	0.3125
+10.1016/j.apsusc.2006.03.004	6	7	5	0.4615	0.5455	0.5000
+Iran.J.Chem.Chem.Eng._2006_25_2_11	10	6	25	0.6250	0.2857	0.3922
+10.1016/j.jpowsour.2006.09.011	5	4	29	0.5556	0.1471	0.2326
+10.1016/j.apsusc.2006.01.084	18	15	6	0.5455	0.7500	0.6316
+10.1039/b616816g	8	8	1	0.5000	0.8889	0.6400
+10.1016/j.apsusc.2006.01.068	20	3	13	0.8696	0.6061	0.7143
+10.1007/s10853-006-1411-y	4	7	2	0.3636	0.6667	0.4706
+10.1007/s10904-006-9056-5	7	7	14	0.5000	0.3333	0.4000
+10.1163/156855406777408502	12	8	11	0.6000	0.5217	0.5581
+10.1007/s10853-006-0230-5	6	5	12	0.5455	0.3333	0.4138
+10.1063/1.2728898	14	7	3	0.6667	0.8235	0.7368
+10.1007/s00396-006-1630-4	12	2	4	0.8571	0.7500	0.8000
+10.1016/j.compscitech.2005.12.013	2	7	8	0.2222	0.2000	0.2105
+Iran.Polym.J._2006_15(5)_433-439	8	4	4	0.6667	0.6667	0.6667
+10.1063/1.2718867	3	5	10	0.3750	0.2308	0.2857
+10.1016/j.jpcs.2006.05.003	1	3	3	0.2500	0.2500	0.2500
+10.1002/pola.21949	32	24	10	0.5714	0.7619	0.6531
+10.1002/polb.21103	20	7	8	0.7407	0.7143	0.7273
+10.1016/j.memsci.2007.04.013	3	14	10	0.1765	0.2308	0.2000
+10.1007/s10973-006-7596-0	8	13	4	0.3810	0.6667	0.4848
+10.1002/pola.21943	45	5	5	0.9000	0.9000	0.9000
+10.1021/la070179s	14	8	5	0.6364	0.7368	0.6829
+10.1002/pola.21926	35	23	16	0.6034	0.6863	0.6422
+10.1002/adfm.200600336	8	5	8	0.6154	0.5000	0.5517
+10.1002/polb.21115	10	5	7	0.6667	0.5882	0.6250
+10.1002/polb.21074	20	19	9	0.5128	0.6897	0.5882
+J.Optelect.Adv.Mater._2006_8(3)_1317-1321	6	8	6	0.4286	0.5000	0.4615
+10.1021/la062794m	5	0	0	1.0000	1.0000	1.0000
+10.1063/1.2538787	3	0	2	1.0000	0.6000	0.7500
+10.1016/j.electacta.2007.01.088	21	17	15	0.5526	0.5833	0.5676
+10.1007/s10965-007-9102-1	11	15	13	0.4231	0.4583	0.4400
+10.1002/jbm.a.31133	17	6	33	0.7391	0.3400	0.4658
+10.1016/j.compscitech.2006.07.034	28	25	25	0.5283	0.5283	0.5283
+10.4067/S0717-97072006000300009	8	13	19	0.3810	0.2963	0.3333
+10.1021/jp070710s	12	7	3	0.6316	0.8000	0.7059
+10.1007/BF02704145	10	7	23	0.5882	0.3030	0.4000
+10.1063/1.2653978	8	9	3	0.4706	0.7273	0.5714
+10.1021/jp070387t	11	3	1	0.7857	0.9167	0.8462
+10.1177/0021998305057368	18	7	32	0.7200	0.3600	0.4800
+10.1007/s10973-006-7745-5	4	3	8	0.5714	0.3333	0.4211
+10.1016/j.jpowsour.2005.11.096	8	9	3	0.4706	0.7273	0.5714
+10.1021/la0634138	24	8	7	0.7500	0.7742	0.7619
+10.1002/pola.21921	7	1	3	0.8750	0.7000	0.7778
+10.1002/polb.21097	15	14	2	0.5172	0.8824	0.6522
+10.1007/s00339-006-3649-2	4	5	7	0.4444	0.3636	0.4000
+10.1007/s10853-006-0375-2	19	8	16	0.7037	0.5429	0.6129
+10.1039/b613561g	28	22	16	0.5600	0.6364	0.5957
+10.1016/j.molstruc.2006.07.038	7	9	9	0.4375	0.4375	0.4375
+10.1016/j.apsusc.2006.03.029corrosion	6	7	8	0.4615	0.4286	0.4444
+10.1177/0021998305057368	20	7	23	0.7407	0.4651	0.5714
+10.1002/pola.21848	22	1	2	0.9565	0.9167	0.9362
+10.1016/j.electacta.2006.10.051	7	15	15	0.3182	0.3182	0.3182
+10.1021/la062879n	9	3	5	0.7500	0.6429	0.6923
+10.1007/s10853-006-1433-5	0	4	2	0.0000	0.0000	0.0000
+10.1002/pola.21833	15	20	5	0.4286	0.7500	0.5455
+10.1007/s10853-006-0011-1	8	16	12	0.3333	0.4000	0.3636
+10.1007/s10853-006-1333-8	3	4	2	0.4286	0.6000	0.5000
+10.1002/pola.21872	17	19	31	0.4722	0.3542	0.4048
+10.1016/j.memsci.2006.11.019	11	9	5	0.5500	0.6875	0.6111
+10.1007/s10904-006-9033-z	10	10	3	0.5000	0.7692	0.6061
+10.1007/s10924-006-0001-z	11	1	1	0.9167	0.9167	0.9167
+10.1021/la0629025	38	16	39	0.7037	0.4935	0.5802
+10.1177/0731684406066364	6	14	16	0.3000	0.2727	0.2857
+10.1163/156856206778937208	11	7	8	0.6111	0.5789	0.5946
+10.1007/BF02706494	7	3	2	0.7000	0.7778	0.7368
+10.1007/BF02706502	5	4	4	0.5556	0.5556	0.5556
+10.1002/pola.21869	38	2	0	0.9500	1.0000	0.9744
+10.1007/s10854-006-0040-1	8	8	10	0.5000	0.4444	0.4706
+10.1039/b610392h	8	12	15	0.4000	0.3478	0.3721
+10.1002/polb.21041	25	15	23	0.6250	0.5208	0.5682
+10.1002/pola.21771	12	5	8	0.7059	0.6000	0.6486
+10.1021/la0624135	12	9	1	0.5714	0.9231	0.7059
+10.1177/0021955X06063512	6	7	2	0.4615	0.7500	0.5714
+10.1016/j.jpowsour.2006.02.104	2	4	14	0.3333	0.1250	0.1818
+
+
+DOI:10.1016/j.colsurfa.2005.02.017
+TP = 15, FP = 10, FN = 2 / prec = 0.6000, recall = 0.8824, F = 0.7143
+Rule-base	TP	FP	FN	Correct answer
+polyaniline	1	0	0	polyaniline
+PANI	1	0	0	PANI
+DBSA doped PANI	1	0	0	DBSA doped PANI
+DBSA-PANI	1	0	0	DBSA-PANI
+EB-PANI	1	0	0	EB-PANI
+Polyaniline	1	0	0	Polyaniline
+PANI-DBSA ,	0	1	0	_
+EBPANI	1	0	0	EBPANI
+synthesized DBSA-PANI	0	1	0	_
+de-doped EB-PANI	0	1	0	_
+colored DBSA-PANI	0	1	0	_
+HCl-doped PANI	1	0	0	HCl-doped PANI
+HCl-PANI	1	0	0	HCl-PANI
+polystyrene	1	0	0	polystyrene
+DBSA doped polyaniline	1	0	0	DBSA doped polyaniline
+APS/An	0	1	0	_
+B-PANI	1	0	0	B-PANI
+PANI ,	0	1	0	_
+PS/An	0	1	0	_
+colored EB-PANI	0	1	0	_
+BSA-PANI	1	0	0	BSA-PANI
+well-doped DBSA-PANI	0	1	0	_
+DBSAPANI	1	0	0	DBSAPANI
+Cl-PANI	1	0	0	Cl-PANI
+nanoscaled polyaniline	0	1	0	_
+_	0	0	1	DBSA - polyaniline
+_	0	0	1	PANI-DBSA
+
+DOI:10.1002/polb.20593
+TP = 6, FP = 1, FN = 0 / prec = 0.8571, recall = 1.0000, F = 0.9231
+Rule-base	TP	FP	FN	Correct answer
+anthracene-labeled polystyrene	1	0	0	anthracene-labeled polystyrene
+PSA	1	0	0	PSA
+poly ( vinyl methyl ether )	1	0	0	poly ( vinyl methyl ether )
+PVME	1	0	0	PVME
+PSA/PVME	1	0	0	PSA/PVME
+PSA / PVME	1	0	0	PSA / PVME
+Photo-Crosslinked PSA/PVME	0	1	0	_
+
+DOI:10.1002/pola.20955
+TP = 7, FP = 4, FN = 23 / prec = 0.6364, recall = 0.2333, F = 0.3415
+Rule-base	TP	FP	FN	Correct answer
+Poly ( N-phenylmaleimide-co-acrylic acid )	0	1	0	_
+poly ( N-PhMI-co-AA )	1	0	0	poly ( N-PhMI-co-AA )
+poly ( N-phenylmaleimide-co-acrylic acid )	1	0	0	poly ( N-phenylmaleimide-co-acrylic acid )
+poly ( N-PhMI-co-bMHI )	1	0	0	poly ( N-PhMI-co-bMHI )
+Poly ( N-PhMI-co-AA )	1	0	0	Poly ( N-PhMI-co-AA )
+N	0	1	0	_
+M1	0	1	0	_
+POLY ( N-PHENYLMALEIMIDE-co-ACRYLIC ACID )	1	0	0	POLY ( N-PHENYLMALEIMIDE-co-ACRYLIC ACID )
+poly ( acrylic acid-co-itaconic acid )	1	0	0	poly ( acrylic acid-co-itaconic acid )
+poly ( glycidyl methacrylate-co-ethylene dimethacrylate )	1	0	0	poly ( glycidyl methacrylate-co-ethylene dimethacrylate )
+1 -- 6 Copolymer	0	1	0	_
+_	0	0	1	Poly ( N-phenylmaleimide-co-acrylic acid ) - Copper ( II )
+_	0	0	1	Poly ( N-phenylmaleimide-co-acrylic acid ) - Cobalt ( II )
+_	0	0	1	Poly ( N-PhMI-co-AA ) with Cu ( II )
+_	0	0	1	copolymer 3
+_	0	0	1	Copolymer 3 with Cu ( II )
+_	0	0	1	complexes 3
+_	0	0	1	Copolymer 3 with Co ( II )
+_	0	0	1	Copolymer 3
+_	0	0	1	complex 6
+_	0	0	1	complex 3
+_	0	0	1	complexes 1
+_	0	0	1	complexes 4
+_	0	0	1	complexes 5
+_	0	0	1	Complexes 1
+_	0	0	1	Complex 1
+_	0	0	1	Complex 2
+_	0	0	1	Complex 3
+_	0	0	1	Complex 4
+_	0	0	1	Complex 5
+_	0	0	1	Complex 6
+_	0	0	1	copolymers 1
+_	0	0	1	complex 4
+_	0	0	1	poly ( N-PhMI-co-AA ) with Cu ( II )
+
+DOI:10.1002/pola.20944
+TP = 8, FP = 23, FN = 8 / prec = 0.2581, recall = 0.5000, F = 0.3404
+Rule-base	TP	FP	FN	Correct answer
+Cyclic Poly ( pyridine ether )	0	1	0	_
+optimized polyethers	0	1	0	_
+poly ( pyridine ether )	1	0	0	poly ( pyridine ether )
+protonated polyethers	0	1	0	_
+polyethers	0	1	0	_
+poly ( vinyl pyridine )	1	0	0	poly ( vinyl pyridine )
+multicyclic polyethers	0	1	0	_
+P4O10	0	1	0	_
+precipitated polyether	0	1	0	_
+Commercial polystyrene	0	1	0	_
+CYCLIC POLY ( PYRIDINE ETHER )	0	1	0	_
+polyamides ,	0	1	0	_
+polyesters	0	1	0	_
+polyethers11	1	0	0	polyethers11
+Cyclic Polyethers	0	1	0	_
+cyclic polyethers	0	1	0	_
+precipitated polyethers	0	1	0	_
+isolated polyethers	0	1	0	_
+Polyethers	0	1	0	_
+optimized poly ( pyridine ether )	0	1	0	_
+polyether	0	1	0	_
+optimized poly ( ether sulfone )	0	1	0	_
+poly ( ether ketone )	1	0	0	poly ( ether ketone )
+poly ( benzonitrile ether )	1	0	0	poly ( benzonitrile ether )
+polystyrene	1	0	0	polystyrene
+cyclic poly ( pyridine ether )	0	1	0	_
+proved polyether	0	1	0	_
+protonated polyether	0	1	0	_
+Poly ( pyridine ether )	1	0	0	Poly ( pyridine ether )
+cyclic polyether	0	1	0	_
+poly ( ether sulfone )	1	0	0	poly ( ether sulfone )
+_	0	0	1	POLY ( PYRIDINE ETHER )
+_	0	0	1	30
+_	0	0	1	polyether 1
+_	0	0	1	20
+_	0	0	1	40
+_	0	0	1	50
+_	0	0	1	60
+_	0	0	1	polyether 30
+
+DOI:10.1163/1568555053603279
+TP = 12, FP = 2, FN = 5 / prec = 0.8571, recall = 0.7059, F = 0.7742
+Rule-base	TP	FP	FN	Correct answer
+polyimidosulfides	1	0	0	polyimidosulfides
+Polyimidosulfide	1	0	0	Polyimidosulfide
+polybismaleimide	1	0	0	polybismaleimide
+poly ( aminobismaleimide )	1	0	0	poly ( aminobismaleimide )
+poly ( imido-thioether )	1	0	0	poly ( imido-thioether )
+polyimidothioethers	1	0	0	polyimidothioethers
+polystyrene	1	0	0	polystyrene
+4a	1	0	0	4a
+T	0	1	0	_
+4b	1	0	0	4b
+4d	1	0	0	4d
+PC	0	1	0	_
+poly ( imidothioethers )	1	0	0	poly ( imidothioethers )
+polysulfides	1	0	0	polysulfides
+_	0	0	1	polymers 4a - d
+_	0	0	1	polymers
+_	0	0	1	4a - d
+_	0	0	1	4c
+_	0	0	1	polymer 4b
+
+DOI:10.1002/pola.20953
+TP = 40, FP = 26, FN = 17 / prec = 0.6061, recall = 0.7018, F = 0.6504
+Rule-base	TP	FP	FN	Correct answer
+Poly [ ( R ) -3 hydroxybutyrate ]	1	0	0	Poly [ ( R ) -3 hydroxybutyrate ]
+poly ( tert-butyl acrylate ) -- poly [ ( R ) -3 - hydroxybutyrate ] -- poly ( tert-butyl acrylate )	0	1	0	_
+poly [ ( R ) -3 - hydroxybutyrate ]	1	0	0	poly [ ( R ) -3 - hydroxybutyrate ]
+PHB	1	0	0	PHB
+poly ( tert-butyl acrylate )	1	0	0	poly ( tert-butyl acrylate )
+PtBA -- PHB -- PtBA	0	1	0	_
+Poly [ ( R ) -3 - hydroxybutyrate ]	1	0	0	Poly [ ( R ) -3 - hydroxybutyrate ]
+related poly [ ( R ) -3 - hydroxyalkanonate ]	0	1	0	_
+poly ( vinyl acetate )	1	0	0	poly ( vinyl acetate )
+poly ( methyl methacrylate )	1	0	0	poly ( methyl methacrylate )
+PMMA	1	0	0	PMMA
+poly ( ethylene oxide )	1	0	0	poly ( ethylene oxide )
+PEO	1	0	0	PEO
+poly ( vinyl alcohol )	1	0	0	poly ( vinyl alcohol )
+polylactide	1	0	0	polylactide
+PLA	1	0	0	PLA
+poly ( ecaprolactone )	1	0	0	poly ( ecaprolactone )
+PCL	1	0	0	PCL
+cellulose	1	0	0	cellulose
+poly ( ester urethane )	1	0	0	poly ( ester urethane )
+hydroxylated poly [ ( R ) -3 - hydroxybutyrate ]	1	0	0	hydroxylated poly [ ( R ) -3 - hydroxybutyrate ]
+PHBdiol	1	0	0	PHBdiol
+poly ( butylene glycol adipate )	1	0	0	poly ( butylene glycol adipate )
+poly ( diethylene glycol adipate )	1	0	0	poly ( diethylene glycol adipate )
+poly [ ( R ) -3 - hydroxyoctanoate ]	1	0	0	poly [ ( R ) -3 - hydroxyoctanoate ]
+PHB-diol	1	0	0	PHB-diol
+ABA	1	0	0	ABA
+obtained PHB -- PCL	0	1	0	_
+PHB -- PLA	0	1	0	_
+PHB-O-AlEt2	1	0	0	PHB-O-AlEt2
+obtained PHB-g-PMMA	0	1	0	_
+synthesized PHB -- PMMA	0	1	0	_
+poly [ ( R , S ) -3 - hydroxybutyrate ] -- polystyrene	0	1	0	_
+poly [ ( R , S ) -3 - hydroxybutyrate ]	1	0	0	poly [ ( R , S ) -3 - hydroxybutyrate ]
+Poly ( tert-butyl acrylate )	1	0	0	Poly ( tert-butyl acrylate )
+PtBA	1	0	0	PtBA
+polyacrylate	0	1	0	_
+poly ( acrylic acid )	1	0	0	poly ( acrylic acid )
+PAA	1	0	0	PAA
+poly ( tert-butyl acrylate ) -- poly [ ( R ) - 3-hydroxybutyrate ] -- poly ( tert-butyl acrylate )	0	1	0	_
+monodispersed polystyrene	0	1	0	_
+purified PHB	0	1	0	_
+PMDETA	0	1	0	_
+PHB-Diol	1	0	0	PHB-Diol
+PHBII	1	0	0	PHBII
+PtBA -- PHB -- PtBA3	0	1	0	_
+ABA3	1	0	0	ABA3
+PAA -- PHB -- PAA	0	1	0	_
+PtBA -- PHB -- PtBA3 ( ABA3 ) triblock copolymer	0	1	0	_
+denoted PHBI	0	1	0	_
+PHBIII	1	0	0	PHBIII
+substituted PHB-diol	0	1	0	_
+polyester	0	1	0	_
+CuBr/PMDETA	0	1	0	_
+PHBI	1	0	0	PHBI
+denoted ABA1	0	1	0	_
+ABA2	1	0	0	ABA2
+PtBA -- PHB -- PtBA triblock copolymer	0	1	0	_
+ABA1	1	0	0	ABA1
+dPHBc	1	0	0	dPHBc
+PtBAd	1	0	0	PtBAd
+denoted ABA	0	1	0	_
+PtBAb	1	0	0	PtBAb
+PtBA -- PHB -- PtBA1	0	1	0	_
+PtBA -- PHB -- PtBA2	0	1	0	_
+Polyesters	0	1	0	_
+_	0	0	1	poly ( tert-butyl acrylate ) - poly [ ( R ) -3 - hydroxybutyrate ] - poly ( tert-butyl acrylate )
+_	0	0	1	PtBA - PHB - PtBA
+_	0	0	1	PHB - PCL
+_	0	0	1	PHB - PLA
+_	0	0	1	PHB-g-PMMA
+_	0	0	1	PHB - PMMA
+_	0	0	1	poly [ ( R , S ) -3 - hydroxybutyrate ] - polystyrene
+_	0	0	1	poly ( tert-butyl acrylate ) - poly [ ( R ) - 3-hydroxybutyrate ] - poly ( tert-butyl acrylate )
+_	0	0	1	polystyrene
+_	0	0	1	PHB-diols
+_	0	0	1	PHB - Br
+_	0	0	1	PtBA - PHB - PtBA3
+_	0	0	1	PHB - BrII
+_	0	0	1	PAA - PHB - PAA
+_	0	0	1	PAA PHB PAA
+_	0	0	1	PtBA - PHB - PtBA1
+_	0	0	1	PtBA - PHB - PtBA2
+
+DOI:10.1016/j.memsci.2007.04.029
+TP = 13, FP = 9, FN = 7 / prec = 0.5909, recall = 0.6500, F = 0.6190
+Rule-base	TP	FP	FN	Correct answer
+Nafion/sulfonated poly ( aryl ether ketone )	1	0	0	Nafion/sulfonated poly ( aryl ether ketone )
+Sulfonated poly ( aryl ether ketone )	1	0	0	Sulfonated poly ( aryl ether ketone )
+sPAEK	1	0	0	sPAEK
+Nafion	1	0	0	Nafion
+PEMFC	0	1	0	_
+sulfonated poly ( aryl ether ketone )	1	0	0	sulfonated poly ( aryl ether ketone )
+poly ( aryl ther ketone )	1	0	0	poly ( aryl ther ketone )
+ynthesized sPAEK	0	1	0	_
+eceived Nafion	0	1	0	_
+pure sPAEK	0	1	0	_
+PAEK	1	0	0	PAEK
+investiated sPAEK	0	1	0	_
+sulfonated polybenzimidazole	0	1	0	_
+poly ( ether-etherketone )	1	0	0	poly ( ether-etherketone )
+poly ( 4-phenoxybenzoyl1 ,4 - phenylene )	1	0	0	poly ( 4-phenoxybenzoyl1 ,4 - phenylene )
+poly ( 4-vinyl pyridine )	1	0	0	poly ( 4-vinyl pyridine )
+polyether	0	1	0	_
+Nafion-sulfonated poly ( arylene ether sulfone )	1	0	0	Nafion-sulfonated poly ( arylene ether sulfone )
+sulfonate-functionalized poly ( ether ether ketone )	0	1	0	_
+Amino-functionalized poly ( arylene ether ketone )	0	1	0	_
+poly ( aryl ether ketone )	1	0	0	poly ( aryl ether ketone )
+sulfonated poly ( ether ether ketone )	1	0	0	sulfonated poly ( ether ether ketone )
+_	0	0	1	Nafion-sulfonated poly ether ether ketone ) ( SPEEK ) - Nafion
+_	0	0	1	NSN
+_	0	0	1	Nafion117
+_	0	0	1	polybenzimidazole
+_	0	0	1	polyether ether ketone
+_	0	0	1	poly ( ether ether ketone )
+_	0	0	1	poly ( arylene ether ketone )
+
+DOI:10.1016/j.apcata.2007.05.017
+TP = 8, FP = 5, FN = 0 / prec = 0.6154, recall = 1.0000, F = 0.7619
+Rule-base	TP	FP	FN	Correct answer
+sulfonated polystyrene	1	0	0	sulfonated polystyrene
+polyaniline	1	0	0	polyaniline
+PANI	1	0	0	PANI
+Polyaniline	1	0	0	Polyaniline
+doped polyaniline	0	1	0	_
+poly ( ethylene glycol )	1	0	0	poly ( ethylene glycol )
+PANI/SPS	1	0	0	PANI/SPS
+Poly ( sodium 4-styrene sulfonated )	1	0	0	Poly ( sodium 4-styrene sulfonated )
+SPS	1	0	0	SPS
+dedoped PANI	0	1	0	_
+synthesized PANI	0	1	0	_
+PANI/SPS ,	0	1	0	_
+obtained PANI	0	1	0	_
+
+DOI:10.1007/s10853-007-1639-1
+TP = 8, FP = 14, FN = 6 / prec = 0.3636, recall = 0.5714, F = 0.4444
+Rule-base	TP	FP	FN	Correct answer
+poly ( p-phenylene benzobisoxazole )	1	0	0	poly ( p-phenylene benzobisoxazole )
+PBO	1	0	0	PBO
+termed PBO/Cu/Au	1	0	0	termed PBO/Cu/Au
+PBO/Cu/Ni	1	0	0	PBO/Cu/Ni
+Poly ( p-phenylene benzobisoxazole )	1	0	0	Poly ( p-phenylene benzobisoxazole )
+polybenzazoles	1	0	0	polybenzazoles
+goldplated PBO	0	1	0	_
+gold-plated PBO	0	1	0	_
+PBO/Cu	1	0	0	PBO/Cu
+treated PBO/Cu/Ni	0	1	0	_
+copper-plated PBO	0	1	0	_
+PBO/Cu/Au	1	0	0	PBO/Cu/Au
+metal-plated PBO	0	1	0	_
+plated PBO	0	1	0	_
+rPBOuPBO	0	1	0	_
+uPBO	0	1	0	_
+nonplated PBO	0	1	0	_
+rPBO	0	1	0	_
+Gold-plated PBO	0	1	0	_
+nickel-plated PBO	0	1	0	_
+PA	0	1	0	_
+Poly Sci 102:1428 15 . Tooru K , Hiroki M , Kazuyuki Y ( 1998 )	0	1	0	_
+_	0	0	1	PBO/Cu/Ni / Au
+_	0	0	1	PBO / Cu
+_	0	0	1	PBO/Cu / Ni/Au
+_	0	0	1	PBO/Cu / Au
+_	0	0	1	PBO / Cu/Au
+_	0	0	1	PBO / Cu/Ni/Au
+
+DOI:10.1016/.jpcs.2006.12.001
+TP = 10, FP = 10, FN = 10 / prec = 0.5000, recall = 0.5000, F = 0.5000
+Rule-base	TP	FP	FN	Correct answer
+PVAc	1	0	0	PVAc
+PVAc-LiClO4	1	0	0	PVAc-LiClO4
+polyether-based	0	1	0	_
+poly-e	0	1	0	_
+PAN	1	0	0	PAN
+PMMA	1	0	0	PMMA
+PVdF	1	0	0	PVdF
+Poly ( vinyl acetate )	1	0	0	Poly ( vinyl acetate )
+polyester	0	1	0	_
+polyester-salt	0	1	0	_
+poly ( ethylene oxide )	1	0	0	poly ( ethylene oxide )
+PEO	1	0	0	PEO
+pure PVAc	0	1	0	_
+Pure PVAc	0	1	0	_
+80PVAc	0	1	0	_
+90PVAc	0	1	0	_
+85PVAc	0	1	0	_
+TPU-LiClO4	1	0	0	TPU-LiClO4
+poly ( trimethylenecarbonate )	0	1	0	_
+PEO-LiAsF6	1	0	0	PEO-LiAsF6
+_	0	0	1	PVAc - LiClO4
+_	0	0	1	PVAc : LiClO4
+_	0	0	1	80PVAc :20 LiClO4
+_	0	0	1	90PVAc :10 LiClO4
+_	0	0	1	85PVAc :15 LiClO4
+_	0	0	1	poly ( trimethylenecarbonate ) with LiBF4
+_	0	0	1	PEO - LiBF4
+_	0	0	1	80wt % PVAc - 20wt % LiClO4
+_	0	0	1	( PEO ) 8 - LiClO4
+_	0	0	1	80wt % PVAc :20 wt % LiClO4
+
+DOI:10.1002/polb.21187
+TP = 28, FP = 13, FN = 6 / prec = 0.6829, recall = 0.8235, F = 0.7467
+Rule-base	TP	FP	FN	Correct answer
+PMMA	1	0	0	PMMA
+HDPE/EG	1	0	0	HDPE/EG
+HDPE/UG	1	0	0	HDPE/UG
+6/GNP	0	1	0	_
+PMMA/EG	1	0	0	PMMA/EG
+PS/EG	1	0	0	PS/EG
+POBDS/GNP	1	0	0	POBDS/GNP
+PS/GNP	1	0	0	PS/GNP
+PS/UG	1	0	0	PS/UG
+PETI/EG	1	0	0	PETI/EG
+PMMA/GNP	1	0	0	PMMA/GNP
+PMMA/UG	1	0	0	PMMA/UG
+PVC/PMMA/EG	1	0	0	PVC/PMMA/EG
+PMMA/EGd	1	0	0	PMMA/EGd
+PANI/GNP	1	0	0	PANI/GNP
+POBDS	1	0	0	POBDS
+Poly ( 4,40-oxybis ( benzene ) disulfide )	1	0	0	Poly ( 4,40-oxybis ( benzene ) disulfide )
+GNP	0	1	0	_
+phenylethynyl-terminated polyimide	1	0	0	phenylethynyl-terminated polyimide
+PETI-5	1	0	0	PETI-5
+EG/polyethylene	1	0	0	EG/polyethylene
+poly ( 4,40 oxybis ( benzene ) disulfide )	1	0	0	poly ( 4,40 oxybis ( benzene ) disulfide )
+prepared PMMA	0	1	0	_
+Poly ( methyl methacrylate )	1	0	0	Poly ( methyl methacrylate )
+Polysciences	0	1	0	_
+PA	0	1	0	_
+PARTICLE	0	1	0	_
+GRAPHITE/PMMA	1	0	0	GRAPHITE/PMMA
+NANOCOMPOSITES	0	1	0	_
+ASAP	0	1	0	_
+GNP / PMMA	1	0	0	GNP / PMMA
+PTFE	1	0	0	PTFE
+ARG/PMMA	1	0	0	ARG/PMMA
+EG/PMMA	1	0	0	EG/PMMA
+pure PMMA	0	1	0	_
+polycarbonate	1	0	0	polycarbonate
+PELLA	0	1	0	_
+GNP/PMMA	1	0	0	GNP/PMMA
+GNPb	0	1	0	_
+lGNP	0	1	0	_
+TPa	0	1	0	_
+_	0	0	1	Nylon 6/GNP
+_	0	0	1	Epoxy/EG
+_	0	0	1	Nylon 6/FG
+_	0	0	1	EG / PMMA
+_	0	0	1	graphite / PMMA
+_	0	0	1	ARG / PMMA
+
+DOI:10.1002/polb.21220
+TP = 39, FP = 6, FN = 4 / prec = 0.8667, recall = 0.9070, F = 0.8864
+Rule-base	TP	FP	FN	Correct answer
+poly ( 1,4-butylene succinate )	1	0	0	poly ( 1,4-butylene succinate )
+PBSU	1	0	0	PBSU
+poly ( vinylidene fluoride )	1	0	0	poly ( vinylidene fluoride )
+PVDF	1	0	0	PVDF
+PBSU/PVDF	1	0	0	PBSU/PVDF
+J	0	1	0	_
+poly ( e-caprolactone )	1	0	0	poly ( e-caprolactone )
+PCL	1	0	0	PCL
+poly ( vinyl chloride )	1	0	0	poly ( vinyl chloride )
+PVC	1	0	0	PVC
+poly ( ethylene oxide )	1	0	0	poly ( ethylene oxide )
+PEO	1	0	0	PEO
+poly ( vinyl acetate )	1	0	0	poly ( vinyl acetate )
+PVA	1	0	0	PVA
+PEO/poly ( methyl methacrylate )	1	0	0	PEO/poly ( methyl methacrylate )
+PMMA	1	0	0	PMMA
+polystyrene	1	0	0	polystyrene
+iPS	1	0	0	iPS
+aPS	1	0	0	aPS
+PCL/polycarbonate	1	0	0	PCL/polycarbonate
+PC	1	0	0	PC
+poly ( 1,4-butylene adipate )	1	0	0	poly ( 1,4-butylene adipate )
+PBA	1	0	0	PBA
+PVDF/PBA	1	0	0	PVDF/PBA
+PVDF/poly ( 3-hydroxybutyrate )	1	0	0	PVDF/poly ( 3-hydroxybutyrate )
+PHB	1	0	0	PHB
+PEO/poly ( 1,4-butylene succinate )	1	0	0	PEO/poly ( 1,4-butylene succinate )
+PBSU / PVDF	1	0	0	PBSU / PVDF
+PBSU-rich	0	1	0	_
+poly ( tetrafluoroethylene )	1	0	0	poly ( tetrafluoroethylene )
+PSPC	0	1	0	_
+FP82HT	0	1	0	_
+pure PBSU	1	0	0	pure PBSU
+PVDF/PBSU	1	0	0	PVDF/PBSU
+PCL/PVC	1	0	0	PCL/PVC
+PEO/PVA	1	0	0	PEO/PVA
+PEO/PMMA	1	0	0	PEO/PMMA
+PCL/PC	1	0	0	PCL/PC
+PCL/PS	1	0	0	PCL/PS
+polyethylene	1	0	0	polyethylene
+excluded PBSU	1	0	0	excluded PBSU
+pure polyFigure	0	1	0	_
+PE	1	0	0	PE
+PS	1	0	0	PS
+PolymPhys	0	1	0	_
+_	0	0	1	isotactic polystyrene
+_	0	0	1	atactic polystyrene
+_	0	0	1	PCL-rich blends
+_	0	0	1	PBSU/PVDF 1/4 30/70
+
+DOI:10.1002/polb.21219
+TP = 6, FP = 10, FN = 12 / prec = 0.3750, recall = 0.3333, F = 0.3529
+Rule-base	TP	FP	FN	Correct answer
+Stretched Poly ( ethylene naphthalene 2,6-dicarboxylate )	0	1	0	_
+Polymères	0	1	0	_
+Poly ( ethylene naphthalene-2 ,6 - dicarboxylate )	1	0	0	Poly ( ethylene naphthalene-2 ,6 - dicarboxylate )
+A	0	1	0	_
+polyesters	0	1	0	_
+poly ( ethylene naphthalene 2,6 dicarboxylate )	1	0	0	poly ( ethylene naphthalene 2,6 dicarboxylate )
+poly ( ethylene naphthalene-2 ,6 - dicarboxylate )	1	0	0	poly ( ethylene naphthalene-2 ,6 - dicarboxylate )
+PEN	1	0	0	PEN
+stretched PEN	0	1	0	_
+oriented PEN	0	1	0	_
+STRETCHED PEN	0	1	0	_
+POLARIZED	0	1	0	_
+PET	1	0	0	PET
+PEEK	1	0	0	PEEK
+Polyatomic	0	1	0	_
+PolyathylenterephthalatFaserstoffen	0	1	0	_
+_	0	0	1	Poly ( ethylene naphthalene 2,6-dicarboxylate )
+_	0	0	1	100A
+_	0	0	1	160A
+_	0	0	1	100B
+_	0	0	1	160B
+_	0	0	1	100C
+_	0	0	1	160C
+_	0	0	1	100D
+_	0	0	1	160D
+_	0	0	1	100E
+_	0	0	1	160E
+_	0	0	1	Samples 100A
+
+DOI:Iran.Polym.J._2006_15(7)_569-575
+TP = 3, FP = 4, FN = 0 / prec = 0.4286, recall = 1.0000, F = 0.6000
+Rule-base	TP	FP	FN	Correct answer
+ethylene/1-butene copolymer	1	0	0	ethylene/1-butene copolymer
+PID	0	1	0	_
+PE/h	0	1	0	_
+PE	1	0	0	PE
+polyethylene	1	0	0	polyethylene
+NPC	0	1	0	_
+prepolyIranian	0	1	0	_
+
+DOI:10.1016/j.cplett.2007.05.058
+TP = 1, FP = 3, FN = 0 / prec = 0.2500, recall = 1.0000, F = 0.4000
+Rule-base	TP	FP	FN	Correct answer
+poly bis ( phenol A carbonate )	1	0	0	poly bis ( phenol A carbonate )
+POLITEHNICA	0	1	0	_
+pm/V	0	1	0	_
+EU-STREP	0	1	0	_
+
+DOI:10.1016/j.colsurfb.2006.09.006
+TP = 11, FP = 8, FN = 8 / prec = 0.5789, recall = 0.5789, F = 0.5789
+Rule-base	TP	FP	FN	Correct answer
+Poly ( p-xylylene )	1	0	0	Poly ( p-xylylene )
+poly ( 2-methacryloyloxyethyl hosphorylcholine ( MPC ) )	0	1	0	_
+poly ( MPC )	1	0	0	poly ( MPC )
+hydrated poly ( MPC )	1	0	0	hydrated poly ( MPC )
+MPC	1	0	0	MPC
+PC	0	1	0	_
+dried poly ( MPC )	1	0	0	dried poly ( MPC )
+DPX	0	1	0	_
+Poly ( MPC )	1	0	0	Poly ( MPC )
+poly ( acrylamide )	1	0	0	poly ( acrylamide )
+Polystyrene	1	0	0	Polystyrene
+cellulose	0	1	0	_
+P/C	0	1	0	_
+PS	0	1	0	_
+N/P	0	1	0	_
+polyimethylsiloxane	0	1	0	_
+grafted poly ( MPC )	1	0	0	grafted poly ( MPC )
+poly ( ethylene glycol )	1	0	0	poly ( ethylene glycol )
+photoinduced poly ( MPC )	1	0	0	photoinduced poly ( MPC )
+_	0	0	1	Parylene
+_	0	0	1	Parylene C
+_	0	0	1	Poly ( MPC ) grafting on Parylene C
+_	0	0	1	hydroxypropyl cellulose
+_	0	0	1	poly ( MPC ) grafting on Parylene
+_	0	0	1	poly ( MPC ) grafting from Parylene C
+_	0	0	1	poly ( MPC ) - grafted Parylene C
+_	0	0	1	poly ( MPC ) grafting on polyimethylsiloxane
+
+DOI:10.1007/s10853-006-0629-z
+TP = 9, FP = 10, FN = 4 / prec = 0.4737, recall = 0.6923, F = 0.5625
+Rule-base	TP	FP	FN	Correct answer
+polyacrylamide	1	0	0	polyacrylamide
+PAM	1	0	0	PAM
+a-ZrP	1	0	0	a-ZrP
+PAM / a-ZrP	1	0	0	PAM / a-ZrP
+PAM/a-ZrP	1	0	0	PAM/a-ZrP
+intercalated a-ZrP	0	1	0	_
+monoamine-terminated polyether	0	1	0	_
+aZrP	1	0	0	aZrP
+Polyacrylamide	1	0	0	Polyacrylamide
+layered a-ZrP	0	1	0	_
+Layered a-ZrP	0	1	0	_
+pristine a-ZrP	0	1	0	_
+exfoliated a-ZrP	0	1	0	_
+intercalated PAM	0	1	0	_
+PAM/5	1	0	0	PAM/5
+pure PAM	0	1	0	_
+PC	0	1	0	_
+PAM/15	0	1	0	_
+pure PAM 182	1	0	0	pure PAM 182
+_	0	0	1	polyacrylamide / a-zirconium phosphate
+_	0	0	1	PAM / 5 wt % a-ZrP
+_	0	0	1	PAM/5 wt % a-ZrP
+_	0	0	1	PAM/15 wt % a-ZrP
+
+DOI:10.1002/jbm.b.30703
+TP = 0, FP = 8, FN = 2 / prec = 0.0000, recall = 0.0000, F = 0.0000
+Rule-base	TP	FP	FN	Correct answer
+COMPOSITES	0	1	0	_
+DMPT	0	1	0	_
+P450	0	1	0	_
+P388	0	1	0	_
+EPR	0	1	0	_
+PE	0	1	0	_
+THP-1	0	1	0	_
+PA ,	0	1	0	_
+_	0	0	1	Cytochrome P450 1A2
+_	0	0	1	NADPH-Cytochrome P450
+
+DOI:10.1039/b700878c
+TP = 20, FP = 18, FN = 17 / prec = 0.5263, recall = 0.5405, F = 0.5333
+Rule-base	TP	FP	FN	Correct answer
+cellulose	1	0	0	cellulose
+polyaniline	1	0	0	polyaniline
+PANI	1	0	0	PANI
+poly ( p-phenylene ethynylene )	1	0	0	poly ( p-phenylene ethynylene )
+PPE	1	0	0	PPE
+Cellulose	1	0	0	Cellulose
+studied cellulose	0	1	0	_
+polypyrrole	0	1	0	_
+coated cellulose	0	1	0	_
+PSS	1	0	0	PSS
+PTI	0	1	0	_
+wPL	0	1	0	_
+PTFE	1	0	0	PTFE
+PPh3	0	1	0	_
+CMC	0	1	0	_
+Polyaniline	1	0	0	Polyaniline
+doped polyaniline	1	0	0	doped polyaniline
+PPE/SO4-TW	1	0	0	PPE/SO4-TW
+CSA-doped PANI	1	0	0	CSA-doped PANI
+used Polyaniline	0	1	0	_
+Poly ( p-phenylene ethynylene )	1	0	0	Poly ( p-phenylene ethynylene )
+PPEs	1	0	0	PPEs
+unsubstituted PPE	0	1	0	_
+propyloxy-derivatized poly ( 2,5-dialkoxy-p-phenylene ethynylene )	0	1	0	_
+substituted PPE	0	1	0	_
+PANI/TW	1	0	0	PANI/TW
+CSA/PhN	0	1	0	_
+undoped PANI	0	1	0	_
+poly ( 2,5-dialkoxy-p-phenylene ethynylene )	0	1	0	_
+Undoped polyaniline	0	1	0	_
+PANI/SO4-TW	1	0	0	PANI/SO4-TW
+PANI ,45	0	1	0	_
+poly ( methyl methacrylate )	1	0	0	poly ( methyl methacrylate )
+PMMA	1	0	0	PMMA
+extended PANI	0	1	0	_
+protonated PPE	1	0	0	protonated PPE
+charged PANI	0	1	0	_
+PPE-SO4-TW	1	0	0	PPE-SO4-TW
+_	0	0	1	polypyrrole coated cellulose
+_	0	0	1	poly ( p-phenylene ethynylene ) derivative 4
+_	0	0	1	PPE 4
+_	0	0	1	PANI - CSA/TW
+_	0	0	1	PANI - CSA/SO4-TW
+_	0	0	1	PANI - CSA
+_	0	0	1	Poly ( p-phenylene ethynylene ) functionalized with alkylamino groups
+_	0	0	1	poly ( 2,5-dialkoxy-p-phenylene ethynylene ) 4
+_	0	0	1	2,5-dialkoxy substituted PPE
+_	0	0	1	PANI - CSA/whisker
+_	0	0	1	PANI/whisker
+_	0	0	1	4/SO4-TW
+_	0	0	1	polyaniline doped with camphersulfonic acid and whiskers produced by sulfuric acid hydrolysis
+_	0	0	1	Polyaniline doped with camphersulfonic acid
+_	0	0	1	PANI - CSA/HCl-TW
+_	0	0	1	PPE 4/SO4-TW
+_	0	0	1	PPE 4/TW
+
+DOI:10.1016/j.colsurfa.2006.06.009s
+TP = 38, FP = 37, FN = 12 / prec = 0.5067, recall = 0.7600, F = 0.6080
+Rule-base	TP	FP	FN	Correct answer
+69 -- 78 Novel amphiphilic triblock copolymer	0	1	0	_
+PPDO	1	0	0	PPDO
+PCL	1	0	0	PCL
+PEG	1	0	0	PEG
+poly ( p-dioxanone-co-caprolactone )	0	1	0	_
+block-poly ( ethylene oxide )	0	1	0	_
+block-poly ( p-dioxanone-co-caprolactone )	0	1	0	_
+PPDO-co-PCL-b-PEO-b-PPDO-co-PCL	1	0	0	PPDO-co-PCL-b-PEO-b-PPDO-co-PCL
+poly ( ethylene glycol )	1	0	0	poly ( ethylene glycol )
+CMC	0	1	0	_
+PICN	0	1	0	_
+PPDO-b-PEO-b-PPDO	1	0	0	PPDO-b-PEO-b-PPDO
+PEO-b-PCL	0	1	0	_
+polyesters	0	1	0	_
+PLA-b-PEG	1	0	0	PLA-b-PEG
+PLGA-b-PEG	1	0	0	PLGA-b-PEG
+PCL-PEG-b-PCL	1	0	0	PCL-PEG-b-PCL
+PLLA	1	0	0	PLLA
+PDO	1	0	0	PDO
+PPDO-co-PCL-b-PEG-b-PPDO-co-PCL	1	0	0	PPDO-co-PCL-b-PEG-b-PPDO-co-PCL
+selected PEG	0	1	0	_
+Poly ( ethylene glycol )	1	0	0	Poly ( ethylene glycol )
+PPDO-co-PCL-b-PEO-b-PPDO-coCL	1	0	0	PPDO-co-PCL-b-PEO-b-PPDO-coCL
+PPDO-co-PCL-b-PEO-PPDO-co-PCL	1	0	0	PPDO-co-PCL-b-PEO-PPDO-co-PCL
+PPDO-coP	0	1	0	_
+polyers	0	1	0	_
+CL/PDO	0	1	0	_
+polyr	0	1	0	_
+CL-b-PEO-b-PPDO-co-PCL	0	1	0	_
+PCL-bEO-b-PCL	0	1	0	_
+PEO	1	0	0	PEO
+PCLb	1	0	0	PCLb
+PPDOco-PCL-b-PEO-b-PPDO-co-PCL	1	0	0	PPDOco-PCL-b-PEO-b-PPDO-co-PCL
+PPDO-co-PCL-b-PEO-b-PPDOco-PCL	1	0	0	PPDO-co-PCL-b-PEO-b-PPDOco-PCL
+PCL-b-PEO-b-PCL	1	0	0	PCL-b-PEO-b-PCL
+PPDO/PCL	1	0	0	PPDO/PCL
+PPDO-co-PCL-b-PEO-bPDO-co-PCL	1	0	0	PPDO-co-PCL-b-PEO-bPDO-co-PCL
+copolyer	0	1	0	_
+PCl	1	0	0	PCl
+copolyers	0	1	0	_
+PPDO-co-PCL-PEO-b-PPDO-co-PCL	1	0	0	PPDO-co-PCL-PEO-b-PPDO-co-PCL
+PPDO-coCL-b-PEO-b-PPDO-co-PCL	1	0	0	PPDO-coCL-b-PEO-b-PPDO-co-PCL
+poly ( styrene )	1	0	0	poly ( styrene )
+polyester	0	1	0	_
+PPDO-PEO-b-PPDO	1	0	0	PPDO-PEO-b-PPDO
+PCL-PEO-b-PCL	1	0	0	PCL-PEO-b-PCL
+PDOn	0	1	0	_
+PPDO-co-PCL-b-PEO-bCL-co-PPDO	0	1	0	_
+ABA	0	1	0	_
+poly ( p-dioxanone-co - - caprolactone )	0	1	0	_
+PPDO-PEG-b-PPDO	1	0	0	PPDO-PEG-b-PPDO
+co-PCL-b-PEO-b-PPDO-co-PCL	1	0	0	co-PCL-b-PEO-b-PPDO-co-PCL
+Chitosan	1	0	0	Chitosan
+poly ( N-vinylpyrrolidone )	0	1	0	_
+block-poly ( d,l-lactide )	0	1	0	_
+polyethylene	0	1	0	_
+grafted poly ( aspartic acid )	0	1	0	_
+nimodipine-loaded poly ( caprolactone )	0	1	0	_
+poly ( ethylene oxide )	0	1	0	_
+poly ( - caprolactone )	0	1	0	_
+PLA-PEG	1	0	0	PLA-PEG
+poly ( pdioxanone-co-l-lactide )	0	1	0	_
+block-poly ( ethylene glycol )	0	1	0	_
+PPDO/PLLA-b-PEG	1	0	0	PPDO/PLLA-b-PEG
+poly ( p-dioxanone-co-l-lactide )	0	1	0	_
+PDON-b-PEG-bPDON	0	1	0	_
+polylactones	1	0	0	polylactones
+Poly ( styrene-ethylene oxide )	1	0	0	Poly ( styrene-ethylene oxide )
+Polyether-polyester	0	1	0	_
+PLA/PEO/PLA	1	0	0	PLA/PEO/PLA
+poly ( l-lactic acid )	1	0	0	poly ( l-lactic acid )
+poly ( - malic acid-co-benzyl malate )	0	1	0	_
+poly ( lactic acid-co-glycolide )	1	0	0	poly ( lactic acid-co-glycolide )
+nimodipine-loaded	0	1	0	_
+) -- polylactide amphiphilic copolymer	0	1	0	_
+_	0	0	1	triblock copolymer based on PPDO , PCL , and PEG
+_	0	0	1	poly ( p-dioxanone-co-caprolactone ) - block-poly ( ethylene oxide ) - block-poly ( p-dioxanone-co-caprolactone )
+_	0	0	1	T1
+_	0	0	1	T2
+_	0	0	1	T3
+_	0	0	1	T4
+_	0	0	1	T5
+_	0	0	1	poly ( N-vinylpyrrolidone ) - block-poly ( d,l-lactide )
+_	0	0	1	polyethylene glycols
+_	0	0	1	poly ( ethylene glycol ) - grafted poly ( aspartic acid )
+_	0	0	1	poly ( p-dioxanone-co-l-lactide ) - block-poly ( ethylene glycol )
+_	0	0	1	nimodipine-loaded poly ( caprolactone ) - poly ( ethylene oxide ) - polylactide
+
+DOI:10.1039/b701945a
+TP = 21, FP = 10, FN = 28 / prec = 0.6774, recall = 0.4286, F = 0.5250
+Rule-base	TP	FP	FN	Correct answer
+copoly ( 2-oxazoline )	0	1	0	_
+poly ( nonyloxazoline )	1	0	0	poly ( nonyloxazoline )
+poly ( methyloxazoline )	1	0	0	poly ( methyloxazoline )
+A	0	1	0	_
+B	0	1	0	_
+chain-extended poly ( nonyloxazoline )	1	0	0	chain-extended poly ( nonyloxazoline )
+DPI	0	1	0	_
+poly ( oxazoline )	1	0	0	poly ( oxazoline )
+copoly ( oxazoline )	1	0	0	copoly ( oxazoline )
+chain-extended poly ( methyloxazoline )	1	0	0	chain-extended poly ( methyloxazoline )
+poly ( 2-oxazoline )	0	1	0	_
+Poly ( 2-methyl-2-oxazoline )	1	0	0	Poly ( 2-methyl-2-oxazoline )
+Poly ( 2-ethyl-2-oxazoline )	1	0	0	Poly ( 2-ethyl-2-oxazoline )
+Poly ( 2-nonyl-2-oxazoline )	1	0	0	Poly ( 2-nonyl-2-oxazoline )
+Poly ( 2-phenyl-2-oxazoline )	1	0	0	Poly ( 2-phenyl-2-oxazoline )
+P10	0	1	0	_
+phenyloxazoline -- ethyloxazoline ( PheEt ) diblock copolymer	0	1	0	_
+polycarbonate	1	0	0	polycarbonate
+polystyrene	1	0	0	polystyrene
+poly ( ethyloxazoline )	1	0	0	poly ( ethyloxazoline )
+poly ( phenyloxazoline )	1	0	0	poly ( phenyloxazoline )
+poly ( acrylic acid )	1	0	0	poly ( acrylic acid )
+poly ( ( hydroxyalkyl ) oxazoline )	1	0	0	poly ( ( hydroxyalkyl ) oxazoline )
+polyoxazoline	1	0	0	polyoxazoline
+dried polyethyloxazoline -- polyethersulfone	0	1	0	_
+poly ( methylmethacrylate )	1	0	0	poly ( methylmethacrylate )
+PMMA	1	0	0	PMMA
+PC	1	0	0	PC
+ethylene -- vinyl alcohol copolymers	0	1	0	_
+copoly ( 2oxazoline )	0	1	0	_
+polyoxazoline-based	1	0	0	polyoxazoline-based
+_	0	0	1	diblock copoly ( 2-oxazoline )
+_	0	0	1	NonMe
+_	0	0	1	NonEt
+_	0	0	1	PheNon
+_	0	0	1	NonPhe
+_	0	0	1	diblock copoly ( oxazoline )
+_	0	0	1	Diblock copoly ( 2-oxazoline )
+_	0	0	1	MeMe
+_	0	0	1	chain-extended homo poly ( 2-oxazoline )
+_	0	0	1	MeEt
+_	0	0	1	MeNon
+_	0	0	1	MePhe
+_	0	0	1	EtMe
+_	0	0	1	EtEt
+_	0	0	1	EtNon
+_	0	0	1	EtPhe
+_	0	0	1	NonNon
+_	0	0	1	PheMe
+_	0	0	1	PheEt
+_	0	0	1	PhePhe
+_	0	0	1	Non
+_	0	0	1	Et
+_	0	0	1	Me
+_	0	0	1	Phe
+_	0	0	1	EtEt35
+_	0	0	1	polyethyloxazoline - polyethersulfone
+_	0	0	1	ethylene - vinyl alcohol copolymers
+_	0	0	1	diblock copoly ( 2oxazoline )
+
+DOI:10.1002/polb.21089
+TP = 2, FP = 9, FN = 18 / prec = 0.1818, recall = 0.1000, F = 0.1290
+Rule-base	TP	FP	FN	Correct answer
+DCPD	1	0	0	DCPD
+ROMP	0	1	0	_
+DCPD-rich	0	1	0	_
+polymerized DCPD	1	0	0	polymerized DCPD
+endo-DCPD	0	1	0	_
+induced ROMP	0	1	0	_
+DCPD1	0	1	0	_
+DCPD-1	0	1	0	_
+WDCPD	0	1	0	_
+DCPD/ENB	0	1	0	_
+improved ROMP	0	1	0	_
+_	0	0	1	DCPD-rich mixtures
+_	0	0	1	ENB
+_	0	0	1	D3E1
+_	0	0	1	D1E1
+_	0	0	1	D1E3
+_	0	0	1	D1E1 ( 0.75 wt % )
+_	0	0	1	ENB ( 0.1 wt % )
+_	0	0	1	DCPD with 1.0 wt %
+_	0	0	1	D1E1 with 0.75 wt %
+_	0	0	1	ENB with 0.1 wt %
+_	0	0	1	D1E3-0 .75
+_	0	0	1	ENB-0 .075 wt %
+_	0	0	1	DCPD-rich samples
+_	0	0	1	ENB-rich samples
+_	0	0	1	D1E1-0 .75 wt %
+_	0	0	1	ENB-0 .1 wt %
+_	0	0	1	DCPD-1 .0 wt %
+_	0	0	1	DCPD/ENB blends
+
+DOI:10.1007/s10853-007-1566-1
+TP = 28, FP = 24, FN = 27 / prec = 0.5385, recall = 0.5091, F = 0.5234
+Rule-base	TP	FP	FN	Correct answer
+C60	1	0	0	C60
+polystyrene	1	0	0	polystyrene
+PSt	1	0	0	PSt
+poly ( methyl methacrylate )	1	0	0	poly ( methyl methacrylate )
+PMMA	1	0	0	PMMA
+C60-PSts	1	0	0	C60-PSts
+C60-PMMAs	1	0	0	C60-PMMAs
+star-shaped C60polyacrylonitrile	0	1	0	_
+C60-poly ( a-methylstyrene )	1	0	0	C60-poly ( a-methylstyrene )
+PSa	0	1	0	_
+PSb	0	1	0	_
+PI	0	1	0	_
+star-shaped polystyrene	0	1	0	_
+hexachloropolystyrene	0	1	0	_
+poly ( ethylene oxide )	1	0	0	poly ( ethylene oxide )
+PEO	1	0	0	PEO
+star-shaped PEO	0	1	0	_
+DSP	0	1	0	_
+four-armed PSt	0	1	0	_
+end-capped polystyrene	0	1	0	_
+polyfunctional-group	0	1	0	_
+TBMB/CuBr/bipy	0	1	0	_
+GPC/RI	0	1	0	_
+PSt-1	1	0	0	PSt-1
+PSt-2	1	0	0	PSt-2
+PMMA-1	1	0	0	PMMA-1
+PMMA-2	1	0	0	PMMA-2
+bromoterminated PSt	1	0	0	bromoterminated PSt
+end-bonded PSt	0	1	0	_
+Br-terminated polystyrenes	1	0	0	Br-terminated polystyrenes
+star-shaped PSt	0	1	0	_
+C60-PSt-2	1	0	0	C60-PSt-2
+C60-PMMA-2	1	0	0	C60-PMMA-2
+C60-PSt-1	1	0	0	C60-PSt-1
+C60-PMMA-1	1	0	0	C60-PMMA-1
+PhCl	0	1	0	_
+Br-terminated polystyrene	1	0	0	Br-terminated polystyrene
+end-bonded PMMA	0	1	0	_
+Br-terminated PMMA	1	0	0	Br-terminated PMMA
+PMMABr/C60	1	0	0	PMMABr/C60
+functionalized PMMA	0	1	0	_
+C60PMMA	0	1	0	_
+fourarmed PMMA	0	1	0	_
+C60-PSt	1	0	0	C60-PSt
+C60-PMMA	1	0	0	C60-PMMA
+fullerenated PMMA	1	0	0	fullerenated PMMA
+star-shaped PMMA	1	0	0	star-shaped PMMA
+end-capped PMMA	0	1	0	_
+PSt-2-N3	1	0	0	PSt-2-N3
+C60-PSt2	0	1	0	_
+endcapped PMMA	0	1	0	_
+C60PMMAs	0	1	0	_
+_	0	0	1	( PSa ) 2C60 ( PSb ) 2
+_	0	0	1	( PSa ) 2C60 ( PI ) 2
+_	0	0	1	six-arm star-shaped polystyrene derivatives
+_	0	0	1	hexaarm hexachloropolystyrene
+_	0	0	1	C60 end-capped star-shaped PEO
+_	0	0	1	C60 end-capped four-armed PSt
+_	0	0	1	azide functional PSt
+_	0	0	1	azide end-functional PSt
+_	0	0	1	bromo-terminated four-armed PSt
+_	0	0	1	C60 end-capped polystyrene
+_	0	0	1	C60 end-bonded PSt
+_	0	0	1	bromo-terminated star-shaped PSt
+_	0	0	1	C 60 - PSt-2
+_	0	0	1	C 60 - PMMA-1
+_	0	0	1	C60 end-bonded PMMA
+_	0	0	1	fullerene-end functionalized PMMA
+_	0	0	1	C60 end-capped fourarmed PMMA
+_	0	0	1	C60 endcapped four-armed PSt
+_	0	0	1	Bromo-terminated four-armed PSt
+_	0	0	1	bromo-terminated star-shaped PMMA
+_	0	0	1	azide functional star-shaped PSt
+_	0	0	1	azide terminated four-armed PSt
+_	0	0	1	fullerenated four-armed PSt
+_	0	0	1	fullerene end-capped PMMA
+_	0	0	1	C 60 - PSt-1
+_	0	0	1	four-armed star-shaped PMMA
+_	0	0	1	fullerenated four-armed star-shaped PSt
+
+DOI:10.1007/s00396-007-1654-4
+TP = 6, FP = 4, FN = 10 / prec = 0.6000, recall = 0.3750, F = 0.4615
+Rule-base	TP	FP	FN	Correct answer
+polymethylhydrosiloxane	1	0	0	polymethylhydrosiloxane
+P1	1	0	0	P1
+LCPs	0	1	0	_
+polysiloxane	1	0	0	polysiloxane
+POM	0	1	0	_
+Polymethylhydrosiloxane	1	0	0	Polymethylhydrosiloxane
+PMHS	1	0	0	PMHS
+WH-90PFT	0	1	0	_
+P3	1	0	0	P3
+LCP	0	1	0	_
+_	0	0	1	P2 - P7
+_	0	0	1	P1 − P7
+_	0	0	1	P2
+_	0	0	1	P4
+_	0	0	1	P5
+_	0	0	1	P6
+_	0	0	1	P7
+_	0	0	1	P1 - P7
+_	0	0	1	P1 - P5
+_	0	0	1	P3 - P5
+
+DOI:10.1007/s10973-006-7891-9
+TP = 8, FP = 7, FN = 11 / prec = 0.5333, recall = 0.4211, F = 0.4706
+Rule-base	TP	FP	FN	Correct answer
+Polypropylene	1	0	0	Polypropylene
+PP	1	0	0	PP
+polypropylene	1	0	0	polypropylene
+HP400R	0	1	0	_
+POLYPROPYLENE-CARBON	1	0	0	POLYPROPYLENE-CARBON
+COMPOSITES	0	1	0	_
+melt-blended polypropylene	0	1	0	_
+PP-MWNT	1	0	0	PP-MWNT
+pure PP	0	1	0	_
+PP-CNT	1	0	0	PP-CNT
+PP-DWNT	1	0	0	PP-DWNT
+polymorph	1	0	0	polymorph
+PAT 2005	0	1	0	_
+pure polypropylene	0	1	0	_
+PP-3	0	1	0	_
+_	0	0	1	Moplen HP400R
+_	0	0	1	polypropylene composites
+_	0	0	1	PP HP400R
+_	0	0	1	PP +1 % MWNT
+_	0	0	1	PP +3 % MWNT
+_	0	0	1	PP +1 % DWNT
+_	0	0	1	PP +3 % DWNT
+_	0	0	1	POLYPROPYLENE-CARBON NANOTUBE
+_	0	0	1	PP HP400R +3 % DWNT
+_	0	0	1	PP HP400R +3 % MWNT
+_	0	0	1	PP-3 % MWNT
+
+DOI:10.1007/s10853-006-0630-6
+TP = 13, FP = 2, FN = 21 / prec = 0.8667, recall = 0.3824, F = 0.5306
+Rule-base	TP	FP	FN	Correct answer
+EVA	1	0	0	EVA
+functionalized polyethylene	1	0	0	functionalized polyethylene
+polyethylene	1	0	0	polyethylene
+PE	1	0	0	PE
+PE/MH	1	0	0	PE/MH
+polypropylene	1	0	0	polypropylene
+PP	1	0	0	PP
+PP-gAA	1	0	0	PP-gAA
+PP/ATH	1	0	0	PP/ATH
+PP-g-AA	1	0	0	PP-g-AA
+modified PP	1	0	0	modified PP
+LLDPE-g-MAH	1	0	0	LLDPE-g-MAH
+polypropylene/magnesium	0	1	0	_
+ethylene vinyl acetate copolymer	1	0	0	ethylene vinyl acetate copolymer
+Polym-plast	0	1	0	_
+_	0	0	1	EVA/alumina trihydrate
+_	0	0	1	EVA/ATH
+_	0	0	1	EVA composites
+_	0	0	1	104a - d
+_	0	0	1	104c
+_	0	0	1	104d
+_	0	0	1	104a
+_	0	0	1	104c - d
+_	0	0	1	104b
+_	0	0	1	107d
+_	0	0	1	111d
+_	0	0	1	104e
+_	0	0	1	107e
+_	0	0	1	111e
+_	0	0	1	EVA composites with OL104 ATH
+_	0	0	1	104a - 104d
+_	0	0	1	EVA composites with untreated ATH
+_	0	0	1	functionalized polyethylene combined with DCP and the silane coupling agent
+_	0	0	1	polypropylene/magnesium hydroxide
+_	0	0	1	104a-104d
+_	0	0	1	EVA composites with 57.5 % ATH
+
+DOI:Iran.Polym.J._2006_15(6)_505-513
+TP = 5, FP = 34, FN = 16 / prec = 0.1282, recall = 0.2381, F = 0.1667
+Rule-base	TP	FP	FN	Correct answer
+Copolycyanurates	0	1	0	_
+copolyamides	0	1	0	_
+EAPCCT	0	1	0	_
+PPDA	0	1	0	_
+DADPA	0	1	0	_
+DADPSA	1	0	0	DADPSA
+EDA+DADPSA	0	1	0	_
+A	0	1	0	_
+polyamides	0	1	0	_
+polyamide	0	1	0	_
+polycyanurates	0	1	0	_
+copolycyanurates	0	1	0	_
+PPDA+DADPA	0	1	0	_
+PPDA+DADPSA	0	1	0	_
+PPDA+DADPS	0	1	0	_
+DADPM	0	1	0	_
+EDA+DADPA	0	1	0	_
+EDA+DADPS	1	0	0	EDA+DADPS
+EDA+DADPM	0	1	0	_
+Copolyamides	0	1	0	_
+al.Copolycyanurates	0	1	0	_
+copolyamide	0	1	0	_
+DADPS	0	1	0	_
+PPDA+DADPM	0	1	0	_
+EACPT	0	1	0	_
+PA	1	0	0	PA
+Copolyamide	0	1	0	_
+homopolyamide	0	1	0	_
+PADADPSA	1	0	0	PADADPSA
+hompolyamide	0	1	0	_
+PPDA+DADP	0	1	0	_
+T0	0	1	0	_
+Step-II	0	1	0	_
+polyamides ,	0	1	0	_
+copolyesters	0	1	0	_
+Polyimides	0	1	0	_
+Polyamides	0	1	0	_
+homopolyesters	0	1	0	_
+polypyromellitimides	1	0	0	polypyromellitimides
+_	0	0	1	PA ( PPDA+DADPSA )
+_	0	0	1	PA ( PPDA+DADPM )
+_	0	0	1	PA ( EDA+DADPA )
+_	0	0	1	PA ( EDA+DADPS )
+_	0	0	1	PA ( EDA+DADPM )
+_	0	0	1	PA ( EDA+DAT )
+_	0	0	1	PA ( PPDA + DADPS )
+_	0	0	1	PA ( PPDA+DADPA )
+_	0	0	1	PA ( PPDA+DADP )
+_	0	0	1	PA ( EDA+DADPSA )
+_	0	0	1	PA ( EDA + DADPS )
+_	0	0	1	PA ( PPDA+DADPS )
+_	0	0	1	PA ( EDA + DADPA )
+_	0	0	1	PA ( PPDA + DADPM )
+_	0	0	1	Copolyamide of ( PPDA+DADPA )
+_	0	0	1	Copolyamide of ( EDA+DADPSA )
+
+DOI:10.1002/jbm.a.31099
+TP = 24, FP = 16, FN = 17 / prec = 0.6000, recall = 0.5854, F = 0.5926
+Rule-base	TP	FP	FN	Correct answer
+poly ( ethylene glycol-co-lactide )	1	0	0	poly ( ethylene glycol-co-lactide )
+polylactide	1	0	0	polylactide
+PLA	1	0	0	PLA
+poly ( ethylene glycolco-lactide )	0	1	0	_
+PELA	1	0	0	PELA
+poly ( ethylene glycol )	1	0	0	poly ( ethylene glycol )
+PEG	1	0	0	PEG
+polyethylene	0	1	0	_
+poly ( D-lactide )	1	0	0	poly ( D-lactide )
+PDLA	1	0	0	PDLA
+poly ( L-lactide )	1	0	0	poly ( L-lactide )
+PLLA	1	0	0	PLLA
+poly ( lactide-glycolide )	1	0	0	poly ( lactide-glycolide )
+PLGA	1	0	0	PLGA
+poly ( L-lactide -- co-e-caprolactone )	0	1	0	_
+poly ( ethylene glycol-colactide )	0	1	0	_
+PDLLA	1	0	0	PDLLA
+poly ( e-caprolactone )	1	0	0	poly ( e-caprolactone )
+PCL	1	0	0	PCL
+copolymer of PELA involves hydrophilic and hydrophobic	0	1	0	_
+Poly ( ethylene glycol )	1	0	0	Poly ( ethylene glycol )
+unreacted PEG	0	1	0	_
+HYDROPHILIC	0	1	0	_
+ELECTROSPUN	0	1	0	_
+PC	0	1	0	_
+PELA12	1	0	0	PELA12
+PELA16	1	0	0	PELA16
+PLA1	1	0	0	PLA1
+PLA2	1	0	0	PLA2
+PELA6	1	0	0	PELA6
+mPEG-PLA	1	0	0	mPEG-PLA
+poly ( D,L-lactide )	1	0	0	poly ( D,L-lactide )
+polycaprolactone	1	0	0	polycaprolactone
+PP	0	1	0	_
+poly ( D,L-lactidecoglycolide )	0	1	0	_
+poly ( D,L-lactic acid )	0	1	0	_
+linked poly ( lactic acid )	0	1	0	_
+Poly ( D,L-lactide )	0	1	0	_
+poly ( ethylene oxide )	0	1	0	_
+block-poly ( D,L-lactide )	0	1	0	_
+_	0	0	1	block copolymer of poly ( ethylene glycol-co-lactide )
+_	0	0	1	polyethylene glycol
+_	0	0	1	poly ( L-lactide - co-e-caprolactone )
+_	0	0	1	P ( LLA-CL )
+_	0	0	1	collagen
+_	0	0	1	PELA-triblock copolymer
+_	0	0	1	monomethyl ether of PEG
+_	0	0	1	PEG-diol
+_	0	0	1	PELA12 copolymer with PEG content of 12 %
+_	0	0	1	PELA16 copolymer with PEG content of 16 %
+_	0	0	1	diblock copolymer from monomethyl ether of PEG
+_	0	0	1	triblock PELA
+_	0	0	1	PELA triblock copolymer
+_	0	0	1	poly ( D,L-lactic acid ) - poly ( ethylene glycol ) - monomethyl ether diblock copolymers
+_	0	0	1	poly ( lactic acid )
+_	0	0	1	Poly ( D,L-lactide ) foams modified by poly ( ethylene oxide ) - block-poly ( D,L-lactide )
+_	0	0	1	a-FGF
+
+DOI:10.1002/polb.21180
+TP = 5, FP = 13, FN = 9 / prec = 0.2778, recall = 0.3571, F = 0.3125
+Rule-base	TP	FP	FN	Correct answer
+PARÍS ,	0	1	0	_
+CRP	0	1	0	_
+PARÍS	0	1	0	_
+PMDETA	1	0	0	PMDETA
+MeBrP	0	1	0	_
+PC	0	1	0	_
+TEMPERATURE	0	1	0	_
+PAMA	1	0	0	PAMA
+PBA	1	0	0	PBA
+wAMAPAMA	0	1	0	_
+þwBAPBA	0	1	0	_
+þwAMAPAMA	0	1	0	_
+PAMA-AMA ,	0	1	0	_
+PAMA-BA ,	0	1	0	_
+PBA-AMA	1	0	0	PBA-AMA
+PBA-BA	1	0	0	PBA-BA
+copolymer of AMA-BA , and therefore	0	1	0	_
+CAB	0	1	0	_
+_	0	0	1	P ( AMA-co-BA )
+_	0	0	1	P ( AMA )
+_	0	0	1	P ( MMA )
+_	0	0	1	P ( AMA-CO-BA )
+_	0	0	1	P ( AMAco-BA )
+_	0	0	1	P ( BA )
+_	0	0	1	PAMA-AMA
+_	0	0	1	PAMA-BA
+_	0	0	1	copolymer of AMA-BA
+
+DOI:10.1016/j.apsusc.2006.03.004
+TP = 6, FP = 7, FN = 5 / prec = 0.4615, recall = 0.5455, F = 0.5000
+Rule-base	TP	FP	FN	Correct answer
+polypyrrole/nano-Y	0	1	0	_
+polypyrrole	1	0	0	polypyrrole
+pure polypyrrole	0	1	0	_
+Polypyrrole	1	0	0	Polypyrrole
+PPy	1	0	0	PPy
+encapsulated PPy	0	1	0	_
+pure PPy	0	1	0	_
+PHI-550	0	1	0	_
+PPy/nanoY2O3	1	0	0	PPy/nanoY2O3
+PPy/Y2O3	1	0	0	PPy/Y2O3
+JCPD	0	1	0	_
+prepared PPy	0	1	0	_
+doped PPy	1	0	0	doped PPy
+_	0	0	1	polypyrrole/nano-Y 2O3
+_	0	0	1	PPy / nano-Y2O3
+_	0	0	1	nanoY2O3 encapsulated PPy
+_	0	0	1	PPy/nano-Y 2O3
+_	0	0	1	PPy.the
+
+DOI:Iran.J.Chem.Chem.Eng._2006_25_2_11
+TP = 10, FP = 6, FN = 25 / prec = 0.6250, recall = 0.2857, F = 0.3922
+Rule-base	TP	FP	FN	Correct answer
+copolymer of styrene -- acrylic	0	1	0	_
+polyacrylic	0	1	0	_
+polystyrene	1	0	0	polystyrene
+copolymer of styreneacrylic acid and their	0	1	0	_
+K	0	1	0	_
+copolymer	0	1	0	_
+ST/AA copolymer	1	0	0	ST/AA copolymer
+ST/NaA copolymer	1	0	0	ST/NaA copolymer
+ST/KA copolymer	1	0	0	ST/KA copolymer
+acid/styrene copolymer	1	0	0	acid/styrene copolymer
+poly ( acrylic acid )	1	0	0	poly ( acrylic acid )
+polyacrylates	1	0	0	polyacrylates
+Poly ( acrylic acid )	1	0	0	Poly ( acrylic acid )
+Polyesters	0	1	0	_
+Polycarbonates	1	0	0	Polycarbonates
+Poly ( trimethylene carbonate )	1	0	0	Poly ( trimethylene carbonate )
+_	0	0	1	copolymer of styrene - acrylic acid
+_	0	0	1	styrene-acrylic acid salts copolymers
+_	0	0	1	polyacrylic acid
+_	0	0	1	copolymer of styreneacrylic acid
+_	0	0	1	copolymers of styrene-methacrylic acid
+_	0	0	1	copolymers of styrene-acrylic acid salts ( Na and K )
+_	0	0	1	styrene acrylic acid copolymer
+_	0	0	1	polyacrylic acid salts
+_	0	0	1	styrene-acrylic acid salt copolymers
+_	0	0	1	styrene-acrylic acid copolymer
+_	0	0	1	Styrene-acrylic acid copolymer
+_	0	0	1	styrene-acrylic acid salt copolymer
+_	0	0	1	ST/NaA
+_	0	0	1	ST/KA
+_	0	0	1	ST/KA ionomers
+_	0	0	1	ST/AA salt copolymer
+_	0	0	1	styrenepotassium acrylate copolymer
+_	0	0	1	styreneacrylic acid copolymer
+_	0	0	1	potassium salts of styreneacrylic acid copolymer
+_	0	0	1	styreneacrylic acid salts copolymer
+_	0	0	1	Styrene-acrylic Acid Copolymer
+_	0	0	1	Phenyl MethacrylateStyrene Copolymers
+_	0	0	1	Phenyl MethacrylateStyrene Copolymers with Aluminium Ethoxide
+_	0	0	1	Copolymers of Styrene with Dicarboxylic Acid
+_	0	0	1	Ethylene Vinyl Acetate Copolymer
+
+DOI:10.1016/j.jpowsour.2006.09.011
+TP = 5, FP = 4, FN = 29 / prec = 0.5556, recall = 0.1471, F = 0.2326
+Rule-base	TP	FP	FN	Correct answer
+PVdF -- PVC	0	1	0	_
+PVdF	1	0	0	PVdF
+PVC	1	0	0	PVC
+PEO	1	0	0	PEO
+PAN ,	0	1	0	_
+PMMA	1	0	0	PMMA
+pure PVdF	0	1	0	_
+polyer	0	1	0	_
+PPO	1	0	0	PPO
+_	0	0	1	PVdF - PVC based polymer blend
+_	0	0	1	PVdF ( 80 ) - PVC ( 20 ) - LiBF4 ( 8 wt % )
+_	0	0	1	PAN
+_	0	0	1	PVdF - PVC
+_	0	0	1	PVdF ( 80 ) - PVC ( 20 ) - LiBF4 ( 4 )
+_	0	0	1	PVdF ( 80 ) - PVC ( 20 ) - LiBF4 ( 6 )
+_	0	0	1	PVdF ( 80 ) - PVC ( 20 ) - LiBF4 ( 8 )
+_	0	0	1	PVdF ( 80 ) - PVC ( 20 ) - LiBF4 ( 10 )
+_	0	0	1	PVdF ( 80 ) - PVC ( 20 ) - LiBF4 ( 12 )
+_	0	0	1	PVdF - PVC polymer blend
+_	0	0	1	PVdF 80 ) - PVC ( 20 ) - LiBF4
+_	0	0	1	PVdF ( 80 ) - PVC ( 20 ) - LiClO4
+_	0	0	1	PVdF ( 80 ) - PVC ( 20 ) - LiClO4 ( 4 )
+_	0	0	1	PVdF ( 80 ) - PVC ( 20 ) - LiClO4 ( 6 )
+_	0	0	1	PVdF ( 80 ) - PVC ( 20 ) - LiClO4 ( 8 )
+_	0	0	1	PVdF ( 80 ) - PVC ( 20 ) - LiClO4 ( 10 )
+_	0	0	1	PVdF ( 80 ) - PVC ( 20 ) - LiBF ( 4 )
+_	0	0	1	PVdF ( 80 ) - PVC ( 20 ) - LiBF ( 6 )
+_	0	0	1	PVdF ( 80 ) - PVC 20 ) - LiBF4 ( 12 )
+_	0	0	1	PVdF ( 80 ) - PVC 20 ) - LiClO4 ( 8 )
+_	0	0	1	PVdF ( 80 ) - PVC 20 ) - LiClO4 ( 12 )
+_	0	0	1	PVdF ( 80 ) - PVC 20 ) - LiClO4 ( 8 wt % )
+_	0	0	1	PVdF ( 80 ) - PVC ( 20 ) - LiBF4
+_	0	0	1	PVdF ( 80 ) - PVC 20 ) - LiClO4
+_	0	0	1	PVdF ( 80 ) - PVC ( 20 ) - 8 % of LiBF4
+_	0	0	1	PVdF ( 80 ) - PVC ( 20 ) - 8 % of LiClO4
+_	0	0	1	PVdF - PVC - Li salt
+_	0	0	1	PVdF ( 80 ) - PVC ( 20 ) - LiClO4 ( 8 wt % )
+_	0	0	1	PVdF - PVC with LiBF4
+
+DOI:10.1016/j.apsusc.2006.01.084
+TP = 18, FP = 15, FN = 6 / prec = 0.5455, recall = 0.7500, F = 0.6316
+Rule-base	TP	FP	FN	Correct answer
+polyhydroxybutyrate	1	0	0	polyhydroxybutyrate
+PLD	0	1	0	_
+PHB	1	0	0	PHB
+deposited PHB	0	1	0	_
+PACS	0	1	0	_
+Polyhydroxybutyrate	1	0	0	Polyhydroxybutyrate
+polyethylene	1	0	0	polyethylene
+polycarbonate	1	0	0	polycarbonate
+polylactideco-glycolide	1	0	0	polylactideco-glycolide
+PLGA	1	0	0	PLGA
+poly-methyl	0	1	0	_
+PMMA	1	0	0	PMMA
+PEG	1	0	0	PEG
+polyanilin	1	0	0	polyanilin
+PBT	1	0	0	PBT
+polytetrafluoroethylene	1	0	0	polytetrafluoroethylene
+PTFE	1	0	0	PTFE
+Polyhydroxyalkanoates	1	0	0	Polyhydroxyalkanoates
+PHA	1	0	0	PHA
+polyester	0	1	0	_
+discovered polyhydroxybutyrate	0	1	0	_
+PHAs	1	0	0	PHAs
+polyglycolic	0	1	0	_
+PGA	1	0	0	PGA
+polylactic	0	1	0	_
+PLA	1	0	0	PLA
+polylactic-co-glycolic	0	1	0	_
+TWINAMP	0	1	0	_
+studied polyester	0	1	0	_
+prepared PHB	0	1	0	_
+analysed PHB	0	1	0	_
+pressed PHB	0	1	0	_
+NKFP	0	1	0	_
+_	0	0	1	poly-methyl methacrylate
+_	0	0	1	polyethylene glycol
+_	0	0	1	PHB-based copolymers
+_	0	0	1	polyglycolic acid
+_	0	0	1	polylactic acid
+_	0	0	1	polylactic-co-glycolic acid
+
+DOI:10.1039/b616816g
+TP = 8, FP = 8, FN = 1 / prec = 0.5000, recall = 0.8889, F = 0.6400
+Rule-base	TP	FP	FN	Correct answer
+polyaniline	1	0	0	polyaniline
+Polyaniline	1	0	0	Polyaniline
+PANI	1	0	0	PANI
+PANI ,19	0	1	0	_
+2Pz	1	0	0	2Pz
+coupled poly ( 1,4-phenylene oxide )	0	1	0	_
+neutralized PANI	1	0	0	neutralized PANI
+APEX	0	1	0	_
+SAINT-Plus	0	1	0	_
+P1̄	0	1	0	_
+i-Pr	0	1	0	_
+acidified PANI	1	0	0	acidified PANI
+as-prepared polyaniline	0	1	0	_
+poly ( 1,4-phenylene oxide )	1	0	0	poly ( 1,4-phenylene oxide )
+Polypyrazolylborate	1	0	0	Polypyrazolylborate
+Polyhedron	0	1	0	_
+_	0	0	1	stereo-regular C - O coupled poly ( 1,4-phenylene oxide )
+
+DOI:10.1016/j.apsusc.2006.01.068
+TP = 20, FP = 3, FN = 13 / prec = 0.8696, recall = 0.6061, F = 0.7143
+Rule-base	TP	FP	FN	Correct answer
+1107 -- 1110Synthesis of styrene -- maleic anhydride copolymer	0	1	0	_
+polyethylene	1	0	0	polyethylene
+styrene -- maleic anhydride copolymer	0	1	0	_
+SMA	1	0	0	SMA
+HDPE	1	0	0	HDPE
+Polyethylene	1	0	0	Polyethylene
+PE	1	0	0	PE
+Styrene -- maleic anhydride copolymer	0	1	0	_
+POD	1	0	0	POD
+PTD	1	0	0	PTD
+styrene maleic anhydride copolymer	1	0	0	styrene maleic anhydride copolymer
+Esterified SMA	1	0	0	Esterified SMA
+polystyrene	1	0	0	polystyrene
+hemi-esterified SMA	1	0	0	hemi-esterified SMA
+esterified SMA	1	0	0	esterified SMA
+HDPE/PO1	1	0	0	HDPE/PO1
+HDPE/PO2	1	0	0	HDPE/PO2
+HDPE/PTD1	1	0	0	HDPE/PTD1
+HDPE/PTD2	1	0	0	HDPE/PTD2
+HDPE/PTD4	1	0	0	HDPE/PTD4
+HDPE/POD1	1	0	0	HDPE/POD1
+HDPE/POD2	1	0	0	HDPE/POD2
+HDPE/POD4	1	0	0	HDPE/POD4
+_	0	0	1	styrene - maleic anhydride copolymer esters
+_	0	0	1	styrene - maleic anhydride copolymer
+_	0	0	1	high density polyethylene
+_	0	0	1	Styrene - maleic anhydride copolymer
+_	0	0	1	octadecyl SMA ester
+_	0	0	1	tetradecyl SMA ester
+_	0	0	1	octyl SMA ester
+_	0	0	1	PO
+_	0	0	1	HDPE 8910
+_	0	0	1	SMA 1000P
+_	0	0	1	esterified-SMA
+_	0	0	1	SMA esters
+_	0	0	1	HDPE/PO4
+
+DOI:10.1007/s10853-006-1411-y
+TP = 4, FP = 7, FN = 2 / prec = 0.3636, recall = 0.6667, F = 0.4706
+Rule-base	TP	FP	FN	Correct answer
+poly - ( R )	0	1	0	_
+poly [ ( R ) -3 - hydroxybutyrate ]	1	0	0	poly [ ( R ) -3 - hydroxybutyrate ]
+PHB	1	0	0	PHB
+polyester	0	1	0	_
+irradiated PHB	1	0	0	irradiated PHB
+HPLC	0	1	0	_
+used polystyrene	0	1	0	_
+pure PHB	0	1	0	_
+nonirradiated PHB	1	0	0	nonirradiated PHB
+PA	0	1	0	_
+polyesters	0	1	0	_
+_	0	0	1	poly - ( R ) -3 - hydroxybutyrate
+_	0	0	1	polystyrene
+
+DOI:10.1007/s10904-006-9056-5
+TP = 7, FP = 7, FN = 14 / prec = 0.5000, recall = 0.3333, F = 0.4000
+Rule-base	TP	FP	FN	Correct answer
+polyacrylamide	1	0	0	polyacrylamide
+PAA	1	0	0	PAA
+DPX-400	0	1	0	_
+WPA	0	1	0	_
+Polyacrylamide	1	0	0	Polyacrylamide
+NP-900	0	1	0	_
+PAA-SB-Cl	1	0	0	PAA-SB-Cl
+PAA-SB-Me	1	0	0	PAA-SB-Me
+Polyacrylamide-Schiff	0	1	0	_
+PAASB-Me	0	1	0	_
+PAA-SB-M	0	1	0	_
+PAA-SBMe	1	0	0	PAA-SBMe
+PAA ,	0	1	0	_
+PAA-SB	1	0	0	PAA-SB
+_	0	0	1	PAA-Schiff Bases
+_	0	0	1	[ ( C26H36O7N6 ) ] 4
+_	0	0	1	Co ( PAA-SB-Cl )
+_	0	0	1	Co ( PAA-SB-Me )
+_	0	0	1	Ni ( PAA-SB-Cl )
+_	0	0	1	Ni ( PAA-SB-Me )
+_	0	0	1	Polyacrylamide-Schiff bases
+_	0	0	1	PAA-Schiff base
+_	0	0	1	PAA-Schiff bases
+_	0	0	1	Ni ( PAASB-Me )
+_	0	0	1	[ ( PAA-SB-M ) Cl2 ] n
+_	0	0	1	( PAA-SB-M ) n +2
+_	0	0	1	Ni [ PAA-SB-Cl ]
+_	0	0	1	Ni
+
+DOI:10.1163/156855406777408502
+TP = 12, FP = 8, FN = 11 / prec = 0.6000, recall = 0.5217, F = 0.5581
+Rule-base	TP	FP	FN	Correct answer
+POLYTECHNIC	0	1	0	_
+PUBLICATIONS	0	1	0	_
+PROFILE	0	1	0	_
+polyethylene	1	0	0	polyethylene
+EPR	0	1	0	_
+SHMPE	1	0	0	SHMPE
+LDPE	1	0	0	LDPE
+polypropylene	0	1	0	_
+iPP	1	0	0	iPP
+polymethylmetacrylate	1	0	0	polymethylmetacrylate
+PMMA	1	0	0	PMMA
+polystyrene	1	0	0	polystyrene
+PS	1	0	0	PS
+copolymer of styrene ( ST ) and methylmethacrylate	0	1	0	_
+SHPE	1	0	0	SHPE
+pure SHMPE	0	1	0	_
+PP	1	0	0	PP
+PE	1	0	0	PE
+copolymer of ST and MMA and 85	0	1	0	_
+poly-methyl-methacrylate	1	0	0	poly-methyl-methacrylate
+_	0	0	1	superhighmolecular polyethylene
+_	0	0	1	superhighmolecular polyethylene + Y1Ba2Cu3O7 − x ceramic
+_	0	0	1	isotactic polypropylene
+_	0	0	1	SHPE composites
+_	0	0	1	SHMPE ceramic composite
+_	0	0	1	composites of Y1Ba2Cu3O6 ,97 with SHMPE
+_	0	0	1	SHMPE + Y1Ba2Cu3O6 ,97 composites
+_	0	0	1	composites of SHMPE and Y1Ba2Cu3O6 ,97 ceramics
+_	0	0	1	polymer - ceramic composites with SHMPE
+_	0	0	1	copolymer of ST and MMA
+_	0	0	1	SC polymer - ceramic composites based on SHPE
+
+DOI:10.1007/s10853-006-0230-5
+TP = 6, FP = 5, FN = 12 / prec = 0.5455, recall = 0.3333, F = 0.4138
+Rule-base	TP	FP	FN	Correct answer
+polylactide/perlite	1	0	0	polylactide/perlite
+polylactide/montmorillonite	0	1	0	_
+polylactide	1	0	0	polylactide
+PLA	1	0	0	PLA
+pure PLA	0	1	0	_
+Polylactide	1	0	0	Polylactide
+polyester	0	1	0	_
+polyesters	0	1	0	_
+PLA/MMT	1	0	0	PLA/MMT
+PLA/LDH	0	1	0	_
+MMT/PLA	1	0	0	MMT/PLA
+_	0	0	1	polylactide/montmorillonite composites
+_	0	0	1	PLA/montmorillonite
+_	0	0	1	PLA/inorganic
+_	0	0	1	PLA composites with MMT
+_	0	0	1	PLA/perlite
+_	0	0	1	PLA/MMT composites
+_	0	0	1	PLA/LDH composite
+_	0	0	1	PLA/perlite composites
+_	0	0	1	PLA / MMT
+_	0	0	1	PLA/MMT composite
+_	0	0	1	PLA / perlite composites
+_	0	0	1	perlite / PLA
+
+DOI:10.1063/1.2728898
+TP = 14, FP = 7, FN = 3 / prec = 0.6667, recall = 0.8235, F = 0.7368
+Rule-base	TP	FP	FN	Correct answer
+poly ( methylmethacrylate )	1	0	0	poly ( methylmethacrylate )
+PMMA	1	0	0	PMMA
+PVT	0	1	0	_
+polystyrene	1	0	0	polystyrene
+PS	1	0	0	PS
+polypropylene	0	1	0	_
+PPG	1	0	0	PPG
+methyl-terminated PPG	1	0	0	methyl-terminated PPG
+polydimethylsiloxane9	1	0	0	polydimethylsiloxane9
+PDMS	1	0	0	PDMS
+polyphenylmethylsiloxane	1	0	0	polyphenylmethylsiloxane
+PMPS	1	0	0	PMPS
+1,4-polybutadiene	1	0	0	1,4-polybutadiene
+PTg	0	1	0	_
+hydrogen-terminated PMMA	1	0	0	hydrogen-terminated PMMA
+ESPEC	0	1	0	_
+pF/m	0	1	0	_
+polychlorinated	1	0	0	polychlorinated
+polyvinylacetate	1	0	0	polyvinylacetate
+PRIN	0	1	0	_
+PA ,	0	1	0	_
+_	0	0	1	polypropylene glycol
+_	0	0	1	high Mw PMMA
+_	0	0	1	polychlorinated biphenyls
+
+DOI:10.1007/s00396-006-1630-4
+TP = 12, FP = 2, FN = 4 / prec = 0.8571, recall = 0.7500, F = 0.8000
+Rule-base	TP	FP	FN	Correct answer
+chitosan/poly ( vinyl alcohol )	1	0	0	chitosan/poly ( vinyl alcohol )
+chitosan	1	0	0	chitosan
+poly ( vinyl alcohol )	1	0	0	poly ( vinyl alcohol )
+PVA	1	0	0	PVA
+chitosan / PVA	1	0	0	chitosan / PVA
+Chitosan	1	0	0	Chitosan
+Poly ( vinyl alcohol )	1	0	0	Poly ( vinyl alcohol )
+3 -- 7 ] . Chitosan , a copolymer	0	1	0	_
+chitin	1	0	0	chitin
+poly ( ethylene oxide )	1	0	0	poly ( ethylene oxide )
+PEO	1	0	0	PEO
+polysulfone	1	0	0	polysulfone
+Chitosan / PVA	1	0	0	Chitosan / PVA
+PP	0	1	0	_
+_	0	0	1	chitosan/PVA
+_	0	0	1	copolymer of glucosamine and N-acetyglucosamine
+_	0	0	1	Chitosan/PVA
+_	0	0	1	chitosan/PVAwas
+
+DOI:10.1016/j.compscitech.2005.12.013
+TP = 2, FP = 7, FN = 8 / prec = 0.2222, recall = 0.2000, F = 0.2105
+Rule-base	TP	FP	FN	Correct answer
+polydisulfide/expanded	0	1	0	_
+polydisulfide/EG	1	0	0	polydisulfide/EG
+PEMFC	0	1	0	_
+polydisulfides	0	1	0	_
+polydisulfide	0	1	0	_
+polydis3	0	1	0	_
+CDP	0	1	0	_
+polydisulfide/graphite	1	0	0	polydisulfide/graphite
+polydisulfide/50	0	1	0	_
+_	0	0	1	aromatic polydisulfide/expanded graphite
+_	0	0	1	aromatic polydisulfide/EG
+_	0	0	1	Aromatic polydisulfides
+_	0	0	1	aromatic polydisulfide
+_	0	0	1	Aromatic polydisulfide/EG
+_	0	0	1	aromatic polydisulfide / EG
+_	0	0	1	aromatic polydisulfide/50 wt % graphite nanosheets
+_	0	0	1	aromatic polydisulfide/50 wt % EG
+
+DOI:Iran.Polym.J._2006_15(5)_433-439
+TP = 8, FP = 4, FN = 4 / prec = 0.6667, recall = 0.6667, F = 0.6667
+Rule-base	TP	FP	FN	Correct answer
+LLDPE/ZrO2	1	0	0	LLDPE/ZrO2
+polyethylene	1	0	0	polyethylene
+LLDPE	1	0	0	LLDPE
+FSP	0	1	0	_
+nanoZrO2-filled LLDPE	1	0	0	nanoZrO2-filled LLDPE
+nano-ZrO2-filled LLDPE	1	0	0	nano-ZrO2-filled LLDPE
+pure LLDPE	0	1	0	_
+PE	1	0	0	PE
+ethylene/1-octene copolymer	0	1	0	_
+LLDPE/nano-SiO	1	0	0	LLDPE/nano-SiO
+filled polyethylene/phlogopite	0	1	0	_
+PMMA	1	0	0	PMMA
+_	0	0	1	linear low-density polyethylene
+_	0	0	1	ethylene/1-octene copolymer obtained with the nano-ZrO2-filled LLDPE
+_	0	0	1	sago-starch filled linear low-density polyethylene
+_	0	0	1	Highly filled polyethylene/phlogopite
+
+DOI:10.1063/1.2718867
+TP = 3, FP = 5, FN = 10 / prec = 0.3750, recall = 0.2308, F = 0.2857
+Rule-base	TP	FP	FN	Correct answer
+EBA	1	0	0	EBA
+SBR	1	0	0	SBR
+PERMITTIVITY	0	1	0	_
+rubber/polypyrrole	0	1	0	_
+PROCEDURES	0	1	0	_
+filled EBA	0	1	0	_
+filled SBR	1	0	0	filled SBR
+CEIDP	0	1	0	_
+_	0	0	1	carbon black filled ethylene butylacrylate copolymer
+_	0	0	1	ethylene butylacrylate copolymer
+_	0	0	1	carbon black filled styrenebutadiene rubber
+_	0	0	1	silicone rubber/polypyrrole
+_	0	0	1	EBA copolymer filled with acetylene carbon black
+_	0	0	1	carbon black filled EBA copolymer
+_	0	0	1	carbon black N347-grade filled SBR
+_	0	0	1	EAB copolymer
+_	0	0	1	EAB
+_	0	0	1	carbon black filled SBR
+
+DOI:10.1016/j.jpcs.2006.05.003
+TP = 1, FP = 3, FN = 3 / prec = 0.2500, recall = 0.2500, F = 0.2500
+Rule-base	TP	FP	FN	Correct answer
+poly-butyl	0	1	0	_
+PBMA	1	0	0	PBMA
+CpDp	0	1	0	_
+pure PBMA	0	1	0	_
+_	0	0	1	poly-butyl methacrylate
+_	0	0	1	cp + pbma
+_	0	0	1	pbma
+
+DOI:10.1002/pola.21949
+TP = 32, FP = 24, FN = 10 / prec = 0.5714, recall = 0.7619, F = 0.6531
+Rule-base	TP	FP	FN	Correct answer
+Poly ( L-lysine )	1	0	0	Poly ( L-lysine )
+graft-Polyesters	0	1	0	_
+poly ( L-lysine )	1	0	0	poly ( L-lysine )
+polyesters	0	1	0	_
+graft-poly ( L-lactide )	0	1	0	_
+PLy-g-PLLA	1	0	0	PLy-g-PLLA
+graft-poly ( e-caprolactone )	0	1	0	_
+PLyg-PCL	1	0	0	PLyg-PCL
+maleimido-terminated poly ( L-lactide )	1	0	0	maleimido-terminated poly ( L-lactide )
+poly ( e-caprolactone )	1	0	0	poly ( e-caprolactone )
+maleimido-terminated polyesters	1	0	0	maleimido-terminated polyesters
+PLy-g-PCL	1	0	0	PLy-g-PCL
+PLy-gPCL	1	0	0	PLy-gPCL
+end-functionalized polyesters	0	1	0	_
+poly ( ethylene oxide )	1	0	0	poly ( ethylene oxide )
+ROPs	0	1	0	_
+PLy	1	0	0	PLy
+poly ( ecaprolactone )	1	0	0	poly ( ecaprolactone )
+PCL	1	0	0	PCL
+poly ( L-lactide )	1	0	0	poly ( L-lactide )
+PLLA	1	0	0	PLLA
+hyperbranched PLy	1	0	0	hyperbranched PLy
+polyester	0	1	0	_
+PDIs	0	1	0	_
+HPLC	0	1	0	_
+polystyrene	0	1	0	_
+PLy17	1	0	0	PLy17
+poly ( e-benzyloxycarbonyl-L-lysine )	1	0	0	poly ( e-benzyloxycarbonyl-L-lysine )
+poly ( Zlys )	1	0	0	poly ( Zlys )
+Maleimido-Terminated Poly ( L-lactide )	1	0	0	Maleimido-Terminated Poly ( L-lactide )
+M-PLLA	1	0	0	M-PLLA
+Maleimido-Terminated Poly ( e-caprolactone )	1	0	0	Maleimido-Terminated Poly ( e-caprolactone )
+M-PCL	1	0	0	M-PCL
+graft-Poly ( L-lactide )	0	1	0	_
+graftPoly ( e-caprolactone )	0	1	0	_
+PLy-g	1	0	0	PLy-g
+unreacted M-PCL	0	1	0	_
+PLyg	0	1	0	_
+POLY ( L-LYSINE )	1	0	0	POLY ( L-LYSINE )
+graft-POLYESTERS	0	1	0	_
+End-functionalized PCL	1	0	0	End-functionalized PCL
+M-PCL10	1	0	0	M-PCL10
+M-PLLA8	1	0	0	M-PLLA8
+obtained DPs	0	1	0	_
+DPs	0	1	0	_
+PLy-g-Polyester	0	1	0	_
+carboxyl-terminated polyesters3	0	1	0	_
+PLy-g-polyesters	0	1	0	_
+maleimidoterminated polyesters	0	1	0	_
+MPCL	0	1	0	_
+PLy-gPLLA	1	0	0	PLy-gPLLA
+PLy-g-Polyesters	1	0	0	PLy-g-Polyesters
+PLy-g-polyester	1	0	0	PLy-g-polyester
+conjugated PLLA	0	1	0	_
+pure M-PCL	0	1	0	_
+PLy-g-PCL4	1	0	0	PLy-g-PCL4
+_	0	0	1	poly ( L-lysine ) - graft-poly ( e-caprolactone )
+_	0	0	1	Poly ( L-lysine ) - graft-Poly ( L-lactide )
+_	0	0	1	PLy-g - ( PCL ) 17
+_	0	0	1	PLy-g - ( PCL ) 4
+_	0	0	1	PLyg - ( PCL ) 8
+_	0	0	1	PLy-g ( PCL ) 22
+_	0	0	1	PLy-g - ( PLLA ) 4
+_	0	0	1	PLy-g - ( PLLA ) 17
+_	0	0	1	PLy-g - ( PCL ) 8
+_	0	0	1	PLy-g - ( PCL ) 22
+
+DOI:10.1002/polb.21103
+TP = 20, FP = 7, FN = 8 / prec = 0.7407, recall = 0.7143, F = 0.7273
+Rule-base	TP	FP	FN	Correct answer
+PA6/PA66	1	0	0	PA6/PA66
+polyamide 6	1	0	0	polyamide 6
+PA6	1	0	0	PA6
+polyamide 66	1	0	0	polyamide 66
+PA66	1	0	0	PA66
+POM	0	1	0	_
+polyamide	0	1	0	_
+PA66 ,6	0	1	0	_
+PA615	1	0	0	PA615
+MCPA6	1	0	0	MCPA6
+MCPA6 / PA66	1	0	0	MCPA6 / PA66
+MELT-MIXED PA6/PA66	1	0	0	MELT-MIXED PA6/PA66
+i-PA6	1	0	0	i-PA6
+Melt-Mixed PA6/PA66	1	0	0	Melt-Mixed PA6/PA66
+PA6 ,	0	1	0	_
+m-PA6	1	0	0	m-PA6
+m-PA66	1	0	0	m-PA66
+melt-mixed PA6/PA66	1	0	0	melt-mixed PA6/PA66
+polyamides	0	1	0	_
+PA1212	1	0	0	PA1212
+PA66-PA6	1	0	0	PA66-PA6
+PA6-PA66	1	0	0	PA6-PA66
+PA66 ,	0	1	0	_
+PA6/12	1	0	0	PA6/12
+PA6/69 copolymer	0	1	0	_
+PA12	1	0	0	PA12
+mPA6	1	0	0	mPA6
+_	0	0	1	monomer casting nylon-6
+_	0	0	1	i-blends
+_	0	0	1	Melt-mixed blends of PA6/PA66
+_	0	0	1	m-blends
+_	0	0	1	m-blend
+_	0	0	1	PA6/69
+_	0	0	1	i-blend containing 12 wt % PA66
+_	0	0	1	m-blend containing 12 wt % PA66
+
+DOI:10.1016/j.memsci.2007.04.013
+TP = 3, FP = 14, FN = 10 / prec = 0.1765, recall = 0.2308, F = 0.2000
+Rule-base	TP	FP	FN	Correct answer
+PA	0	1	0	_
+cellulose	0	1	0	_
+USP	0	1	0	_
+API	0	1	0	_
+Cellulose	0	1	0	_
+HPLC	0	1	0	_
+Au/Pd	0	1	0	_
+SR8-Plus	0	1	0	_
+RP8	0	1	0	_
+polyer	0	1	0	_
+VIPS	0	1	0	_
+IPS	0	1	0	_
+polyers	0	1	0	_
+PLGA	1	0	0	PLGA
+poly ( vinylpyrrolidone )	1	0	0	poly ( vinylpyrrolidone )
+PPO	1	0	0	PPO
+NPL	0	1	0	_
+_	0	0	1	cellulose acetate
+_	0	0	1	CA
+_	0	0	1	naproxen/CA
+_	0	0	1	Cellulose acetate
+_	0	0	1	CA/acetone/naproxen
+_	0	0	1	naproxen - CA - acetone
+_	0	0	1	CA/acetone/water
+_	0	0	1	CA-rich
+_	0	0	1	CA/acetone
+_	0	0	1	cellulose derivative
+
+DOI:10.1007/s10973-006-7596-0
+TP = 8, FP = 13, FN = 4 / prec = 0.3810, recall = 0.6667, F = 0.4848
+Rule-base	TP	FP	FN	Correct answer
+polyester	0	1	0	_
+PPT/PET	1	0	0	PPT/PET
+PPT/PBT	1	0	0	PPT/PBT
+pure polyester	0	1	0	_
+PPT	1	0	0	PPT
+PET	1	0	0	PET
+PBT	1	0	0	PBT
+COMPARISON	0	1	0	_
+POLYESTER	0	1	0	_
+polypropylene	0	1	0	_
+polyethylene	0	1	0	_
+polybutylene	0	1	0	_
+PET/PPT	1	0	0	PET/PPT
+PBT/PPT	1	0	0	PBT/PPT
+pure PPT	0	1	0	_
+copolyesters	0	1	0	_
+Polyester	0	1	0	_
+pure PBT	0	1	0	_
+pure PET	0	1	0	_
+polyesters	0	1	0	_
+LLDPE	1	0	0	LLDPE
+_	0	0	1	polypropylene terephthalate
+_	0	0	1	polyethylene terephthalate
+_	0	0	1	polybutylene terephthalate
+_	0	0	1	blends of PPT with PET
+
+DOI:10.1002/pola.21943
+TP = 45, FP = 5, FN = 5 / prec = 0.9000, recall = 0.9000, F = 0.9000
+Rule-base	TP	FP	FN	Correct answer
+Poly [ 3 - ( 4-alkoxyphenyl ) thiophene ]	1	0	0	Poly [ 3 - ( 4-alkoxyphenyl ) thiophene ]
+GIUSEPPINA	1	0	0	GIUSEPPINA
+poly [ 3 - ( 4-alcoxyphenyl ) thiophene ]	1	0	0	poly [ 3 - ( 4-alcoxyphenyl ) thiophene ]
+synthesized polythiophenes	0	1	0	_
+polythiophenes	1	0	0	polythiophenes
+Polythiophenes	1	0	0	Polythiophenes
+poly [ 3 - ( 4-alkylphenyl ) thiophene ]	1	0	0	poly [ 3 - ( 4-alkylphenyl ) thiophene ]
+polythiophenic	1	0	0	polythiophenic
+poly [ 3 - ( 4-octylphenyl ) thiophene ]	1	0	0	poly [ 3 - ( 4-octylphenyl ) thiophene ]
+poly ( 3-hexylthiophene )	1	0	0	poly ( 3-hexylthiophene )
+poly ( 3-alkoxythiophene )	1	0	0	poly ( 3-alkoxythiophene )
+poly [ 2 - ( 4-methoxyphenyl ) thiophene ]	1	0	0	poly [ 2 - ( 4-methoxyphenyl ) thiophene ]
+POLY [ 3 - ( 4-ALKOXYPHENYL ) THIOPHENE ]	1	0	0	POLY [ 3 - ( 4-ALKOXYPHENYL ) THIOPHENE ]
+P6700	0	1	0	_
+GPC/HPLC	0	1	0	_
+polystyrene	1	0	0	polystyrene
+PB	1	0	0	PB
+poly [ 3 - ( 4-butyloxyphenyl ) thiophene ]	1	0	0	poly [ 3 - ( 4-butyloxyphenyl ) thiophene ]
+PB-IV	1	0	0	PB-IV
+PH-II	1	0	0	PH-II
+PO-VII	1	0	0	PO-VII
+PO-VI	1	0	0	PO-VI
+PM-I	1	0	0	PM-I
+poly ( 3-substituted )	1	0	0	poly ( 3-substituted )
+poly ( 3-alkylthiophene )	1	0	0	poly ( 3-alkylthiophene )
+HT-PATs	1	0	0	HT-PATs
+HTPATs	1	0	0	HTPATs
+PB-III	1	0	0	PB-III
+PB-I	1	0	0	PB-I
+PH-I	1	0	0	PH-I
+PB-II	1	0	0	PB-II
+PO-I	1	0	0	PO-I
+PO-II	1	0	0	PO-II
+PO-III	1	0	0	PO-III
+PO-IV	1	0	0	PO-IV
+PO-V	1	0	0	PO-V
+PO-VId	1	0	0	PO-VId
+PO-VIs	1	0	0	PO-VIs
+poly [ 3 - ( 4alkylphenyl ) thiophene ]	0	1	0	_
+polyalkylfurans	1	0	0	polyalkylfurans
+3-substituted polythiophenes	1	0	0	3-substituted polythiophenes
+poly [ 3 - ( 4-dodecylphenyl ) thiophene ]	1	0	0	poly [ 3 - ( 4-dodecylphenyl ) thiophene ]
+poly [ 3 - ( 4-alkoxyphenyl ) thiophene ]	1	0	0	poly [ 3 - ( 4-alkoxyphenyl ) thiophene ]
+synthesized poly [ 3 - ( 4-octyloxyphenyl ) thiophene ]	0	1	0	_
+polythiophene	1	0	0	polythiophene
+poly ( 3-alkyloxythiophene )	1	0	0	poly ( 3-alkyloxythiophene )
+3-ether-substituted polythiophenes	1	0	0	3-ether-substituted polythiophenes
+poly ( 3-alkoxy-4-methylthiophene )	1	0	0	poly ( 3-alkoxy-4-methylthiophene )
+undoped PB-IV	1	0	0	undoped PB-IV
+FeCl3-doped PB-IV	1	0	0	FeCl3-doped PB-IV
+_	0	0	1	PM
+_	0	0	1	PH
+_	0	0	1	PO
+_	0	0	1	poly ( 3-substituted ) thiophenes
+_	0	0	1	poly [ 3 - ( 4-octyloxyphenyl ) thiophene ]
+
+DOI:10.1021/la070179s
+TP = 14, FP = 8, FN = 5 / prec = 0.6364, recall = 0.7368, F = 0.6829
+Rule-base	TP	FP	FN	Correct answer
+Polysiloxane-Based	0	1	0	_
+polysiloxanes	0	1	0	_
+cellulose	1	0	0	cellulose
+LCPs	0	1	0	_
+polyols	0	1	0	_
+polysiloxane	0	1	0	_
+poly ( methylhydrogeno )	0	1	0	_
+PMHS	1	0	0	PMHS
+POM	1	0	0	POM
+Chitin	1	0	0	Chitin
+P1P7	0	1	0	_
+P4	1	0	0	P4
+H2PtCl6/THF	0	1	0	_
+P1-P7	1	0	0	P1-P7
+P1	1	0	0	P1
+P7	1	0	0	P7
+P3	1	0	0	P3
+P5	1	0	0	P5
+Polysiloxane	1	0	0	Polysiloxane
+P2-P7	1	0	0	P2-P7
+P1-P3	1	0	0	P1-P3
+P4-P7	1	0	0	P4-P7
+_	0	0	1	Polysiloxane-Based Polymers
+_	0	0	1	polypeptides
+_	0	0	1	poly ( methylhydrogeno ) siloxane
+_	0	0	1	P2
+_	0	0	1	P6
+
+DOI:10.1002/pola.21926
+TP = 35, FP = 23, FN = 16 / prec = 0.6034, recall = 0.6863, F = 0.6422
+Rule-base	TP	FP	FN	Correct answer
+Saturated Poly ( ester amide )	0	1	0	_
+unsaturated poly ( ester amide )	1	0	0	unsaturated poly ( ester amide )
+UPEAs	1	0	0	UPEAs
+saturated poly ( ester amide )	1	0	0	saturated poly ( ester amide )
+unsaturated/saturated poly ( ester amide )	0	1	0	_
+USPEAs	1	0	0	USPEAs
+USPEA	1	0	0	USPEA
+pure UPEA	1	0	0	pure UPEA
+obtained USPEA	0	1	0	_
+poly ( ester amide )	1	0	0	poly ( ester amide )
+PEAs	1	0	0	PEAs
+polyamides	0	1	0	_
+polyesters	0	1	0	_
+based PEAs	0	1	0	_
+UPEA	1	0	0	UPEA
+crosslinked UPEA	0	1	0	_
+poly ( ethylene glycol )	1	0	0	poly ( ethylene glycol )
+PA	0	1	0	_
+PB	1	0	0	PB
+FAPB37	1	0	0	FAPB37
+PEA	1	0	0	PEA
+FPB	1	0	0	FPB
+SPB	1	0	0	SPB
+APB	1	0	0	APB
+PB37	0	1	0	_
+PB55	0	1	0	_
+PB73	0	1	0	_
+SATURATED POLY ( ESTER AMIDE )	1	0	0	SATURATED POLY ( ESTER AMIDE )
+USPEA37	1	0	0	USPEA37
+dried USPEA37	0	1	0	_
+synthesized USPEAs	0	1	0	_
+FSuPB	1	0	0	FSuPB
+FAPB	1	0	0	FAPB
+FSPB	1	0	0	FSPB
+SuPB	1	0	0	SuPB
+synthesized USPEA	0	1	0	_
+FSuPB37	1	0	0	FSuPB37
+FSuPB55	1	0	0	FSuPB55
+FSuPB73	1	0	0	FSuPB73
+FAPB55	1	0	0	FAPB55
+FAPB73	1	0	0	FAPB73
+FSPB37	1	0	0	FSPB37
+FSPB55	1	0	0	FSPB55
+FSPB73	1	0	0	FSPB73
+FAPBs	1	0	0	FAPBs
+wFPB	0	1	0	_
+ðTgÞUSPEA	0	1	0	_
+wSPEAðTgÞSPEA	0	1	0	_
+kwUPEAðTgÞUPEA	0	1	0	_
+wSPEA	0	1	0	_
+kwUPEA	0	1	0	_
+wUPEA	0	1	0	_
+ðTgÞSPEA	0	1	0	_
+ðTgÞUPEA	0	1	0	_
+saturated APB	1	0	0	saturated APB
+unsaturated FPB	1	0	0	unsaturated FPB
+L-Phe-based PEAs	1	0	0	L-Phe-based PEAs
+glycine-based PEAs	1	0	0	glycine-based PEAs
+_	0	0	1	Copolymers of Unsaturated and Saturated Poly ( ester amide )
+_	0	0	1	SPEAs
+_	0	0	1	unsaturated/saturated poly ( ester amide ) copolymers
+_	0	0	1	USPEA copolymers
+_	0	0	1	SPEA
+_	0	0	1	amino acid based PEAs
+_	0	0	1	Copolymers of UPEAs and SPEAs
+_	0	0	1	USPEA copolymer
+_	0	0	1	FSPB copolymers
+_	0	0	1	FAPB copolymers
+_	0	0	1	FSuPB copolymers
+_	0	0	1	FAPB copolymer
+_	0	0	1	USPEA Copolymers
+_	0	0	1	FAPB37 copolymer
+_	0	0	1	FSPB37 copolymers
+_	0	0	1	4-amino butyric acid based PEAs
+
+DOI:10.1002/adfm.200600336
+TP = 8, FP = 5, FN = 8 / prec = 0.6154, recall = 0.5000, F = 0.5517
+Rule-base	TP	FP	FN	Correct answer
+Polystyrene	1	0	0	Polystyrene
+PAO	0	1	0	_
+polystyrene	1	0	0	polystyrene
+PS	1	0	0	PS
+poly ( vinyl pyrrolidone )	1	0	0	poly ( vinyl pyrrolidone )
+PVP	1	0	0	PVP
+polycarbonate	1	0	0	polycarbonate
+Ag/PS	1	0	0	Ag/PS
+Cu/PS	1	0	0	Cu/PS
+prepared PAO	0	1	0	_
+PAO ,	0	1	0	_
+polyol	0	1	0	_
+epoxy resin	0	1	0	_
+_	0	0	1	Polystyrene Composites
+_	0	0	1	PS-matrix nanocomposites containing Cu nanowires
+_	0	0	1	polystyrene nanocomposites
+_	0	0	1	PS Nanocomposites
+_	0	0	1	Ag/PS nanocomposite containing 2 vol % Ag nanowires
+_	0	0	1	PS nanocomposite
+_	0	0	1	PS nanocomposites
+_	0	0	1	epoxy
+
+DOI:10.1002/polb.21115
+TP = 10, FP = 5, FN = 7 / prec = 0.6667, recall = 0.5882, F = 0.6250
+Rule-base	TP	FP	FN	Correct answer
+investigated PE/CB	0	1	0	_
+PE/CB	1	0	0	PE/CB
+PTC	1	0	0	PTC
+PE	1	0	0	PE
+polyethylene	1	0	0	polyethylene
+UHMWPE	1	0	0	UHMWPE
+DBP	0	1	0	_
+PE/CF	1	0	0	PE/CF
+PE/CNT	1	0	0	PE/CNT
+COMPOSITES	0	1	0	_
+LPE	1	0	0	LPE
+HPE	1	0	0	HPE
+carbon-polyvinylchloride	1	0	0	carbon-polyvinylchloride
+showed PTC	0	1	0	_
+CMC	0	1	0	_
+_	0	0	1	low molecular weight PE - ultrahigh molecular weight PE - CB
+_	0	0	1	low-molecular-weight polyethylene of Sumikasen G201
+_	0	0	1	ultrahigh molecular weight polyethylene
+_	0	0	1	Hercules 19,000 / 90,189
+_	0	0	1	low molecular weight PE
+_	0	0	1	ultrahigh molecular weight PE
+_	0	0	1	low-molecular-weight PE
+
+DOI:10.1002/polb.21074
+TP = 20, FP = 19, FN = 9 / prec = 0.5128, recall = 0.6897, F = 0.5882
+Rule-base	TP	FP	FN	Correct answer
+Cellulose	1	0	0	Cellulose
+Diacetate-graft-Poly ( L-lactide )	0	1	0	_
+PHARR	0	1	0	_
+cellulose	1	0	0	cellulose
+diacetate-graft-poly ( lactide )	0	1	0	_
+CDA-g-PLLAs	1	0	0	CDA-g-PLLAs
+PLLA	1	0	0	PLLA
+CDA-g-PLLA	1	0	0	CDA-g-PLLA
+poly ( lactide )	1	0	0	poly ( lactide )
+polyesters	0	1	0	_
+copoly ( ester-carbonate )	1	0	0	copoly ( ester-carbonate )
+meltquenched cellulose	0	1	0	_
+diaceate-grafted poly ( L-lactide )	0	1	0	_
+poly ( ethylene terephthalate )	1	0	0	poly ( ethylene terephthalate )
+PET	1	0	0	PET
+poly ( ethylene naphthalate )	1	0	0	poly ( ethylene naphthalate )
+PEN	1	0	0	PEN
+CDAg-PLLAs	0	1	0	_
+wPLLA	0	1	0	_
+CDA-g-PLLA-1	1	0	0	CDA-g-PLLA-1
+PSIA	0	1	0	_
+Diacetate-Grafted PLLAs	0	1	0	_
+WPLLA	0	1	0	_
+Diacetate-Grafted Poly ( L-lactide )	0	1	0	_
+CDA-g-PLLA-2	1	0	0	CDA-g-PLLA-2
+CDA-g-PLLA-3	1	0	0	CDA-g-PLLA-3
+Homopoly ( L-lactide )	1	0	0	Homopoly ( L-lactide )
+CDA-gPLLA	0	1	0	_
+pure PLLA	0	1	0	_
+CDA-grafted PLLAs	1	0	0	CDA-grafted PLLAs
+CDA-g-PLAs	1	0	0	CDA-g-PLAs
+pure PLLAwas	0	1	0	_
+CDAg-PLLA	0	1	0	_
+CDA-gPLLAs	0	1	0	_
+CDA-gPLLA-2	0	1	0	_
+grafted PLLA	1	0	0	grafted PLLA
+CDA-g-PLLA3	1	0	0	CDA-g-PLLA3
+CDA-graft-PLLA	1	0	0	CDA-graft-PLLA
+CDA-gPLLA-3	0	1	0	_
+_	0	0	1	Cellulose Diacetate-graft-Poly ( L-lactide )
+_	0	0	1	cellulose diacetate-graft-poly ( lactide )
+_	0	0	1	CDA
+_	0	0	1	cellulose acetate-based graft copolymers
+_	0	0	1	cellulose diacetate-based graft copolymers
+_	0	0	1	cellulose diaceate-grafted poly ( L-lactide )
+_	0	0	1	Cellulose Diacetate-Grafted PLLAs
+_	0	0	1	Cellulose Diacetate
+_	0	0	1	Cellulose Diacetate-Grafted Poly ( L-lactide )
+
+DOI:J.Optelect.Adv.Mater._2006_8(3)_1317-1321
+TP = 6, FP = 8, FN = 6 / prec = 0.4286, recall = 0.5000, F = 0.4615
+Rule-base	TP	FP	FN	Correct answer
+OPTOELECTRONICS	0	1	0	_
+polycarbaonate	0	1	0	_
+polystyrene	1	0	0	polystyrene
+PC	0	1	0	_
+Poly ( ( 9-ethylcarbazole-3 ,6 - diyl ) methylenehydrazino ( diphenylsulfone-4 ,4 ` - diyl )	0	1	0	_
+1a	1	0	0	1a
+Poly ( ( 9 - ( 2-ethylhexyl ) carbazole-3 ,6 - diyl ) methylenehydrazino ( diphenyl sulfone-4 ,4 ` diyl )	0	1	0	_
+1b	1	0	0	1b
+Poly ( ( 9-ethylcarbazole-3 ,6 - diyl ) methylene-1butylhydrazino ( diphenylsulfone-4 ,4 ` - diyl )	0	1	0	_
+2a	1	0	0	2a
+2b	1	0	0	2b
+PC-Z	1	0	0	PC-Z
+polycarbonate	0	1	0	_
+ICPS	0	1	0	_
+_	0	0	1	bisphenol Z polycarbaonate
+_	0	0	1	Poly ( ( 9-ethylcarbazole-3 ,6 - diyl ) methylenehydrazino ( diphenylsulfone-4 ,4 ' - diyl ) hydrazinomethylene )
+_	0	0	1	Poly ( ( 9 - ( 2-ethylhexyl ) carbazole-3 ,6 - diyl ) methylenehydrazino ( diphenyl sulfone-4 ,4 ' diyl ) hydrazinomethylene )
+_	0	0	1	Poly ( ( 9-ethylcarbazole-3 ,6 - diyl ) methylene-1butylhydrazino ( diphenylsulfone-4 ,4 ' - diyl ) -1 butylhydrazinomethylene )
+_	0	0	1	Poly ( ( 9 - ( 2-ethylhexyl ) carbazole-3 ,6 - diyl ) methylene1-butylhydrazine ( diphenyl sulfone-4 ,4 ' - diyl ) -1 butylhydrazinomethylene )
+_	0	0	1	bisphenol Z polycarbonate
+
+DOI:10.1021/la062794m
+TP = 5, FP = 0, FN = 0 / prec = 1.0000, recall = 1.0000, F = 1.0000
+Rule-base	TP	FP	FN	Correct answer
+polystyrene/toluene	1	0	0	polystyrene/toluene
+poly ( methyl methacrylate )	1	0	0	poly ( methyl methacrylate )
+PMMA	1	0	0	PMMA
+poly ( ethylene terephthalate )	1	0	0	poly ( ethylene terephthalate )
+PET	1	0	0	PET
+
+DOI:10.1063/1.2538787
+TP = 3, FP = 0, FN = 2 / prec = 1.0000, recall = 0.6000, F = 0.7500
+Rule-base	TP	FP	FN	Correct answer
+MFP-3D	1	0	0	MFP-3D
+polystyrene	1	0	0	polystyrene
+HYPERCHEM	1	0	0	HYPERCHEM
+_	0	0	1	Azobenzene polymers
+_	0	0	1	azobenzene-containing polymer
+
+DOI:10.1016/j.electacta.2007.01.088
+TP = 21, FP = 17, FN = 15 / prec = 0.5526, recall = 0.5833, F = 0.5676
+Rule-base	TP	FP	FN	Correct answer
+DBSA-doped polyaniline/Na	0	1	0	_
+DBSA-doped polyaniline	1	0	0	DBSA-doped polyaniline
+PANI	1	0	0	PANI
+PCN	1	0	0	PCN
+Polyaniline	1	0	0	Polyaniline
+Polyanilines	1	0	0	Polyanilines
+undoped polyaniline-coated	0	1	0	_
+polystyrene	1	0	0	polystyrene
+polysulfone	1	0	0	polysulfone
+epoxy resin	0	1	0	_
+polyimide	1	0	0	polyimide
+polyaniline	1	0	0	polyaniline
+polypyrrole	1	0	0	polypyrrole
+polyaniline/Na	0	1	0	_
+DBSA-doped PCN	1	0	0	DBSA-doped PCN
+DBSA-doped PANI	1	0	0	DBSA-doped PANI
+GPC-150	0	1	0	_
+monodispersed polystyrene	1	0	0	monodispersed polystyrene
+doped PCN	1	0	0	doped PCN
+DBSA-doped PANI/clay	1	0	0	DBSA-doped PANI/clay
+SPAR	1	0	0	SPAR
+OCP	0	1	0	_
+MPY	0	1	0	_
+oxidized polyer	0	1	0	_
+reduced polyer	0	1	0	_
+BSA-doped PANI	1	0	0	BSA-doped PANI
+PANI ,	0	1	0	_
+DBSA-doped PANI 34	0	1	0	_
+polyer	0	1	0	_
+PANI-30 100	1	0	0	PANI-30 100
+PANI-40 100	1	0	0	PANI-40 100
+PANI-50 100	1	0	0	PANI-50 100
+PEF	0	1	0	_
+PC	0	1	0	_
+PANII ,	0	1	0	_
+PANIig	1	0	0	PANIig
+APL	0	1	0	_
+POL	0	1	0	_
+_	0	0	1	DBSA-doped polyaniline/Na + - MMT clay
+_	0	0	1	epoxy
+_	0	0	1	polyaniline/Na + - MMT Clay
+_	0	0	1	DBSA-doped polyaniline - clay
+_	0	0	1	CLAN1
+_	0	0	1	super fast epoxy
+_	0	0	1	DBSA-doped PANI - clay
+_	0	0	1	CLAN1-coated CRS
+_	0	0	1	CLAN1-30
+_	0	0	1	CLAN1-40
+_	0	0	1	CLAN1-50
+_	0	0	1	CLAN1-coated
+_	0	0	1	PANI-coated
+_	0	0	1	CLAN1oated
+_	0	0	1	PANII
+
+DOI:10.1007/s10965-007-9102-1
+TP = 11, FP = 15, FN = 13 / prec = 0.4231, recall = 0.4583, F = 0.4400
+Rule-base	TP	FP	FN	Correct answer
+PEI/EVAL	1	0	0	PEI/EVAL
+polyethylene	0	1	0	_
+polyethylenimine	1	0	0	polyethylenimine
+PEI	1	0	0	PEI
+Polyethylenimine	1	0	0	Polyethylenimine
+branched PEIs	1	0	0	branched PEIs
+EP0	1	0	0	EP0
+pure PEI	0	1	0	_
+crosslinked PEI	1	0	0	crosslinked PEI
+NiSO4-PEI	0	1	0	_
+PHI	0	1	0	_
+NP-40	0	1	0	_
+PMSF	0	1	0	_
+polystyrene	0	1	0	_
+TCPS	1	0	0	TCPS
+added PEI	0	1	0	_
+pure EP0	0	1	0	_
+poly-L-lysine-coated TCPS	1	0	0	poly-L-lysine-coated TCPS
+increased PEI	0	1	0	_
+poly-Llysine-coated TCPS	1	0	0	poly-Llysine-coated TCPS
+PE	1	0	0	PE
+charged polyornithine	0	1	0	_
+PVDF	0	1	0	_
+PA ,	0	1	0	_
+PC	0	1	0	_
+PA	0	1	0	_
+_	0	0	1	polyethylene vinyl alcohol
+_	0	0	1	EVAL
+_	0	0	1	PEI / EVAL
+_	0	0	1	EVALmeet
+_	0	0	1	E105A
+_	0	0	1	EP10
+_	0	0	1	EP20
+_	0	0	1	EP30
+_	0	0	1	EP100
+_	0	0	1	tissue culture polystyrene
+_	0	0	1	positively charged polyornithine
+_	0	0	1	crystalline PVDF
+_	0	0	1	EVAL blended with PEI
+
+DOI:10.1002/jbm.a.31133
+TP = 17, FP = 6, FN = 33 / prec = 0.7391, recall = 0.3400, F = 0.4658
+Rule-base	TP	FP	FN	Correct answer
+Chitosan	1	0	0	Chitosan
+chitosan	1	0	0	chitosan
+hydrated chitosan	1	0	0	hydrated chitosan
+branched chitosan	1	0	0	branched chitosan
+chitin	1	0	0	chitin
+copolymer of Nacetyl glucosamine and glucosamine	1	0	0	copolymer of Nacetyl glucosamine and glucosamine
+purified chitosan	0	1	0	_
+depolymerized chitosan	1	0	0	depolymerized chitosan
+unmodified chitosan	1	0	0	unmodified chitosan
+PWXL	0	1	0	_
+polystyrene	1	0	0	polystyrene
+Branched chitosan	1	0	0	Branched chitosan
+PEG	0	1	0	_
+poly ( ethylene oxide )	1	0	0	poly ( ethylene oxide )
+modified chitosan	1	0	0	modified chitosan
+Polyanhydrides	1	0	0	Polyanhydrides
+Branched polyanhydrides	1	0	0	Branched polyanhydrides
+deacetylated chitosan	1	0	0	deacetylated chitosan
+branched PBA	1	0	0	branched PBA
+PC	0	1	0	_
+PA	0	1	0	_
+fructose-modified chitosan	1	0	0	fructose-modified chitosan
+grafted chitosan	0	1	0	_
+_	0	0	1	Branched chitosans
+_	0	0	1	high-molecular-weight ( 600 kDa ) chitosans grafted with 80 kDa branches
+_	0	0	1	porous chitosan
+_	0	0	1	branched chitosans
+_	0	0	1	Chitosan ( 90 % deacetylated , 600 kDa )
+_	0	0	1	low MW chitosan
+_	0	0	1	1.6 kDa depolymerized chitosan
+_	0	0	1	high MW ( 600 kDa ) chitosan
+_	0	0	1	Low MW chitosans
+_	0	0	1	high MW chitosan
+_	0	0	1	branched chitosan having a branch length of 1.6 kDa with a branch density of 0.1
+_	0	0	1	1.6 kDa ( depolymerized ) chitosan
+_	0	0	1	low MW chitosans
+_	0	0	1	chitosans
+_	0	0	1	FITC-labeled chitosans
+_	0	0	1	linear chitosans
+_	0	0	1	chitosan amine
+_	0	0	1	control chitosan
+_	0	0	1	1.6 kDa chitosan
+_	0	0	1	chitosans with the 16 kDa branch length
+_	0	0	1	branched chitosans with a branch density of 0.02
+_	0	0	1	linear control chitosan
+_	0	0	1	branched chitosan with an 80 kDa branch length and 0.02 branch density
+_	0	0	1	linear chitosan
+_	0	0	1	chitosan derivatives
+_	0	0	1	chitosan having a-mannoside branches
+_	0	0	1	chitosan films modified by blending with PEG
+_	0	0	1	Hydrophobic derivatives of chitosan
+_	0	0	1	chitosan derivative
+_	0	0	1	Highly deacetylated chitosan
+_	0	0	1	Thiolated chitosans
+_	0	0	1	Gly-Arg-Gly-Asp grafted chitosan
+_	0	0	1	tissue culture polystyrene
+
+DOI:10.1016/j.compscitech.2006.07.034
+TP = 28, FP = 25, FN = 25 / prec = 0.5283, recall = 0.5283, F = 0.5283
+Rule-base	TP	FP	FN	Correct answer
+PHBHV/HA	1	0	0	PHBHV/HA
+Polytechnic	0	1	0	_
+polymer-poly ( 3-hydroxybutyrate-co-3-hydroxyvalerate )	0	1	0	_
+PHBHV	1	0	0	PHBHV
+PMCs	0	1	0	_
+polyethylene	0	1	0	_
+UHMWPE	1	0	0	UHMWPE
+polystyrene	0	1	0	_
+HIPS	1	0	0	HIPS
+polyetheretherketone	1	0	0	polyetheretherketone
+PEEK	1	0	0	PEEK
+polylactic	0	1	0	_
+polyhydroxyalkanoate	1	0	0	polyhydroxyalkanoate
+poly ( e-caprolactone )	1	0	0	poly ( e-caprolactone )
+chitosan	1	0	0	chitosan
+nano-HA / polylactide and its copolymer	0	1	0	_
+polycaprolactone	1	0	0	polycaprolactone
+PHA	1	0	0	PHA
+poly ( 3-hydroxybutyrate-co-3-hydroxyvalerate )	1	0	0	poly ( 3-hydroxybutyrate-co-3-hydroxyvalerate )
+well-mixed PHBHV/HA	0	1	0	_
+PHBHV10	1	0	0	PHBHV10
+PHBHV30	1	0	0	PHBHV30
+PHBHV50	1	0	0	PHBHV50
+HPO	0	1	0	_
+polymethyl	0	1	0	_
+PMMA	1	0	0	PMMA
+EVA	1	0	0	EVA
+pure PHBHV	0	1	0	_
+low-density-polyethylene	0	1	0	_
+poly ( dimethylsiloxane )	0	1	0	_
+reinforced PHB	0	1	0	_
+Ca/P	0	1	0	_
+bioglass-reinforced poly ( lactide-co-glycolide )	1	0	0	bioglass-reinforced poly ( lactide-co-glycolide )
+PO3	0	1	0	_
+A-PF81	0	1	0	_
+P2O5-free	0	1	0	_
+polyethylene/quartz	1	0	0	polyethylene/quartz
+HA/PEEK	1	0	0	HA/PEEK
+PLA-PEG	1	0	0	PLA-PEG
+rhBMP-2	1	0	0	rhBMP-2
+hydroxyapatitepoly ( alkyl oxybenzoate )	0	1	0	_
+hydroxyapatite/poly ( e-caprolactone )	1	0	0	hydroxyapatite/poly ( e-caprolactone )
+poly ( D,L-lactide )	0	1	0	_
+PB	0	1	0	_
+poly ( L-lactide )	0	1	0	_
+poly ( L-lactic acid )	1	0	0	poly ( L-lactic acid )
+Poly ( lactide-coglycolide )	0	1	0	_
+nHAC/PLA	1	0	0	nHAC/PLA
+l-poly ( e-caprolactone )	1	0	0	l-poly ( e-caprolactone )
+net-poly ( e-caprolactone )	1	0	0	net-poly ( e-caprolactone )
+polypropylene	0	1	0	_
+Cu/LDPE	1	0	0	Cu/LDPE
+PHB -- PHV copolymer	0	1	0	_
+_	0	0	1	PHBHV/HA ( 100/30 )
+_	0	0	1	ultrahigh molecular weight polyethylene
+_	0	0	1	high impact polystyrene
+_	0	0	1	polylactic acid
+_	0	0	1	starch
+_	0	0	1	nano-HA / polylactide
+_	0	0	1	nano-HA / chitosan
+_	0	0	1	nano-HA/collagen/PLA
+_	0	0	1	nanoHA/gelatin
+_	0	0	1	PHBHV/HA ( 100/50 )
+_	0	0	1	polymethyl methacrylate
+_	0	0	1	ethylene vinylacetate co-polymer
+_	0	0	1	low-density-polyethylene / copper
+_	0	0	1	poly ( dimethylsiloxane ) / silica
+_	0	0	1	PHBHV / HA
+_	0	0	1	micro-HA reinforced PHB
+_	0	0	1	bone morphogenetic protein-2
+_	0	0	1	nanocomposites of poly ( D,L-lactide ) with Ca-deficient hydroxyapatite nanocrystals
+_	0	0	1	Nanocomposite of poly ( L-lactide ) and surface grafted hydroxyapatite
+_	0	0	1	Poly ( lactide-coglycolide ) / hydroxyapatite
+_	0	0	1	chitosan/hydroxyapatite
+_	0	0	1	three-dimensional porous mineralized collagen based composite
+_	0	0	1	polystyrene / graphite
+_	0	0	1	single-walled carbon nanotubes - polypropylene
+_	0	0	1	composites based on PHB - PHV copolymer
+
+DOI:10.4067/S0717-97072006000300009
+TP = 8, FP = 13, FN = 19 / prec = 0.3810, recall = 0.2963, F = 0.3333
+Rule-base	TP	FP	FN	Correct answer
+POLYPYRROLE	0	1	0	_
+COPPER	0	1	0	_
+MICROPARTICLES	0	1	0	_
+PROCESS	0	1	0	_
+polypyrrole	1	0	0	polypyrrole
+PPy	1	0	0	PPy
+PPy-Cu	1	0	0	PPy-Cu
+PPy-Ag	1	0	0	PPy-Ag
+unmodified polypyrrole	0	1	0	_
+Polypyrrole	1	0	0	Polypyrrole
+PPy/SO	0	1	0	_
+pure PPy	0	1	0	_
+unmodified PPy	0	1	0	_
+pristine PPy	0	1	0	_
+modified PPy	1	0	0	modified PPy
+non-modified PPy	0	1	0	_
+electrogenerated polypyrrole	0	1	0	_
+polyaniline	0	1	0	_
+functionalized polypyrrole	1	0	0	functionalized polypyrrole
+polythiophene	1	0	0	polythiophene
+polymerized polypyrrole	0	1	0	_
+_	0	0	1	POLYPYRROLE FILMS MODIFIED WITH COPPER
+_	0	0	1	PPy modified with copper
+_	0	0	1	PPy/SO 4 2 -
+_	0	0	1	metal-PPy complex
+_	0	0	1	PPy/SO 4
+_	0	0	1	PPy modified by copper
+_	0	0	1	PPy film modified with copper microparticles
+_	0	0	1	PPy film modified with silver microparticles
+_	0	0	1	metal microparticles modified PPy
+_	0	0	1	PPy-metal
+_	0	0	1	modified PPy films by incorporation of copper
+_	0	0	1	( Cu ) - PPy
+_	0	0	1	polyaniline films containing traces of dispersed platinum
+_	0	0	1	3-dimensional polypyrrole
+_	0	0	1	polypyrrole film electrodes containing nanodispersed platinum particles
+_	0	0	1	polypyrrole modified by copper
+_	0	0	1	polypyrrole films containing nanodispersed platinum particles
+_	0	0	1	polypyrrole electrode modified with a nickel phthalocyanine complex
+_	0	0	1	electrochemically polymerized polypyrrole
+
+DOI:10.1021/jp070710s
+TP = 12, FP = 7, FN = 3 / prec = 0.6316, recall = 0.8000, F = 0.7059
+Rule-base	TP	FP	FN	Correct answer
+Polyacetylene	0	1	0	_
+poly ( o-dihydroxybenzene )	1	0	0	poly ( o-dihydroxybenzene )
+PoDHB	1	0	0	PoDHB
+polyacetylene	1	0	0	polyacetylene
+as-formed PoDHB	0	1	0	_
+Poly ( 3,4-ethylenedioxythiophene )	1	0	0	Poly ( 3,4-ethylenedioxythiophene )
+PEDOT	1	0	0	PEDOT
+poly ( 1,2-methylenedioxybenzene )	1	0	0	poly ( 1,2-methylenedioxybenzene )
+PMDOB	1	0	0	PMDOB
+poly ( p-phenylene )	1	0	0	poly ( p-phenylene )
+PPP	1	0	0	PPP
+pDHB	0	1	0	_
+HOPhOBF3	0	1	0	_
+polythiophene8	1	0	0	polythiophene8
+polypyrrole	1	0	0	polypyrrole
+Dedoped PoDHB	0	1	0	_
+dedoped PoDHB	0	1	0	_
+doped PoDHB	1	0	0	doped PoDHB
+PA ,	0	1	0	_
+_	0	0	1	Polyacetylene Derivatives
+_	0	0	1	derivative of polyacetylene
+_	0	0	1	polyacetylene derivative
+
+DOI:10.1007/BF02704145
+TP = 10, FP = 7, FN = 23 / prec = 0.5882, recall = 0.3030, F = 0.4000
+Rule-base	TP	FP	FN	Correct answer
+polyaniline	1	0	0	polyaniline
+PANI	1	0	0	PANI
+polyvinyl	0	1	0	_
+PVS	1	0	0	PVS
+pTS	0	1	0	_
+PVS -- pTS	0	1	0	_
+synthesized PANI	0	1	0	_
+Polyaniline	1	0	0	Polyaniline
+poly-conjugated	0	1	0	_
+polyacetylene	1	0	0	polyacetylene
+polythiophene	1	0	0	polythiophene
+polypyrrole	1	0	0	polypyrrole
+polyindole	1	0	0	polyindole
+doped PANI	0	1	0	_
+poly vinyl sulfonic acid ( PVS )	0	1	0	_
+PVS-pTS	1	0	0	PVS-pTS
+PVS-DBS	1	0	0	PVS-DBS
+_	0	0	1	polyvinyl sulfonic acid
+_	0	0	1	PVS - pTS
+_	0	0	1	PVS - DBS
+_	0	0	1	PANI doped with PVS
+_	0	0	1	PANI doped with PVS - pTS
+_	0	0	1	Ppy
+_	0	0	1	self doped PANI
+_	0	0	1	poly vinyl sulfonic acid
+_	0	0	1	PANI films with dopant PVS
+_	0	0	1	PANI film with PVS dopant
+_	0	0	1	PANI film with PVS
+_	0	0	1	PANI films with dopants PVS
+_	0	0	1	PANI film with PVS - pTS
+_	0	0	1	PANI with PVS dopant
+_	0	0	1	PANI film with dopants PVS
+_	0	0	1	PANI film with composite dopant PVS - DBS
+_	0	0	1	PANI film with composite dopant , PVS - pTS
+_	0	0	1	PANI with PVS - pTS composite dopant
+_	0	0	1	PANI with PVS - DBS composite dopant
+_	0	0	1	PANI film with a. PVS
+_	0	0	1	PANI films with dopant , PVS
+_	0	0	1	polyaniline films with dopants PVS
+_	0	0	1	PANI film synthesized with PVS
+
+DOI:10.1063/1.2653978
+TP = 8, FP = 9, FN = 3 / prec = 0.4706, recall = 0.7273, F = 0.5714
+Rule-base	TP	FP	FN	Correct answer
+polyvinylidene-trifluorethylene	1	0	0	polyvinylidene-trifluorethylene
+PVDF-TrFE	1	0	0	PVDF-TrFE
+PZT	1	0	0	PZT
+commercial PZT	0	1	0	_
+PZ21	0	1	0	_
+Polytec	0	1	0	_
+DSP	1	0	0	DSP
+embedded PZT	0	1	0	_
+PVDF	1	0	0	PVDF
+PbTiO3	0	1	0	_
+sintered PZ21	0	1	0	_
+pure PVDF-TrFE	0	1	0	_
+pm/V	0	1	0	_
+PVDF-TRFE	1	0	0	PVDF-TRFE
+PVDF-TrFE-PT	1	0	0	PVDF-TrFE-PT
+pC/N	0	1	0	_
+PZ21-PVDF-TrFE	1	0	0	PZ21-PVDF-TrFE
+_	0	0	1	polyvinylidene-trifluorethylene copolymer
+_	0	0	1	PVDF-TrFE copolymer
+_	0	0	1	composite of PVDF-TrFE and PbTiO3
+
+DOI:10.1021/jp070387t
+TP = 11, FP = 3, FN = 1 / prec = 0.7857, recall = 0.9167, F = 0.8462
+Rule-base	TP	FP	FN	Correct answer
+Gold-Poly ( 3,4-ethylenedioxythiophene )	1	0	0	Gold-Poly ( 3,4-ethylenedioxythiophene )
+Poly ( 3,4-ethylenedioxythiophene )	1	0	0	Poly ( 3,4-ethylenedioxythiophene )
+Gold_poly ( 3,4-ethylenedioxythiophene )	1	0	0	Gold_poly ( 3,4-ethylenedioxythiophene )
+Au-PEDOT	1	0	0	Au-PEDOT
+PEDOT	1	0	0	PEDOT
+poly ( 3,4-ethylenedioxythiophene )	1	0	0	poly ( 3,4-ethylenedioxythiophene )
+polyaniline	1	0	0	polyaniline
+polyrrole8	1	0	0	polyrrole8
+polycrystalline	0	1	0	_
+Au-polyaniline	1	0	0	Au-polyaniline
+Au-PANI	1	0	0	Au-PANI
+Gold-PEDOT	1	0	0	Gold-PEDOT
+as-prepared PEDOT	0	1	0	_
+fabricated gold-PEDOT	0	1	0	_
+_	0	0	1	gold-PEDOT
+
+DOI:10.1177/0021998305057368
+TP = 18, FP = 7, FN = 32 / prec = 0.7200, recall = 0.3600, F = 0.4800
+Rule-base	TP	FP	FN	Correct answer
+Polyaniline	1	0	0	Polyaniline
+YUPING	0	1	0	_
+HCl-doped polyaniline	1	0	0	HCl-doped polyaniline
+Pani-EB	1	0	0	Pani-EB
+PAN	1	0	0	PAN
+doped PAN	1	0	0	doped PAN
+COMPOSITE	0	1	0	_
+polyaniline	0	1	0	_
+doped polyaniline	1	0	0	doped polyaniline
+prepared Pani/SR	0	1	0	_
+PAN-HCl	1	0	0	PAN-HCl
+Doped PAN	1	0	0	Doped PAN
+PAN-EB	1	0	0	PAN-EB
+Pani/SR	1	0	0	Pani/SR
+terminated polydimethylsiloxane	0	1	0	_
+PANI-HCL	1	0	0	PANI-HCL
+COMPOSITES	1	0	0	COMPOSITES
+Self-doped Polyanilines	1	0	0	Self-doped Polyanilines
+Poly ( pyrrolyl methine )	1	0	0	Poly ( pyrrolyl methine )
+PANI	1	0	0	PANI
+PEDOT	1	0	0	PEDOT
+Controlled Polyaniline	0	1	0	_
+Polypyrrole	1	0	0	Polypyrrole
+Filled EPDM	0	1	0	_
+Doped Polyaniline	1	0	0	Doped Polyaniline
+_	0	0	1	Polyaniline Composites
+_	0	0	1	Pani-HCl
+_	0	0	1	composites containing Pani-HCl
+_	0	0	1	Pani
+_	0	0	1	doped PAN in 10T
+_	0	0	1	doped PAN in 0T
+_	0	0	1	pani-HCl
+_	0	0	1	polyaniline composite
+_	0	0	1	doped Pani
+_	0	0	1	secondary doped PAN
+_	0	0	1	composites of conducting polymer Pani with hydroxyl terminated polydimethylsiloxane liquid silicone rubber
+_	0	0	1	GMS331D
+_	0	0	1	In situ doped Pani in 10T
+_	0	0	1	Secondary doped Pani in 10T
+_	0	0	1	secondary doped PAN in 10T
+_	0	0	1	in situ doped PAN in 10T
+_	0	0	1	Pani-HCl in 0T
+_	0	0	1	composites made of Pani-HCl and SR
+_	0	0	1	composites containing Pani-EB
+_	0	0	1	Pani-HCl filled composites
+_	0	0	1	Pani-EB filled composites
+_	0	0	1	30 % Pani-EB
+_	0	0	1	30 % Pani-HCl
+_	0	0	1	50 % Pani-HCl
+_	0	0	1	70 % Pani-HCl
+_	0	0	1	composites containing Pani doped in 10T
+_	0	0	1	doped Pani in 10T
+_	0	0	1	secondary doped Pani
+_	0	0	1	composites with Pani-HCl
+_	0	0	1	Polyaniline Doped with Protonic Acids
+_	0	0	1	Liquid Crystalline Polyaniline Derivatives
+_	0	0	1	Carbon Black Filled EPDM Vulcanizates
+
+DOI:10.1007/s10973-006-7745-5
+TP = 4, FP = 3, FN = 8 / prec = 0.5714, recall = 0.3333, F = 0.4211
+Rule-base	TP	FP	FN	Correct answer
+Polystyrene	1	0	0	Polystyrene
+PS	1	0	0	PS
+polystyrene	1	0	0	polystyrene
+POLYSTYRENE	1	0	0	POLYSTYRENE
+APCh	0	1	0	_
+T	0	1	0	_
+reported polystyrene	0	1	0	_
+_	0	0	1	SRM 705a
+_	0	0	1	atactic polystyrene
+_	0	0	1	SRM 705
+_	0	0	1	SRM 1478
+_	0	0	1	SRM 706
+_	0	0	1	NBS No. 706
+_	0	0	1	atactic PS
+_	0	0	1	NBS 706
+
+DOI:10.1016/j.jpowsour.2005.11.096
+TP = 8, FP = 9, FN = 3 / prec = 0.4706, recall = 0.7273, F = 0.5714
+Rule-base	TP	FP	FN	Correct answer
+PEO	1	0	0	PEO
+NaPO3	1	0	0	NaPO3
+poly ( ethylene oxide )	1	0	0	poly ( ethylene oxide )
+poly ( ethylenimine )	1	0	0	poly ( ethylenimine )
+poly ( ethylene uccinate )	1	0	0	poly ( ethylene uccinate )
+polyer	0	1	0	_
+PO3	0	1	0	_
+Poly ( ethylene oxide )	1	0	0	Poly ( ethylene oxide )
+PTFE	1	0	0	PTFE
+PW140	0	1	0	_
+pure PEO	0	1	0	_
+aPO3	0	1	0	_
+H0PEO	1	0	0	H0PEO
+uncomplexed PEO	0	1	0	_
+polycrystalline	0	1	0	_
+PEO -- NaPO3	0	1	0	_
+Poly . J. 20 ( 1988 )	0	1	0	_
+_	0	0	1	( PEO ) n : NaPO3
+_	0	0	1	( PEO ) 6 : NaPO3
+_	0	0	1	PEO - NaPO3
+
+DOI:10.1021/la0634138
+TP = 24, FP = 8, FN = 7 / prec = 0.7500, recall = 0.7742, F = 0.7619
+Rule-base	TP	FP	FN	Correct answer
+PA ,	0	1	0	_
+poly ( 2-hydroxyethyl methacrylate )	0	1	0	_
+polymethacrylate	0	1	0	_
+Polyisoprene	1	0	0	Polyisoprene
+PI	1	0	0	PI
+polystyreneblock-polyisoprene	1	0	0	polystyreneblock-polyisoprene
+PS-b-PI	1	0	0	PS-b-PI
+Polystyrene-b-polyisoprene	1	0	0	Polystyrene-b-polyisoprene
+Hydroxylated PS-b-PI	1	0	0	Hydroxylated PS-b-PI
+PS	1	0	0	PS
+polystyrene	1	0	0	polystyrene
+PEY	0	1	0	_
+HOPG	0	1	0	_
+hydroxylated PI	1	0	0	hydroxylated PI
+designated PI-Fn	0	1	0	_
+designated PSPI-F8	0	1	0	_
+PSPI-F6	1	0	0	PSPI-F6
+PSPI-F4	1	0	0	PSPI-F4
+PI-F8	1	0	0	PI-F8
+PSPI-OH	1	0	0	PSPI-OH
+PSPI-F60	0	1	0	_
+PI-F4	1	0	0	PI-F4
+PSPI-F8	1	0	0	PSPI-F8
+PI-F6	1	0	0	PI-F6
+PI-OH	1	0	0	PI-OH
+PI-F60	1	0	0	PI-F60
+PI-Fn	1	0	0	PI-Fn
+PSPIF6	1	0	0	PSPIF6
+PSPI-Fn	1	0	0	PSPI-Fn
+polyisoprene	1	0	0	polyisoprene
+polyesters	1	0	0	polyesters
+polyimides	1	0	0	polyimides
+_	0	0	1	a diblock copolymer consisting of a poly ( 2-hydroxyethyl methacrylate ) block and a polymethacrylate block with 4-trifluoromethoxyazobenzene side groups
+_	0	0	1	PSPI-F60 .50
+_	0	0	1	PSPI-F60 .25
+_	0	0	1	PSPI-F60 .5
+_	0	0	1	PI-F60 .50
+_	0	0	1	F60 .50
+_	0	0	1	PI-F60 .5
+
+DOI:10.1002/pola.21921
+TP = 7, FP = 1, FN = 3 / prec = 0.8750, recall = 0.7000, F = 0.7778
+Rule-base	TP	FP	FN	Correct answer
+P1	1	0	0	P1
+P4	1	0	0	P4
+P2	1	0	0	P2
+polystyrene	1	0	0	polystyrene
+ofP1	0	1	0	_
+poly ( 3-hexylthiophene-2 ,5 - diyl )	1	0	0	poly ( 3-hexylthiophene-2 ,5 - diyl )
+poly ( 6-hexylpyridine2 ,5 - diyl )	1	0	0	poly ( 6-hexylpyridine2 ,5 - diyl )
+p-conjugated poly ( aryleneethynylene )	1	0	0	p-conjugated poly ( aryleneethynylene )
+_	0	0	1	P1 - P4
+_	0	0	1	P3
+_	0	0	1	P2 - P4
+
+DOI:10.1002/polb.21097
+TP = 15, FP = 14, FN = 2 / prec = 0.5172, recall = 0.8824, F = 0.6522
+Rule-base	TP	FP	FN	Correct answer
+PINGYA	0	1	0	_
+PADB	1	0	0	PADB
+Pd2	0	1	0	_
+PADB 827	0	1	0	_
+PAD	1	0	0	PAD
+purified PADB	0	1	0	_
+SPA400	0	1	0	_
+PADB-BS2	1	0	0	PADB-BS2
+PADB 829	0	1	0	_
+homopolyacrylamide	1	0	0	homopolyacrylamide
+homopoly ( 4-butylstyrene )	1	0	0	homopoly ( 4-butylstyrene )
+PADB-DM5	1	0	0	PADB-DM5
+PADB-DM10	1	0	0	PADB-DM10
+PADB-DM15	1	0	0	PADB-DM15
+PADB-DM20	1	0	0	PADB-DM20
+PADB-BS3	1	0	0	PADB-BS3
+PADB-BS4	1	0	0	PADB-BS4
+PADB-20	1	0	0	PADB-20
+PADB-BS2 ,	1	0	0	PADB-BS2 ,
+PADB 831	0	1	0	_
+polysoaps	0	1	0	_
+PADBBS2	1	0	0	PADBBS2
+CMC	0	1	0	_
+PAD ,	0	1	0	_
+PADB 833	1	0	0	PADB 833
+PADB 835	0	1	0	_
+PADB 837	0	1	0	_
+PADB ,	0	1	0	_
+PADB 839	0	1	0	_
+_	0	0	1	acrylamide-based terpolymers
+_	0	0	1	PADB - BS3
+
+DOI:10.1007/s00339-006-3649-2
+TP = 4, FP = 5, FN = 7 / prec = 0.4444, recall = 0.3636, F = 0.4000
+Rule-base	TP	FP	FN	Correct answer
+polyethylene	0	1	0	_
+HDPE	1	0	0	HDPE
+pure HDPE	0	1	0	_
+MWCNTs/HDPE	1	0	0	MWCNTs/HDPE
+PACS	0	1	0	_
+PTC	0	1	0	_
+MWCNs/HDPE	1	0	0	MWCNs/HDPE
+EMA	0	1	0	_
+MWNT/HDPE	1	0	0	MWNT/HDPE
+_	0	0	1	multi-walled carbon nanotubes / high-density polyethylene
+_	0	0	1	Multi-walled carbon nanotubes ( MWCNTs ) enhanced high-density polyethylene
+_	0	0	1	CNT filled high-density polyethylene
+_	0	0	1	multiwalled carbon nanotubes/high-density polyethylene
+_	0	0	1	aluminum particle filled with polyethylene
+_	0	0	1	multi-walled carbon nanotubes/high-density polyethylene
+_	0	0	1	high-density polyethylene
+
+DOI:10.1007/s10853-006-0375-2
+TP = 19, FP = 8, FN = 16 / prec = 0.7037, recall = 0.5429, F = 0.6129
+Rule-base	TP	FP	FN	Correct answer
+Poly ( N-vinylcarbazole )	1	0	0	Poly ( N-vinylcarbazole )
+PVCz	1	0	0	PVCz
+TEMPO	0	1	0	_
+poly ( N-vinylcarbazole )	1	0	0	poly ( N-vinylcarbazole )
+copolymer of N-vinylcarbazole and styrene	0	1	0	_
+nitroxide-terminated poly ( p-bromostyrene )	1	0	0	nitroxide-terminated poly ( p-bromostyrene )
+PBS-b-PVCz/PS	1	0	0	PBS-b-PVCz/PS
+pre-established TEMPO	0	1	0	_
+TEMPO-terminated poly ( p-bromostyrene )	1	0	0	TEMPO-terminated poly ( p-bromostyrene )
+Cop9	1	0	0	Cop9
+DPX	0	1	0	_
+HPLC	0	1	0	_
+polystyrene	1	0	0	polystyrene
+BPO/TEMPO	1	0	0	BPO/TEMPO
+Cop1	1	0	0	Cop1
+Cop3	1	0	0	Cop3
+Cop5	1	0	0	Cop5
+Cop7	1	0	0	Cop7
+TEMPO-terminated poly ( pbromostyrene )	1	0	0	TEMPO-terminated poly ( pbromostyrene )
+PBS-b-PVCz / PS	1	0	0	PBS-b-PVCz / PS
+PBS-b-PNVC/PS	1	0	0	PBS-b-PNVC/PS
+PS	1	0	0	PS
+cm -- 1 for the block copolymer	0	1	0	_
+PVCz/PS	1	0	0	PVCz/PS
+LiClO4 doped PVCz	1	0	0	LiClO4 doped PVCz
+FAPESP	0	1	0	_
+RPN	0	1	0	_
+_	0	0	1	homopolymers of VCz
+_	0	0	1	block copolymer of N-vinylcarbazole and styrene
+_	0	0	1	homopolymers of N-vinylcarbazole
+_	0	0	1	homopolymer of p-bromostyrene
+_	0	0	1	PBS
+_	0	0	1	N-vinylcarbazole homopolymer
+_	0	0	1	copolymers of VCz
+_	0	0	1	PVCz doped with LiClO4
+_	0	0	1	VCz5
+_	0	0	1	PVCz doped with Iodine
+_	0	0	1	PVCz doped with Bromine
+_	0	0	1	PVCz doped with Chlorine
+_	0	0	1	VCz1
+_	0	0	1	VCz3
+_	0	0	1	VCz7
+_	0	0	1	VCz9
+
+DOI:10.1039/b613561g
+TP = 28, FP = 22, FN = 16 / prec = 0.5600, recall = 0.6364, F = 0.5957
+Rule-base	TP	FP	FN	Correct answer
+sulfonated polyimide	1	0	0	sulfonated polyimide
+SPI	1	0	0	SPI
+SPIs	1	0	0	SPIs
+PPMA	0	1	0	_
+cross-linked SPI	1	0	0	cross-linked SPI
+PEM	0	1	0	_
+PEMs	0	1	0	_
+Nafion	1	0	0	Nafion
+sulfonated polystyrene	1	0	0	sulfonated polystyrene
+sulfonated polysulfones	1	0	0	sulfonated polysulfones
+sulfonated poly ( ether ketone )	1	0	0	sulfonated poly ( ether ketone )
+sulfonated polyphenylenes	1	0	0	sulfonated polyphenylenes
+sulfonated polyimides	1	0	0	sulfonated polyimides
+sulfonated poly ( ether sulfone )	1	0	0	sulfonated poly ( ether sulfone )
+sulfonated poly ( ether ether ketone )	1	0	0	sulfonated poly ( ether ether ketone )
+sulfonated poly ( phenylene oxide )	1	0	0	sulfonated poly ( phenylene oxide )
+polybenzimidazole	1	0	0	polybenzimidazole
+sulfonated polyphosphazene	1	0	0	sulfonated polyphosphazene
+polyatomic	0	1	0	_
+maleimido-end-capped SPI	1	0	0	maleimido-end-capped SPI
+BNIPF	0	1	0	_
+BMPS -- BNIPF	0	1	0	_
+branched/crosslinked SPI	1	0	0	branched/crosslinked SPI
+anhydride-end-capped SPI	1	0	0	anhydride-end-capped SPI
+BAPF	1	0	0	BAPF
+BAPBDS	0	1	0	_
+BSPOB	0	1	0	_
+BSPOB/BAPF	0	1	0	_
+copolyimide	0	1	0	_
+BDSA-based SPIs	1	0	0	BDSA-based SPIs
+BAPBDS-based SPI	1	0	0	BAPBDS-based SPI
+polyimide	0	1	0	_
+Sulfonated polyimide	1	0	0	Sulfonated polyimide
+poly ( ether sulfone )	1	0	0	poly ( ether sulfone )
+BAPBDS/BAPF	0	1	0	_
+BDSA/BAPF	0	1	0	_
+ODADS/BAPF	0	1	0	_
+BAPBDS / BAPF	0	1	0	_
+uncrosslinked SPI	0	1	0	_
+NTDA-BSPOB/BAPF	0	1	0	_
+uncross-linked SPI	0	1	0	_
+BAPBDS-based SPIs	1	0	0	BAPBDS-based SPIs
+MSc/MPa	0	1	0	_
+NTDA-BAPBDS/BAPF	0	1	0	_
+NTDA-ODADS/BAPF	0	1	0	_
+NTDA-BDSA/BAPF	1	0	0	NTDA-BDSA/BAPF
+BDSA-based SPI	1	0	0	BDSA-based SPI
+sulfonated polystyrenes	1	0	0	sulfonated polystyrenes
+sulfonated polybenzimidazoles	1	0	0	sulfonated polybenzimidazoles
+Sulfonated polystyrene	0	1	0	_
+_	0	0	1	cross-linked sulfonated polyimide
+_	0	0	1	six-membered ring sulfonated polyimides
+_	0	0	1	cross-linked sulfonated poly ( ether ether ketone )
+_	0	0	1	NTDA - BSPOB/BAPF ( 9/1 ) copolyimide
+_	0	0	1	NTDA - BSPOB/BAPF ( 9/1 )
+_	0	0	1	NTDA - BAPBDS/BAPF ( 3/1 )
+_	0	0	1	NTDA - BDSA/BAPF ( 3/1 )
+_	0	0	1	NTDA - ODADS/BAPF ( 3/1 )
+_	0	0	1	NTDA - ODADS/BAPF ( 5/1 )
+_	0	0	1	NTDA - BAPBDS / BAPF ( 3/1 )
+_	0	0	1	NTDA - ODADS / BAPF ( 3/1 )
+_	0	0	1	NTDA-BSPOB/BAPF ( 9/1 )
+_	0	0	1	NTDA - BAPBDS/BAPF ( 9/1 )
+_	0	0	1	NTDA-BAPBDS/BAPF ( 3/1 )
+_	0	0	1	NTDA-ODADS/BAPF ( 5/1 )
+_	0	0	1	Sulfonated polystyrene of a degree of sulfonation of 42 %
+
+DOI:10.1016/j.molstruc.2006.07.038
+TP = 7, FP = 9, FN = 9 / prec = 0.4375, recall = 0.4375, F = 0.4375
+Rule-base	TP	FP	FN	Correct answer
+DEPT-45	0	1	0	_
+DEPT	0	1	0	_
+poly ( 9-ethyl-3-hydroxymethylcarbazolyl acrylate-co-methacrylonitrile )	1	0	0	poly ( 9-ethyl-3-hydroxymethylcarbazolyl acrylate-co-methacrylonitrile )
+DPX-300	0	1	0	_
+poly dispersity index ( PDI , Mw/Mn )	0	1	0	_
+Poly dispersity index ( PDI )	0	1	0	_
+37HPLC	0	1	0	_
+polystyrene	1	0	0	polystyrene
+C/N copolymer	1	0	0	C/N copolymer
+DEPTF	0	1	0	_
+poly ( 9-ethyl3-hydroxymethylcarbazolyl acrylate )	1	0	0	poly ( 9-ethyl3-hydroxymethylcarbazolyl acrylate )
+poly ( methacrylonitrile )	1	0	0	poly ( methacrylonitrile )
+DEPT135	0	1	0	_
+DEPT-90	0	1	0	_
+PC	1	0	0	PC
+poly ( 9-ethyl-3-hydroxymethylcarbazolyl acrylate )	1	0	0	poly ( 9-ethyl-3-hydroxymethylcarbazolyl acrylate )
+_	0	0	1	9-ethyl-3-hydroxymethylcarbazolyl acrylate/methacrylonitrile
+_	0	0	1	9-ethyl-3-hydroxymethylcarbazolyl acrylate-co-methacrylonitrile
+_	0	0	1	C/N
+_	0	0	1	C/N copolymers
+_	0	0	1	9-Ethyl-3-hydroxymethylcarbazolyl acrylate-co-methacrylonitrile
+_	0	0	1	9-ethyl-3hydroxymethylcarbazolyl acrylate/methacrylonitrile
+_	0	0	1	C/N coplymer
+_	0	0	1	PN
+_	0	0	1	C/N copolymers with PC and PN
+
+DOI:10.1016/j.apsusc.2006.03.029corrosion
+TP = 6, FP = 7, FN = 8 / prec = 0.4615, recall = 0.4286, F = 0.4444
+Rule-base	TP	FP	FN	Correct answer
+poly ( N - ( methacryloyloxymethyl ) benzotriazole-co-methyl methacrylate )	1	0	0	poly ( N - ( methacryloyloxymethyl ) benzotriazole-co-methyl methacrylate )
+Poly ( N-methacryloyloxymethyl benzotriazoleco-methylmethacrylate )	1	0	0	Poly ( N-methacryloyloxymethyl benzotriazoleco-methylmethacrylate )
+poly ( MMBT-co-MMA )	1	0	0	poly ( MMBT-co-MMA )
+poly ( MMBT-coMMA )	0	1	0	_
+polystyrene	1	0	0	polystyrene
+5 -- 10 mg of the copolymer	0	1	0	_
+PGSTAT	0	1	0	_
+OCP	0	1	0	_
+GPES	0	1	0	_
+poly ( MMBTco-MMA )	0	1	0	_
+Poly ( MMBT-co-MMA )	1	0	0	Poly ( MMBT-co-MMA )
+190 -- Copolymer 1 13.5 49.1 26 80.6 Copolymer	0	1	0	_
+Poly ( N - ( methacryloyloxymethyl ) benzotriazole-co-methyl methacrylate )	1	0	0	Poly ( N - ( methacryloyloxymethyl ) benzotriazole-co-methyl methacrylate )
+_	0	0	1	Copolymer 1
+_	0	0	1	Copolymer 2
+_	0	0	1	Copolymer 3
+_	0	0	1	Copolymer 4
+_	0	0	1	copolymer 3
+_	0	0	1	copolymer 1
+_	0	0	1	copolymer 2
+_	0	0	1	copolymer 4
+
+DOI:10.1177/0021998305057368
+TP = 20, FP = 7, FN = 23 / prec = 0.7407, recall = 0.4651, F = 0.5714
+Rule-base	TP	FP	FN	Correct answer
+PEG	1	0	0	PEG
+PC	0	1	0	_
+MPC	0	1	0	_
+PEO	1	0	0	PEO
+UHP	0	1	0	_
+polyethylene	1	0	0	polyethylene
+HPLC	0	1	0	_
+ACP200	0	1	0	_
+MPC-10-05	1	0	0	MPC-10-05
+MPC-39-05	1	0	0	MPC-39-05
+MPC-10-10	1	0	0	MPC-10-10
+MPC-39-10	1	0	0	MPC-39-10
+MPC-10-50	1	0	0	MPC-10-50
+MPC-39-50	1	0	0	MPC-39-50
+MPC-10-100	1	0	0	MPC-10-100
+MPC-39-100	1	0	0	MPC-39-100
+MPC-10-200	1	0	0	MPC-10-200
+MPC-39-200	1	0	0	MPC-39-200
+aXPS	0	1	0	_
+polystyrene	1	0	0	polystyrene
+MPC-10-5	1	0	0	MPC-10-5
+MPC-39-5b	1	0	0	MPC-39-5b
+MPC-39-10b	1	0	0	MPC-39-10b
+MPC-39-50b	1	0	0	MPC-39-50b
+MPC-39-100b	1	0	0	MPC-39-100b
+MPC-39-200b	1	0	0	MPC-39-200b
+MPC43	0	1	0	_
+_	0	0	1	poly OEGMA - grafted surfaces on silicon
+_	0	0	1	poly MPC grafted silicon
+_	0	0	1	polyethylene glycol
+_	0	0	1	poly MPC
+_	0	0	1	poly OEGMA
+_	0	0	1	poly OEGMA - grafted silicon
+_	0	0	1	OEGMA-10-05
+_	0	0	1	OEGMA-39-05
+_	0	0	1	OEGMA-10-10
+_	0	0	1	OEGMA-39-10
+_	0	0	1	OEGMA-10-50
+_	0	0	1	OEGMA-39-50
+_	0	0	1	OEGMA-10-100
+_	0	0	1	OEGMA-39-100
+_	0	0	1	OEGMA-10-200
+_	0	0	1	OEGMA-39-200
+_	0	0	1	poly MPC - grafted silicon
+_	0	0	1	grafted poly OEGMA
+_	0	0	1	Poly OEGMA
+_	0	0	1	Poly MPC
+_	0	0	1	PEGand
+_	0	0	1	OEGMA-10-5
+_	0	0	1	OEGMA-39-5
+
+DOI:10.1002/pola.21848
+TP = 22, FP = 1, FN = 2 / prec = 0.9565, recall = 0.9167, F = 0.9362
+Rule-base	TP	FP	FN	Correct answer
+Polybenzoxazines	1	0	0	Polybenzoxazines
+polybenzoxazine	1	0	0	polybenzoxazine
+polyaromatics	1	0	0	polyaromatics
+polybenzoxazines	1	0	0	polybenzoxazines
+PP-a	1	0	0	PP-a
+polystyrene	1	0	0	polystyrene
+poly ( e-caprolactone )	1	0	0	poly ( e-caprolactone )
+polyphenol	1	0	0	polyphenol
+poly ( p-phenylene )	1	0	0	poly ( p-phenylene )
+obtained poly ( p-phenylene )	1	0	0	obtained poly ( p-phenylene )
+polypyrrole	1	0	0	polypyrrole
+POLYBENZOXAZINES	1	0	0	POLYBENZOXAZINES
+Poly-P-a-co-Th	1	0	0	Poly-P-a-co-Th
+Poly-P-a	1	0	0	Poly-P-a
+Polybenzoxazine	0	1	0	_
+substituted polyphenylenes	1	0	0	substituted polyphenylenes
+polyphenylene	1	0	0	polyphenylene
+polyamic	1	0	0	polyamic
+Poly-Pa	1	0	0	Poly-Pa
+T	1	0	0	T
+Poly-P-a-coTh	1	0	0	Poly-P-a-coTh
+cured Poly-P-a	1	0	0	cured Poly-P-a
+cured Poly-P-a-co-Th	1	0	0	cured Poly-P-a-co-Th
+_	0	0	1	polybenzoxazine precursors
+_	0	0	1	Polybenzoxazine Precursors
+
+DOI:10.1016/j.electacta.2006.10.051
+TP = 7, FP = 15, FN = 15 / prec = 0.3182, recall = 0.3182, F = 0.3182
+Rule-base	TP	FP	FN	Correct answer
+Nafion	1	0	0	Nafion
+Chitosan	1	0	0	Chitosan
+polyers	0	1	0	_
+chitosan	1	0	0	chitosan
+chitin	1	0	0	chitin
+Untreated Nafion	0	1	0	_
+PC	0	1	0	_
+PGSTAT30	0	1	0	_
+crosslinked chitosan	1	0	0	crosslinked chitosan
+C-20-PTC	0	1	0	_
+Crosslinked chitosan	1	0	0	Crosslinked chitosan
+hosphorylated chitosan	0	1	0	_
+hosphonated chitosan	0	1	0	_
+rosslinked chitosan	0	1	0	_
+PZC	0	1	0	_
+PEEK	1	0	0	PEEK
+COMPASS	0	1	0	_
+OCP	0	1	0	_
+PEMFC	0	1	0	_
+Polytechnic	0	1	0	_
+PV94-2	0	1	0	_
+PM-093	0	1	0	_
+_	0	0	1	chitosan-oxide compounds
+_	0	0	1	Nafion ®
+_	0	0	1	chitosan composite
+_	0	0	1	quitin
+_	0	0	1	CCS
+_	0	0	1	CCN
+_	0	0	1	CCK
+_	0	0	1	Nafion ® 117
+_	0	0	1	chitosan composites
+_	0	0	1	chitosan glut
+_	0	0	1	Chitosan composite
+_	0	0	1	chitosan - calcite
+_	0	0	1	CCS-Ca
+_	0	0	1	composite chitosan
+_	0	0	1	chitosan - CaO
+
+DOI:10.1021/la062879n
+TP = 9, FP = 3, FN = 5 / prec = 0.7500, recall = 0.6429, F = 0.6923
+Rule-base	TP	FP	FN	Correct answer
+TiO2-PMMA	1	0	0	TiO2-PMMA
+n-TiO2-PMMA	1	0	0	n-TiO2-PMMA
+poly ( ethylene oxide )	1	0	0	poly ( ethylene oxide )
+TiO2-polystyrene	1	0	0	TiO2-polystyrene
+PMMA	1	0	0	PMMA
+poly ( vinyl alcohol )	1	0	0	poly ( vinyl alcohol )
+PVA	1	0	0	PVA
+polysiloxane	1	0	0	polysiloxane
+unfilled PMMA	0	1	0	_
+polycrystalline	0	1	0	_
+PMMA-n-TiO2	1	0	0	PMMA-n-TiO2
+commercial TiO2-PMMA	0	1	0	_
+_	0	0	1	PMMA-based bone cement
+_	0	0	1	3 wt % functionalized n-TiO2 nanofibers / PMMA
+_	0	0	1	3 wt % functionalized titania-PMMA
+_	0	0	1	PMMA composites with TiO2
+_	0	0	1	3 wt % TiO2 functionalized commercial TiO2-PMMA
+
+DOI:10.1007/s10853-006-1433-5
+TP = 0, FP = 4, FN = 2 / prec = 0.0000, recall = 0.0000, F = 0.0000
+Rule-base	TP	FP	FN	Correct answer
+poly ( arylene disulfide )	0	1	0	_
+polydisulfides	0	1	0	_
+epoxy resins	0	1	0	_
+N2	0	1	0	_
+_	0	0	1	poly ( arylene disulfide ) derived from cyclic ( 4,4 cents - oxybis ( benzene ) disulfide )
+_	0	0	1	poly ( arylene disulfide ) derived from macrocyclic ( 4,4 cents - oxybis ( benzene ) disulfide )
+
+DOI:10.1002/pola.21833
+TP = 15, FP = 20, FN = 5 / prec = 0.4286, recall = 0.7500, F = 0.5455
+Rule-base	TP	FP	FN	Correct answer
+Polyimide	0	1	0	_
+polyimide	0	1	0	_
+poly [ 1,4-phenyleneoxy1 ,4 - phenylene-2 ,20 - di ( 2-nitrobenzyloxy ) benzophenone-3 ,30,4,40 - tetracarboxdiimide ]	1	0	0	poly [ 1,4-phenyleneoxy1 ,4 - phenylene-2 ,20 - di ( 2-nitrobenzyloxy ) benzophenone-3 ,30,4,40 - tetracarboxdiimide ]
+OPI-Nb	1	0	0	OPI-Nb
+poly ( 1,4-phenyleneoxy-1 ,4 - phenylene-2 ,20 - dihydroxybenzophenone-3 ,30,4,40 tetracarboxdiimide )	1	0	0	poly ( 1,4-phenyleneoxy-1 ,4 - phenylene-2 ,20 - dihydroxybenzophenone-3 ,30,4,40 tetracarboxdiimide )
+OPI	1	0	0	OPI
+polyimides	0	1	0	_
+PIs	0	1	0	_
+PSPIs	1	0	0	PSPIs
+PSPI	1	0	0	PSPI
+poly ( amic acid )	0	1	0	_
+PAAs	1	0	0	PAAs
+PI	0	1	0	_
+norbornene-end-capped poly ( amic acid ethoxymethylester )	0	1	0	_
+PAA	0	1	0	_
+polyhydroxyimide	0	1	0	_
+PHI	1	0	0	PHI
+tert-Butoxycarbonylated PHI	1	0	0	tert-Butoxycarbonylated PHI
+polypyromellitimide	1	0	0	polypyromellitimide
+poly ( benzophenone tetracarboxdiimide )	0	1	0	_
+poly [ 1,4-phenyleneoxy-1 ,4 - phenylene-2 ,20 - di ( 2-nitrobenzyloxy ) benzophenone-3 ,30,4,40 - tetracarboxdiimide ]	1	0	0	poly [ 1,4-phenyleneoxy-1 ,4 - phenylene-2 ,20 - di ( 2-nitrobenzyloxy ) benzophenone-3 ,30,4,40 - tetracarboxdiimide ]
+OPINb	1	0	0	OPINb
+poly ( 1,4-phenyleneoxy-1 ,4 - phenylene-2 ,20 - dihydroxybenzophenone-3 ,30,4,40 - tetracarboxdiimide )	1	0	0	poly ( 1,4-phenyleneoxy-1 ,4 - phenylene-2 ,20 - dihydroxybenzophenone-3 ,30,4,40 - tetracarboxdiimide )
+POSITIVE-WORKING	0	1	0	_
+PHOTOSENSITIVE	0	1	0	_
+POLYIMIDE	0	1	0	_
+DPX	0	1	0	_
+Step-500	0	1	0	_
+PAA ,	0	1	0	_
+imidized OPI	1	0	0	imidized OPI
+exposed/developed OPI-Nb	0	1	0	_
+poly ( o-nitrobenzyl methacrylate )	1	0	0	poly ( o-nitrobenzyl methacrylate )
+anOPI-Nb	0	1	0	_
+Polyimides	0	1	0	_
+PA ,	0	1	0	_
+_	0	0	1	Polyimide Having an o-Nitrobenzyl Ether Group
+_	0	0	1	polyimides with o-nitrobenzyl side groups
+_	0	0	1	PSPIs based on norbornene-end-capped poly ( amic acid ethoxymethylester )
+_	0	0	1	PSPIs based on polyhydroxyimide
+_	0	0	1	PSPI based on poly ( benzophenone tetracarboxdiimide ) having o-nitrobenzyl ether side groups
+
+DOI:10.1007/s10853-006-0011-1
+TP = 8, FP = 16, FN = 12 / prec = 0.3333, recall = 0.4000, F = 0.3636
+Rule-base	TP	FP	FN	Correct answer
+reinforced Polyamide-6 ,6	0	1	0	_
+Polyamide-6 ,6	1	0	0	Polyamide-6 ,6
+PA66	1	0	0	PA66
+f-MWCNT/PA66	1	0	0	f-MWCNT/PA66
+pristine PA66	0	1	0	_
+u-MWCNT/PA66	1	0	0	u-MWCNT/PA66
+unfilled PA66	0	1	0	_
+reinforced poly ( iminohexamethyleneiminoadipoyl )	0	1	0	_
+reinforced PA66	0	1	0	_
+MWCNT/PA66	1	0	0	MWCNT/PA66
+Pure PA66	0	1	0	_
+RTESP	0	1	0	_
+pure PA66	0	1	0	_
+PMMA	0	1	0	_
+melt-blended PP/SWCNT	0	1	0	_
+PA66/clay	1	0	0	PA66/clay
+PA66 ,	0	1	0	_
+EVA	1	0	0	EVA
+loaded polypropylene	0	1	0	_
+loaded PA66	0	1	0	_
+reinforced poly ( vinyl alcohol )	0	1	0	_
+polyamides	0	1	0	_
+functionalized MWCNT/PA66	1	0	0	functionalized MWCNT/PA66
+PA	0	1	0	_
+_	0	0	1	MWCNT reinforced Polyamide-6 ,6
+_	0	0	1	MWCNT reinforced poly ( iminohexamethyleneiminoadipoyl )
+_	0	0	1	f-MWCNT reinforced PA66
+_	0	0	1	Zytel 101L
+_	0	0	1	f-MWCNT / PA66
+_	0	0	1	MWCNT reinforced PA66
+_	0	0	1	SWCNT - PMMA
+_	0	0	1	PP/SWCNT
+_	0	0	1	PA66 / MWCNT
+_	0	0	1	ethylene-co-vinyl acetate copolymer
+_	0	0	1	SWCNT loaded polypropylene
+_	0	0	1	functionalized MWCNT loaded PA66
+
+DOI:10.1007/s10853-006-1333-8
+TP = 3, FP = 4, FN = 2 / prec = 0.4286, recall = 0.6000, F = 0.5000
+Rule-base	TP	FP	FN	Correct answer
+branched polyethylene	1	0	0	branched polyethylene
+polyethylene	1	0	0	polyethylene
+PE	1	0	0	PE
+polyketones	0	1	0	_
+I3P	0	1	0	_
+KPJ	0	1	0	_
+PCH	0	1	0	_
+_	0	0	1	ethylene-based copolymers
+_	0	0	1	ethylene/1-hexene copolymers
+
+DOI:10.1002/pola.21872
+TP = 17, FP = 19, FN = 31 / prec = 0.4722, recall = 0.3542, F = 0.4048
+Rule-base	TP	FP	FN	Correct answer
+Poly ( butylene terephthalate ) / Poly ( ethylene terephthalate )	0	1	0	_
+Polymères	0	1	0	_
+poly ( butylene terephthalate )	1	0	0	poly ( butylene terephthalate )
+PBT	1	0	0	PBT
+SSP	1	0	0	SSP
+poly ( ethylene terephthalate )	1	0	0	poly ( ethylene terephthalate )
+PET	1	0	0	PET
+PBT-PET	1	0	0	PBT-PET
+unmodified PBT	0	1	0	_
+polyesters	0	1	0	_
+Poly ( butylene terephthalate )	1	0	0	Poly ( butylene terephthalate )
+nonreinforced PBT	0	1	0	_
+pure PBT	0	1	0	_
+synthesized PET-PBT	0	1	0	_
+PBTPET	0	1	0	_
+used SSP	0	1	0	_
+poly ( ethylene naphthalate )	0	1	0	_
+PETPEN	0	1	0	_
+synthesized PBT-PET	0	1	0	_
+PBT/PET	1	0	0	PBT/PET
+HFIP	1	0	0	HFIP
+Copolyesters	0	1	0	_
+PBT/BHET	1	0	0	PBT/BHET
+FPBT	1	0	0	FPBT
+polystyrene	1	0	0	polystyrene
+obtained PS	0	1	0	_
+PS	1	0	0	PS
+laPREPARATION	0	1	0	_
+copolyesters	0	1	0	_
+PET-PBT	1	0	0	PET-PBT
+poly ( trimethylene terephthalate )	1	0	0	poly ( trimethylene terephthalate )
+pure PET	0	1	0	_
+PBT-BHET	1	0	0	PBT-BHET
+modified PBT	1	0	0	modified PBT
+Polyesters	0	1	0	_
+Polyamides	0	1	0	_
+_	0	0	1	Poly ( butylene terephthalate ) / Poly ( ethylene terephthalate ) Copolymers
+_	0	0	1	PBT-PET copolymers
+_	0	0	1	PET-PBT block copolymers
+_	0	0	1	poly ( ethylene terephthalate ) - poly ( ethylene naphthalate ) copolymers
+_	0	0	1	PBT copolymers
+_	0	0	1	Copolyesters of PBT and BHET
+_	0	0	1	( BDxEGy ) copolymers
+_	0	0	1	( BDxEGy ) ssp copolymers
+_	0	0	1	( BDxEGy ) samples obtained by MP
+_	0	0	1	( BDxEGy ) mp copolymers
+_	0	0	1	( BDxEGy ) mp copolymer
+_	0	0	1	( BD70 EG30 ) ssp , copolymers
+_	0	0	1	( BD70EG30 ) ssp samples
+_	0	0	1	( BD70EG30 ) ssp copolymers
+_	0	0	1	( BDxEGy ) ssp copolymer
+_	0	0	1	( BDxEGy ) copolymer
+_	0	0	1	( BD70EG30 ) ssp sample
+_	0	0	1	molten PET-PBT
+_	0	0	1	copolymer based on PBT
+_	0	0	1	( BD100EG0 ) ssp copolymer
+_	0	0	1	( BD100EG0 ) ssp homopolymer
+_	0	0	1	( BD60EG40 ) ssp copolymer
+_	0	0	1	( BDxEGy ) ssp copolymers with x < 60 mol % BD
+_	0	0	1	( BD30EG70 ) ssp copolymer
+_	0	0	1	( BD50EG50 ) ssp copolymers
+_	0	0	1	( BDxEGy ) ssp Copolymers
+_	0	0	1	( BD100EG0 ) mp copolymer
+_	0	0	1	( BDxEGy ) mp Copolymers
+_	0	0	1	( BD30EG70 ) ssp copolymers
+_	0	0	1	( BD60EG40 ) ssp
+_	0	0	1	Linear Polyesters
+
+DOI:10.1016/j.memsci.2006.11.019
+TP = 11, FP = 9, FN = 5 / prec = 0.5500, recall = 0.6875, F = 0.6111
+Rule-base	TP	FP	FN	Correct answer
+PSF	1	0	0	PSF
+Polysulfone	1	0	0	Polysulfone
+PSF/TiO2	1	0	0	PSF/TiO2
+polyvinylpyrrolidone	1	0	0	polyvinylpyrrolidone
+PVP	1	0	0	PVP
+poly2	0	1	0	_
+polyer	0	1	0	_
+mNMP	0	1	0	_
+1Pj	0	1	0	_
+PS/TiO2	1	0	0	PS/TiO2
+zeolite-filled PDMS	1	0	0	zeolite-filled PDMS
+BAO-ODPA	0	1	0	_
+polyimide/TiO2	0	1	0	_
+polysulfone	1	0	0	polysulfone
+poly ( 1-vinylpyrrolidoneco-styrene )	0	1	0	_
+polyacrylonitrile	1	0	0	polyacrylonitrile
+methoxy-poly ( ethylene glycol )	1	0	0	methoxy-poly ( ethylene glycol )
+modified polysulfone	0	1	0	_
+polyphenol	0	1	0	_
+chitosan-coated polysulphone	1	0	0	chitosan-coated polysulphone
+_	0	0	1	BAO-ODPA polyimide/TiO2
+_	0	0	1	blends of polysulfone with poly ( 1-vinylpyrrolidoneco-styrene ) copolymers
+_	0	0	1	Polysulfone - aerosil
+_	0	0	1	Chemically modified polysulfone hollow fibers with vinylpyrrolidone
+_	0	0	1	polyphenol oxidase
+
+DOI:10.1007/s10904-006-9033-z
+TP = 10, FP = 10, FN = 3 / prec = 0.5000, recall = 0.7692, F = 0.6061
+Rule-base	TP	FP	FN	Correct answer
+poly ( acrylates-co-2-methylacrylic acid 3 - ( bis-carboxymethylamino ) - 2-hydroxy-propyl ester )	1	0	0	poly ( acrylates-co-2-methylacrylic acid 3 - ( bis-carboxymethylamino ) - 2-hydroxy-propyl ester )
+poly ( acrylates-co-2methylacrylic acid 3 - ( bis - carboxymethylamino ) -2 hydroxy-propyl ester )	0	1	0	_
+poly ( acrylates-co2-methylacrylic acid 3 - ( bis-carboxymethylamino ) -2 hydroxy-propyl ester )	0	1	0	_
+Poly ( MA-co-GMA-IDA )	1	0	0	Poly ( MA-co-GMA-IDA )
+poly ( MA-co-GMA-IDA )	1	0	0	poly ( MA-co-GMA-IDA )
+Poly ( MA-coMMA-co-GMA-IDA )	0	1	0	_
+poly ( MA-coMMA-co-GMA-IDA )	0	1	0	_
+MA / MMA mole ratios reveal that the copolymer	0	1	0	_
+PMMA-rich	1	0	0	PMMA-rich
+PGMA-IDA-rich	1	0	0	PGMA-IDA-rich
+chelated poly ( MA-co-GMA-IDA )	0	1	0	_
+poly ( MA-coGMA-IDA )	0	1	0	_
+CdS-Poly ( MA-co-GMA-IDA )	1	0	0	CdS-Poly ( MA-co-GMA-IDA )
+PMMA	1	0	0	PMMA
+PMA	1	0	0	PMA
+PGMA-IDA	1	0	0	PGMA-IDA
+polyphosphate	1	0	0	polyphosphate
+SiO2/PMMA	0	1	0	_
+/ copolymer	0	1	0	_
+methacrylate / methyl acrylate ( MMA/MA ) in copolymer	0	1	0	_
+_	0	0	1	Cd2 + - chelated poly ( MA-co-GMA-IDA )
+_	0	0	1	Cd2 + - Poly ( MA-co-GMA-IDA )
+_	0	0	1	CdS / SiO2/PMMA
+
+DOI:10.1007/s10924-006-0001-z
+TP = 11, FP = 1, FN = 1 / prec = 0.9167, recall = 0.9167, F = 0.9167
+Rule-base	TP	FP	FN	Correct answer
+Polylactides	1	0	0	Polylactides
+PLAs	1	0	0	PLAs
+PLA	1	0	0	PLA
+Poly ( lactic acid )	1	0	0	Poly ( lactic acid )
+polylactides	1	0	0	polylactides
+SH-PLA-72	1	0	0	SH-PLA-72
+P-10	0	1	0	_
+polylactidesa	1	0	0	polylactidesa
+SH-PLA-72b	1	0	0	SH-PLA-72b
+SH-PLA-14	1	0	0	SH-PLA-14
+SH-PLA-43	1	0	0	SH-PLA-43
+nPLA	1	0	0	nPLA
+_	0	0	1	PLA with L :D ratios of 100:0
+
+DOI:10.1021/la0629025
+TP = 38, FP = 16, FN = 39 / prec = 0.7037, recall = 0.4935, F = 0.5802
+Rule-base	TP	FP	FN	Correct answer
+PEG-PLA-PEG	1	0	0	PEG-PLA-PEG
+Monohydroxylated PEG-PLA	1	0	0	Monohydroxylated PEG-PLA
+biopolymères	0	1	0	_
+monohydroxylated poly ( ethylene glycol )	1	0	0	monohydroxylated poly ( ethylene glycol )
+PEG	1	0	0	PEG
+PEG-b-polylactide	1	0	0	PEG-b-polylactide
+PEG-PLA	1	0	0	PEG-PLA
+PEG-PLAPEG	1	0	0	PEG-PLAPEG
+obtained PEG-PLA-PEG	0	1	0	_
+PLA	1	0	0	PLA
+N-substituted polyacrylamide	1	0	0	N-substituted polyacrylamide
+poly ( methylacrylamide )	1	0	0	poly ( methylacrylamide )
+poly ( ethylene oxide ) / poly ( propylene oxide )	1	0	0	poly ( ethylene oxide ) / poly ( propylene oxide )
+PEO/PPO	1	0	0	PEO/PPO
+PEO-PPO-PEO	0	1	0	_
+poly ( ethylene glycol )	1	0	0	poly ( ethylene glycol )
+poly ( lactide-co-glycolide )	1	0	0	poly ( lactide-co-glycolide )
+PLGA	1	0	0	PLGA
+PEGPLGA-PEG	1	0	0	PEGPLGA-PEG
+monohydroxylated PEG-PLGA	1	0	0	monohydroxylated PEG-PLGA
+PLLA/PEG	1	0	0	PLLA/PEG
+PDLA/PEG	0	1	0	_
+dihydroxylated PEG	1	0	0	dihydroxylated PEG
+PLLA	1	0	0	PLLA
+PDLA	1	0	0	PDLA
+PLA/PEG	1	0	0	PLA/PEG
+monohydroxylated PEG-PLA	1	0	0	monohydroxylated PEG-PLA
+PEG-PLGA-PEG	1	0	0	PEG-PLGA-PEG
+Monohydroxylated PEGs	0	1	0	_
+polystyrene	1	0	0	polystyrene
+Polysciences	0	1	0	_
+PA	0	1	0	_
+monohydroxylated PEG	0	1	0	_
+Monohydroxylated PEG	1	0	0	Monohydroxylated PEG
+PCL / PEG	0	1	0	_
+PEG2000	1	0	0	PEG2000
+MnPLA	0	1	0	_
+MnPEG/44	0	1	0	_
+DPPEG	0	1	0	_
+DPPLA	0	1	0	_
+poly ( methyl methacrylate )	1	0	0	poly ( methyl methacrylate )
+sPMMA	1	0	0	sPMMA
+poly ( butadiene )	1	0	0	poly ( butadiene )
+PBD	1	0	0	PBD
+PEG-derived PEG-PLGA-PEG	1	0	0	PEG-derived PEG-PLGA-PEG
+EO99-PO65-EO99	1	0	0	EO99-PO65-EO99
+PEO	1	0	0	PEO
+P85	0	1	0	_
+EO27PO39-EO27	0	1	0	_
+P94	1	0	0	P94
+EO21-PO47-EO21	1	0	0	EO21-PO47-EO21
+P103	1	0	0	P103
+EO17-PO60-EO17	1	0	0	EO17-PO60-EO17
+PRA	0	1	0	_
+_	0	0	1	PEG-PLA-PEG Triblock Copolymers
+_	0	0	1	PEG-PLA-PEG triblock copolymers
+_	0	0	1	PEO-PPO-PEO block copolymers
+_	0	0	1	PDLA/PEG block copolymers
+_	0	0	1	PLA/PEG multiblock copolymers
+_	0	0	1	Monohydroxylated PEGs with Mn of 2000
+_	0	0	1	PEG-PLA Diblock Copolymers
+_	0	0	1	Copolymers with EO/LA ratios of 2/1
+_	0	0	1	monohydroxylated PEG with Mn of 2000
+_	0	0	1	EOx-LAy
+_	0	0	1	EOx-LA2y-EOx
+_	0	0	1	EO45-LA12
+_	0	0	1	PCL / PEG copolymers
+_	0	0	1	EO45-LA24-EO45
+_	0	0	1	EO45-LA41
+_	0	0	1	PEG5000-derived diblocks EO113-LA33
+_	0	0	1	EO113-LA50
+_	0	0	1	EO113-LA103
+_	0	0	1	EO45-LA38-EO45
+_	0	0	1	EO45-LA82-EO45
+_	0	0	1	PEG5000-derived copolymers
+_	0	0	1	EO113-LA33
+_	0	0	1	EO113-LA66-EO113
+_	0	0	1	EO113-LA100-EO113
+_	0	0	1	EO113-LA206-EO113
+_	0	0	1	triblock copolymers with initial EO/LA ratios of 3/1
+_	0	0	1	PEG-PLGA-PEG triblock copolymers
+_	0	0	1	copolymer EO113-LA66-EO113
+_	0	0	1	PEG2000-derived EO45-LA24-EO45
+_	0	0	1	PEG5000-derived EO113-LA66-EO113
+_	0	0	1	PEG2000-derived copolymers
+_	0	0	1	Triblock Copolymers EO45-LA24-EO45
+_	0	0	1	Pluronic F127
+_	0	0	1	Pluronic P85
+_	0	0	1	PEG-PLGA-PEG with Mn of 550-3400-550
+_	0	0	1	PEG-PLA-PEG copolymers
+_	0	0	1	PEG with Mn of 2000
+_	0	0	1	diblock copolymer EO45-LA12
+_	0	0	1	triblock EO45-LA24-EO45
+
+DOI:10.1177/0731684406066364
+TP = 6, FP = 14, FN = 16 / prec = 0.3000, recall = 0.2727, F = 0.2857
+Rule-base	TP	FP	FN	Correct answer
+SBR	1	0	0	SBR
+RENUKAPPA	0	1	0	_
+compounded SBR	1	0	0	compounded SBR
+polyethylene	0	1	0	_
+HDPE	1	0	0	HDPE
+carbon-fiber-reinforced polyether	0	1	0	_
+PES	1	0	0	PES
+REINFORCED PLASTICS	0	1	0	_
+COMPOSITES	0	1	0	_
+PENNSYLVANIA	0	1	0	_
+polyvinyl	0	1	0	_
+PVC	1	0	0	PVC
+GPF	0	1	0	_
+styrene -- butadiene -- rubber ( SBR ) copolymer	0	1	0	_
+TMPT	0	1	0	_
+HP-LCR	0	1	0	_
+incorporated SBR	0	1	0	_
+black-filled SBR	0	1	0	_
+Crosslinked Polyethylene	1	0	0	Crosslinked Polyethylene
+PAS ,	0	1	0	_
+_	0	0	1	SBR - Carbon Black
+_	0	0	1	styrene - butadiene - rubber
+_	0	0	1	compounded SBR composites
+_	0	0	1	SBR composites
+_	0	0	1	carbon black-loaded high density polyethylene
+_	0	0	1	nickel-coated carbon-fiber-reinforced polyether sulfone
+_	0	0	1	vulcanized styrene - butadiene - rubber
+_	0	0	1	carbon black - polyvinyl chloride
+_	0	0	1	polyethylene loaded with carbon black
+_	0	0	1	SBR-wax matrix loaded with carbon black
+_	0	0	1	SBR - carbon black
+_	0	0	1	SBR-1502
+_	0	0	1	Styrene - butadiene - rubber filled with more than 50 % carbon black
+_	0	0	1	SBR filled with higher dosages ( % ) of carbon black ( more than 50 % )
+_	0	0	1	Higher dosage ( % ) carbon black incorporated SBR compounds
+_	0	0	1	High percentage carbon black-filled SBR
+
+DOI:10.1163/156856206778937208
+TP = 11, FP = 7, FN = 8 / prec = 0.6111, recall = 0.5789, F = 0.5946
+Rule-base	TP	FP	FN	Correct answer
+poly ( hydroxyalkanoate )	1	0	0	poly ( hydroxyalkanoate )
+PUBLICATIONS	0	1	0	_
+PROFILE	0	1	0	_
+PHA	1	0	0	PHA
+produced PHA	0	1	0	_
+poly ( 3-hydroxybutyrate-co-3-hydroxyvalerate )	1	0	0	poly ( 3-hydroxybutyrate-co-3-hydroxyvalerate )
+poly ( 3-hydroxybutyrateco-3-hydroxyvalerate )	1	0	0	poly ( 3-hydroxybutyrateco-3-hydroxyvalerate )
+Poly ( hydroxyalkanoates )	1	0	0	Poly ( hydroxyalkanoates )
+PHAs	1	0	0	PHAs
+poly ( 3-hydroxybutyrate )	1	0	0	poly ( 3-hydroxybutyrate )
+polyester	0	1	0	_
+poly ( 3-hydroxybutyrate-co-3hydroxyvalerate )	1	0	0	poly ( 3-hydroxybutyrate-co-3hydroxyvalerate )
+HPLC	0	1	0	_
+obtained PHA	0	1	0	_
+purified PHA	0	1	0	_
+Polystyrene	1	0	0	Polystyrene
+polystyrene	1	0	0	polystyrene
+PS	1	0	0	PS
+_	0	0	1	P ( 3HB-co-3HV )
+_	0	0	1	P1
+_	0	0	1	P2
+_	0	0	1	P ( 3HB )
+_	0	0	1	P ( 3-HB )
+_	0	0	1	P ( 3HV )
+_	0	0	1	P1 + P2
+_	0	0	1	P ( 3HB-co3HV )
+
+DOI:10.1007/BF02706494
+TP = 7, FP = 3, FN = 2 / prec = 0.7000, recall = 0.7778, F = 0.7368
+Rule-base	TP	FP	FN	Correct answer
+TRIPATHI	0	1	0	_
+polycarbonate	1	0	0	polycarbonate
+PC	1	0	0	PC
+polysulphone	1	0	0	polysulphone
+PSF	1	0	0	PSF
+poly ( ethylene terephthalate )	1	0	0	poly ( ethylene terephthalate )
+GPSC	0	1	0	_
+Polycarbonate	1	0	0	Polycarbonate
+Polysulphone	1	0	0	Polysulphone
+irradiated poly ( sulfone + carbonate ,3:1 )	0	1	0	_
+_	0	0	1	Ni +7 ( 100MeV ) ion irradiated poly ( sulfone + carbonate ,3:1 )
+_	0	0	1	blend membrane , made of polycarbonate and polysulphone
+
+DOI:10.1007/BF02706502
+TP = 5, FP = 4, FN = 4 / prec = 0.5556, recall = 0.5556, F = 0.5556
+Rule-base	TP	FP	FN	Correct answer
+modified poly ( methyl methacrylate )	0	1	0	_
+poly ( methyl methacrylate )	1	0	0	poly ( methyl methacrylate )
+PMMA	1	0	0	PMMA
+PMMA/SWNT	1	0	0	PMMA/SWNT
+modified PMMA/SWNT	0	1	0	_
+Poly methyl methacrylate ( PMMA )	1	0	0	Poly methyl methacrylate ( PMMA )
+pure PMMA	0	1	0	_
+SWNT/PMMA	1	0	0	SWNT/PMMA
+Pure PMMA	0	1	0	_
+_	0	0	1	aligned SWNT modified poly ( methyl methacrylate )
+_	0	0	1	aligned SWNT modified PMMA/SWNT
+_	0	0	1	PMMA / SWNT
+_	0	0	1	SWNT - PMMA
+
+DOI:10.1002/pola.21869
+TP = 38, FP = 2, FN = 0 / prec = 0.9500, recall = 1.0000, F = 0.9744
+Rule-base	TP	FP	FN	Correct answer
+Poly ( N-propargylsulfamides )	1	0	0	Poly ( N-propargylsulfamides )
+JIANPING	0	1	0	_
+poly ( 1 )	1	0	0	poly ( 1 )
+poly ( 1a )	1	0	0	poly ( 1a )
+poly ( 1b )	1	0	0	poly ( 1b )
+Poly ( 1 )	1	0	0	Poly ( 1 )
+polyacetylenes	1	0	0	polyacetylenes
+polyisocyanates	1	0	0	polyisocyanates
+polyisocyanides	1	0	0	polyisocyanides
+polychlorals	1	0	0	polychlorals
+polymethacrylates	1	0	0	polymethacrylates
+polysilanes	1	0	0	polysilanes
+polythiophens	1	0	0	polythiophens
+poly ( ureidophthalimide )	1	0	0	poly ( ureidophthalimide )
+polymethacrylates5	1	0	0	polymethacrylates5
+substituted polyacetylenes	1	0	0	substituted polyacetylenes
+poly ( N-propargylamides )	1	0	0	poly ( N-propargylamides )
+poly ( N-propargylsulfamides )	1	0	0	poly ( N-propargylsulfamides )
+poly ( N-propargylsulfamide )	1	0	0	poly ( N-propargylsulfamide )
+polystyrenes	1	0	0	polystyrenes
+P-1020	0	1	0	_
+POLY ( N-PROPARGYLSULFAMIDES )	1	0	0	POLY ( N-PROPARGYLSULFAMIDES )
+poly ( 1a0.8-co-20 .2 )	1	0	0	poly ( 1a0.8-co-20 .2 )
+poly ( Npropargylamides )	1	0	0	poly ( Npropargylamides )
+reported poly ( N-propargylsulfamides )	1	0	0	reported poly ( N-propargylsulfamides )
+poly ( 2 )	1	0	0	poly ( 2 )
+Poly ( 1a )	1	0	0	Poly ( 1a )
+Poly ( 1a-co-2 )	1	0	0	Poly ( 1a-co-2 )
+Poly ( 1a0.95-co-20 .05 )	1	0	0	Poly ( 1a0.95-co-20 .05 )
+Poly ( 1a0.9-co-20 .1 )	1	0	0	Poly ( 1a0.9-co-20 .1 )
+Poly ( 1a0.8-co-20 .2 )	1	0	0	Poly ( 1a0.8-co-20 .2 )
+Poly ( 1a0.6-co-20 .4 )	1	0	0	Poly ( 1a0.6-co-20 .4 )
+Poly ( 1a0.4-co-20 .6 )	1	0	0	Poly ( 1a0.4-co-20 .6 )
+Poly ( 1a0.2-co-20 .8 )	1	0	0	Poly ( 1a0.2-co-20 .8 )
+poly ( 1a0.95-co-20 .05 )	1	0	0	poly ( 1a0.95-co-20 .05 )
+poly ( 1a0.9-co-20 .1 )	1	0	0	poly ( 1a0.9-co-20 .1 )
+poly ( 1a0.6-co-20 .4 )	1	0	0	poly ( 1a0.6-co-20 .4 )
+poly ( 1a0.4-co-20 .6 )	1	0	0	poly ( 1a0.4-co-20 .6 )
+poly ( 1a0.2co-20 .8 )	1	0	0	poly ( 1a0.2co-20 .8 )
+poly ( 1a-co-2 )	1	0	0	poly ( 1a-co-2 )
+
+DOI:10.1007/s10854-006-0040-1
+TP = 8, FP = 8, FN = 10 / prec = 0.5000, recall = 0.4444, F = 0.4706
+Rule-base	TP	FP	FN	Correct answer
+polystyrene	1	0	0	polystyrene
+PS	1	0	0	PS
+polymethylmethacrylate	1	0	0	polymethylmethacrylate
+PMMA	1	0	0	PMMA
+PS/DS	1	0	0	PS/DS
+PMMA/DS	1	0	0	PMMA/DS
+PTFE	0	1	0	_
+doped PS	0	1	0	_
+doped polystyrene	1	0	0	doped polystyrene
+doped PMMA	1	0	0	doped PMMA
+ESCAProbeP	0	1	0	_
+CasaXPS	0	1	0	_
+as-prepared PS/DS	0	1	0	_
+as-prepared PMMA/DS	0	1	0	_
+poly ( sulfonated N-hydroxyethyl aniline ) -- polyaniline -- poly ( sulfonated N-hydroxyethyl aniline )	0	1	0	_
+asp?ID1	0	1	0	_
+_	0	0	1	PMMA / DS
+_	0	0	1	PTFE doped with CaF2
+_	0	0	1	PMMA doped with gold nanoparticles
+_	0	0	1	DS doped PS
+_	0	0	1	PMMA/DS doped to 40 wt . % DS
+_	0	0	1	PS / DS
+_	0	0	1	PMMA based composite
+_	0	0	1	PMMA films doped with 20 wt . % of DS
+_	0	0	1	poly ( sulfonated N-hydroxyethyl aniline ) - polyaniline - poly ( sulfonated N-hydroxyethyl aniline ) - polystyrene
+_	0	0	1	PS film doped with 20 wt . % DS
+
+DOI:10.1039/b610392h
+TP = 8, FP = 12, FN = 15 / prec = 0.4000, recall = 0.3478, F = 0.3721
+Rule-base	TP	FP	FN	Correct answer
+polyaniline	1	0	0	polyaniline
+non-grafted polyaniline	0	1	0	_
+PANI	1	0	0	PANI
+grafted polyaniline	1	0	0	grafted polyaniline
+grafted PANI	1	0	0	grafted PANI
+Polyaniline	1	0	0	Polyaniline
+polypyrrole	1	0	0	polypyrrole
+polythiophene	1	0	0	polythiophene
+PANI/SBA	0	1	0	_
+poly ( ethylene oxide )	0	1	0	_
+poly ( propylene oxide )	0	1	0	_
+PEG-PPG-PEG	1	0	0	PEG-PPG-PEG
+bonded PANI/SBA	0	1	0	_
+grafted PANI/SBA	0	1	0	_
+P/Po	0	1	0	_
+functionalized PANI/SBA	0	1	0	_
+Grafted PANI	0	1	0	_
+PANI ,	0	1	0	_
+Grafted PANI/SBA	0	1	0	_
+Grafted-PANI/SBA	0	1	0	_
+_	0	0	1	PANI nanocomposites
+_	0	0	1	polyaniline nanocomposite
+_	0	0	1	PANI/SBA -15
+_	0	0	1	polyaniline nanocomposites
+_	0	0	1	tri-block copolymer poly ( ethylene oxide ) - poly ( propylene oxide ) - poly ( ethylene oxide )
+_	0	0	1	covalently bonded PANI/SBA -15
+_	0	0	1	SBA-15 / PANI
+_	0	0	1	grafted PANI/SBA -15
+_	0	0	1	functionalized PANI/SBA -15
+_	0	0	1	Grafted PANI / SBA-15
+_	0	0	1	grafted PANI / SBA-15
+_	0	0	1	' grafted ' polyaniline
+_	0	0	1	Grafted PANI/SBA -15
+_	0	0	1	PANI composites
+_	0	0	1	Grafted-PANI/SBA -15
+
+DOI:10.1002/polb.21041
+TP = 25, FP = 15, FN = 23 / prec = 0.6250, recall = 0.5208, F = 0.5682
+Rule-base	TP	FP	FN	Correct answer
+Poly ( n-hexyl methacrylate )	1	0	0	Poly ( n-hexyl methacrylate )
+graftPoly ( ethylene glycol )	0	1	0	_
+poly ( n-hexyl methacrylate )	1	0	0	poly ( n-hexyl methacrylate )
+PHMA	1	0	0	PHMA
+poly ( ethylene glycol )	1	0	0	poly ( ethylene glycol )
+PEG	1	0	0	PEG
+segregated PHMA	0	1	0	_
+poly ( methyl acrylate )	1	0	0	poly ( methyl acrylate )
+graft-poly ( ethylene glycol )	0	1	0	_
+poly ( methyl methacrylate )	1	0	0	poly ( methyl methacrylate )
+PMMAg-PEG	1	0	0	PMMAg-PEG
+PMAc-g-PEG	1	0	0	PMAc-g-PEG
+PMMA	1	0	0	PMMA
+PMAc	1	0	0	PMAc
+PMMA/PEG	1	0	0	PMMA/PEG
+PMAc/PEG	1	0	0	PMAc/PEG
+PMMA-g-PEG	1	0	0	PMMA-g-PEG
+PMAcg-PEG	1	0	0	PMAcg-PEG
+polystyrene-graft-poly ( ethylene glycol )	1	0	0	polystyrene-graft-poly ( ethylene glycol )
+graftpoly ( ethylene glycol )	0	1	0	_
+PHMA-g-PEG	1	0	0	PHMA-g-PEG
+selected PHMA	0	1	0	_
+PEGblock-PHMA	0	1	0	_
+PHMA/PEG	1	0	0	PHMA/PEG
+PHMAg-PEG	1	0	0	PHMAg-PEG
+Poly ( ethylene glycol )	0	1	0	_
+precipitated PEG	0	1	0	_
+Unreacted PEG	0	1	0	_
+polystyrene	1	0	0	polystyrene
+crystallized PEG	0	1	0	_
+POM	0	1	0	_
+grafted PEG	1	0	0	grafted PEG
+PMAc-gPEG	1	0	0	PMAc-gPEG
+POMd	0	1	0	_
+noncrystallized PEG	0	1	0	_
+exhibited PEG	0	1	0	_
+PEG-block-PHMA	1	0	0	PEG-block-PHMA
+PMMA-gPEG	1	0	0	PMMA-gPEG
+polygraft	0	1	0	_
+PHMA-block-PEG	1	0	0	PHMA-block-PEG
+_	0	0	1	HMAx
+_	0	0	1	HMA40
+_	0	0	1	HMA46
+_	0	0	1	poly ( methyl acrylate ) - graft-poly ( ethylene glycol )
+_	0	0	1	poly ( methyl methacrylate ) - graft-poly ( ethylene glycol )
+_	0	0	1	Poly ( ethylene glycol ) with a methoxy group at one end and a methacryloyl group at the other end
+_	0	0	1	PEG - MA
+_	0	0	1	perfectly crystallized PEG
+_	0	0	1	MMAx
+_	0	0	1	MACx
+_	0	0	1	HMA73
+_	0	0	1	HMA71
+_	0	0	1	HMA59
+_	0	0	1	HMA56
+_	0	0	1	HMA38
+_	0	0	1	HMA32
+_	0	0	1	HMA15
+_	0	0	1	MAC64
+_	0	0	1	HMAxwith
+_	0	0	1	PHMA-segregated
+_	0	0	1	MAC72
+_	0	0	1	PEG-segregated
+_	0	0	1	MAC41
+
+DOI:10.1002/pola.21771
+TP = 12, FP = 5, FN = 8 / prec = 0.7059, recall = 0.6000, F = 0.6486
+Rule-base	TP	FP	FN	Correct answer
+PING	0	1	0	_
+CTA	0	1	0	_
+PBD	0	1	0	_
+poly ( 2 - ( N-carbazolyl ) ethyl methacrylate )	1	0	0	poly ( 2 - ( N-carbazolyl ) ethyl methacrylate )
+poly ( methacrylate )	1	0	0	poly ( methacrylate )
+well-defined polyfluorene-based	0	1	0	_
+poly ( N-ethyl-3-vinylcarbazole )	1	0	0	poly ( N-ethyl-3-vinylcarbazole )
+poly ( 2 - ( 9H-carbazol-9-yl ) ethyl methacrylate )	1	0	0	poly ( 2 - ( 9H-carbazol-9-yl ) ethyl methacrylate )
+POCl3	0	1	0	_
+poly ( CzEMA )	1	0	0	poly ( CzEMA )
+poly ( t-Bu-OxaMA )	1	0	0	poly ( t-Bu-OxaMA )
+GCMSQP2010	1	0	0	GCMSQP2010
+LC-10ADvp	1	0	0	LC-10ADvp
+polystyrenes	1	0	0	polystyrenes
+RF-5301PC	1	0	0	RF-5301PC
+polystyrene	1	0	0	polystyrene
+poly ( t-BuOxaMA )	1	0	0	poly ( t-BuOxaMA )
+_	0	0	1	polyfluorene-based
+_	0	0	1	poly ( 4 - ( 5 - ( 4tert-Butylphenyl-1 ,3,4 - oxadiazol-2-yl ) phenyl methacrylate )
+_	0	0	1	poly ( CzEMA ) prepared by RAFT process
+_	0	0	1	poly ( t-BuOxaMA ) prepared by RAFT process
+_	0	0	1	poly ( CzEMA ) obtained in the absence of CDB
+_	0	0	1	poly ( CzEMA ) obtained by RAFT polymerization
+_	0	0	1	poly ( CzEMA ) obtained by RAFT process
+_	0	0	1	poly ( t-Bu-OxaMA ) prepared by RAFT polymerization
+
+DOI:10.1021/la0624135
+TP = 12, FP = 9, FN = 1 / prec = 0.5714, recall = 0.9231, F = 0.7059
+Rule-base	TP	FP	FN	Correct answer
+Polyaniline	1	0	0	Polyaniline
+TPP	0	1	0	_
+polyaniline	1	0	0	polyaniline
+PANI	1	0	0	PANI
+polypyrrole	1	0	0	polypyrrole
+PPy	1	0	0	PPy
+poly ( phenylene vinylene )	1	0	0	poly ( phenylene vinylene )
+PPV	1	0	0	PPV
+poly-3	0	1	0	_
+PEDOT	1	0	0	PEDOT
+polyethylenes	1	0	0	polyethylenes
+polypropylenes	1	0	0	polypropylenes
+acid-doped PANI	1	0	0	acid-doped PANI
+RuTPP	0	1	0	_
+GPIB	0	1	0	_
+PC	0	1	0	_
+polypyridyl	0	1	0	_
+Polypyridine	0	1	0	_
+12-pyr-Ru	0	1	0	_
+expanded PANI	0	1	0	_
+polyanilines	1	0	0	polyanilines
+_	0	0	1	poly-3 ,4 - ethylenedioxythiophene
+
+DOI:10.1177/0021955X06063512
+TP = 6, FP = 7, FN = 2 / prec = 0.4615, recall = 0.7500, F = 0.5714
+Rule-base	TP	FP	FN	Correct answer
+Polycarbonate	1	0	0	Polycarbonate
+PUBLICATIONS	0	1	0	_
+PROFILE	0	1	0	_
+NPArC	0	1	0	_
+VIPIN	0	1	0	_
+polycarbonate	1	0	0	polycarbonate
+PC	1	0	0	PC
+unfoamed PC	1	0	0	unfoamed PC
+uPC	1	0	0	uPC
+PLASTICS	0	1	0	_
+4MPa	0	1	0	_
+5MPa	0	1	0	_
+UPC	1	0	0	UPC
+_	0	0	1	MCF-0 .9
+_	0	0	1	MCF-0 .7
+
+DOI:10.1016/j.jpowsour.2006.02.104
+TP = 2, FP = 4, FN = 14 / prec = 0.3333, recall = 0.1250, F = 0.1818
+Rule-base	TP	FP	FN	Correct answer
+PEO	1	0	0	PEO
+poly ( ethylene oxide )	1	0	0	poly ( ethylene oxide )
+AUTOLAB/PGSTAT	0	1	0	_
+pure PEO	0	1	0	_
+polyer	0	1	0	_
+IOP	0	1	0	_
+_	0	0	1	nano-sized Fe oxide composite PEO
+_	0	0	1	PEO : LiClO4 with nano-sized Fe3O4
+_	0	0	1	PEO : LiClO4
+_	0	0	1	PEO and Fe3O4 blend PEO : LiClO4
+_	0	0	1	PEO complex
+_	0	0	1	PEO : Li salt complex
+_	0	0	1	PEO : Li stable complex
+_	0	0	1	PEO : Li
+_	0	0	1	PEO : Li crystalline complexes
+_	0	0	1	PEO - Li crystal complex
+_	0	0	1	PEO : LiClO4 complex
+_	0	0	1	Fe3O4 nanocomposite PEO : LiClO4
+_	0	0	1	PEO : LiClO4 with Fe3O4
+_	0	0	1	nano-Fe composite PEO

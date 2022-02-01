@@ -1,0 +1,43 @@
+#======================================================================
+
+# Note: Single chain of polyvinylidene fluoride (beta)
+# Common_name: Single chain
+
+#----------------------------------------------------------------------
+
+data_1
+_audit_creation_method   'vasp2cif'
+_cell_length_a    2.53575859122
+_cell_length_b    20.0
+_cell_length_c    20.0
+_cell_angle_alpha    90.0
+_cell_angle_beta    90.0
+_cell_angle_gamma    90.0
+
+_symmetry_space_group_name_H-M    'P 1'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+C1   C   0.000000000000000   0.193300627341095   0.102154015133706   1.0
+C2   C   0.500000000000000   0.193300627341095   0.144236332245328   1.0
+F3   F   0.500000000000000   0.137023170851798   0.186040441820595   1.0
+F4   F   0.500000000000000   0.249578083830386   0.186040441820595   1.0
+H5   H   0.000000000000000   0.148839091909899   0.070228729938478   1.0
+H6   H   0.000000000000000   0.237762162772285   0.070228729938478   1.0
+
+
+# Number_of_total_atoms: 6
+# Number_of_atom_type: 3
+# Name_of_each_atom: C F H
+# Number_of_each_atom: 2 2 2
+# Created_by: Lihua Chen (lihua.chen@mse.gatech.edu)
+# Tool: VASP
+# K-points: 12 1 1
+# Pseudopotential: PBE-HSE06
+# Material_class: MC_Pol
+# Geometry_class: GC_PD
+# Bandgap_(eV): 6.99

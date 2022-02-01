@@ -1,0 +1,49 @@
+#======================================================================
+
+# Note: Single chain of polyvinylidene fluoride (alpha)
+# Common_name: Single chain
+
+#----------------------------------------------------------------------
+
+data_1
+_audit_creation_method   'vasp2cif'
+_cell_length_a    20.0
+_cell_length_b    4.58549976353
+_cell_length_c    20.0
+_cell_angle_alpha    90.0
+_cell_angle_beta    90.0
+_cell_angle_gamma    90.0211029049
+
+_symmetry_space_group_name_H-M    'P 1'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+C1   C   0.219206559992792   0.045118481152201   0.249498830524367   1.0
+C2   C   0.156868824451187   0.545028959776445   0.249712014033619   1.0
+C3   C   0.157565837317350   0.222197716043468   0.268086929706470   1.0
+C4   C   0.218586943870712   0.722357524562653   0.267983107768657   1.0
+F5   F   0.100489019259442   0.103734437595449   0.234153676587070   1.0
+F6   F   0.143480003825545   0.187437298086422   0.336379567193418   1.0
+F7   F   0.232971785665129   0.688048199316619   0.336203403286262   1.0
+F8   F   0.275520159636706   0.603895275695884   0.233792045677639   1.0
+H9   H   0.113334204627002   0.639398977481079   0.274361566210736   1.0
+H10   H   0.226574844294511   0.062774829891097   0.195466759497222   1.0
+H11   H   0.149238657980312   0.563035177908795   0.195730006509763   1.0
+H12   H   0.262894789045163   0.139718451739725   0.273860237251249   1.0
+
+
+# Number_of_total_atoms: 12
+# Number_of_atom_type: 3
+# Name_of_each_atom: C F H
+# Number_of_each_atom: 4 4 4
+# Created_by: Lihua Chen (lihua.chen@mse.gatech.edu)
+# Tool: VASP
+# K-points: 1 6 1
+# Pseudopotential: PBE-HSE06
+# Material_class: MC_Pol
+# Geometry_class: GC_PD
+# Bandgap_(eV): 8.40

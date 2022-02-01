@@ -1,0 +1,46 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_chemical_name_common                  'h6 c6 n2'
+_cell_length_a                         5.68677
+_cell_length_b                         5.68677
+_cell_length_c                         5.13151
+_cell_angle_alpha                      90.00270
+_cell_angle_beta                       90.00270
+_cell_angle_gamma                      132.66742
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   C1         1.0     0.665037      0.665025      0.404306     Biso  1.000000 C
+   C2         1.0     0.665025      0.665037      0.904306     Biso  1.000000 C
+   C3         1.0     0.485405      0.468061      0.654285     Biso  1.000000 C
+   C4         1.0     0.468061      0.485405      0.154285     Biso  1.000000 C
+   C5         1.0     0.429189      0.175187      0.654273     Biso  1.000000 C
+   C6         1.0     0.175187      0.429189      0.154273     Biso  1.000000 C
+   H7         1.0     0.887399      0.717038      0.387878     Biso  1.000000 H
+   H8         1.0     0.717038      0.887399      0.887878     Biso  1.000000 H
+   H9         1.0     0.717197      0.887441      0.420732     Biso  1.000000 H
+   H10        1.0     0.887441      0.717197      0.920732     Biso  1.000000 H
+   H11        1.0     0.250280      0.395385      0.654272     Biso  1.000000 H
+   H12        1.0     0.395385      0.250280      0.154272     Biso  1.000000 H
+   N13        1.0     0.377771      0.939586      0.654253     Biso  1.000000 N
+   N14        1.0     0.939586      0.377771      0.154253     Biso  1.000000 N

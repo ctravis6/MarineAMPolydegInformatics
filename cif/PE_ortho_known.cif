@@ -1,0 +1,44 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_chemical_name_common                  'h8 c4'
+_cell_length_a                         2.56459
+_cell_length_b                         4.63050
+_cell_length_c                         6.70501
+_cell_angle_alpha                      89.99935
+_cell_angle_beta                       89.99993
+_cell_angle_gamma                      90.00014
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   C1         1.0     0.250000      0.936596      0.954795     Biso  1.000000 C
+   C2         1.0     0.750000      0.063408      0.045208     Biso  1.000000 C
+   C3         1.0     0.749999      0.436593      0.545207     Biso  1.000000 C
+   C4         1.0     0.249999      0.563403      0.454791     Biso  1.000000 C
+   H5         1.0     0.249999      0.972808      0.793074     Biso  1.000000 H
+   H6         1.0     0.749998      0.027195      0.206928     Biso  1.000000 H
+   H7         1.0     0.749996      0.472805      0.706926     Biso  1.000000 H
+   H8         1.0     0.249998      0.527193      0.293072     Biso  1.000000 H
+   H9         1.0     0.250002      0.701314      0.975841     Biso  1.000000 H
+   H10        1.0     0.750004      0.298689      0.024162     Biso  1.000000 H
+   H11        1.0     0.750001      0.201310      0.524164     Biso  1.000000 H
+   H12        1.0     0.250003      0.798687      0.475833     Biso  1.000000 H

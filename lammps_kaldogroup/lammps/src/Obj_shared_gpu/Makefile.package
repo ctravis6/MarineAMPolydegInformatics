@@ -1,0 +1,12 @@
+# Settings for libraries used by specific LAMMPS packages
+# this file is auto-edited when those packages are included/excluded
+
+PKG_INC =   -DLMP_PYTHON 
+PKG_PATH =  -L../../lib/gpu 
+PKG_LIB =   -lgpu 
+PKG_CPP_DEPENDS = 
+PKG_LINK_DEPENDS = 
+
+PKG_SYSINC =  $(python_SYSINC) $(gpu_SYSINC) 
+PKG_SYSLIB =  $(python_SYSLIB) $(gpu_SYSLIB) 
+PKG_SYSPATH = $(python_SYSPATH) $(gpu_SYSPATH) 

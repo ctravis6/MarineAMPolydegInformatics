@@ -1,0 +1,41 @@
+8/24/2021,6:12:07 PM,PPS_14days_30C,,60101,Log File Created
+8/24/2021,6:12:07 PM,PPS_14days_30C,,60104,Software Version,1.6.332.0
+8/24/2021,6:12:07 PM,PPS_14days_30C,,60105,Console Version,8.4.244
+8/24/2021,6:12:07 PM,PPS_14days_30C,,60106,Controller Version,88.081600
+8/24/2021,6:12:07 PM,PPS_14days_30C,,60107,User Name,Polymer Consulting
+8/24/2021,6:12:07 PM,PPS_14days_30C,,60108,Computer Name,E1000L2235
+8/24/2021,6:12:07 PM,PPS_14days_30C,,60109,System Name,
+8/24/2021,6:12:07 PM,PPS_14days_30C,,60110,Frame Serial Number (System ID),DAN_RAYNOR@INSTRON.COM
+8/24/2021,6:28:49 PM,PPS_14days_30C,Test1,60110,Test Started
+8/24/2021,6:29:01 PM,PPS_14days_30C,Test1,60205,Test Status,Test Ended by User
+8/24/2021,6:29:01 PM,PPS_14days_30C,Test1,60120,Total Time,11.63
+8/24/2021,6:29:01 PM,PPS_14days_30C,Test1,60121,Total Cycle Count(ElectroPuls Waveform),0
+8/24/2021,6:29:01 PM,PPS_14days_30C,Test1,60122,Step,2,Step 2
+8/24/2021,6:29:01 PM,PPS_14days_30C,Test1,60112,Test Finished
+8/24/2021,6:35:53 PM,PPS_14days_30C,Test2,60110,Test Started
+8/24/2021,6:36:01 PM,PPS_14days_30C,Test2,60200,Test Status,Test Ended Normally
+8/24/2021,6:36:01 PM,PPS_14days_30C,Test2,60120,Total Time,6.83
+8/24/2021,6:36:01 PM,PPS_14days_30C,Test2,60121,Total Cycle Count(ElectroPuls Waveform),0
+8/24/2021,6:36:01 PM,PPS_14days_30C,Test2,60112,Test Finished
+8/24/2021,6:40:25 PM,PPS_14days_30C,Test3,60110,Test Started
+8/24/2021,6:40:32 PM,PPS_14days_30C,Test3,60200,Test Status,Test Ended Normally
+8/24/2021,6:40:32 PM,PPS_14days_30C,Test3,60120,Total Time,6.44
+8/24/2021,6:40:32 PM,PPS_14days_30C,Test3,60121,Total Cycle Count(ElectroPuls Waveform),0
+8/24/2021,6:40:32 PM,PPS_14days_30C,Test3,60112,Test Finished
+8/24/2021,6:46:05 PM,PPS_14days_30C,Test4,60110,Test Started
+8/24/2021,6:46:10 PM,PPS_14days_30C,Test4,60200,Test Status,Test Ended Normally
+8/24/2021,6:46:10 PM,PPS_14days_30C,Test4,60120,Total Time,5.22
+8/24/2021,6:46:10 PM,PPS_14days_30C,Test4,60121,Total Cycle Count(ElectroPuls Waveform),0
+8/24/2021,6:46:10 PM,PPS_14days_30C,Test4,60112,Test Finished
+8/24/2021,6:50:40 PM,PPS_14days_30C,Test5,60110,Test Started
+8/24/2021,6:52:17 PM,PPS_14days_30C,Test5,60205,Test Status,Test Ended by User
+8/24/2021,6:52:17 PM,PPS_14days_30C,Test5,60120,Total Time,96.55
+8/24/2021,6:52:17 PM,PPS_14days_30C,Test5,60121,Total Cycle Count(ElectroPuls Waveform),0
+8/24/2021,6:52:17 PM,PPS_14days_30C,Test5,60122,Step,2,Step 2
+8/24/2021,6:52:17 PM,PPS_14days_30C,Test5,60112,Test Finished
+8/24/2021,6:52:33 PM,PPS_14days_30C,Test6,60110,Test Started
+8/24/2021,6:52:39 PM,PPS_14days_30C,Test6,60200,Test Status,Test Ended Normally
+8/24/2021,6:52:39 PM,PPS_14days_30C,Test6,60120,Total Time,5.51
+8/24/2021,6:52:39 PM,PPS_14days_30C,Test6,60121,Total Cycle Count(ElectroPuls Waveform),0
+8/24/2021,6:52:39 PM,PPS_14days_30C,Test6,60112,Test Finished
+8/24/2021,6:57:20 PM,PPS_14days_30C,Test7,60103,Closed

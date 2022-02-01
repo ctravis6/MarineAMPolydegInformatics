@@ -1,0 +1,49 @@
+#======================================================================
+
+# Note: Single chain of syndiotactic polyvinyl chloride
+# Common_name: Single chain
+
+#----------------------------------------------------------------------
+
+data_1
+_audit_creation_method   'vasp2cif'
+_cell_length_a    20.0
+_cell_length_b    20.0
+_cell_length_c    5.127989769
+_cell_angle_alpha    90.0
+_cell_angle_beta    90.0
+_cell_angle_gamma    90.0
+
+_symmetry_space_group_name_H-M    'P 1'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+C1   C   0.379765521658470   0.596533048266274   0.249999999951250   1.0
+C2   C   0.372845051916507   0.596542134842018   0.750000000048750   1.0
+C3   C   0.376321500631924   0.638286567071077   0.500005312623180   1.0
+C4   C   0.376321500631924   0.638286567071077   0.999994687279319   1.0
+H5   H   0.411874512811124   0.558616337148315   0.750000000048750   1.0
+H6   H   0.332099005651294   0.670723638944885   0.011718647435814   1.0
+H7   H   0.332099005651294   0.670723638944885   0.488281346031414   1.0
+H8   H   0.420551463786865   0.670707644783818   0.511712223028695   1.0
+H9   H   0.420551463786865   0.670707644783818   0.988287823480754   1.0
+H10   H   0.340740588296796   0.558637616989884   0.249999999951250   1.0
+Cl11   Cl   0.293855360131360   0.547151869774652   0.750000000048750   1.0
+Cl12   Cl   0.458744983595565   0.547123380079299   0.249999999951250   1.0
+
+
+# Number_of_total_atoms: 12
+# Number_of_atom_type: 3
+# Name_of_each_atom: C H Cl
+# Number_of_each_atom: 4 6 2
+# Created_by: Lihua Chen (lihua.chen@mse.gatech.edu)
+# Tool: VASP
+# K-points: 1 1 6
+# Pseudopotential: PBE-HSE06
+# Material_class: MC_Pol
+# Geometry_class: GC_PD
+# Bandgap_(eV): 6.95

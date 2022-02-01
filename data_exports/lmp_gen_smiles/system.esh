@@ -1,0 +1,21 @@
+#!/usr/bin/env emc_setup.pl
+ITEM OPTIONS
+replace true
+field opls-aa
+density 0.85
+ntotal 3000
+ITEM END
+
+ITEM GROUPS
+RU *C*,1,RU:2
+terminator *[H],1,RU:1,1,RU:2
+ITEM END
+
+ITEM CLUSTERS
+poly alternate 1
+ITEM END
+
+ITEM POLYMERS
+poly
+1 RU,71,terminator,2
+ITEM END

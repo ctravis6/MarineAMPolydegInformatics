@@ -1,0 +1,13 @@
+If you are used the data made available here, please cite the paper:
+
+Deepak Kamal, Huan Tran, Chiho Kim, Yifei Wang, Lihua Chen, Yang Cao, V. Roshan Joseph, and Rampi Ramprasad, 
+Novel high voltage polymer insulators using computational and data-driven techniques, 
+J. Chem. Phys. 154, 174906 (2021).
+
+The file data.csv contain the computed values of 
+
+Electron injeciton barrier (eib), 
+Bangap of polymer crystal (bandgap_crystal), 
+Bangap of polymer chains (bandgap_chain) 
+
+for polymers given interms of their SMILES respresentation.
